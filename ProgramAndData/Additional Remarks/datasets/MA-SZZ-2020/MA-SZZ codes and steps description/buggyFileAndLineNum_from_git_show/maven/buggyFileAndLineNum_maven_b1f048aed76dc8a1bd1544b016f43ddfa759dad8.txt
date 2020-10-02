@@ -1,0 +1,2 @@
+373,373 b1f048aed76dc8a1bd1544b016f43ddfa759dad8^ maven-project/src/main/java/org/apache/maven/project/ModelUtils.java
+22,22 b1f048aed76dc8a1bd1544b016f43ddfa759dad8^ maven-project/src/test/java/org/apache/maven/project/inheritance/DefaultModelInheritanceAssemblerTest.java

@@ -1,0 +1,2 @@
+77,77 a8ce74df45192ff3f0e8ae6e1aab83f5d255f9c1^ maven-model-builder/src/main/java/org/apache/maven/model/inheritance/DefaultInheritanceAssembler.java
+98,98 a8ce74df45192ff3f0e8ae6e1aab83f5d255f9c1^ maven-model-builder/src/main/java/org/apache/maven/model/inheritance/DefaultInheritanceAssembler.java

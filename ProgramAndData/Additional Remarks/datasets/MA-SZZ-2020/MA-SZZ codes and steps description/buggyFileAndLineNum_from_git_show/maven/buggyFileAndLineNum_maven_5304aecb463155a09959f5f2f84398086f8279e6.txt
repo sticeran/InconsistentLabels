@@ -1,0 +1,2 @@
+479,479 5304aecb463155a09959f5f2f84398086f8279e6^ maven-project/src/main/java/org/apache/maven/project/injection/DefaultProfileInjector.java
+482,482 5304aecb463155a09959f5f2f84398086f8279e6^ maven-project/src/main/java/org/apache/maven/project/injection/DefaultProfileInjector.java

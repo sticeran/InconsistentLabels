@@ -1,0 +1,1 @@
+584,584 705edc524aebce06e4e180bd905ec8a9aafd8ea5^ maven-core/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java

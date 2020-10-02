@@ -1,0 +1,12 @@
+22,22 1cbef71e7b761eb7ac5c07fb2e8f71cedc8b1292^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReader.java
+369,369 1cbef71e7b761eb7ac5c07fb2e8f71cedc8b1292^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReader.java
+377,377 1cbef71e7b761eb7ac5c07fb2e8f71cedc8b1292^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReader.java
+378,378 1cbef71e7b761eb7ac5c07fb2e8f71cedc8b1292^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReader.java
+379,379 1cbef71e7b761eb7ac5c07fb2e8f71cedc8b1292^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReader.java
+380,380 1cbef71e7b761eb7ac5c07fb2e8f71cedc8b1292^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReader.java
+145,145 1cbef71e7b761eb7ac5c07fb2e8f71cedc8b1292^ maven-core/src/main/java/org/apache/maven/RepositoryUtils.java
+273,273 1cbef71e7b761eb7ac5c07fb2e8f71cedc8b1292^ maven-core/src/main/java/org/apache/maven/RepositoryUtils.java
+281,281 1cbef71e7b761eb7ac5c07fb2e8f71cedc8b1292^ maven-core/src/main/java/org/apache/maven/RepositoryUtils.java
+282,282 1cbef71e7b761eb7ac5c07fb2e8f71cedc8b1292^ maven-core/src/main/java/org/apache/maven/RepositoryUtils.java
+283,283 1cbef71e7b761eb7ac5c07fb2e8f71cedc8b1292^ maven-core/src/main/java/org/apache/maven/RepositoryUtils.java
+284,284 1cbef71e7b761eb7ac5c07fb2e8f71cedc8b1292^ maven-core/src/main/java/org/apache/maven/RepositoryUtils.java

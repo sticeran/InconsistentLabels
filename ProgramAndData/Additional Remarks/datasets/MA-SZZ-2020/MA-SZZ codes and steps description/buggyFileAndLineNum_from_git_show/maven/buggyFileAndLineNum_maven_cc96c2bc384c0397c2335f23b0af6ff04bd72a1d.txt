@@ -1,0 +1,2 @@
+706,706 cc96c2bc384c0397c2335f23b0af6ff04bd72a1d^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+321,321 cc96c2bc384c0397c2335f23b0af6ff04bd72a1d^ maven-project/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java

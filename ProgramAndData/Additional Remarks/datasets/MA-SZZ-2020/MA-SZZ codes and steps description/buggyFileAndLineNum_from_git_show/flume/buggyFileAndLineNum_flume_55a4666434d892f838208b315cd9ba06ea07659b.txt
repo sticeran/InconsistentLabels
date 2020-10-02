@@ -1,0 +1,4 @@
+240,240 55a4666434d892f838208b315cd9ba06ea07659b^ flume-ng-core/src/main/java/org/apache/flume/source/SyslogParser.java
+241,241 55a4666434d892f838208b315cd9ba06ea07659b^ flume-ng-core/src/main/java/org/apache/flume/source/SyslogParser.java
+242,242 55a4666434d892f838208b315cd9ba06ea07659b^ flume-ng-core/src/main/java/org/apache/flume/source/SyslogParser.java
+40,40 55a4666434d892f838208b315cd9ba06ea07659b^ flume-ng-core/src/test/java/org/apache/flume/source/TestSyslogParser.java

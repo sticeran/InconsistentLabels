@@ -1,0 +1,16 @@
+47,47 790dc0f2b73c07a478802cbd0183fc8bd2f3fe78^ maven-core/src/main/java/org/apache/maven/bridge/MavenRepositorySystem.java
+53,53 790dc0f2b73c07a478802cbd0183fc8bd2f3fe78^ maven-core/src/main/java/org/apache/maven/bridge/MavenRepositorySystem.java
+119,119 790dc0f2b73c07a478802cbd0183fc8bd2f3fe78^ maven-core/src/main/java/org/apache/maven/bridge/MavenRepositorySystem.java
+121,121 790dc0f2b73c07a478802cbd0183fc8bd2f3fe78^ maven-core/src/main/java/org/apache/maven/bridge/MavenRepositorySystem.java
+122,122 790dc0f2b73c07a478802cbd0183fc8bd2f3fe78^ maven-core/src/main/java/org/apache/maven/bridge/MavenRepositorySystem.java
+123,123 790dc0f2b73c07a478802cbd0183fc8bd2f3fe78^ maven-core/src/main/java/org/apache/maven/bridge/MavenRepositorySystem.java
+124,124 790dc0f2b73c07a478802cbd0183fc8bd2f3fe78^ maven-core/src/main/java/org/apache/maven/bridge/MavenRepositorySystem.java
+126,126 790dc0f2b73c07a478802cbd0183fc8bd2f3fe78^ maven-core/src/main/java/org/apache/maven/bridge/MavenRepositorySystem.java
+50,50 790dc0f2b73c07a478802cbd0183fc8bd2f3fe78^ maven-core/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java
+58,58 790dc0f2b73c07a478802cbd0183fc8bd2f3fe78^ maven-core/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java
+397,397 790dc0f2b73c07a478802cbd0183fc8bd2f3fe78^ maven-core/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java
+399,399 790dc0f2b73c07a478802cbd0183fc8bd2f3fe78^ maven-core/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java
+400,400 790dc0f2b73c07a478802cbd0183fc8bd2f3fe78^ maven-core/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java
+401,401 790dc0f2b73c07a478802cbd0183fc8bd2f3fe78^ maven-core/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java
+402,402 790dc0f2b73c07a478802cbd0183fc8bd2f3fe78^ maven-core/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java
+404,404 790dc0f2b73c07a478802cbd0183fc8bd2f3fe78^ maven-core/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java

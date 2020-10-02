@@ -1,0 +1,6 @@
+212,212 469d0096fdae81b066c88757ed44bbef8ce5bfc3^ maven-compat/src/main/java/org/apache/maven/project/path/DefaultPathTranslator.java
+215,215 469d0096fdae81b066c88757ed44bbef8ce5bfc3^ maven-compat/src/main/java/org/apache/maven/project/path/DefaultPathTranslator.java
+216,216 469d0096fdae81b066c88757ed44bbef8ce5bfc3^ maven-compat/src/main/java/org/apache/maven/project/path/DefaultPathTranslator.java
+224,224 469d0096fdae81b066c88757ed44bbef8ce5bfc3^ maven-compat/src/main/java/org/apache/maven/project/path/DefaultPathTranslator.java
+227,227 469d0096fdae81b066c88757ed44bbef8ce5bfc3^ maven-compat/src/main/java/org/apache/maven/project/path/DefaultPathTranslator.java
+20,20 469d0096fdae81b066c88757ed44bbef8ce5bfc3^ maven-compat/src/test/java/org/apache/maven/project/path/DefaultPathTranslatorTest.java

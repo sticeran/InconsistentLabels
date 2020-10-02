@@ -1,0 +1,14 @@
+20,20 5b0b559cb9985a10f3a206f4dc557d817bd0d085^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/DictionaryVectorizer.java
+21,21 5b0b559cb9985a10f3a206f4dc557d817bd0d085^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/DictionaryVectorizer.java
+22,22 5b0b559cb9985a10f3a206f4dc557d817bd0d085^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/DictionaryVectorizer.java
+23,23 5b0b559cb9985a10f3a206f4dc557d817bd0d085^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/DictionaryVectorizer.java
+76,76 5b0b559cb9985a10f3a206f4dc557d817bd0d085^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/DictionaryVectorizer.java
+304,304 5b0b559cb9985a10f3a206f4dc557d817bd0d085^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/DictionaryVectorizer.java
+305,305 5b0b559cb9985a10f3a206f4dc557d817bd0d085^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/DictionaryVectorizer.java
+124,124 5b0b559cb9985a10f3a206f4dc557d817bd0d085^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/term/TFPartialVectorReducer.java
+20,20 5b0b559cb9985a10f3a206f4dc557d817bd0d085^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/tfidf/TFIDFConverter.java
+21,21 5b0b559cb9985a10f3a206f4dc557d817bd0d085^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/tfidf/TFIDFConverter.java
+22,22 5b0b559cb9985a10f3a206f4dc557d817bd0d085^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/tfidf/TFIDFConverter.java
+67,67 5b0b559cb9985a10f3a206f4dc557d817bd0d085^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/tfidf/TFIDFConverter.java
+302,302 5b0b559cb9985a10f3a206f4dc557d817bd0d085^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/tfidf/TFIDFConverter.java
+109,109 5b0b559cb9985a10f3a206f4dc557d817bd0d085^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/tfidf/TFIDFPartialVectorReducer.java

@@ -1,0 +1,17 @@
+448,448 252b1510521a735d81a7663b1a1eaee21391bcae^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+449,449 252b1510521a735d81a7663b1a1eaee21391bcae^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+459,459 252b1510521a735d81a7663b1a1eaee21391bcae^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+460,460 252b1510521a735d81a7663b1a1eaee21391bcae^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+461,461 252b1510521a735d81a7663b1a1eaee21391bcae^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+462,462 252b1510521a735d81a7663b1a1eaee21391bcae^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+463,463 252b1510521a735d81a7663b1a1eaee21391bcae^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+464,464 252b1510521a735d81a7663b1a1eaee21391bcae^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+475,475 252b1510521a735d81a7663b1a1eaee21391bcae^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+476,476 252b1510521a735d81a7663b1a1eaee21391bcae^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+477,477 252b1510521a735d81a7663b1a1eaee21391bcae^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+478,478 252b1510521a735d81a7663b1a1eaee21391bcae^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+479,479 252b1510521a735d81a7663b1a1eaee21391bcae^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+501,501 252b1510521a735d81a7663b1a1eaee21391bcae^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+502,502 252b1510521a735d81a7663b1a1eaee21391bcae^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+503,503 252b1510521a735d81a7663b1a1eaee21391bcae^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+504,504 252b1510521a735d81a7663b1a1eaee21391bcae^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java

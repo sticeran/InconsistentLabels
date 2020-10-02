@@ -1,0 +1,16 @@
+309,309 d7a1ba698d97f15520496f81d281a8ed33427101^ maven-core/src/main/java/org/apache/maven/DefaultMaven.java
+375,375 d7a1ba698d97f15520496f81d281a8ed33427101^ maven-core/src/main/java/org/apache/maven/DefaultMaven.java
+605,605 d7a1ba698d97f15520496f81d281a8ed33427101^ maven-embedder/src/main/java/org/apache/maven/embedder/MavenEmbedder.java
+58,58 d7a1ba698d97f15520496f81d281a8ed33427101^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+76,76 d7a1ba698d97f15520496f81d281a8ed33427101^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+227,227 d7a1ba698d97f15520496f81d281a8ed33427101^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+231,231 d7a1ba698d97f15520496f81d281a8ed33427101^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+232,232 d7a1ba698d97f15520496f81d281a8ed33427101^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+233,233 d7a1ba698d97f15520496f81d281a8ed33427101^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+234,234 d7a1ba698d97f15520496f81d281a8ed33427101^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+235,235 d7a1ba698d97f15520496f81d281a8ed33427101^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+25,25 d7a1ba698d97f15520496f81d281a8ed33427101^ maven-project/src/main/java/org/apache/maven/profiles/activation/SystemPropertyProfileActivator.java
+49,49 d7a1ba698d97f15520496f81d281a8ed33427101^ maven-project/src/main/java/org/apache/maven/profiles/activation/SystemPropertyProfileActivator.java
+252,252 d7a1ba698d97f15520496f81d281a8ed33427101^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+609,609 d7a1ba698d97f15520496f81d281a8ed33427101^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+968,968 d7a1ba698d97f15520496f81d281a8ed33427101^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java

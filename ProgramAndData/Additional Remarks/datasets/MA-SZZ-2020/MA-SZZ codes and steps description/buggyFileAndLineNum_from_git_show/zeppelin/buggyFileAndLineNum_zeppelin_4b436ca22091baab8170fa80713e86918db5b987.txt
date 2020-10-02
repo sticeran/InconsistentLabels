@@ -1,0 +1,15 @@
+54,54 4b436ca22091baab8170fa80713e86918db5b987^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/thrift/CallbackInfo.java
+254,254 4b436ca22091baab8170fa80713e86918db5b987^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/thrift/CallbackInfo.java
+54,54 4b436ca22091baab8170fa80713e86918db5b987^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/thrift/InterpreterCompletion.java
+54,54 4b436ca22091baab8170fa80713e86918db5b987^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/thrift/RemoteApplicationResult.java
+251,251 4b436ca22091baab8170fa80713e86918db5b987^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/thrift/RemoteApplicationResult.java
+54,54 4b436ca22091baab8170fa80713e86918db5b987^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/thrift/RemoteInterpreterCallbackService.java
+54,54 4b436ca22091baab8170fa80713e86918db5b987^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/thrift/RemoteInterpreterContext.java
+54,54 4b436ca22091baab8170fa80713e86918db5b987^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/thrift/RemoteInterpreterEvent.java
+54,54 4b436ca22091baab8170fa80713e86918db5b987^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/thrift/RemoteInterpreterResult.java
+54,54 4b436ca22091baab8170fa80713e86918db5b987^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/thrift/RemoteInterpreterResultMessage.java
+54,54 4b436ca22091baab8170fa80713e86918db5b987^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/thrift/RemoteInterpreterService.java
+8772,8772 4b436ca22091baab8170fa80713e86918db5b987^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/thrift/RemoteInterpreterService.java
+10149,10149 4b436ca22091baab8170fa80713e86918db5b987^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/thrift/RemoteInterpreterService.java
+17373,17373 4b436ca22091baab8170fa80713e86918db5b987^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/thrift/RemoteInterpreterService.java
+54,54 4b436ca22091baab8170fa80713e86918db5b987^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/thrift/ZeppelinServerResourceParagraphRunner.java

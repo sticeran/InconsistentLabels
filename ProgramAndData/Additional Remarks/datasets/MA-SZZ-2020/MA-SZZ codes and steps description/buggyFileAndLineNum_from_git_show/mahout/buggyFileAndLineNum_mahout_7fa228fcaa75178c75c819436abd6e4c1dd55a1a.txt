@@ -1,0 +1,2 @@
+48,48 7fa228fcaa75178c75c819436abd6e4c1dd55a1a^ core/src/main/java/org/apache/mahout/vectorizer/SparseVectorsFromSequenceFiles.java
+49,49 7fa228fcaa75178c75c819436abd6e4c1dd55a1a^ core/src/main/java/org/apache/mahout/vectorizer/SparseVectorsFromSequenceFiles.java

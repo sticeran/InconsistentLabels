@@ -1,0 +1,13 @@
+37,37 12fbba751a6141bb4d28fcdb98d7dfd38da73d47^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/filter/AndArtifactFilter.java
+45,45 12fbba751a6141bb4d28fcdb98d7dfd38da73d47^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/filter/AndArtifactFilter.java
+66,66 12fbba751a6141bb4d28fcdb98d7dfd38da73d47^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/filter/AndArtifactFilter.java
+23,23 12fbba751a6141bb4d28fcdb98d7dfd38da73d47^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/filter/ExclusionSetFilter.java
+39,39 12fbba751a6141bb4d28fcdb98d7dfd38da73d47^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/filter/ExclusionSetFilter.java
+49,49 12fbba751a6141bb4d28fcdb98d7dfd38da73d47^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/filter/ExclusionSetFilter.java
+36,36 12fbba751a6141bb4d28fcdb98d7dfd38da73d47^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/filter/IncludesArtifactFilter.java
+41,41 12fbba751a6141bb4d28fcdb98d7dfd38da73d47^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/filter/IncludesArtifactFilter.java
+62,62 12fbba751a6141bb4d28fcdb98d7dfd38da73d47^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/filter/IncludesArtifactFilter.java
+22,22 12fbba751a6141bb4d28fcdb98d7dfd38da73d47^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/filter/OrArtifactFilter.java
+36,36 12fbba751a6141bb4d28fcdb98d7dfd38da73d47^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/filter/OrArtifactFilter.java
+44,44 12fbba751a6141bb4d28fcdb98d7dfd38da73d47^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/filter/OrArtifactFilter.java
+67,67 12fbba751a6141bb4d28fcdb98d7dfd38da73d47^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/filter/OrArtifactFilter.java

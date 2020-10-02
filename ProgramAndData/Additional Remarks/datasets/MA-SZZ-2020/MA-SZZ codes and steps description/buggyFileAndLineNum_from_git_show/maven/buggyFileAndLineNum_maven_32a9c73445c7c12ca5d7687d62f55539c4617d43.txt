@@ -1,0 +1,13 @@
+523,523 32a9c73445c7c12ca5d7687d62f55539c4617d43^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+1424,1424 32a9c73445c7c12ca5d7687d62f55539c4617d43^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+1444,1444 32a9c73445c7c12ca5d7687d62f55539c4617d43^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+1445,1445 32a9c73445c7c12ca5d7687d62f55539c4617d43^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+1446,1446 32a9c73445c7c12ca5d7687d62f55539c4617d43^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+1447,1447 32a9c73445c7c12ca5d7687d62f55539c4617d43^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+1448,1448 32a9c73445c7c12ca5d7687d62f55539c4617d43^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+1449,1449 32a9c73445c7c12ca5d7687d62f55539c4617d43^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+1450,1450 32a9c73445c7c12ca5d7687d62f55539c4617d43^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+1451,1451 32a9c73445c7c12ca5d7687d62f55539c4617d43^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+1453,1453 32a9c73445c7c12ca5d7687d62f55539c4617d43^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+164,164 32a9c73445c7c12ca5d7687d62f55539c4617d43^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+170,170 32a9c73445c7c12ca5d7687d62f55539c4617d43^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java

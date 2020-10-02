@@ -1,0 +1,5 @@
+225,225 72a930d3746b00c796443c88c8089a120f3d703a^ flume-ng-node/src/main/java/org/apache/flume/conf/properties/PropertiesFileConfigurationProvider.java
+54,54 72a930d3746b00c796443c88c8089a120f3d703a^ flume-ng-node/src/main/java/org/apache/flume/node/nodemanager/DefaultLogicalNodeManager.java
+55,55 72a930d3746b00c796443c88c8089a120f3d703a^ flume-ng-node/src/main/java/org/apache/flume/node/nodemanager/DefaultLogicalNodeManager.java
+26,26 72a930d3746b00c796443c88c8089a120f3d703a^ flume-ng-node/src/main/java/org/apache/flume/node/nodemanager/NodeConfigurationAware.java
+73,73 72a930d3746b00c796443c88c8089a120f3d703a^ flume-ng-node/src/test/java/org/apache/flume/conf/properties/TestPropertiesFileConfigurationProvider.java

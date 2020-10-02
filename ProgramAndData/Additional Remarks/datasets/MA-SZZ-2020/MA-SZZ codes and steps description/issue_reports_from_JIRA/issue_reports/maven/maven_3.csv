@@ -1,0 +1,1001 @@
+issueKey,type,resolution,status,createdDateEpoch,resolvedDateEpoch
+MNG-4039,New Feature,Won't Fix,Closed,2009/2/17 16:15,2012/11/13 22:33
+MNG-4040,Bug,Fixed,Closed,2009/2/17 17:21,2009/2/17 21:58
+MNG-4041,Bug,Fixed,Closed,2009/2/18 5:33,2009/6/5 17:07
+MNG-4042,Sub-task,Fixed,Closed,2009/2/18 19:31,2009/2/19 22:41
+MNG-4043,Bug,Fixed,Closed,2009/2/18 20:14,2009/2/24 19:14
+MNG-4044,Bug,Duplicate,Closed,2008/9/4 13:53,2009/2/19 14:34
+MNG-4046,Task,Fixed,Closed,2009/2/20 23:56,2009/2/21 0:23
+MNG-4047,Bug,Incomplete,Closed,2009/2/21 0:16,2014/1/23 4:31
+MNG-4048,Improvement,Fixed,Closed,2009/2/21 17:01,2009/9/17 16:26
+MNG-4049,Bug,Not A Problem,Closed,2009/2/24 13:12,2009/2/24 13:17
+MNG-4050,Bug,Fixed,Closed,2009/2/25 20:47,2009/5/16 17:38
+MNG-4051,Bug,Not A Problem,Closed,2009/2/25 21:09,2009/2/26 20:56
+MNG-4052,Bug,Fixed,Closed,2009/2/25 22:00,2009/7/27 20:10
+MNG-4053,Bug,Fixed,Closed,2009/2/25 22:06,2009/3/23 18:07
+MNG-4054,Bug,Duplicate,Closed,2009/2/27 4:59,2009/12/31 8:46
+MNG-4055,Bug,Fixed,Closed,2009/2/27 12:57,2009/9/21 15:34
+MNG-4056,Wish,Fixed,Closed,2009/2/27 13:52,2009/3/3 15:48
+MNG-4057,Improvement,Fixed,Closed,2009/2/27 17:35,2009/2/28 13:19
+MNG-4058,New Feature,Duplicate,Closed,2009/2/27 20:36,2009/12/31 8:47
+MNG-4059,Task,Fixed,Closed,2009/3/1 20:13,2009/3/1 20:13
+MNG-4060,Task,Fixed,Closed,2009/3/1 20:19,2009/3/1 20:19
+MNG-4061,Bug,Won't Fix,Closed,2009/3/3 12:57,2009/3/4 16:29
+MNG-4062,Task,Fixed,Closed,2009/3/3 19:26,2009/10/14 19:25
+MNG-4063,Bug,Incomplete,Closed,2009/3/4 12:07,2014/1/23 4:32
+MNG-4065,Improvement,Duplicate,Closed,2009/3/4 18:08,2009/3/5 2:27
+MNG-4066,Bug,Not A Problem,Closed,2009/3/4 23:00,2009/3/23 7:47
+MNG-4068,Bug,Fixed,Closed,2009/3/5 22:23,2009/3/5 23:50
+MNG-4069,Task,Fixed,Closed,2009/3/6 17:32,2009/3/6 17:33
+MNG-4070,Bug,Fixed,Closed,2009/3/6 22:59,2009/3/9 1:16
+MNG-4071,Wish,Duplicate,Closed,2009/3/7 0:50,2009/3/23 8:11
+MNG-4072,Bug,Fixed,Closed,2009/3/7 1:46,2009/3/9 2:14
+MNG-4074,Bug,Fixed,Closed,2009/3/9 20:40,2009/4/22 22:31
+MNG-4075,Improvement,Fixed,Closed,2009/3/10 0:01,2009/3/10 20:41
+MNG-4076,Bug,Incomplete,Closed,2009/3/10 11:31,2014/1/23 4:32
+MNG-4077,Task,Fixed,Closed,2009/3/10 13:16,2009/3/10 20:41
+MNG-4078,Bug,Fixed,Closed,2009/3/10 14:17,2009/3/13 19:12
+MNG-4079,Bug,Fixed,Closed,2009/3/10 19:53,2009/3/13 20:20
+MNG-4080,Bug,Duplicate,Closed,2009/3/10 20:02,2009/3/10 20:11
+MNG-4081,Improvement,Duplicate,Closed,2009/3/10 20:10,2010/4/1 19:11
+MNG-4082,Bug,Fixed,Closed,2009/3/11 14:49,2009/4/29 23:31
+MNG-4083,Bug,Duplicate,Closed,2009/3/12 0:05,2009/3/23 7:57
+MNG-4084,Bug,Fixed,Closed,2009/3/13 1:06,2009/3/13 5:26
+MNG-4086,Bug,Fixed,Closed,2009/3/15 15:41,2009/3/15 17:27
+MNG-4087,Bug,Fixed,Closed,2009/3/15 23:19,2009/3/15 23:20
+MNG-4088,Bug,Duplicate,Closed,2009/3/16 15:25,2009/3/24 17:36
+MNG-4089,Bug,Won't Fix,Closed,2009/3/16 20:45,2010/5/4 14:37
+MNG-4090,Bug,Duplicate,Closed,2009/3/16 20:51,2009/3/16 20:59
+MNG-4091,Improvement,Fixed,Closed,2009/3/17 4:39,2009/3/17 5:34
+MNG-4092,Improvement,Fixed,Closed,2009/3/17 15:14,2009/3/17 15:15
+MNG-4093,Bug,Not A Problem,Closed,2009/3/17 18:20,2009/4/1 2:53
+MNG-4096,Bug,Cannot Reproduce,Closed,2009/3/19 15:58,2009/3/23 8:06
+MNG-4097,Bug,Fixed,Closed,2009/3/20 4:37,2009/3/20 17:25
+MNG-4098,Improvement,Fixed,Closed,2009/3/20 20:12,2010/4/7 12:22
+MNG-4099,Improvement,Fixed,Closed,2009/3/20 22:46,2014/1/10 23:30
+MNG-4100,Improvement,Won't Fix,Closed,2009/3/21 3:53,2009/3/23 8:37
+MNG-4102,Bug,Fixed,Closed,2009/3/23 0:41,2009/3/23 21:19
+MNG-4103,Bug,Cannot Reproduce,Closed,2009/3/23 12:47,2009/3/23 12:48
+MNG-4105,New Feature,Won't Fix,Closed,2009/3/23 22:05,2009/12/31 8:02
+MNG-4106,Bug,Fixed,Closed,2009/3/24 0:49,2009/3/24 2:04
+MNG-4107,Bug,Fixed,Closed,2009/3/24 16:24,2009/4/3 14:46
+MNG-4108,Improvement,Duplicate,Closed,2009/3/26 1:01,2009/3/26 4:29
+MNG-4109,Bug,Fixed,Closed,2009/3/26 17:48,2009/5/16 17:38
+MNG-4110,Bug,Won't Fix,Closed,2009/3/26 20:39,2009/4/1 2:46
+MNG-4112,Improvement,Fixed,Closed,2009/3/27 16:55,2011/7/17 16:26
+MNG-4113,Bug,Duplicate,Closed,2009/3/27 23:59,2009/3/28 17:33
+MNG-4116,Bug,Fixed,Closed,2009/3/29 19:37,2009/3/29 20:19
+MNG-4117,Bug,Fixed,Closed,2009/3/30 10:45,2009/3/31 12:55
+MNG-4119,Bug,Not A Problem,Closed,2009/3/30 21:07,2009/3/30 21:34
+MNG-4120,Bug,Duplicate,Closed,2009/3/31 18:19,2009/4/9 17:19
+MNG-4121,New Feature,Duplicate,Closed,2009/4/1 1:10,2009/4/1 1:21
+MNG-4122,Bug,Duplicate,Closed,2009/4/1 5:50,2009/12/20 20:08
+MNG-4123,Bug,Cannot Reproduce,Closed,2009/4/2 22:45,2010/4/2 14:29
+MNG-4124,Bug,Not A Problem,Closed,2009/4/6 9:01,2009/4/9 0:36
+MNG-4126,Bug,Fixed,Closed,2009/4/8 18:46,2009/4/10 0:02
+MNG-4129,Bug,Fixed,Closed,2009/4/10 12:24,2009/5/21 21:22
+MNG-4130,Bug,Incomplete,Closed,2009/4/10 19:36,2014/1/23 4:31
+MNG-4131,Bug,Incomplete,Closed,2009/4/14 2:35,2009/12/30 4:34
+MNG-4132,Bug,Incomplete,Closed,2009/4/14 22:57,2014/1/23 4:31
+MNG-4133,Bug,Cannot Reproduce,Closed,2009/4/15 8:42,2010/4/7 8:10
+MNG-4134,Bug,Incomplete,Closed,2009/4/15 19:31,2014/1/23 4:31
+MNG-4135,Bug,Incomplete,Closed,2009/4/15 22:06,2014/1/23 4:31
+MNG-4136,Bug,Incomplete,Closed,2009/4/16 23:22,2014/1/23 4:32
+MNG-4137,Bug,Fixed,Closed,2009/4/17 23:36,2009/4/29 0:46
+MNG-4138,Bug,Incomplete,Closed,2009/4/18 1:55,2014/1/23 4:32
+MNG-4139,Wish,Fixed,Closed,2009/4/19 20:05,2009/4/19 20:23
+MNG-4140,Bug,Fixed,Closed,2009/4/20 9:26,2009/4/22 1:56
+MNG-4141,Bug,Incomplete,Closed,2009/4/22 19:12,2014/1/23 4:31
+MNG-4142,Bug,Unresolved,Open,2009/4/23 17:28,
+MNG-4143,Task,Fixed,Closed,2009/4/23 18:43,2009/6/10 21:18
+MNG-4144,Sub-task,Fixed,Closed,2009/4/28 5:01,2009/4/29 23:30
+MNG-4145,Sub-task,Fixed,Closed,2009/4/28 5:02,2009/4/29 23:29
+MNG-4146,Bug,Fixed,Closed,2009/4/28 5:06,2009/4/29 0:46
+MNG-4147,Bug,Fixed,Closed,2009/4/28 18:39,2009/4/29 22:32
+MNG-4148,Improvement,Won't Fix,Closed,2009/4/30 19:29,2014/6/15 23:16
+MNG-4149,New Feature,Incomplete,Closed,2009/4/30 21:54,2014/1/23 4:31
+MNG-4150,Test,Fixed,Closed,2009/5/1 4:15,2009/5/1 6:30
+MNG-4151,Task,Fixed,Closed,2009/5/4 10:43,2009/12/30 4:24
+MNG-4152,Bug,Not A Problem,Closed,2009/5/10 15:30,2009/5/11 12:06
+MNG-4153,New Feature,Incomplete,Closed,2009/5/11 18:28,2014/1/23 4:31
+MNG-4154,New Feature,Incomplete,Closed,2009/5/11 18:31,2014/1/23 4:31
+MNG-4155,New Feature,Incomplete,Closed,2009/5/11 18:33,2014/1/23 4:31
+MNG-4156,Improvement,Unresolved,Reopened,2009/5/11 19:52,
+MNG-4157,Improvement,Fixed,Closed,2009/5/12 11:52,2009/12/30 4:46
+MNG-4158,Bug,Won't Fix,Closed,2009/5/12 18:07,2013/6/2 16:35
+MNG-4160,Bug,Incomplete,Closed,2009/5/15 5:22,2014/1/23 4:31
+MNG-4161,New Feature,Incomplete,Closed,2009/5/15 22:19,2014/1/23 4:31
+MNG-4162,Improvement,Fixed,Closed,2009/5/16 17:43,2010/3/26 1:01
+MNG-4163,Sub-task,Fixed,Closed,2009/5/16 17:44,2009/10/14 0:50
+MNG-4165,Bug,Fixed,Closed,2009/5/18 18:53,2009/6/9 19:14
+MNG-4166,Bug,Fixed,Closed,2009/5/18 18:55,2009/6/3 4:21
+MNG-4167,Bug,Fixed,Closed,2009/5/18 18:56,2009/6/29 23:18
+MNG-4168,Bug,Fixed,Closed,2009/5/20 14:34,2009/6/9 20:38
+MNG-4169,Task,Fixed,Closed,2009/5/21 21:38,2009/5/21 21:39
+MNG-4170,Bug,Incomplete,Closed,2009/5/22 11:27,2014/1/23 4:31
+MNG-4171,Improvement,Duplicate,Closed,2009/5/24 1:08,2014/1/13 21:46
+MNG-4172,Bug,Fixed,Closed,2009/5/24 23:56,2009/5/25 0:25
+MNG-4173,Task,Unresolved,Reopened,2009/5/25 1:02,
+MNG-4174,Bug,Duplicate,Closed,2009/5/25 14:20,2009/6/25 15:20
+MNG-4175,Improvement,Duplicate,Closed,2009/5/26 12:06,2009/5/28 11:56
+MNG-4176,Bug,Incomplete,Closed,2009/5/27 12:19,2009/12/30 22:46
+MNG-4178,Bug,Duplicate,Closed,2009/5/28 13:59,2010/3/29 14:11
+MNG-4179,Bug,Fixed,Closed,2009/5/28 23:53,2009/5/29 0:02
+MNG-4180,Bug,Fixed,Closed,2009/5/30 14:39,2009/6/13 1:17
+MNG-4181,Bug,Duplicate,Closed,2009/5/30 19:56,2009/7/1 20:43
+MNG-4182,Bug,Incomplete,Closed,2009/6/1 5:06,2014/1/23 4:31
+MNG-4183,Bug,Duplicate,Closed,2009/6/2 3:06,2009/7/1 19:57
+MNG-4184,Bug,Fixed,Closed,2009/6/4 14:42,2009/7/30 18:07
+MNG-4186,Improvement,Fixed,Closed,2009/6/7 9:19,2009/10/21 0:11
+MNG-4187,Bug,Fixed,Closed,2009/6/7 10:40,2009/6/25 0:56
+MNG-4188,Wish,Fixed,Closed,2009/6/8 1:39,2014/1/23 22:53
+MNG-4189,Bug,Fixed,Closed,2009/6/8 11:36,2009/6/26 9:01
+MNG-4190,Bug,Fixed,Closed,2009/6/8 22:42,2009/6/21 19:12
+MNG-4191,Bug,Fixed,Closed,2009/6/8 22:45,2009/6/20 18:34
+MNG-4192,Improvement,Incomplete,Closed,2009/6/8 22:51,2014/1/23 4:31
+MNG-4193,Improvement,Fixed,Closed,2009/6/8 23:40,2009/6/9 0:39
+MNG-4194,Improvement,Fixed,Closed,2009/6/9 17:45,2010/3/30 16:42
+MNG-4195,Bug,Incomplete,Closed,2009/6/9 18:59,2014/1/23 4:31
+MNG-4196,Bug,Fixed,Closed,2009/6/13 13:16,2009/6/13 14:10
+MNG-4197,Bug,Fixed,Closed,2009/6/13 13:22,2009/8/6 16:50
+MNG-4198,Improvement,Not A Problem,Closed,2009/6/9 19:43,2009/6/13 14:32
+MNG-4199,Bug,Fixed,Closed,2009/6/13 23:34,2009/6/14 0:54
+MNG-4200,Bug,Fixed,Closed,2009/6/14 9:08,2009/12/30 2:22
+MNG-4201,Bug,Fixed,Closed,2009/6/15 1:58,2009/7/22 20:18
+MNG-4202,Bug,Not A Problem,Closed,2009/6/16 12:08,2010/7/28 13:08
+MNG-4203,Bug,Fixed,Closed,2009/6/16 21:55,2009/6/16 23:08
+MNG-4204,Task,Fixed,Closed,2009/6/16 21:57,2009/10/14 19:39
+MNG-4205,Task,Fixed,Closed,2009/6/16 22:08,2009/6/17 12:34
+MNG-4206,Task,Fixed,Closed,2009/6/17 14:33,2009/6/17 14:35
+MNG-4207,Bug,Fixed,Closed,2009/6/17 19:28,2009/6/18 0:39
+MNG-4208,Bug,Fixed,Closed,2009/6/17 20:43,2009/6/17 21:44
+MNG-4210,Improvement,Fixed,Closed,2009/6/18 21:32,2009/6/22 21:49
+MNG-4211,Bug,Not A Problem,Closed,2009/6/18 23:12,2011/2/9 13:07
+MNG-4213,Bug,Fixed,Closed,2009/6/20 0:51,2009/6/20 2:03
+MNG-4214,Bug,Fixed,Closed,2009/6/20 23:42,2009/6/21 0:23
+MNG-4215,Sub-task,Fixed,Closed,2009/6/20 23:55,2009/6/26 21:03
+MNG-4216,Task,Fixed,Closed,2009/6/21 13:58,2009/6/21 14:38
+MNG-4217,Bug,Fixed,Closed,2009/6/23 1:18,2009/6/23 22:32
+MNG-4218,Bug,Fixed,Closed,2009/6/25 15:51,2009/6/25 18:08
+MNG-4219,Bug,Fixed,Closed,2009/6/26 4:43,2009/6/26 16:17
+MNG-4220,Improvement,Incomplete,Closed,2009/6/27 23:19,2014/1/23 4:31
+MNG-4221,Task,Fixed,Closed,2009/6/28 12:37,2009/11/9 18:27
+MNG-4223,Bug,Incomplete,Closed,2009/6/29 23:12,2014/1/23 4:31
+MNG-4224,Improvement,Fixed,Closed,2009/6/30 19:56,2009/7/1 1:38
+MNG-4225,Bug,Not A Problem,Closed,2009/6/30 22:30,2011/6/20 4:14
+MNG-4226,Improvement,Fixed,Closed,2009/7/2 0:22,2014/5/21 3:51
+MNG-4227,Bug,Fixed,Closed,2009/7/2 19:14,2009/7/2 22:09
+MNG-4228,Bug,Fixed,Closed,2009/7/3 16:04,2009/7/21 20:22
+MNG-4229,Bug,Incomplete,Closed,2009/7/7 0:26,2014/1/23 4:31
+MNG-4231,Bug,Fixed,Closed,2009/7/8 21:30,2009/7/31 15:50
+MNG-4233,Bug,Fixed,Closed,2009/7/9 14:22,2010/8/8 14:48
+MNG-4234,Bug,Cannot Reproduce,Closed,2009/7/9 20:36,2009/12/30 4:42
+MNG-4235,Bug,Fixed,Closed,2009/7/9 23:57,2009/7/22 22:46
+MNG-4236,Bug,Fixed,Closed,2009/7/10 1:18,2009/7/23 21:49
+MNG-4237,New Feature,Duplicate,Closed,2009/7/10 22:55,2010/11/14 20:03
+MNG-4238,Bug,Fixed,Closed,2009/7/14 2:29,2009/7/14 2:37
+MNG-4239,Bug,Fixed,Closed,2009/7/14 16:42,2009/7/14 17:39
+MNG-4240,Bug,Cannot Reproduce,Closed,2009/7/14 18:39,2009/7/22 22:52
+MNG-4242,Bug,Incomplete,Closed,2009/7/16 1:44,2009/12/29 7:16
+MNG-4243,Bug,Incomplete,Closed,2009/7/17 4:32,2009/7/17 10:46
+MNG-4244,Improvement,Fixed,Closed,2009/7/17 20:01,2009/7/17 20:13
+MNG-4245,Bug,Fixed,Closed,2009/7/18 8:15,2009/7/28 15:49
+MNG-4246,Bug,Fixed,Closed,2009/7/18 8:30,2009/7/18 15:31
+MNG-4247,Improvement,Fixed,Closed,2009/7/20 0:18,2009/7/25 1:39
+MNG-4248,Bug,Cannot Reproduce,Closed,2009/7/21 12:47,2010/7/27 23:14
+MNG-4249,Bug,Not A Problem,Closed,2009/7/23 2:19,2009/11/1 16:05
+MNG-4253,Bug,Cannot Reproduce,Closed,2009/7/23 20:47,2010/1/12 20:17
+MNG-4254,Improvement,Fixed,Closed,2009/7/23 21:06,2009/7/24 4:08
+MNG-4256,Bug,Won't Fix,Closed,2009/7/24 1:21,2009/7/24 14:51
+MNG-4257,New Feature,Won't Fix,Closed,2009/7/24 17:39,2009/7/29 17:57
+MNG-4258,New Feature,Incomplete,Closed,2009/7/24 22:52,2014/1/23 4:32
+MNG-4259,Task,Fixed,Closed,2009/7/26 15:54,2009/8/20 17:58
+MNG-4260,Task,Fixed,Closed,2009/7/27 11:48,2009/7/27 12:14
+MNG-4261,Bug,Won't Fix,Closed,2009/7/28 3:06,2009/10/14 21:55
+MNG-4262,Bug,Fixed,Closed,2009/7/28 11:59,2009/7/28 12:27
+MNG-4263,Bug,Duplicate,Closed,2009/7/28 16:36,2009/7/28 17:24
+MNG-4265,Bug,Incomplete,Closed,2009/7/29 2:49,2014/1/23 4:31
+MNG-4266,Bug,Fixed,Closed,2009/7/30 2:37,2009/7/30 13:17
+MNG-4269,Bug,Fixed,Closed,2009/7/31 20:20,2009/7/31 21:12
+MNG-4270,Bug,Fixed,Closed,2009/7/31 21:23,2009/8/1 1:23
+MNG-4271,Improvement,Won't Fix,Closed,2009/7/31 23:07,2009/8/1 1:21
+MNG-4272,Bug,Fixed,Closed,2009/8/1 11:46,2009/8/1 13:06
+MNG-4273,Bug,Fixed,Closed,2009/8/1 14:32,2009/8/7 18:18
+MNG-4274,Bug,Fixed,Closed,2009/8/2 1:38,2009/8/2 17:44
+MNG-4275,Bug,Fixed,Closed,2009/8/2 12:42,2009/8/6 1:09
+MNG-4276,Bug,Fixed,Closed,2009/8/2 13:20,2009/8/2 14:01
+MNG-4277,Task,Fixed,Closed,2009/8/2 22:28,2009/8/2 22:40
+MNG-4278,New Feature,Won't Fix,Closed,2009/8/3 11:44,2009/12/30 4:02
+MNG-4279,Improvement,Fixed,Closed,2009/8/3 22:28,2009/8/4 1:16
+MNG-4280,Bug,Fixed,Closed,2009/8/4 12:39,2009/8/4 13:58
+MNG-4281,Bug,Fixed,Closed,2009/8/4 18:28,2009/8/4 22:06
+MNG-4282,Improvement,Won't Fix,Closed,2007/1/29 2:58,2010/4/7 6:59
+MNG-4283,Bug,Fixed,Closed,2009/8/5 23:58,2009/8/6 0:44
+MNG-4285,Bug,Won't Fix,Closed,2009/8/6 18:14,2009/12/31 8:08
+MNG-4286,Bug,Incomplete,Closed,2009/8/6 22:11,2014/1/23 4:31
+MNG-4287,Task,Fixed,Closed,2009/8/7 16:19,2009/9/4 11:37
+MNG-4288,Task,Won't Fix,Closed,2009/8/7 20:53,2009/11/17 13:19
+MNG-4289,Bug,Fixed,Closed,2009/8/10 17:17,2009/8/19 16:11
+MNG-4290,Task,Fixed,Closed,2009/8/10 19:05,2009/8/11 22:25
+MNG-4291,Bug,Fixed,Closed,2009/8/11 16:21,2009/8/11 17:55
+MNG-4292,Improvement,Fixed,Closed,2009/8/12 3:33,2009/9/7 22:18
+MNG-4293,Improvement,Fixed,Closed,2009/8/12 12:31,2009/8/12 12:34
+MNG-4294,Bug,Incomplete,Closed,2009/8/12 17:27,2014/1/23 4:31
+MNG-4295,Bug,Duplicate,Closed,2009/8/12 23:14,2010/4/9 0:53
+MNG-4296,Improvement,Fixed,Closed,2009/8/13 8:10,2009/8/13 12:03
+MNG-4297,Improvement,Incomplete,Closed,2009/8/13 17:49,2014/1/23 4:31
+MNG-4298,Improvement,Fixed,Closed,2009/8/13 19:51,2009/8/13 20:53
+MNG-4299,Bug,Not A Problem,Closed,2009/8/13 21:51,2010/2/12 1:33
+MNG-4300,Bug,Not A Problem,Closed,2009/8/14 8:50,2009/8/14 13:14
+MNG-4301,Bug,Incomplete,Closed,2009/8/14 15:35,2014/1/23 4:31
+MNG-4302,New Feature,Incomplete,Closed,2009/8/14 18:59,2014/1/23 4:31
+MNG-4303,Bug,Fixed,Closed,2009/8/14 21:21,2009/8/14 21:56
+MNG-4304,Bug,Fixed,Closed,2009/8/17 17:35,2009/8/17 18:17
+MNG-4305,Bug,Fixed,Closed,2009/8/17 20:03,2009/8/17 20:31
+MNG-4306,New Feature,Won't Fix,Closed,2009/8/17 20:14,2010/3/30 16:39
+MNG-4307,Bug,Duplicate,Closed,2009/8/18 5:53,2010/8/15 23:51
+MNG-4308,Bug,Incomplete,Closed,2009/8/18 19:10,2014/1/23 4:31
+MNG-4309,Bug,Fixed,Closed,2009/8/18 19:41,2010/9/16 15:16
+MNG-4310,Bug,Cannot Reproduce,Closed,2006/11/23 17:30,2009/12/31 5:15
+MNG-4312,Bug,Fixed,Closed,2009/8/20 17:54,2009/8/20 21:19
+MNG-4313,Bug,Fixed,Closed,2009/8/20 23:05,2009/8/20 23:07
+MNG-4314,Bug,Fixed,Closed,2009/8/21 20:57,2009/8/24 20:41
+MNG-4315,Bug,Not A Problem,Closed,2009/8/22 2:39,2009/8/22 12:57
+MNG-4316,Bug,Not A Problem,Closed,2009/8/23 9:53,2009/8/23 12:52
+MNG-4317,Bug,Fixed,Closed,2009/8/24 11:30,2009/8/24 13:14
+MNG-4318,Bug,Fixed,Closed,2009/8/25 2:19,2009/8/25 11:58
+MNG-4319,Bug,Fixed,Closed,2009/8/25 11:58,2009/10/31 17:18
+MNG-4320,Bug,Fixed,Closed,2009/8/25 12:02,2009/8/25 17:05
+MNG-4321,Bug,Fixed,Closed,2009/8/25 13:58,2009/8/25 15:25
+MNG-4323,Improvement,Won't Fix,Closed,2009/8/25 22:12,2009/9/5 17:27
+MNG-4324,New Feature,Incomplete,Closed,2009/8/25 23:17,2014/1/23 4:32
+MNG-4325,Bug,Fixed,Closed,2009/8/26 14:39,2009/8/27 15:26
+MNG-4326,Bug,Fixed,Closed,2009/8/27 1:12,2010/3/29 20:31
+MNG-4327,Bug,Fixed,Closed,2009/8/27 17:35,2009/8/27 21:01
+MNG-4328,Bug,Fixed,Closed,2009/8/28 18:04,2009/9/15 0:06
+MNG-4330,New Feature,Incomplete,Closed,2009/8/29 18:52,2014/1/23 4:31
+MNG-4331,New Feature,Fixed,Closed,2009/8/30 21:53,2009/8/31 1:29
+MNG-4332,Bug,Fixed,Closed,2009/8/31 15:01,2009/9/1 0:32
+MNG-4333,Improvement,Won't Fix,Closed,2009/8/31 20:53,2010/10/30 20:03
+MNG-4334,Bug,Fixed,Closed,2009/8/31 22:47,2009/9/2 13:18
+MNG-4335,Bug,Fixed,Closed,2009/9/1 19:02,2009/9/4 14:42
+MNG-4337,Bug,Won't Fix,Closed,2009/9/4 16:25,2010/2/12 1:28
+MNG-4338,Bug,Fixed,Closed,2009/9/4 19:25,2009/9/4 21:35
+MNG-4339,Improvement,Incomplete,Closed,2009/9/6 20:13,2014/1/23 4:31
+MNG-4341,Bug,Fixed,Closed,2009/9/7 17:09,2009/9/7 22:16
+MNG-4342,Bug,Fixed,Closed,2009/9/7 17:27,2009/9/9 13:09
+MNG-4343,Bug,Fixed,Closed,2009/9/7 19:32,2009/9/18 13:13
+MNG-4344,Bug,Fixed,Closed,2009/9/8 0:22,2009/9/8 18:24
+MNG-4345,Bug,Fixed,Closed,2009/9/8 12:14,2009/9/8 15:24
+MNG-4346,Wish,Incomplete,Closed,2009/9/9 0:14,2014/1/23 4:31
+MNG-4347,Bug,Unresolved,Reopened,2009/9/9 2:25,
+MNG-4348,Bug,Fixed,Closed,2009/9/9 13:56,2009/9/9 15:09
+MNG-4349,Bug,Fixed,Closed,2009/9/9 17:14,2009/9/9 18:26
+MNG-4350,Bug,Fixed,Closed,2009/9/9 20:47,2009/9/10 1:30
+MNG-4351,Improvement,Incomplete,Closed,2009/9/10 20:55,2014/1/23 4:32
+MNG-4352,Bug,Fixed,Closed,2009/9/11 12:06,2009/9/16 5:10
+MNG-4353,Bug,Fixed,Closed,2009/9/11 16:35,2009/9/11 18:07
+MNG-4354,Bug,Cannot Reproduce,Closed,2009/9/11 17:31,2012/11/14 8:34
+MNG-4355,Bug,Fixed,Closed,2009/9/11 18:39,2009/9/14 13:48
+MNG-4356,Bug,Fixed,Closed,2009/9/11 22:16,2009/9/12 2:38
+MNG-4357,Bug,Fixed,Closed,2009/9/14 16:12,2009/9/14 20:31
+MNG-4358,Bug,Incomplete,Closed,2009/9/14 19:32,2014/1/23 4:31
+MNG-4359,Bug,Fixed,Closed,2009/9/15 14:51,2009/9/15 16:47
+MNG-4360,Bug,Fixed,Closed,2009/9/15 19:40,2009/9/15 20:44
+MNG-4361,Bug,Fixed,Closed,2009/9/16 19:26,2009/9/17 2:08
+MNG-4362,Improvement,Incomplete,Closed,2009/9/17 16:39,2014/1/23 4:31
+MNG-4363,Bug,Fixed,Closed,2009/9/19 0:01,2009/9/21 15:58
+MNG-4364,Bug,Not A Problem,Closed,2009/9/22 15:34,2009/9/23 14:29
+MNG-4365,Bug,Fixed,Closed,2009/9/22 17:33,2009/9/22 19:06
+MNG-4366,Wish,Incomplete,Closed,2009/9/22 17:41,2014/1/23 4:31
+MNG-4367,New Feature,Fixed,Closed,2009/9/23 23:48,2009/9/24 14:01
+MNG-4368,Improvement,Fixed,Closed,2008/5/28 10:35,2009/8/27 21:07
+MNG-4369,Bug,Duplicate,Closed,2008/8/19 19:18,2010/3/1 10:17
+MNG-4370,Bug,Cannot Reproduce,Closed,2008/3/13 16:29,2014/6/12 6:47
+MNG-4371,Bug,Incomplete,Closed,2008/8/27 11:01,2011/2/12 19:13
+MNG-4372,Bug,Incomplete,Closed,2009/5/21 13:32,2014/1/23 4:31
+MNG-4373,New Feature,Incomplete,Closed,2008/4/16 17:27,2014/1/23 4:31
+MNG-4374,Task,Incomplete,Closed,2008/4/28 20:07,2014/1/23 4:31
+MNG-4375,Improvement,Incomplete,Closed,2008/1/22 15:47,2014/1/23 4:31
+MNG-4376,Improvement,Incomplete,Closed,2006/1/4 3:22,2014/1/23 4:31
+MNG-4377,Improvement,Won't Fix,Closed,2007/11/6 7:23,2014/11/25 23:38
+MNG-4378,Bug,Fixed,Closed,2009/9/24 16:44,2009/9/24 16:54
+MNG-4379,Bug,Fixed,Closed,2009/9/24 23:14,2010/1/2 19:48
+MNG-4380,Bug,Duplicate,Closed,2009/9/25 10:59,2009/10/4 19:21
+MNG-4381,New Feature,Fixed,Closed,2009/9/28 11:48,2009/9/29 15:34
+MNG-4382,Bug,Not A Problem,Closed,2009/9/28 14:46,2009/10/4 19:06
+MNG-4383,Bug,Fixed,Closed,2009/9/29 7:21,2009/10/5 15:31
+MNG-4384,Bug,Won't Fix,Closed,2009/9/30 9:31,2011/2/10 15:59
+MNG-4385,Bug,Fixed,Closed,2009/10/1 14:13,2009/10/1 14:39
+MNG-4386,Bug,Fixed,Closed,2009/10/2 14:04,2009/10/2 15:29
+MNG-4387,Bug,Fixed,Closed,2009/10/2 14:06,2009/10/2 15:30
+MNG-4388,Task,Duplicate,Closed,2009/10/6 19:49,2010/8/7 18:58
+MNG-4390,Improvement,Fixed,Closed,2009/10/12 1:05,2009/10/12 1:40
+MNG-4391,Improvement,Incomplete,Closed,2009/10/12 17:09,2014/1/23 4:31
+MNG-4392,Bug,Incomplete,Closed,2009/10/12 19:37,2014/1/23 4:31
+MNG-4393,Bug,Fixed,Closed,2009/10/13 17:38,2009/10/13 20:07
+MNG-4394,Improvement,Duplicate,Closed,2009/10/14 13:49,2010/9/23 23:12
+MNG-4395,Wish,Incomplete,Closed,2009/10/14 18:48,2014/1/23 4:32
+MNG-4396,Bug,Fixed,Closed,2009/10/17 0:46,2009/10/19 14:22
+MNG-4397,Bug,Incomplete,Closed,2009/10/16 12:11,2009/10/16 12:24
+MNG-4398,New Feature,Fixed,Closed,2009/10/21 16:25,2009/10/21 17:20
+MNG-4400,Bug,Fixed,Closed,2009/10/23 13:06,2009/10/23 14:44
+MNG-4401,Bug,Fixed,Closed,2009/10/23 16:14,2009/10/23 21:07
+MNG-4402,Improvement,Fixed,Closed,2009/10/24 0:03,2009/10/24 17:55
+MNG-4403,Task,Fixed,Closed,2009/10/24 0:26,2009/10/24 16:51
+MNG-4404,Improvement,Fixed,Closed,2009/10/24 18:01,2009/10/24 18:44
+MNG-4405,Improvement,Fixed,Closed,2009/10/24 18:54,2009/10/24 19:36
+MNG-4406,Bug,Not A Problem,Closed,2009/10/26 15:27,2009/10/26 15:52
+MNG-4408,Bug,Fixed,Closed,2009/10/26 18:04,2009/10/27 17:32
+MNG-4409,Bug,Fixed,Closed,2009/10/27 9:06,2009/10/27 13:25
+MNG-4410,Bug,Fixed,Closed,2009/10/27 13:45,2009/10/27 15:01
+MNG-4411,Bug,Fixed,Closed,2009/10/27 13:51,2009/10/27 15:01
+MNG-4412,Task,Fixed,Closed,2009/10/27 18:32,2009/11/11 17:47
+MNG-4413,Bug,Fixed,Closed,2009/10/27 22:04,2009/10/30 15:25
+MNG-4414,Bug,Cannot Reproduce,Closed,2009/10/28 11:53,2009/10/31 21:59
+MNG-4415,Bug,Fixed,Closed,2009/10/28 17:29,2009/10/29 3:25
+MNG-4416,Bug,Fixed,Closed,2009/10/29 14:45,2009/10/29 15:34
+MNG-4417,Bug,Cannot Reproduce,Closed,2009/10/30 16:47,2009/10/30 17:47
+MNG-4418,Bug,Fixed,Closed,2009/10/30 17:28,2010/3/31 1:53
+MNG-4419,Bug,Duplicate,Closed,2009/10/30 18:09,2009/10/30 18:14
+MNG-4420,New Feature,Incomplete,Closed,2009/10/30 19:06,2014/1/23 4:31
+MNG-4421,Improvement,Fixed,Closed,2009/10/31 2:12,2009/10/31 21:26
+MNG-4422,Bug,Fixed,Closed,2009/10/31 16:39,2009/10/31 17:18
+MNG-4423,Improvement,Fixed,Closed,2009/10/31 17:49,2009/10/31 18:25
+MNG-4424,Improvement,Incomplete,Closed,2009/11/1 9:07,2014/1/23 4:31
+MNG-4425,Wish,Fixed,Closed,2009/11/3 0:44,2009/11/3 0:54
+MNG-4426,Bug,Fixed,Closed,2009/11/3 4:32,2009/11/4 14:52
+MNG-4427,Bug,Fixed,Closed,2009/11/5 2:34,2009/11/5 14:41
+MNG-4429,Bug,Fixed,Closed,2009/11/6 2:07,2009/11/6 17:43
+MNG-4430,Bug,Fixed,Closed,2009/11/6 18:03,2009/11/6 18:47
+MNG-4431,New Feature,Incomplete,Closed,2009/11/9 16:01,2014/1/23 4:32
+MNG-4432,Improvement,Fixed,Closed,2009/11/10 12:30,2010/1/20 0:26
+MNG-4433,Bug,Fixed,Closed,2009/11/10 18:14,2009/11/10 20:36
+MNG-4436,Bug,Fixed,Closed,2009/11/11 13:03,2009/11/11 20:03
+MNG-4437,Bug,Cannot Reproduce,Closed,2009/11/11 18:16,2009/11/11 19:00
+MNG-4438,Bug,Cannot Reproduce,Closed,2009/11/12 13:56,2009/11/12 14:14
+MNG-4439,Improvement,Fixed,Closed,2009/11/12 14:15,2009/11/13 1:42
+MNG-4440,Improvement,Fixed,Closed,2009/11/12 14:57,2009/11/14 23:37
+MNG-4441,Bug,Cannot Reproduce,Closed,2009/11/13 18:23,2010/1/2 17:44
+MNG-4442,Bug,Cannot Reproduce,Closed,2009/11/13 23:44,2009/11/13 23:59
+MNG-4443,Bug,Not A Problem,Closed,2009/11/13 23:57,2009/11/14 1:46
+MNG-4444,Bug,Not A Problem,Closed,2009/11/15 13:37,2009/11/15 14:37
+MNG-4445,New Feature,Incomplete,Closed,2009/11/15 17:37,2014/1/23 4:31
+MNG-4447,Bug,Not A Problem,Closed,2009/11/16 15:50,2009/11/16 16:02
+MNG-4448,Sub-task,Fixed,Closed,2009/11/16 17:30,2009/11/16 17:43
+MNG-4449,Bug,Incomplete,Closed,2009/11/17 12:18,2009/11/17 13:18
+MNG-4450,Bug,Fixed,Closed,2009/11/17 16:00,2009/11/18 0:06
+MNG-4451,Bug,Won't Fix,Closed,2009/11/17 17:46,2010/4/22 12:13
+MNG-4452,Improvement,Fixed,Closed,2009/11/17 21:39,2010/9/8 16:48
+MNG-4453,Bug,Fixed,Closed,2009/11/18 0:45,2010/4/9 23:59
+MNG-4454,Bug,Fixed,Closed,2009/11/18 13:57,2009/11/18 16:09
+MNG-4455,Improvement,Incomplete,Closed,2009/11/18 14:19,2014/1/23 4:31
+MNG-4456,Improvement,Fixed,Closed,2009/11/18 22:10,2009/11/20 21:09
+MNG-4457,Bug,Unresolved,Reopened,2009/11/19 17:42,
+MNG-4458,Bug,Incomplete,Closed,2009/11/19 19:39,2014/1/23 4:31
+MNG-4459,Bug,Fixed,Closed,2009/11/20 15:37,2009/11/20 16:41
+MNG-4460,Bug,Not A Problem,Closed,2009/11/20 17:55,2009/11/20 18:02
+MNG-4461,Bug,Fixed,Closed,2009/11/20 19:50,2009/11/20 20:20
+MNG-4462,Improvement,Incomplete,Closed,2009/11/21 3:04,2014/1/23 4:32
+MNG-4463,Bug,Unresolved,Reopened,2009/11/23 17:39,
+MNG-4464,Improvement,Fixed,Closed,2009/11/23 19:54,2010/1/31 2:30
+MNG-4465,Bug,Fixed,Closed,2009/11/23 20:35,2009/11/24 0:12
+MNG-4466,Bug,Fixed,Closed,2009/11/24 0:31,2009/11/24 1:13
+MNG-4468,Improvement,Incomplete,Closed,2009/11/25 9:24,2014/1/23 4:31
+MNG-4469,Bug,Fixed,Closed,2009/11/25 17:31,2009/12/8 19:12
+MNG-4470,Bug,Fixed,Closed,2009/11/25 22:03,2009/11/26 0:11
+MNG-4471,Bug,Not A Problem,Closed,2009/11/27 16:28,2009/11/28 16:36
+MNG-4472,Bug,Fixed,Closed,2009/11/28 4:40,2009/11/28 18:07
+MNG-4474,Bug,Fixed,Closed,2009/11/30 22:06,2009/12/1 15:13
+MNG-4475,Bug,Fixed,Closed,2009/12/1 10:46,2009/12/1 17:51
+MNG-4476,Bug,Not A Problem,Closed,2009/12/1 11:53,2009/12/3 15:16
+MNG-4477,Bug,Incomplete,Closed,2009/12/2 1:47,2014/1/23 4:32
+MNG-4478,Bug,Duplicate,Closed,2009/12/2 18:15,2009/12/2 18:20
+MNG-4479,Bug,Fixed,Closed,2009/12/3 18:19,2009/12/7 2:12
+MNG-4480,Test,Not A Problem,Closed,2009/12/3 22:46,2009/12/3 23:07
+MNG-4481,New Feature,Incomplete,Closed,2009/12/4 17:35,2014/1/23 4:32
+MNG-4482,Bug,Fixed,Closed,2009/12/4 20:43,2009/12/4 23:37
+MNG-4483,Bug,Incomplete,Closed,2009/12/6 6:36,2014/1/23 4:31
+MNG-4484,New Feature,Fixed,Closed,2009/12/6 16:52,2010/9/14 20:31
+MNG-4485,Improvement,Implemented,Closed,2009/12/7 8:20,2016/4/16 5:54
+MNG-4486,Bug,Duplicate,Closed,2009/12/7 22:48,2009/12/7 22:51
+MNG-4487,Improvement,Incomplete,Closed,2009/12/8 4:39,2014/1/23 4:32
+MNG-4488,Bug,Fixed,Closed,2009/12/8 13:34,2009/12/8 15:14
+MNG-4489,Bug,Fixed,Closed,2009/12/11 0:17,2009/12/11 1:10
+MNG-4490,Bug,Fixed,Closed,2009/12/12 15:29,2010/9/18 0:53
+MNG-4491,Bug,Won't Fix,Closed,2009/12/12 15:58,2010/9/18 0:55
+MNG-4492,Improvement,Fixed,Closed,2009/12/13 23:09,2009/12/14 17:03
+MNG-4493,Bug,Not A Problem,Closed,2009/12/15 13:35,2011/1/22 18:44
+MNG-4494,Improvement,Fixed,Closed,2009/12/15 23:14,2009/12/16 2:44
+MNG-4495,Bug,Fixed,Closed,2009/12/16 0:23,2009/12/16 0:37
+MNG-4496,Bug,Not A Problem,Closed,2009/12/16 9:41,2009/12/20 16:24
+MNG-4498,Improvement,Fixed,Closed,2009/12/16 12:41,2009/12/16 13:34
+MNG-4499,Improvement,Incomplete,Closed,2009/12/17 15:39,2014/1/23 4:32
+MNG-4500,Bug,Fixed,Closed,2009/12/18 13:15,2009/12/20 16:05
+MNG-4501,New Feature,Duplicate,Closed,2009/12/18 23:39,2009/12/19 0:00
+MNG-4503,Bug,Not A Problem,Closed,2009/12/21 9:43,2009/12/21 11:01
+MNG-4504,Improvement,Incomplete,Closed,2009/12/26 2:18,2014/1/23 4:31
+MNG-4505,Improvement,Duplicate,Closed,2009/12/29 2:14,2013/3/31 11:39
+MNG-4506,Improvement,Unresolved,Open,2008/8/6 22:30,
+MNG-4507,Task,Fixed,Closed,2007/10/25 3:35,2010/3/18 17:45
+MNG-4508,Improvement,Fixed,Closed,2007/3/30 4:34,2018/9/17 0:01
+MNG-4509,Bug,Fixed,Closed,2009/12/31 9:23,2009/12/31 21:24
+MNG-4510,Bug,Fixed,Closed,2010/1/1 17:31,2010/1/1 17:36
+MNG-4511,Bug,Fixed,Closed,2010/1/1 18:38,2010/1/1 19:12
+MNG-4512,Bug,Fixed,Closed,2010/1/1 20:24,2010/1/2 14:54
+MNG-4513,New Feature,Incomplete,Closed,2010/1/1 21:57,2014/1/23 4:32
+MNG-4514,Bug,Not A Problem,Closed,2010/1/3 11:23,2010/1/3 13:38
+MNG-4515,Bug,Cannot Reproduce,Closed,2010/1/3 21:26,2010/1/5 16:35
+MNG-4516,Bug,Incomplete,Closed,2010/1/4 19:56,2014/1/23 4:31
+MNG-4517,Improvement,Cannot Reproduce,Closed,2010/1/5 14:54,2010/8/14 15:30
+MNG-4518,Bug,Fixed,Closed,2010/1/5 17:42,2010/1/5 17:45
+MNG-4520,Bug,Won't Fix,Closed,2010/1/6 19:04,2010/1/30 17:36
+MNG-4521,Bug,Cannot Reproduce,Closed,2010/1/7 17:01,2015/4/3 19:21
+MNG-4522,Bug,Fixed,Closed,2010/1/7 21:57,2010/1/24 16:25
+MNG-4523,Bug,Incomplete,Closed,2010/1/9 5:18,2014/1/23 4:31
+MNG-4524,Bug,Duplicate,Closed,2010/1/9 23:00,2010/3/17 13:23
+MNG-4525,Improvement,Incomplete,Closed,2010/1/10 12:35,2014/1/23 4:31
+MNG-4526,Bug,Fixed,Closed,2010/1/10 23:21,2010/1/29 1:50
+MNG-4527,Bug,Incomplete,Closed,2010/1/11 13:42,2010/1/23 20:52
+MNG-4528,Bug,Fixed,Closed,2010/1/12 12:15,2010/1/14 2:13
+MNG-4529,Bug,Fixed,Closed,2010/1/13 10:43,2010/1/16 22:40
+MNG-4530,New Feature,Incomplete,Closed,2010/1/13 17:41,2014/1/23 4:31
+MNG-4531,New Feature,Incomplete,Closed,2010/1/13 17:46,2014/1/23 4:32
+MNG-4532,Improvement,Won't Fix,Closed,2010/1/15 2:55,2014/1/19 22:23
+MNG-4533,New Feature,Incomplete,Closed,2010/1/15 17:20,2014/1/23 4:32
+MNG-4534,Wish,Fixed,Closed,2010/1/17 16:21,2010/1/21 8:37
+MNG-4536,Bug,Fixed,Closed,2010/1/18 18:20,2010/1/28 19:57
+MNG-4537,Improvement,Auto Closed,Closed,2010/1/19 7:12,2019/1/14 4:50
+MNG-4538,Bug,Duplicate,Closed,2010/1/19 13:39,2010/2/15 4:17
+MNG-4539,New Feature,Incomplete,Closed,2010/1/20 20:08,2014/1/23 4:32
+MNG-4540,Bug,Cannot Reproduce,Closed,2010/1/21 16:38,2010/1/21 17:00
+MNG-4541,Task,Fixed,Closed,2010/1/21 22:56,2010/1/21 23:01
+MNG-4542,Bug,Fixed,Closed,2010/1/22 15:33,2010/1/22 15:37
+MNG-4543,Bug,Fixed,Closed,2010/1/23 0:11,2010/1/23 0:40
+MNG-4544,Bug,Fixed,Closed,2010/1/23 2:23,2010/1/25 0:27
+MNG-4545,Bug,Duplicate,Closed,2010/1/25 14:03,2010/1/25 14:11
+MNG-4546,Bug,Incomplete,Closed,2010/1/25 22:54,2014/1/23 4:31
+MNG-4548,Bug,Not A Problem,Closed,2010/1/27 15:41,2010/1/27 16:03
+MNG-4550,Bug,Incomplete,Closed,2010/1/27 23:27,2014/1/23 4:32
+MNG-4551,Bug,Fixed,Closed,2010/1/28 10:48,2011/2/12 20:14
+MNG-4552,Bug,Incomplete,Closed,2010/1/19 15:37,2014/1/23 4:31
+MNG-4553,Bug,Fixed,Closed,2010/1/31 19:20,2010/2/27 20:56
+MNG-4554,Bug,Fixed,Closed,2010/2/1 5:03,2010/2/1 23:58
+MNG-4555,Bug,Fixed,Closed,2010/2/1 5:47,2010/3/31 22:51
+MNG-4556,Bug,Incomplete,Closed,2010/2/2 18:21,2014/1/23 4:31
+MNG-4558,Bug,Not A Problem,Closed,2010/2/5 19:18,2010/2/6 0:39
+MNG-4559,Bug,Unresolved,Reopened,2010/2/8 15:42,
+MNG-4560,Bug,Duplicate,Closed,2010/2/9 15:18,2010/2/9 15:23
+MNG-4561,Bug,Fixed,Closed,2010/2/9 18:32,2010/2/15 1:29
+MNG-4562,Bug,Fixed,Closed,2010/2/16 18:19,2010/2/18 3:14
+MNG-4564,Bug,Fixed,Closed,2010/2/18 12:09,2010/6/30 11:12
+MNG-4565,Bug,Fixed,Closed,2010/2/19 13:54,2014/6/12 4:33
+MNG-4566,Improvement,Incomplete,Closed,2010/2/19 18:55,2014/1/23 4:31
+MNG-4567,Bug,Incomplete,Closed,2010/2/21 23:57,2014/1/23 4:32
+MNG-4568,Bug,Won't Fix,Closed,2010/2/24 3:36,2012/11/14 4:28
+MNG-4569,Bug,Cannot Reproduce,Closed,2010/2/24 16:28,2010/2/24 16:39
+MNG-4570,Bug,Fixed,Closed,2010/2/24 21:33,2010/2/28 21:03
+MNG-4571,Bug,Fixed,Closed,2010/2/25 16:25,2010/2/28 0:10
+MNG-4572,Bug,Fixed,Closed,2010/2/26 8:18,2010/2/26 21:40
+MNG-4573,Bug,Cannot Reproduce,Closed,2010/2/27 13:01,2010/2/27 19:50
+MNG-4574,Bug,Fixed,Closed,2010/2/16 4:54,2010/3/1 1:08
+MNG-4575,Bug,Incomplete,Closed,2010/3/3 9:26,2014/1/23 4:31
+MNG-4576,Bug,Not A Problem,Closed,2010/3/3 11:08,2010/3/3 12:50
+MNG-4577,Improvement,Won't Fix,Closed,2010/3/3 12:38,2010/3/4 3:29
+MNG-4578,Bug,Incomplete,Closed,2010/3/3 17:03,2014/1/23 4:31
+MNG-4579,Bug,Incomplete,Closed,2010/3/4 8:47,2014/1/23 4:31
+MNG-4580,Bug,Fixed,Closed,2010/3/4 9:09,2010/3/10 23:34
+MNG-4581,Bug,Incomplete,Closed,2010/3/9 12:04,2014/1/23 4:32
+MNG-4582,Bug,Duplicate,Closed,2010/3/10 10:20,2010/3/10 20:12
+MNG-4583,Bug,Not A Problem,Closed,2010/3/10 15:55,2010/3/10 18:16
+MNG-4584,Bug,Incomplete,Closed,2010/3/11 8:18,2014/1/23 4:31
+MNG-4585,Bug,Not A Problem,Closed,2010/3/11 10:56,2010/3/11 12:21
+MNG-4586,Bug,Fixed,Closed,2010/3/11 16:28,2010/3/11 18:51
+MNG-4587,Bug,Won't Fix,Closed,2010/3/14 1:47,2010/9/21 0:59
+MNG-4588,Bug,Fixed,Closed,2010/3/14 16:45,2012/12/1 22:35
+MNG-4589,Bug,Won't Fix,Closed,2010/3/15 5:48,2010/3/15 13:43
+MNG-4590,Bug,Fixed,Closed,2010/3/15 11:18,2010/3/15 22:34
+MNG-4591,Improvement,Fixed,Closed,2010/3/15 23:53,2010/3/16 1:06
+MNG-4592,Bug,Fixed,Closed,2010/3/16 15:44,2010/9/10 2:13
+MNG-4593,Bug,Not A Problem,Closed,2010/3/16 15:54,2010/3/16 16:27
+MNG-4595,Bug,Not A Problem,Closed,2010/3/16 20:02,2010/3/18 13:32
+MNG-4597,Bug,Incomplete,Closed,2010/3/17 19:57,2014/1/23 4:31
+MNG-4598,Improvement,Incomplete,Closed,2010/3/19 1:43,2014/1/23 4:32
+MNG-4599,Improvement,Won't Fix,Closed,2010/3/19 6:46,2010/3/19 7:06
+MNG-4600,Bug,Fixed,Closed,2010/3/19 20:23,2010/3/20 2:21
+MNG-4601,New Feature,Not A Problem,Closed,2010/3/19 21:39,2010/3/19 21:42
+MNG-4602,New Feature,Incomplete,Closed,2010/3/20 14:56,2014/1/23 4:31
+MNG-4604,Bug,Not A Problem,Closed,2010/3/22 14:22,2010/3/22 14:41
+MNG-4606,Bug,Not A Problem,Closed,2010/3/23 22:22,2010/3/23 22:39
+MNG-4607,Bug,Not A Problem,Closed,2010/3/25 18:41,2010/3/25 19:08
+MNG-4608,Improvement,Duplicate,Closed,2010/3/26 12:07,2010/3/26 14:32
+MNG-4609,Bug,Not A Problem,Closed,2010/3/26 16:31,2010/3/27 14:51
+MNG-4610,Improvement,Fixed,Closed,2010/3/26 17:55,2010/3/26 19:54
+MNG-4611,Bug,Not A Problem,Closed,2010/3/26 18:15,2010/3/26 19:32
+MNG-4612,Bug,Incomplete,Closed,2010/3/26 19:44,2014/1/23 4:31
+MNG-4614,Bug,Cannot Reproduce,Closed,2010/3/30 0:38,2010/3/30 13:27
+MNG-4615,Bug,Fixed,Closed,2010/3/31 19:17,2010/8/6 19:50
+MNG-4616,Improvement,Incomplete,Closed,2010/4/1 14:17,2014/1/23 4:31
+MNG-4617,Bug,Cannot Reproduce,Closed,2010/4/1 19:39,2010/4/1 19:57
+MNG-4618,Bug,Fixed,Closed,2010/4/3 22:34,2010/4/6 14:00
+MNG-4619,Improvement,Fixed,Closed,2010/4/4 14:43,2010/4/4 14:49
+MNG-4620,Bug,Duplicate,Closed,2010/4/5 18:34,2010/4/5 21:07
+MNG-4622,Improvement,Won't Fix,Closed,2010/4/7 3:12,2014/1/23 22:50
+MNG-4623,Improvement,Fixed,Closed,2010/4/7 7:58,2010/4/7 13:23
+MNG-4625,Bug,Fixed,Closed,2010/4/7 15:13,2010/4/7 16:45
+MNG-4626,Improvement,Incomplete,Closed,2010/4/7 16:32,2014/1/23 4:31
+MNG-4627,Bug,Duplicate,Closed,2010/4/7 20:50,2010/4/7 21:01
+MNG-4628,Improvement,Fixed,Closed,2010/4/7 21:56,2010/4/7 22:03
+MNG-4629,Bug,Fixed,Closed,2010/4/8 13:20,2010/4/8 13:42
+MNG-4630,Improvement,Duplicate,Closed,2010/4/12 4:39,2010/4/12 12:28
+MNG-4631,Test,Auto Closed,Closed,2010/4/12 23:11,2018/3/17 6:37
+MNG-4632,Bug,Fixed,Closed,2010/4/13 15:04,2010/4/13 20:35
+MNG-4633,Improvement,Won't Fix,Closed,2010/4/13 22:33,2014/1/23 22:46
+MNG-4634,Improvement,Fixed,Closed,2010/4/14 6:00,2010/4/14 6:18
+MNG-4635,Bug,Not A Problem,Closed,2010/4/19 18:12,2010/4/19 18:16
+MNG-4636,Improvement,Incomplete,Closed,2010/4/20 0:32,2014/1/23 4:32
+MNG-4637,Bug,Incomplete,Closed,2010/4/21 13:35,2014/1/23 4:32
+MNG-4638,Bug,Incomplete,Closed,2010/4/22 2:10,2010/4/22 11:51
+MNG-4639,New Feature,Unresolved,Open,2010/4/22 11:37,
+MNG-4641,Bug,Won't Fix,Closed,2010/4/25 14:23,2010/4/25 23:32
+MNG-4642,Improvement,Fixed,Closed,2010/4/26 0:37,2010/4/27 19:24
+MNG-4643,Bug,Fixed,Closed,2010/4/26 17:16,2010/5/30 0:57
+MNG-4644,Bug,Fixed,Closed,2010/4/26 20:30,2010/4/26 20:38
+MNG-4645,Improvement,Unresolved,Reopened,2010/4/27 1:00,
+MNG-4646,Improvement,Not A Problem,Closed,2010/4/27 4:58,2010/4/27 11:25
+MNG-4647,Bug,Not A Problem,Closed,2010/4/27 10:31,2010/4/27 12:23
+MNG-4648,Bug,Fixed,Closed,2010/4/27 12:26,2010/4/27 14:10
+MNG-4649,Bug,Not A Problem,Closed,2010/4/28 3:02,2010/4/28 12:15
+MNG-4650,Bug,Cannot Reproduce,Closed,2010/4/28 9:36,2010/4/28 12:32
+MNG-4651,Bug,Fixed,Closed,2010/4/28 19:26,2010/4/28 20:52
+MNG-4652,Bug,Incomplete,Closed,2010/4/29 19:07,2014/1/23 4:31
+MNG-4654,Bug,Fixed,Closed,2010/5/1 20:40,2010/5/1 20:43
+MNG-4655,Bug,Duplicate,Closed,2010/5/3 16:18,2010/5/3 16:22
+MNG-4656,New Feature,Incomplete,Closed,2010/5/3 21:40,2014/1/23 4:31
+MNG-4657,Bug,Fixed,Closed,2010/5/3 22:48,2010/5/3 22:59
+MNG-4658,Task,Fixed,Closed,2010/5/4 1:40,2010/5/4 12:58
+MNG-4659,Bug,Not A Problem,Closed,2010/5/4 18:03,2010/5/4 18:15
+MNG-4660,Bug,Auto Closed,Closed,2010/5/4 20:15,2018/3/17 6:37
+MNG-4661,Bug,Duplicate,Closed,2010/5/4 21:33,2010/5/4 21:38
+MNG-4662,Bug,Not A Problem,Closed,2010/5/4 21:52,2010/5/4 22:32
+MNG-4663,Bug,Not A Problem,Closed,2010/5/5 9:30,2010/5/8 21:49
+MNG-4664,Task,Fixed,Closed,2010/5/5 9:34,2010/5/5 12:50
+MNG-4665,Task,Fixed,Closed,2010/5/5 10:16,2010/5/5 14:16
+MNG-4666,Bug,Fixed,Closed,2010/5/5 18:08,2010/5/15 23:15
+MNG-4667,Bug,Incomplete,Closed,2010/5/6 9:43,2014/1/23 4:31
+MNG-4668,Bug,Incomplete,Closed,2010/5/7 1:31,2014/1/23 4:31
+MNG-4669,Wish,Fixed,Closed,2010/5/7 16:17,2010/5/7 16:28
+MNG-4670,Improvement,Incomplete,Closed,2007/8/15 21:00,2014/1/23 4:31
+MNG-4671,Bug,Not A Problem,Closed,2010/5/10 15:07,2010/5/10 15:13
+MNG-4672,Bug,Incomplete,Closed,2010/5/11 16:06,2014/1/23 4:32
+MNG-4673,Improvement,Duplicate,Closed,2010/5/12 21:19,2010/5/13 12:00
+MNG-4674,Wish,Not A Problem,Closed,2010/5/13 10:50,2010/5/13 11:39
+MNG-4675,Bug,Cannot Reproduce,Closed,2010/5/14 23:28,2010/11/21 18:27
+MNG-4677,Bug,Fixed,Closed,2010/5/17 19:05,2010/5/17 21:40
+MNG-4678,Bug,Fixed,Closed,2010/5/18 8:24,2010/5/23 15:23
+MNG-4679,Bug,Fixed,Closed,2010/5/18 17:25,2010/5/18 18:49
+MNG-4680,Bug,Not A Problem,Closed,2010/5/18 18:21,2011/8/10 21:18
+MNG-4681,Bug,Not A Problem,Closed,2010/5/19 13:28,2010/5/19 13:45
+MNG-4682,Bug,Fixed,Closed,2010/5/19 17:33,2010/6/18 22:10
+MNG-4683,Bug,Not A Problem,Closed,2010/5/20 18:40,2010/5/20 18:46
+MNG-4684,Bug,Fixed,Closed,2010/5/21 12:12,2010/5/21 15:12
+MNG-4685,Bug,Not A Problem,Closed,2010/5/21 13:11,2010/5/21 13:47
+MNG-4686,New Feature,Incomplete,Closed,2010/5/25 20:23,2014/1/23 4:32
+MNG-4687,Improvement,Auto Closed,Closed,2010/5/25 23:29,2016/1/13 4:12
+MNG-4688,Bug,Not A Problem,Closed,2010/5/26 20:43,2010/5/26 22:02
+MNG-4690,Bug,Fixed,Closed,2009/3/9 20:08,2010/8/25 2:22
+MNG-4691,Bug,Incomplete,Closed,2009/12/28 16:53,2010/6/2 0:16
+MNG-4692,Bug,Not A Problem,Closed,2010/5/28 16:24,2010/5/30 15:38
+MNG-4693,Improvement,Fixed,Closed,2010/5/30 23:50,2010/5/30 23:53
+MNG-4694,Bug,Not A Problem,Closed,2010/5/31 1:49,2010/5/31 7:05
+MNG-4695,Bug,Fixed,Closed,2010/5/31 12:54,2010/5/31 14:27
+MNG-4696,Bug,Fixed,Closed,2010/5/31 16:31,2010/5/31 19:35
+MNG-4697,Task,Fixed,Closed,2010/6/2 1:12,2010/6/3 22:53
+MNG-4698,Bug,Not A Problem,Closed,2010/6/2 22:31,2010/6/2 22:38
+MNG-4699,Improvement,Incomplete,Closed,2010/6/3 11:19,2014/1/23 4:31
+MNG-4700,Bug,Won't Fix,Closed,2010/6/4 0:25,2010/6/4 11:42
+MNG-4701,Bug,Incomplete,Closed,2010/6/4 14:42,2010/6/4 14:49
+MNG-4703,Bug,Not A Problem,Closed,2010/6/9 0:25,2010/6/9 0:48
+MNG-4704,Bug,Duplicate,Closed,2010/6/10 11:30,2010/6/10 11:55
+MNG-4705,Bug,Not A Problem,Closed,2010/6/10 17:16,2010/6/10 17:20
+MNG-4706,Bug,Unresolved,Open,2010/6/10 23:16,
+MNG-4708,Bug,Incomplete,Closed,2010/6/15 14:00,2014/1/23 4:31
+MNG-4709,New Feature,Duplicate,Closed,2010/6/15 22:40,2010/6/16 4:01
+MNG-4710,New Feature,Incomplete,Closed,2010/6/15 23:30,2014/1/23 4:31
+MNG-4712,Improvement,Incomplete,Closed,2010/6/17 10:11,2014/1/23 4:32
+MNG-4713,Bug,Incomplete,Closed,2010/6/18 7:58,2014/6/14 8:58
+MNG-4714,Bug,Not A Problem,Closed,2010/6/23 14:43,2010/6/23 16:11
+MNG-4715,Improvement,Unresolved,Open,2010/6/29 19:46,
+MNG-4716,Improvement,Incomplete,Closed,2010/7/1 20:25,2014/1/23 4:32
+MNG-4717,Bug,Fixed,Closed,2010/7/5 14:05,2010/7/18 17:25
+MNG-4718,Bug,Fixed,Closed,2010/7/6 10:05,2010/7/6 12:37
+MNG-4720,Task,Fixed,Closed,2010/7/8 22:48,2010/7/8 23:45
+MNG-4721,Task,Fixed,Closed,2010/7/9 16:56,2010/7/9 18:49
+MNG-4722,Bug,Duplicate,Closed,2010/7/9 21:54,2010/7/9 22:01
+MNG-4723,Bug,Cannot Reproduce,Closed,2010/7/9 22:08,2015/12/29 7:35
+MNG-4724,Bug,Incomplete,Closed,2010/7/11 0:14,2014/1/23 4:31
+MNG-4725,Task,Fixed,Closed,2010/7/12 18:10,2010/7/12 18:17
+MNG-4726,Bug,Duplicate,Closed,2010/7/12 20:23,2010/7/12 20:30
+MNG-4727,Improvement,Duplicate,Closed,2010/7/13 14:52,2010/7/13 14:58
+MNG-4728,Wish,Won't Fix,Closed,2010/7/13 20:26,2010/7/13 21:46
+MNG-4729,Bug,Fixed,Closed,2010/7/14 18:00,2010/7/17 19:21
+MNG-4730,Bug,Duplicate,Closed,2010/7/14 19:44,2010/7/17 20:50
+MNG-4731,Bug,Incomplete,Closed,2010/7/14 21:38,2014/1/23 4:32
+MNG-4732,Improvement,Fixed,Closed,2010/7/14 22:53,2010/7/18 0:56
+MNG-4733,Improvement,Won't Fix,Closed,2010/7/17 17:37,2012/11/14 2:47
+MNG-4734,Bug,Duplicate,Closed,2010/7/18 21:36,2010/7/18 22:06
+MNG-4735,Bug,Not A Problem,Closed,2010/7/19 21:49,2010/7/19 22:12
+MNG-4736,Bug,Not A Problem,Closed,2008/6/5 20:46,2010/7/21 12:18
+MNG-4737,Task,Fixed,Closed,2010/7/20 0:23,2010/7/20 0:38
+MNG-4738,Bug,Fixed,Closed,2010/7/21 20:42,2010/7/25 15:06
+MNG-4739,Improvement,Incomplete,Closed,2010/7/24 12:00,2014/1/23 4:31
+MNG-4740,Bug,Fixed,Closed,2010/7/26 11:49,2010/7/27 22:09
+MNG-4741,Bug,Cannot Reproduce,Closed,2010/7/27 19:15,2010/7/27 21:37
+MNG-4742,Bug,Incomplete,Closed,2010/7/27 19:23,2014/1/23 4:32
+MNG-4744,Improvement,Fixed,Closed,2010/7/30 13:40,2010/7/30 13:45
+MNG-4745,Bug,Fixed,Closed,2010/7/30 23:22,2010/8/25 2:29
+MNG-4746,Bug,Duplicate,Closed,2010/8/1 18:33,2010/8/1 19:25
+MNG-4747,Bug,Fixed,Closed,2010/8/2 16:22,2010/8/5 0:13
+MNG-4748,Bug,Not A Problem,Closed,2010/8/3 8:50,2010/8/5 13:28
+MNG-4749,Improvement,Fixed,Closed,2010/8/5 12:27,2010/8/24 14:20
+MNG-4750,Bug,Fixed,Closed,2010/8/5 14:22,2010/8/5 20:03
+MNG-4751,Bug,Fixed,Closed,2010/8/5 14:47,2010/9/15 19:10
+MNG-4752,New Feature,Incomplete,Closed,2010/8/6 19:59,2014/1/23 4:31
+MNG-4753,Bug,Not A Problem,Closed,2010/8/6 21:03,2010/8/6 21:29
+MNG-4754,Bug,Duplicate,Closed,2010/8/6 23:48,2010/8/7 12:15
+MNG-4755,Bug,Fixed,Closed,2010/8/7 17:27,2010/8/20 14:49
+MNG-4756,New Feature,Fixed,Closed,2010/8/7 18:47,2010/8/25 1:49
+MNG-4757,New Feature,Duplicate,Closed,2010/8/7 18:53,2010/8/7 18:56
+MNG-4758,Bug,Duplicate,Closed,2010/8/8 22:08,2010/8/9 13:27
+MNG-4759,New Feature,Incomplete,Closed,2010/8/10 22:47,2014/1/23 4:31
+MNG-4760,New Feature,Incomplete,Closed,2010/8/11 11:36,2014/1/23 4:31
+MNG-4761,Bug,Fixed,Closed,2010/8/11 18:59,2010/8/11 22:54
+MNG-4762,Bug,Fixed,Closed,2010/8/12 21:12,2010/8/12 23:26
+MNG-4763,Bug,Not A Problem,Closed,2010/8/13 11:54,2010/8/13 12:14
+MNG-4764,Bug,Fixed,Closed,2010/8/15 15:46,2010/8/15 15:48
+MNG-4765,Bug,Fixed,Closed,2010/8/16 20:36,2010/8/20 1:28
+MNG-4766,New Feature,Duplicate,Closed,2010/8/17 13:47,2010/8/17 14:00
+MNG-4767,Bug,Fixed,Closed,2010/8/17 19:48,2010/8/25 20:28
+MNG-4768,Bug,Fixed,Closed,2010/8/17 19:52,2010/8/25 2:22
+MNG-4769,Bug,Fixed,Closed,2010/8/17 21:14,2010/8/25 2:23
+MNG-4770,Bug,Not A Problem,Closed,2010/8/18 11:06,2010/8/18 12:12
+MNG-4771,Bug,Fixed,Closed,2010/8/20 16:43,2010/8/20 19:55
+MNG-4772,Bug,Fixed,Closed,2010/8/20 19:16,2010/8/20 19:56
+MNG-4773,Bug,Fixed,Closed,2010/8/20 22:01,2010/8/20 22:29
+MNG-4774,Bug,Not A Problem,Closed,2010/8/23 16:18,2010/8/24 12:35
+MNG-4775,Bug,Fixed,Closed,2010/8/23 21:36,2010/8/23 23:31
+MNG-4776,Bug,Fixed,Closed,2010/8/25 11:25,2010/8/25 20:02
+MNG-4777,Improvement,Incomplete,Closed,2010/8/25 13:00,2014/1/23 4:32
+MNG-4778,Bug,Duplicate,Closed,2010/8/25 16:07,2010/8/25 16:13
+MNG-4779,Bug,Fixed,Closed,2010/8/26 6:56,2010/8/30 14:19
+MNG-4780,Bug,Incomplete,Closed,2010/8/26 18:53,2014/1/23 4:32
+MNG-4781,Bug,Fixed,Closed,2010/8/26 19:05,2010/8/30 14:19
+MNG-4782,Improvement,Fixed,Closed,2010/8/26 21:45,2010/8/26 21:47
+MNG-4785,Bug,Fixed,Closed,2010/8/30 21:12,2010/9/9 18:22
+MNG-4786,Bug,Fixed,Closed,2010/8/31 15:07,2010/8/31 23:06
+MNG-4787,Improvement,Fixed,Closed,2010/9/1 0:23,2010/9/1 0:51
+MNG-4788,Bug,Fixed,Closed,2010/9/1 23:23,2010/9/9 1:40
+MNG-4789,Bug,Fixed,Closed,2010/9/2 0:39,2010/9/13 12:34
+MNG-4790,Bug,Not A Problem,Closed,2010/9/2 21:57,2010/9/7 21:19
+MNG-4791,Bug,Fixed,Closed,2010/9/2 22:03,2010/9/2 22:51
+MNG-4792,Bug,Fixed,Closed,2010/9/2 22:33,2011/9/22 17:57
+MNG-4793,Bug,Fixed,Closed,2010/9/2 23:20,2010/9/15 22:24
+MNG-4794,Bug,Fixed,Closed,2010/9/3 13:57,2010/9/26 18:50
+MNG-4795,Bug,Fixed,Closed,2010/9/4 21:59,2010/9/11 23:20
+MNG-4796,Wish,Fixed,Closed,2010/9/4 22:52,2010/9/5 0:29
+MNG-4797,Bug,Cannot Reproduce,Closed,2010/9/6 19:58,2010/9/16 14:00
+MNG-4798,Bug,Duplicate,Closed,2010/9/7 16:12,2010/9/26 18:51
+MNG-4799,Bug,Won't Fix,Closed,2010/9/8 11:43,2010/9/8 14:42
+MNG-4800,Bug,Fixed,Closed,2010/9/8 12:39,2010/9/13 12:34
+MNG-4802,New Feature,Incomplete,Closed,2010/9/9 11:58,2014/1/23 4:31
+MNG-4803,Improvement,Won't Fix,Closed,2010/9/9 14:00,2010/9/21 1:07
+MNG-4804,Improvement,Incomplete,Closed,2010/9/9 18:08,2014/1/23 4:31
+MNG-4805,Task,Fixed,Closed,2010/9/10 2:24,2010/9/10 13:13
+MNG-4806,Bug,Not A Problem,Closed,2010/9/11 17:02,2010/9/11 17:08
+MNG-4807,Task,Fixed,Closed,2010/9/13 12:56,2010/9/13 13:11
+MNG-4808,Bug,Duplicate,Closed,2010/9/13 20:06,2010/9/13 20:10
+MNG-4809,Bug,Incomplete,Closed,2010/9/14 21:54,2014/1/23 4:31
+MNG-4810,Bug,Fixed,Closed,2010/9/16 20:48,2010/9/17 1:28
+MNG-4811,Bug,Fixed,Closed,2010/9/16 21:12,2010/9/22 20:56
+MNG-4812,Bug,Not A Problem,Closed,2010/9/16 21:51,2010/9/16 22:01
+MNG-4813,Bug,Not A Problem,Closed,2010/9/16 23:21,2010/9/17 13:50
+MNG-4814,Bug,Fixed,Closed,2010/9/17 0:24,2010/9/17 1:19
+MNG-4815,Improvement,Fixed,Closed,2010/9/17 0:29,2010/9/22 20:05
+MNG-4816,Bug,Duplicate,Closed,2010/9/17 1:41,2010/9/17 6:20
+MNG-4817,Bug,Duplicate,Closed,2010/9/17 16:32,2010/9/17 16:40
+MNG-4818,Bug,Fixed,Closed,2010/9/17 17:03,2010/9/20 12:59
+MNG-4819,Bug,Duplicate,Closed,2010/9/17 17:27,2010/9/17 22:53
+MNG-4821,Bug,Duplicate,Closed,2010/9/17 21:11,2010/9/18 16:07
+MNG-4822,Bug,Fixed,Closed,2010/9/18 17:34,2010/9/19 14:55
+MNG-4823,Improvement,Incomplete,Closed,2010/9/19 19:50,2014/1/23 4:31
+MNG-4824,Improvement,Fixed,Closed,2010/9/19 19:55,2010/9/20 13:36
+MNG-4825,Improvement,Fixed,Closed,2010/9/19 20:01,2010/9/20 12:41
+MNG-4826,Improvement,Incomplete,Closed,2010/9/19 20:08,2014/1/23 4:31
+MNG-4827,Improvement,Incomplete,Closed,2010/9/19 20:14,2014/1/23 4:31
+MNG-4828,Improvement,Incomplete,Closed,2010/9/19 20:40,2014/1/23 4:31
+MNG-4829,Bug,Fixed,Closed,2010/9/20 14:11,2010/9/20 14:44
+MNG-4830,Improvement,Won't Fix,Closed,2010/9/20 23:46,2014/11/25 23:38
+MNG-4831,Improvement,Incomplete,Closed,2010/9/22 20:09,2014/1/23 4:31
+MNG-4832,Bug,Fixed,Closed,2010/9/22 23:24,2010/9/25 0:41
+MNG-4834,Bug,Fixed,Closed,2010/9/23 16:04,2010/9/25 18:19
+MNG-4836,Bug,Fixed,Closed,2010/9/23 19:40,2010/9/23 23:32
+MNG-4837,Bug,Fixed,Closed,2010/9/23 23:03,2010/9/23 23:05
+MNG-4838,Bug,Duplicate,Closed,2010/9/24 18:55,2013/8/20 13:02
+MNG-4839,Bug,Not A Problem,Closed,2010/9/27 14:26,2010/9/27 14:43
+MNG-4840,Bug,Fixed,Closed,2010/9/27 19:22,2011/1/4 22:34
+MNG-4841,Improvement,Duplicate,Closed,2010/9/27 22:03,2010/9/28 0:11
+MNG-4842,Bug,Fixed,Closed,2010/9/29 16:03,2010/9/30 0:32
+MNG-4843,Bug,Not A Problem,Closed,2010/9/30 11:37,2010/9/30 12:28
+MNG-4844,Bug,Duplicate,Closed,2010/9/30 15:40,2010/9/30 15:44
+MNG-4845,Bug,Fixed,Closed,2010/10/1 16:16,2010/10/1 16:43
+MNG-4846,Bug,Incomplete,Closed,2010/10/2 22:36,2014/1/23 4:31
+MNG-4847,Bug,Cannot Reproduce,Closed,2010/10/4 11:26,2010/10/31 1:39
+MNG-4849,Bug,Not A Problem,Closed,2010/10/4 17:55,2010/10/4 18:00
+MNG-4850,Bug,Fixed,Closed,2010/10/4 19:29,2010/11/19 1:12
+MNG-4851,Bug,Incomplete,Closed,2010/10/5 5:38,2014/1/23 4:31
+MNG-4853,Improvement,Incomplete,Closed,2010/10/5 21:15,2014/1/23 4:32
+MNG-4854,Bug,Not A Problem,Closed,2010/10/5 23:47,2010/10/6 0:06
+MNG-4855,Bug,Cannot Reproduce,Closed,2010/10/6 10:30,2010/10/6 11:07
+MNG-4856,Bug,Won't Fix,Closed,2010/10/6 18:41,2010/10/6 22:24
+MNG-4857,Improvement,Incomplete,Closed,2010/10/6 19:21,2014/1/23 4:31
+MNG-4858,Bug,Fixed,Closed,2010/10/8 17:58,2010/10/8 18:35
+MNG-4859,Improvement,Incomplete,Closed,2010/10/11 10:26,2014/1/23 4:31
+MNG-4860,Improvement,Fixed,Closed,2010/10/11 23:47,2010/10/11 23:50
+MNG-4861,Bug,Not A Problem,Closed,2010/10/12 15:44,2010/10/12 17:00
+MNG-4862,Improvement,Incomplete,Closed,2010/10/13 0:27,2014/1/23 4:31
+MNG-4863,Bug,Won't Fix,Closed,2010/10/13 18:53,2010/10/13 20:18
+MNG-4864,Bug,Fixed,Closed,2010/10/13 21:30,2010/10/17 16:59
+MNG-4865,Bug,Not A Problem,Closed,2010/10/14 11:58,2010/10/15 12:25
+MNG-4866,Bug,Fixed,Closed,2010/10/14 19:53,2010/10/14 20:02
+MNG-4867,Bug,Fixed,Closed,2010/10/16 11:19,2010/10/16 14:24
+MNG-4869,Improvement,Incomplete,Closed,2010/10/18 19:19,2014/1/23 4:31
+MNG-4871,Bug,Not A Problem,Closed,2010/10/19 23:57,2010/10/20 1:01
+MNG-4872,Bug,Fixed,Closed,2010/10/22 8:30,2010/10/23 1:17
+MNG-4874,Bug,Fixed,Closed,2010/10/22 19:54,2010/10/30 19:59
+MNG-4875,Bug,Not A Problem,Closed,2010/10/24 19:46,2010/10/24 23:19
+MNG-4877,Bug,Fixed,Closed,2010/10/25 14:06,2010/10/31 0:43
+MNG-4878,Bug,Won't Fix,Closed,2010/10/25 19:20,2010/10/30 17:28
+MNG-4879,Bug,Cannot Reproduce,Closed,2010/10/27 4:09,2010/10/27 11:16
+MNG-4881,Bug,Not A Problem,Closed,2010/10/29 15:54,2010/10/29 16:12
+MNG-4882,Bug,Incomplete,Closed,2010/11/1 10:16,2010/11/8 0:41
+MNG-4883,Bug,Fixed,Closed,2010/11/1 22:08,2010/11/19 0:46
+MNG-4884,Bug,Fixed,Closed,2010/11/2 15:15,2010/11/19 1:08
+MNG-4885,New Feature,Incomplete,Closed,2010/11/2 22:16,2014/1/23 4:31
+MNG-4886,Improvement,Fixed,Closed,2010/11/3 16:29,2010/11/8 0:31
+MNG-4887,Bug,Incomplete,Closed,2010/11/3 23:57,2010/11/8 0:31
+MNG-4889,Improvement,Incomplete,Closed,2010/11/8 9:26,2014/1/23 4:31
+MNG-4890,Bug,Fixed,Closed,2010/11/9 3:54,2010/11/14 18:19
+MNG-4891,Improvement,Fixed,Closed,2010/11/9 13:20,2010/11/9 14:32
+MNG-4892,Bug,Fixed,Closed,2010/11/9 15:00,2010/11/9 15:13
+MNG-4893,Bug,Won't Fix,Closed,2010/11/10 6:02,2014/11/25 22:40
+MNG-4894,Bug,Duplicate,Closed,2010/11/11 15:57,2010/11/11 19:07
+MNG-4895,Bug,Fixed,Closed,2010/11/12 13:52,2010/11/13 23:11
+MNG-4896,Improvement,Fixed,Closed,2010/11/12 23:29,2010/11/14 0:10
+MNG-4897,Bug,Cannot Reproduce,Closed,2010/11/14 14:08,2010/11/14 15:56
+MNG-4898,Improvement,Incomplete,Closed,2010/11/16 21:16,2014/1/23 4:31
+MNG-4899,Bug,Duplicate,Closed,2010/11/17 16:14,2010/11/17 18:02
+MNG-4900,Bug,Fixed,Closed,2010/11/17 19:58,2010/11/18 14:35
+MNG-4902,Task,Fixed,Closed,2010/11/18 17:49,2010/11/18 18:05
+MNG-4903,Task,Fixed,Closed,2010/11/18 20:13,2010/11/18 20:27
+MNG-4904,Improvement,Fixed,Closed,2010/11/18 21:21,2010/11/18 21:31
+MNG-4905,Bug,Duplicate,Closed,2010/11/18 22:38,2010/11/19 14:09
+MNG-4906,Bug,Not A Problem,Closed,2010/11/18 23:14,2010/11/18 23:20
+MNG-4907,Improvement,Fixed,Closed,2010/11/19 19:03,2010/11/21 17:23
+MNG-4909,Improvement,Fixed,Closed,2010/11/22 14:15,2010/11/22 14:19
+MNG-4910,Improvement,Fixed,Closed,2010/11/22 16:11,2010/11/22 16:51
+MNG-4911,Bug,Incomplete,Closed,2010/11/24 0:32,2014/1/23 4:31
+MNG-4912,Improvement,Fixed,Closed,2010/11/24 0:33,2010/11/26 14:39
+MNG-4913,Bug,Fixed,Closed,2010/11/24 1:10,2010/11/24 2:12
+MNG-4914,Improvement,Incomplete,Closed,2010/11/24 6:43,2014/1/23 4:31
+MNG-4915,Bug,Fixed,Closed,2010/11/24 13:20,2010/11/24 23:38
+MNG-4916,Improvement,Fixed,Closed,2010/11/25 4:52,2010/11/25 6:34
+MNG-4917,Bug,Not A Problem,Closed,2010/11/26 5:46,2010/11/26 13:52
+MNG-4918,Bug,Fixed,Closed,2010/11/26 13:39,2010/11/26 14:19
+MNG-4919,Bug,Fixed,Closed,2010/11/26 22:56,2011/1/5 17:19
+MNG-4920,Bug,Not A Problem,Closed,2010/11/29 10:41,2010/11/29 12:24
+MNG-4921,New Feature,Unresolved,Reopened,2010/11/29 14:26,
+MNG-4922,Improvement,Fixed,Closed,2010/12/2 1:01,2010/12/4 16:24
+MNG-4923,Bug,Fixed,Closed,2010/12/3 10:49,2010/12/3 15:24
+MNG-4924,Bug,Duplicate,Closed,2010/12/3 16:06,2010/12/3 23:12
+MNG-4925,Bug,Fixed,Closed,2010/12/3 19:49,2010/12/4 22:51
+MNG-4926,Improvement,Fixed,Closed,2010/12/4 15:29,2010/12/4 17:12
+MNG-4927,Bug,Not A Problem,Closed,2010/12/5 23:55,2010/12/6 12:20
+MNG-4928,Bug,Duplicate,Closed,2010/12/8 13:40,2010/12/8 14:48
+MNG-4929,Improvement,Incomplete,Closed,2010/12/8 14:20,2014/1/23 4:31
+MNG-4930,Bug,Duplicate,Closed,2010/12/8 23:11,2010/12/9 0:44
+MNG-4932,Improvement,Incomplete,Closed,2010/12/13 14:58,2010/12/13 15:07
+MNG-4933,Bug,Fixed,Closed,2010/12/13 19:02,2011/1/3 21:13
+MNG-4934,Bug,Cannot Reproduce,Closed,2010/12/14 11:02,2010/12/14 13:30
+MNG-4935,Improvement,Duplicate,Closed,2010/12/15 17:43,2010/12/15 18:04
+MNG-4936,New Feature,Fixed,Closed,2010/12/16 15:41,2010/12/16 21:03
+MNG-4937,New Feature,Fixed,Closed,2010/12/16 22:00,2010/12/16 22:05
+MNG-4938,Bug,Not A Problem,Closed,2010/12/17 9:47,2010/12/21 8:37
+MNG-4939,Bug,Duplicate,Closed,2010/12/17 10:23,2010/12/17 13:29
+MNG-4941,Bug,Fixed,Closed,2010/12/18 1:42,2010/12/18 1:44
+MNG-4942,New Feature,Incomplete,Closed,2010/12/18 10:08,2014/1/23 4:31
+MNG-4943,Improvement,Won't Fix,Closed,2010/12/18 18:41,2014/11/25 23:38
+MNG-4944,Improvement,Fixed,Closed,2010/12/18 23:10,2010/12/18 23:13
+MNG-4945,Task,Fixed,Closed,2010/12/18 23:34,2010/12/18 23:38
+MNG-4946,Improvement,Incomplete,Closed,2010/12/19 2:20,2014/1/23 4:31
+MNG-4947,Bug,Cannot Reproduce,Closed,2010/12/20 18:42,2010/12/21 1:45
+MNG-4948,Improvement,Duplicate,Closed,2010/12/21 1:02,2010/12/21 1:49
+MNG-4950,Improvement,Fixed,Closed,2010/12/22 14:01,2010/12/22 14:10
+MNG-4951,New Feature,Incomplete,Closed,2010/12/22 14:26,2014/1/23 4:31
+MNG-4952,Bug,Fixed,Closed,2010/12/23 14:20,2011/1/3 18:57
+MNG-4953,Improvement,Fixed,Closed,2010/12/23 15:24,2010/12/27 19:20
+MNG-4954,Bug,Incomplete,Closed,2010/12/23 16:05,2014/1/23 4:31
+MNG-4955,Bug,Fixed,Closed,2010/12/28 19:18,2011/1/3 17:31
+MNG-4956,Bug,Fixed,Closed,2010/12/30 6:48,2011/2/12 23:58
+MNG-4957,Task,Fixed,Closed,2011/1/3 22:44,2011/1/3 22:46
+MNG-4958,New Feature,Incomplete,Closed,2011/1/4 20:24,2014/1/23 4:32
+MNG-4959,Task,Fixed,Closed,2011/1/5 18:49,2011/1/5 18:57
+MNG-4960,Bug,Fixed,Closed,2011/1/5 21:01,2011/1/8 21:19
+MNG-4961,Bug,Duplicate,Closed,2011/1/6 8:51,2011/1/6 13:26
+MNG-4962,Bug,Fixed,Closed,2011/1/7 0:27,2011/2/24 14:33
+MNG-4963,Bug,Fixed,Closed,2011/1/7 10:53,2011/2/23 14:06
+MNG-4964,Bug,Not A Problem,Closed,2011/1/7 15:12,2011/1/7 15:28
+MNG-4965,Bug,Incomplete,Closed,2011/1/8 6:13,2011/1/8 15:18
+MNG-4966,Bug,Fixed,Closed,2011/1/8 15:09,2011/1/8 16:47
+MNG-4967,Improvement,Duplicate,Closed,2011/1/10 4:23,2011/1/10 13:14
+MNG-4968,New Feature,Duplicate,Closed,2011/1/10 12:44,2011/1/10 12:55
+MNG-4969,Bug,Incomplete,Closed,2011/1/10 13:26,2011/1/10 13:33
+MNG-4970,Improvement,Won't Fix,Closed,2011/1/13 0:04,2011/1/13 0:18
+MNG-4971,Improvement,Fixed,Closed,2011/1/13 1:39,2011/1/15 7:36
+MNG-4972,Bug,Cannot Reproduce,Closed,2011/1/13 6:23,2011/1/13 15:04
+MNG-4973,Bug,Fixed,Closed,2011/1/13 10:29,2011/1/15 7:26
+MNG-4975,Bug,Fixed,Closed,2011/1/13 12:00,2011/1/15 0:41
+MNG-4976,Bug,Not A Problem,Closed,2011/1/13 12:38,2011/1/13 13:48
+MNG-4979,Bug,Not A Bug,Closed,2011/1/14 21:42,2019/6/4 4:48
+MNG-4980,New Feature,Won't Fix,Closed,2011/1/16 10:44,2012/11/14 1:01
+MNG-4982,Bug,Fixed,Closed,2011/1/17 3:54,2011/2/24 15:07
+MNG-4983,Bug,Not A Problem,Closed,2011/1/18 22:19,2011/1/18 23:42
+MNG-4984,Improvement,Fixed,Closed,2011/1/19 15:45,2011/1/19 15:49
+MNG-4985,Bug,Duplicate,Closed,2011/1/19 16:56,2011/1/19 17:13
+MNG-4986,Bug,Cannot Reproduce,Closed,2011/1/20 3:05,2011/2/23 14:14
+MNG-4987,Bug,Fixed,Closed,2011/1/20 14:56,2011/2/23 18:26
+MNG-4988,Improvement,Fixed,Closed,2011/1/20 23:16,2011/1/21 2:57
+MNG-4989,Bug,Duplicate,Closed,2011/1/21 5:25,2011/1/21 13:15
+MNG-4990,Bug,Fixed,Closed,2011/1/21 17:14,2011/2/23 22:26
+MNG-4991,Bug,Fixed,Closed,2011/1/21 18:47,2011/2/24 1:48
+MNG-4992,Improvement,Fixed,Closed,2011/1/22 19:03,2011/2/12 18:09
+MNG-4993,Improvement,Incomplete,Closed,2011/1/24 11:44,2014/1/23 4:31
+MNG-4994,Bug,Duplicate,Closed,2011/1/25 7:28,2011/1/25 14:03
+MNG-4996,Bug,Cannot Reproduce,Closed,2010/12/23 10:18,2014/1/23 22:40
+MNG-4997,Bug,Fixed,Closed,2011/1/27 22:11,2011/2/12 22:31
+MNG-4998,Bug,Incomplete,Closed,2011/1/28 19:08,2014/1/23 4:31
+MNG-4999,Bug,Cannot Reproduce,Closed,2011/1/29 19:08,2014/1/23 22:39
+MNG-5000,Bug,Fixed,Closed,2011/1/31 19:13,2011/2/20 17:43
+MNG-5001,Bug,Unresolved,Open,2011/2/1 16:24,
+MNG-5002,Bug,Incomplete,Closed,2011/2/4 18:48,2014/1/23 4:31
+MNG-5003,Bug,Fixed,Closed,2011/2/4 22:16,2011/2/7 16:56
+MNG-5004,Bug,Duplicate,Closed,2011/2/7 23:14,2011/2/7 23:31
+MNG-5005,Bug,Fixed,Closed,2011/2/8 0:46,2011/2/8 0:55
+MNG-5006,Bug,Fixed,Closed,2011/2/8 16:24,2011/2/24 15:07
+MNG-5007,Wish,Incomplete,Closed,2011/2/10 12:29,2011/2/10 12:56
+MNG-5008,Bug,Incomplete,Closed,2011/2/11 13:22,2011/2/23 18:29
+MNG-5009,Bug,Fixed,Closed,2011/2/12 3:18,2011/2/12 15:57
+MNG-5011,Improvement,Fixed,Closed,2011/2/12 17:46,2011/2/12 18:11
+MNG-5012,Improvement,Fixed,Closed,2011/2/12 17:53,2011/2/12 18:12
+MNG-5013,Improvement,Fixed,Closed,2011/2/12 18:03,2011/2/12 18:16
+MNG-5014,Bug,Fixed,Closed,2011/2/13 15:28,2011/2/13 16:27
+MNG-5015,Bug,Not A Problem,Closed,2011/2/13 16:40,2011/2/13 16:45
+MNG-5016,Bug,Fixed,Closed,2011/2/17 23:26,2012/11/17 17:37
+MNG-5017,Wish,Incomplete,Closed,2011/2/18 12:59,2014/1/23 4:31
+MNG-5018,Improvement,Incomplete,Closed,2011/2/19 22:34,2011/2/20 15:19
+MNG-5019,Bug,Fixed,Closed,2011/2/22 1:01,2011/2/24 17:14
+MNG-5020,Improvement,Fixed,Closed,2011/2/22 1:20,2011/2/24 21:48
+MNG-5021,Bug,Cannot Reproduce,Closed,2011/2/22 13:34,2011/2/26 20:28
+MNG-5023,Bug,Fixed,Closed,2011/2/23 10:34,2011/2/24 21:07
+MNG-5024,Task,Fixed,Closed,2011/2/23 16:12,2011/2/23 16:24
+MNG-5025,Improvement,Incomplete,Closed,2011/2/25 0:29,2014/1/23 4:31
+MNG-5026,Improvement,Incomplete,Closed,2011/2/25 14:41,2014/1/23 4:31
+MNG-5027,Bug,Not A Problem,Closed,2011/2/27 20:17,2011/2/28 12:34
+MNG-5028,Improvement,Fixed,Closed,2011/2/28 12:24,2011/2/28 12:25
+MNG-5029,Bug,Not A Problem,Closed,2011/2/28 23:28,2011/2/28 23:38
+MNG-5030,New Feature,Incomplete,Closed,2011/3/1 2:01,2014/1/23 4:31
+MNG-5032,Improvement,Not A Problem,Closed,2011/3/3 8:18,2011/3/3 13:16
+MNG-5033,Improvement,Fixed,Closed,2011/3/3 14:30,2011/3/3 14:32
+MNG-5034,Bug,Duplicate,Closed,2011/3/7 14:12,2011/3/7 14:20
+MNG-5035,Bug,Not A Problem,Closed,2011/3/7 18:06,2011/3/7 19:49
+MNG-5036,Bug,Duplicate,Closed,2011/3/7 22:33,2013/2/2 16:54
+MNG-5037,Improvement,Incomplete,Closed,2011/3/9 10:28,2014/1/23 4:32
+MNG-5038,Bug,Incomplete,Closed,2011/3/11 10:14,2014/1/23 4:31
+MNG-5039,Bug,Duplicate,Closed,2011/3/11 18:52,2011/3/11 19:00
+MNG-5041,Bug,Cannot Reproduce,Closed,2011/3/14 17:02,2011/3/14 17:15
+MNG-5042,Bug,Fixed,Closed,2011/3/14 19:32,2014/1/23 22:37
+MNG-5043,Bug,Fixed,Closed,2011/3/15 0:44,2011/3/15 0:46
+MNG-5044,Wish,Fixed,Closed,2011/3/15 1:35,2011/3/15 1:39
+MNG-5045,Bug,Won't Fix,Closed,2011/3/21 16:47,2014/1/19 21:11
+MNG-5046,Task,Fixed,Closed,2011/3/21 19:52,2011/3/24 2:32
+MNG-5047,Bug,Incomplete,Closed,2011/3/21 20:24,2011/3/21 20:44
+MNG-5048,New Feature,Duplicate,Closed,2011/3/22 0:28,2011/3/22 0:38
+MNG-5051,Bug,Not A Problem,Closed,2011/3/23 19:20,2011/3/23 19:33
+MNG-5052,Bug,Duplicate,Closed,2011/3/23 21:50,2011/3/23 21:59
+MNG-5053,Bug,Fixed,Closed,2011/3/24 2:04,2012/11/14 1:35
+MNG-5054,Wish,Duplicate,Closed,2011/3/24 7:05,2011/3/24 14:05
+MNG-5055,New Feature,Incomplete,Closed,2011/3/23 17:18,2014/1/23 4:31
+MNG-5056,Bug,Fixed,Closed,2011/3/24 17:26,2015/1/21 21:20
+MNG-5057,Bug,Not A Problem,Closed,2011/3/24 18:14,2011/3/24 19:40
+MNG-5059,Improvement,Unresolved,Open,2011/4/6 18:14,
+MNG-5060,Bug,Not A Problem,Closed,2011/4/7 14:13,2011/4/7 14:35
+MNG-5061,Bug,Incomplete,Closed,2011/1/8 21:33,2014/1/23 4:31
+MNG-5062,Bug,Not A Problem,Closed,2011/4/12 13:51,2011/4/12 14:13
+MNG-5063,Bug,Not A Problem,Closed,2011/4/13 0:21,2014/1/11 16:08
+MNG-5064,Bug,Fixed,Closed,2011/4/13 10:34,2011/7/27 13:29
+MNG-5065,Bug,Not A Problem,Closed,2011/4/15 15:56,2011/6/15 6:04
+MNG-5066,Improvement,Duplicate,Closed,2011/4/18 12:23,2011/4/18 12:30
+MNG-5072,Bug,Not A Problem,Closed,2011/4/20 18:26,2011/4/20 18:30
+MNG-5073,Improvement,Fixed,Closed,2011/4/21 18:27,2011/9/27 17:57
+MNG-5074,Bug,Not A Problem,Closed,2011/4/21 19:40,2011/4/22 13:21
+MNG-5075,Bug,Fixed,Closed,2011/4/22 19:25,2014/1/5 21:18
+MNG-5076,Improvement,Fixed,Closed,2011/4/24 15:02,2011/4/24 19:00
+MNG-5077,Improvement,Incomplete,Closed,2011/4/25 2:20,2014/1/23 4:32
+MNG-5078,Bug,Fixed,Closed,2011/4/25 10:00,2011/7/27 3:09
+MNG-5080,Bug,Won't Fix,Closed,2011/4/26 15:38,2014/11/25 22:40
+MNG-5082,Bug,Won't Fix,Closed,2011/4/28 18:06,2015/6/5 18:13
+MNG-5083,New Feature,Incomplete,Closed,2011/4/30 8:44,2014/1/23 4:32
+MNG-5084,Bug,Fixed,Closed,2011/5/1 4:10,2012/11/14 1:46
+MNG-5085,Improvement,Won't Fix,Closed,2011/5/2 12:22,2012/11/14 1:47
+MNG-5086,Bug,Not A Problem,Closed,2011/5/7 11:59,2011/7/27 1:02
+MNG-5087,Bug,Fixed,Closed,2011/5/8 14:14,2014/1/23 22:35
+MNG-5088,Bug,Duplicate,Closed,2011/5/8 15:19,2011/5/9 14:31
+MNG-5090,Improvement,Duplicate,Closed,2011/5/10 5:49,2011/5/10 12:57
+MNG-5091,Improvement,Won't Fix,Closed,2011/5/11 18:43,2013/6/2 19:45
+MNG-5092,Bug,Incomplete,Closed,2011/5/12 17:04,2011/5/12 17:13
+MNG-5093,Bug,Incomplete,Closed,2011/5/13 19:12,2014/1/23 4:31
+MNG-5094,Bug,Cannot Reproduce,Closed,2011/5/17 11:43,2012/11/14 1:50
+MNG-5095,Bug,Incomplete,Closed,2011/5/19 17:50,2014/1/23 4:31
+MNG-5096,Bug,Fixed,Closed,2011/5/19 22:57,2011/7/27 13:46
+MNG-5097,Bug,Fixed,Closed,2011/5/21 10:23,2013/7/29 0:06
+MNG-5098,Bug,Incomplete,Closed,2011/5/22 19:53,2014/1/23 4:31
+MNG-5099,Bug,Cannot Reproduce,Closed,2011/5/23 20:23,2011/7/27 2:07
+MNG-5100,Improvement,Incomplete,Closed,2011/5/24 0:06,2014/1/23 4:31
+MNG-5101,Wish,Incomplete,Closed,2011/5/24 4:53,2014/1/23 4:31
+MNG-5102,Wish,Unresolved,Open,2011/5/24 5:18,
+MNG-5103,Bug,Incomplete,Closed,2011/5/24 22:13,2014/1/23 4:31
+MNG-5104,Improvement,Incomplete,Closed,2011/5/25 2:30,2014/1/23 4:32
+MNG-5105,Bug,Cannot Reproduce,Closed,2011/5/25 10:35,2014/1/23 22:34
+MNG-5107,Bug,Incomplete,Closed,2011/5/27 14:58,2014/1/23 4:31
+MNG-5108,Improvement,Fixed,Closed,2011/5/29 17:22,2011/6/15 6:03
+MNG-5109,Bug,Incomplete,Closed,2011/6/1 8:26,2014/1/23 4:31
+MNG-5112,Bug,Incomplete,Closed,2011/6/4 12:18,2014/1/23 4:31
+MNG-5113,Bug,Fixed,Closed,2011/6/7 17:08,2011/7/27 13:36
+MNG-5114,Test,Fixed,Closed,2011/6/7 23:14,2011/6/7 23:28
+MNG-5115,New Feature,Incomplete,Closed,2011/6/9 9:38,2014/1/23 4:31
+MNG-5116,Bug,Incomplete,Closed,2011/6/13 19:54,2014/1/23 4:32
+MNG-5117,Bug,Not A Problem,Closed,2011/6/14 0:31,2011/7/26 0:14
+MNG-5118,Wish,Fixed,Closed,2011/6/14 1:24,2011/6/14 1:26
+MNG-5119,Improvement,Fixed,Closed,2011/6/14 1:37,2011/8/30 18:02
+MNG-5120,New Feature,Not A Problem,Closed,2011/6/20 8:03,2012/11/14 1:53
+MNG-5121,Bug,Fixed,Closed,2011/6/21 23:04,2012/11/14 3:57
+MNG-5122,Bug,Cannot Reproduce,Closed,2011/6/22 19:09,2012/11/14 1:55
+MNG-5123,Bug,Incomplete,Closed,2011/6/27 2:13,2014/1/23 4:31
+MNG-5124,New Feature,Won't Fix,Closed,2011/6/28 13:06,2012/11/14 8:35
+MNG-5125,Bug,Fixed,Closed,2011/6/28 19:57,2012/7/30 23:15
+MNG-5126,Bug,Not A Problem,Closed,2011/6/29 9:38,2011/7/27 2:28
+MNG-5127,Bug,Unresolved,Open,2011/7/6 22:55,
+MNG-5128,Bug,Incomplete,Closed,2011/7/7 3:20,2014/1/23 4:31
+MNG-5129,Bug,Incomplete,Closed,2011/7/7 17:02,2014/1/23 4:31
+MNG-5130,Improvement,Incomplete,Closed,2011/7/8 5:15,2014/1/23 4:31
+MNG-5131,Bug,Fixed,Closed,2011/7/12 18:34,2011/7/27 13:34
+MNG-5133,Bug,Incomplete,Closed,2011/7/14 6:58,2014/1/23 4:31
+MNG-5134,Improvement,Fixed,Closed,2011/7/17 16:24,2011/9/18 21:25
+MNG-5135,Bug,Fixed,Closed,2011/7/20 23:25,2011/7/27 13:49
+MNG-5136,Bug,Cannot Reproduce,Closed,2011/7/25 18:04,2013/6/2 14:33
+MNG-5137,Bug,Fixed,Closed,2011/7/25 22:51,2011/7/27 13:40
+MNG-5138,Bug,Incomplete,Closed,2011/7/26 15:03,2014/1/23 4:32
+MNG-5139,Bug,Not A Problem,Closed,2011/7/27 18:33,2014/1/12 0:33
+MNG-5140,Bug,Fixed,Closed,2011/7/28 1:11,2011/7/28 1:13
+MNG-5141,Improvement,Fixed,Closed,2011/7/28 16:46,2011/7/28 16:55
+MNG-5142,Bug,Incomplete,Closed,2011/7/29 0:56,2014/1/23 4:32
+MNG-5143,New Feature,Incomplete,Closed,2011/7/30 14:45,2014/1/23 4:32
+MNG-5144,Improvement,Incomplete,Closed,2011/7/31 22:43,2014/1/23 4:31
+MNG-5145,Bug,Fixed,Closed,2011/8/1 8:05,2015/1/21 21:26
+MNG-5146,Bug,Auto Closed,Closed,2011/8/3 19:58,2018/3/17 6:39
+MNG-5147,New Feature,Incomplete,Closed,2011/8/4 4:24,2014/1/23 4:32
+MNG-5148,Improvement,Incomplete,Closed,2011/8/5 1:32,2014/1/23 4:32
+MNG-5149,Bug,Fixed,Closed,2011/8/5 2:31,2011/8/5 12:27
+MNG-5150,Bug,Incomplete,Closed,2011/8/7 15:43,2014/1/23 4:31
+MNG-5151,Improvement,Fixed,Closed,2011/8/9 11:56,2011/12/22 17:10
+MNG-5152,Improvement,Fixed,Closed,2011/8/9 12:00,2011/8/9 12:09
+MNG-5153,Bug,Fixed,Closed,2011/8/11 18:57,2011/8/11 19:46

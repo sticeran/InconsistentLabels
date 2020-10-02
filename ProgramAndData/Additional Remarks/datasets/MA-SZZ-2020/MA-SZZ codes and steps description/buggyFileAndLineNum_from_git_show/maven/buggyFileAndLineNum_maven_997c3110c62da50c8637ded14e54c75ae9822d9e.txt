@@ -1,0 +1,9 @@
+126,126 997c3110c62da50c8637ded14e54c75ae9822d9e^ maven-model-builder/src/main/java/org/apache/maven/model/inheritance/DefaultInheritanceAssembler.java
+127,127 997c3110c62da50c8637ded14e54c75ae9822d9e^ maven-model-builder/src/main/java/org/apache/maven/model/inheritance/DefaultInheritanceAssembler.java
+129,129 997c3110c62da50c8637ded14e54c75ae9822d9e^ maven-model-builder/src/main/java/org/apache/maven/model/inheritance/DefaultInheritanceAssembler.java
+130,130 997c3110c62da50c8637ded14e54c75ae9822d9e^ maven-model-builder/src/main/java/org/apache/maven/model/inheritance/DefaultInheritanceAssembler.java
+131,131 997c3110c62da50c8637ded14e54c75ae9822d9e^ maven-model-builder/src/main/java/org/apache/maven/model/inheritance/DefaultInheritanceAssembler.java
+132,132 997c3110c62da50c8637ded14e54c75ae9822d9e^ maven-model-builder/src/main/java/org/apache/maven/model/inheritance/DefaultInheritanceAssembler.java
+134,134 997c3110c62da50c8637ded14e54c75ae9822d9e^ maven-model-builder/src/main/java/org/apache/maven/model/inheritance/DefaultInheritanceAssembler.java
+135,135 997c3110c62da50c8637ded14e54c75ae9822d9e^ maven-model-builder/src/main/java/org/apache/maven/model/inheritance/DefaultInheritanceAssembler.java
+473,473 997c3110c62da50c8637ded14e54c75ae9822d9e^ maven-model-builder/src/main/java/org/apache/maven/model/merge/MavenModelMerger.java

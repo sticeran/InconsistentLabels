@@ -1,0 +1,6 @@
+275,275 d846d0d8aa472ba6a5c2d49e8f3233c356b309cb^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/manager/DefaultWagonManager.java
+276,276 d846d0d8aa472ba6a5c2d49e8f3233c356b309cb^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/manager/DefaultWagonManager.java
+282,282 d846d0d8aa472ba6a5c2d49e8f3233c356b309cb^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/manager/DefaultWagonManager.java
+283,283 d846d0d8aa472ba6a5c2d49e8f3233c356b309cb^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/manager/DefaultWagonManager.java
+401,401 d846d0d8aa472ba6a5c2d49e8f3233c356b309cb^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/manager/DefaultWagonManager.java
+137,137 d846d0d8aa472ba6a5c2d49e8f3233c356b309cb^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java

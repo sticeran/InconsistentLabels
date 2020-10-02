@@ -1,0 +1,2 @@
+155,155 e1ec22e4f24600006c20812f7e7362ac80a38656^ flume-ng-sinks/flume-ng-morphline-solr-sink/src/main/java/org/apache/flume/sink/solr/morphline/MorphlineSink.java
+156,156 e1ec22e4f24600006c20812f7e7362ac80a38656^ flume-ng-sinks/flume-ng-morphline-solr-sink/src/main/java/org/apache/flume/sink/solr/morphline/MorphlineSink.java

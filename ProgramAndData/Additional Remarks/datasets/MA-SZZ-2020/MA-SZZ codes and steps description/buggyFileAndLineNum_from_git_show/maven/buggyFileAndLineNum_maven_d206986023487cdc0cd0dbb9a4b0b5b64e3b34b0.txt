@@ -1,0 +1,2 @@
+1062,1062 d206986023487cdc0cd0dbb9a4b0b5b64e3b34b0^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+83,83 d206986023487cdc0cd0dbb9a4b0b5b64e3b34b0^ maven-project/src/test/java/org/apache/maven/project/AbstractMavenProjectTestCase.java

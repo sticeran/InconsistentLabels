@@ -1,0 +1,13 @@
+20,20 3a16b20f8ea42778d4203e789329c178f51432a6^ core/src/main/java/org/apache/mahout/clustering/minhash/HashFactory.java
+18,18 3a16b20f8ea42778d4203e789329c178f51432a6^ core/src/main/java/org/apache/mahout/vectorizer/encoders/MurmurHash.java
+18,18 3a16b20f8ea42778d4203e789329c178f51432a6^ core/src/test/java/org/apache/mahout/vectorizer/encoders/MurmurHashTest.java
+22,22 3a16b20f8ea42778d4203e789329c178f51432a6^ core/src/test/java/org/apache/mahout/vectorizer/encoders/MurmurHashTest.java
+28,28 3a16b20f8ea42778d4203e789329c178f51432a6^ core/src/test/java/org/apache/mahout/vectorizer/encoders/MurmurHashTest.java
+36,36 3a16b20f8ea42778d4203e789329c178f51432a6^ core/src/test/java/org/apache/mahout/vectorizer/encoders/MurmurHashTest.java
+43,43 3a16b20f8ea42778d4203e789329c178f51432a6^ core/src/test/java/org/apache/mahout/vectorizer/encoders/MurmurHashTest.java
+44,44 3a16b20f8ea42778d4203e789329c178f51432a6^ core/src/test/java/org/apache/mahout/vectorizer/encoders/MurmurHashTest.java
+45,45 3a16b20f8ea42778d4203e789329c178f51432a6^ core/src/test/java/org/apache/mahout/vectorizer/encoders/MurmurHashTest.java
+48,48 3a16b20f8ea42778d4203e789329c178f51432a6^ core/src/test/java/org/apache/mahout/vectorizer/encoders/MurmurHashTest.java
+71,71 3a16b20f8ea42778d4203e789329c178f51432a6^ core/src/test/java/org/apache/mahout/vectorizer/encoders/MurmurHashTest.java
+88,88 3a16b20f8ea42778d4203e789329c178f51432a6^ core/src/test/java/org/apache/mahout/vectorizer/encoders/MurmurHashTest.java
+104,104 3a16b20f8ea42778d4203e789329c178f51432a6^ core/src/test/java/org/apache/mahout/vectorizer/encoders/MurmurHashTest.java

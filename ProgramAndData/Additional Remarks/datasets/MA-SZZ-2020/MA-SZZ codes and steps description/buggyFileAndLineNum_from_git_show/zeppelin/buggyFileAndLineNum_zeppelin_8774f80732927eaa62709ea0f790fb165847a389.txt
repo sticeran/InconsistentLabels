@@ -1,0 +1,2 @@
+174,174 8774f80732927eaa62709ea0f790fb165847a389^ livy/src/main/java/org/apache/zeppelin/livy/LivySparkSQLInterpreter.java
+93,93 8774f80732927eaa62709ea0f790fb165847a389^ livy/src/test/java/org/apache/zeppelin/livy/LivySQLInterpreterTest.java

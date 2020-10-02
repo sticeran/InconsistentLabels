@@ -1,0 +1,16 @@
+106,106 9f8c7e326a9bcdc9c2873de967835c6b3bfaa665^ maven-plugins/maven-jar-plugin/src/main/java/org/apache/maven/plugin/jar/AbstractJarMojo.java
+107,107 9f8c7e326a9bcdc9c2873de967835c6b3bfaa665^ maven-plugins/maven-jar-plugin/src/main/java/org/apache/maven/plugin/jar/AbstractJarMojo.java
+108,108 9f8c7e326a9bcdc9c2873de967835c6b3bfaa665^ maven-plugins/maven-jar-plugin/src/main/java/org/apache/maven/plugin/jar/AbstractJarMojo.java
+109,109 9f8c7e326a9bcdc9c2873de967835c6b3bfaa665^ maven-plugins/maven-jar-plugin/src/main/java/org/apache/maven/plugin/jar/AbstractJarMojo.java
+51,51 9f8c7e326a9bcdc9c2873de967835c6b3bfaa665^ maven-plugins/maven-jar-plugin/src/main/java/org/apache/maven/plugin/jar/JarMojo.java
+52,52 9f8c7e326a9bcdc9c2873de967835c6b3bfaa665^ maven-plugins/maven-jar-plugin/src/main/java/org/apache/maven/plugin/jar/JarMojo.java
+57,57 9f8c7e326a9bcdc9c2873de967835c6b3bfaa665^ maven-plugins/maven-jar-plugin/src/main/java/org/apache/maven/plugin/jar/JarMojo.java
+59,59 9f8c7e326a9bcdc9c2873de967835c6b3bfaa665^ maven-plugins/maven-jar-plugin/src/main/java/org/apache/maven/plugin/jar/JarMojo.java
+48,48 9f8c7e326a9bcdc9c2873de967835c6b3bfaa665^ maven-plugins/maven-jar-plugin/src/main/java/org/apache/maven/plugin/jar/TestJarMojo.java
+60,60 9f8c7e326a9bcdc9c2873de967835c6b3bfaa665^ maven-plugins/maven-jar-plugin/src/main/java/org/apache/maven/plugin/jar/TestJarMojo.java
+61,61 9f8c7e326a9bcdc9c2873de967835c6b3bfaa665^ maven-plugins/maven-jar-plugin/src/main/java/org/apache/maven/plugin/jar/TestJarMojo.java
+62,62 9f8c7e326a9bcdc9c2873de967835c6b3bfaa665^ maven-plugins/maven-jar-plugin/src/main/java/org/apache/maven/plugin/jar/TestJarMojo.java
+63,63 9f8c7e326a9bcdc9c2873de967835c6b3bfaa665^ maven-plugins/maven-jar-plugin/src/main/java/org/apache/maven/plugin/jar/TestJarMojo.java
+65,65 9f8c7e326a9bcdc9c2873de967835c6b3bfaa665^ maven-plugins/maven-jar-plugin/src/main/java/org/apache/maven/plugin/jar/TestJarMojo.java
+67,67 9f8c7e326a9bcdc9c2873de967835c6b3bfaa665^ maven-plugins/maven-jar-plugin/src/main/java/org/apache/maven/plugin/jar/TestJarMojo.java
+68,68 9f8c7e326a9bcdc9c2873de967835c6b3bfaa665^ maven-plugins/maven-jar-plugin/src/main/java/org/apache/maven/plugin/jar/TestJarMojo.java

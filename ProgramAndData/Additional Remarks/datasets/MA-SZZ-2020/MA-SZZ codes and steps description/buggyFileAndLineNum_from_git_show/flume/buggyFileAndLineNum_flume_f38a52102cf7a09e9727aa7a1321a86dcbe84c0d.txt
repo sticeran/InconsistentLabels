@@ -1,0 +1,1 @@
+79,79 f38a52102cf7a09e9727aa7a1321a86dcbe84c0d^ flume-ng-sinks/flume-hive-sink/src/test/java/org/apache/flume/sink/hive/TestUtil.java

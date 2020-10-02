@@ -1,0 +1,10 @@
+46,46 f215374bdf9a08b16fa7ccd3b40098024afe8677^ flume-ng-auth/src/main/java/org/apache/flume/auth/UGIExecutor.java
+47,47 f215374bdf9a08b16fa7ccd3b40098024afe8677^ flume-ng-auth/src/main/java/org/apache/flume/auth/UGIExecutor.java
+48,48 f215374bdf9a08b16fa7ccd3b40098024afe8677^ flume-ng-auth/src/main/java/org/apache/flume/auth/UGIExecutor.java
+49,49 f215374bdf9a08b16fa7ccd3b40098024afe8677^ flume-ng-auth/src/main/java/org/apache/flume/auth/UGIExecutor.java
+50,50 f215374bdf9a08b16fa7ccd3b40098024afe8677^ flume-ng-auth/src/main/java/org/apache/flume/auth/UGIExecutor.java
+51,51 f215374bdf9a08b16fa7ccd3b40098024afe8677^ flume-ng-auth/src/main/java/org/apache/flume/auth/UGIExecutor.java
+52,52 f215374bdf9a08b16fa7ccd3b40098024afe8677^ flume-ng-auth/src/main/java/org/apache/flume/auth/UGIExecutor.java
+53,53 f215374bdf9a08b16fa7ccd3b40098024afe8677^ flume-ng-auth/src/main/java/org/apache/flume/auth/UGIExecutor.java
+86,86 f215374bdf9a08b16fa7ccd3b40098024afe8677^ flume-ng-auth/src/test/java/org/apache/flume/auth/TestFlumeAuthenticator.java
+142,142 f215374bdf9a08b16fa7ccd3b40098024afe8677^ flume-ng-auth/src/test/java/org/apache/flume/auth/TestFlumeAuthenticator.java

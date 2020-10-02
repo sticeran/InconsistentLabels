@@ -1,0 +1,2 @@
+94,94 5a873225d654b4964889e0855f863b58983b2fe3^ flume-core/src/main/java/com/cloudera/flume/core/extractors/RegexAllExtractor.java
+68,68 5a873225d654b4964889e0855f863b58983b2fe3^ flume-core/src/test/java/com/cloudera/flume/core/extractors/TestExtractors.java

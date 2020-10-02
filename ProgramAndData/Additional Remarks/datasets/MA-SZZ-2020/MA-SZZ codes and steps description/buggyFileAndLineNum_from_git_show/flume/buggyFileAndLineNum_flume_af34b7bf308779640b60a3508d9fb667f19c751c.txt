@@ -1,0 +1,8 @@
+68,68 af34b7bf308779640b60a3508d9fb667f19c751c^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogUtils.java
+69,69 af34b7bf308779640b60a3508d9fb667f19c751c^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogUtils.java
+70,70 af34b7bf308779640b60a3508d9fb667f19c751c^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogUtils.java
+71,71 af34b7bf308779640b60a3508d9fb667f19c751c^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogUtils.java
+72,72 af34b7bf308779640b60a3508d9fb667f19c751c^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogUtils.java
+73,73 af34b7bf308779640b60a3508d9fb667f19c751c^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogUtils.java
+74,74 af34b7bf308779640b60a3508d9fb667f19c751c^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogUtils.java
+75,75 af34b7bf308779640b60a3508d9fb667f19c751c^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogUtils.java

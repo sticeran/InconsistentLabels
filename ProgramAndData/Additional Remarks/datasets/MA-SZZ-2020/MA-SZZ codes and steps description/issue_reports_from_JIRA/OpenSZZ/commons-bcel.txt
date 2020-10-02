@@ -1,0 +1,172 @@
+'64b78be41badc850bca424c2e375dae1f56b247d;2019-09-04T19:10:22+02:00;luca9294;Bugs fixing;'
+M	src/com/SZZ/app/SZZApplication.java
+M	src/com/SZZ/jiraAnalyser/Application.java
+M	src/com/SZZ/jiraAnalyser/entities/Issue.java
+M	src/com/SZZ/jiraAnalyser/entities/Link.java
+M	src/com/SZZ/jiraAnalyser/entities/LinkManager.java
+M	src/com/SZZ/jiraAnalyser/entities/Storage.java
+M	src/com/SZZ/jiraAnalyser/entities/Suspect.java
+M	src/com/SZZ/jiraAnalyser/entities/Transaction.java
+M	src/com/SZZ/jiraAnalyser/entities/TransactionManager.java
+M	src/com/SZZ/jiraAnalyser/git/Git.java
+M	src/com/SZZ/jiraAnalyser/git/JiraRetriever.java
+
+'822c61df0148f1ab54629585037d0572afe242c4;2019-09-04T18:03:47+03:00;Davide Taibi;removed SZZ folder;'
+D	SZZ/.classpath
+D	SZZ/.gitignore
+D	SZZ/.project
+D	SZZ/.settings/org.eclipse.jdt.core.prefs
+
+'f992c547d9e5d436c7704b103496505c810c3b39;2019-09-04T18:02:11+03:00;Davide Taibi;hidden files;'
+A	.classpath
+A	.gitignore
+A	.project
+A	.settings/org.eclipse.jdt.core.prefs
+
+'5e097bd0e68af9af76d9046699c860034ad9f24f;2019-09-04T12:25:28+03:00;davidetaibi;Update README.md;'
+M	README.md
+
+'f7b9073acfd2b9bf6ef7fba2daa5e88cb465e220;2019-09-04T12:23:40+03:00;davidetaibi;Update README.md;'
+M	README.md
+
+'a96ab6b81e59b8dbf80520309322e945475a4864;2019-09-04T12:22:14+03:00;Davide Taibi;directory cleaning;'
+R100	SZZ/LICENSE	LICENSE
+R100	SZZ/README.md	README.md
+R100	SZZ/httpclient-4.1.1.jar	httpclient-4.1.1.jar
+R100	SZZ/jira-api-7.9.0-QR-20180316142030.jar	jira-api-7.9.0-QR-20180316142030.jar
+R100	SZZ/log4j-1.2.17.jar	log4j-1.2.17.jar
+R100	SZZ/log4j.properties	log4j.properties
+R100	SZZ/org.eclipse.jgit-4.9.0.201710071750-r.jar	org.eclipse.jgit-4.9.0.201710071750-r.jar
+R100	SZZ/slf4j-api-1.7.25.jar	slf4j-api-1.7.25.jar
+R100	SZZ/src/.DS_Store	src/.DS_Store
+R100	SZZ/src/com/SZZ/app/SZZApplication.java	src/com/SZZ/app/SZZApplication.java
+R100	SZZ/src/com/SZZ/jiraAnalyser/Application.java	src/com/SZZ/jiraAnalyser/Application.java
+R100	SZZ/src/com/SZZ/jiraAnalyser/entities/Issue.java	src/com/SZZ/jiraAnalyser/entities/Issue.java
+R100	SZZ/src/com/SZZ/jiraAnalyser/entities/Link.java	src/com/SZZ/jiraAnalyser/entities/Link.java
+R100	SZZ/src/com/SZZ/jiraAnalyser/entities/LinkManager.java	src/com/SZZ/jiraAnalyser/entities/LinkManager.java
+R100	SZZ/src/com/SZZ/jiraAnalyser/entities/Storage.java	src/com/SZZ/jiraAnalyser/entities/Storage.java
+R100	SZZ/src/com/SZZ/jiraAnalyser/entities/Suspect.java	src/com/SZZ/jiraAnalyser/entities/Suspect.java
+R100	SZZ/src/com/SZZ/jiraAnalyser/entities/Transaction.java	src/com/SZZ/jiraAnalyser/entities/Transaction.java
+R100	SZZ/src/com/SZZ/jiraAnalyser/entities/TransactionManager.java	src/com/SZZ/jiraAnalyser/entities/TransactionManager.java
+R100	SZZ/src/com/SZZ/jiraAnalyser/git/Git.java	src/com/SZZ/jiraAnalyser/git/Git.java
+R100	SZZ/src/com/SZZ/jiraAnalyser/git/JiraRetriever.java	src/com/SZZ/jiraAnalyser/git/JiraRetriever.java
+R100	SZZ/src/com/SZZ/logUtils/CreateLogFile.java	src/com/SZZ/logUtils/CreateLogFile.java
+R100	SZZ/src/com/SZZ/logUtils/LogParser.java	src/com/SZZ/logUtils/LogParser.java
+R100	SZZ/src/com/SZZ/logUtils/ParsingLog.java	src/com/SZZ/logUtils/ParsingLog.java
+
+'759cf35f3bedf10b30a7b310a6f35efd4f006651;2019-09-04T12:14:14+03:00;davidetaibi;Update README.md;'
+M	SZZ/README.md
+
+'778465624d99ac725d80da1afecc95f068ae0ecb;2018-11-03T13:46:18+01:00;luca9294;Bugs;'
+M	SZZ/src/com/SZZ/app/SZZApplication.java
+M	SZZ/src/com/SZZ/jiraAnalyser/Application.java
+M	SZZ/src/com/SZZ/jiraAnalyser/git/Git.java
+M	SZZ/src/com/SZZ/jiraAnalyser/git/JiraRetriever.java
+
+'f74e25c13b14dd752fb15b1b42bfeda16dd70515;2018-11-03T12:59:47+01:00;luca9294;Merge branch 'master' of https://github.com/pervcomp/SZZ.git;'
+'e3a79794c6c7d359e391e21f179cf99986ea526e;2018-11-03T12:59:38+01:00;luca9294;URL;'
+M	SZZ/src/com/SZZ/app/SZZApplication.java
+
+'e4198927ebfc510bcc89251df241de33047374fe;2018-11-03T12:56:23+01:00;luca9294;Update README.md;'
+M	SZZ/README.md
+
+'465e4d35a6d9996d5c9067f70871abaea83b5c1e;2018-11-03T12:50:25+01:00;luca9294;Update README.md;'
+M	SZZ/README.md
+
+'d716e81c98bd9b5cbabf50b428307e31d3d46499;2018-11-03T11:31:10+01:00;luca9294;Extra checks;'
+M	SZZ/src/com/SZZ/app/SZZApplication.java
+M	SZZ/src/com/SZZ/jiraAnalyser/git/JiraRetriever.java
+
+'1f68dd9e34e642e6d38fc613f14461d19794e48f;2018-11-03T11:18:08+01:00;luca9294;Merge branch 'master' of https://github.com/pervcomp/SZZ.git;'
+'11f35548032d64a48ec44507f7efda7228417e6a;2018-11-03T11:17:58+01:00;luca9294;All option implemnted;'
+M	SZZ/src/com/SZZ/app/SZZApplication.java
+M	SZZ/src/com/SZZ/jiraAnalyser/git/Git.java
+
+'a61fbf7ba840f59820ff380af27577b301e83ab1;2018-11-03T11:00:01+01:00;luca9294;Update README.md;'
+M	SZZ/README.md
+
+'0ae2b447d6501784a97cd4b13b57b93b969f6f66;2018-11-03T10:59:34+01:00;luca9294;-m options;'
+M	SZZ/src/com/SZZ/app/SZZApplication.java
+M	SZZ/src/com/SZZ/jiraAnalyser/Application.java
+M	SZZ/src/com/SZZ/jiraAnalyser/entities/Link.java
+M	SZZ/src/com/SZZ/jiraAnalyser/entities/LinkManager.java
+M	SZZ/src/com/SZZ/jiraAnalyser/entities/Storage.java
+M	SZZ/src/com/SZZ/jiraAnalyser/entities/TransactionManager.java
+M	SZZ/src/com/SZZ/jiraAnalyser/git/Git.java
+M	SZZ/src/com/SZZ/jiraAnalyser/git/JiraRetriever.java
+
+'37178d37cfb716f96e699a2e7ba047927d096ef4;2018-11-03T10:07:27+01:00;luca9294;Merge branch 'master' of https://github.com/pervcomp/SZZ.git;'
+'03edcc3ac13c75fa5eb206457a9077f15efea4de;2018-11-03T10:07:16+01:00;luca9294;save git log implemented;'
+M	SZZ/src/com/SZZ/app/SZZApplication.java
+M	SZZ/src/com/SZZ/jiraAnalyser/entities/Storage.java
+M	SZZ/src/com/SZZ/jiraAnalyser/entities/TransactionManager.java
+M	SZZ/src/com/SZZ/jiraAnalyser/git/Git.java
+
+'b8040c571740836e609d20fee73da135d7a34b89;2018-11-03T09:29:26+01:00;luca9294;Update README.md;'
+M	SZZ/README.md
+
+'9d3d774d5e62cbed32e896a4b2ece4ea20c5c03f;2018-11-03T09:15:50+01:00;luca9294;Faults are now combined into one file;'
+M	SZZ/src/com/SZZ/app/SZZApplication.java
+M	SZZ/src/com/SZZ/jiraAnalyser/Application.java
+M	SZZ/src/com/SZZ/jiraAnalyser/git/JiraRetriever.java
+
+'4bd5ec4f6da1df44dba8a72998d81daf14327aa0;2018-10-28T18:20:25+01:00;luca9294;Merge branch 'master' of https://github.com/pervcomp/SZZ.git;'
+'6dfd287a3b8f14841a8010cd410e0e9aaabe1f29;2018-10-28T18:09:03+01:00;luca9294;Issues are now Downloaded;'
+A	SZZ/src/com/SZZ/app/SZZApplication.java
+A	SZZ/src/com/SZZ/jiraAnalyser/Application.java
+A	SZZ/src/com/SZZ/jiraAnalyser/entities/Issue.java
+A	SZZ/src/com/SZZ/jiraAnalyser/entities/Link.java
+A	SZZ/src/com/SZZ/jiraAnalyser/entities/LinkManager.java
+A	SZZ/src/com/SZZ/jiraAnalyser/entities/Storage.java
+A	SZZ/src/com/SZZ/jiraAnalyser/entities/Suspect.java
+A	SZZ/src/com/SZZ/jiraAnalyser/entities/Transaction.java
+A	SZZ/src/com/SZZ/jiraAnalyser/entities/TransactionManager.java
+A	SZZ/src/com/SZZ/jiraAnalyser/git/Git.java
+A	SZZ/src/com/SZZ/jiraAnalyser/git/JiraRetriever.java
+A	SZZ/src/com/SZZ/logUtils/CreateLogFile.java
+A	SZZ/src/com/SZZ/logUtils/LogParser.java
+A	SZZ/src/com/SZZ/logUtils/ParsingLog.java
+D	SZZ/src/com/violation/jiraAnalyser/entities/Issue.java
+D	SZZ/src/com/violation/jiraAnalyser/entities/Link.java
+D	SZZ/src/com/violation/jiraAnalyser/entities/LinkManager.java
+D	SZZ/src/com/violation/jiraAnalyser/entities/Storage.java
+D	SZZ/src/com/violation/jiraAnalyser/entities/Suspect.java
+D	SZZ/src/com/violation/jiraAnalyser/entities/Transaction.java
+D	SZZ/src/com/violation/jiraAnalyser/entities/TransactionManager.java
+D	SZZ/src/com/violation/jiraAnalyser/git/Git.java
+D	SZZ/src/com/violation/jiraAnalyser/git/JiraRetriever.java
+D	SZZ/src/com/violation/logUtils/CreateLogFile.java
+D	SZZ/src/com/violation/logUtils/LogParser.java
+D	SZZ/src/com/violation/logUtils/ParsingLog.java
+
+'b20d0cc76ea9340cd6be99c886650990f599f5a1;2018-10-28T15:05:51+01:00;luca9294;Update README.md;'
+M	SZZ/README.md
+
+'0fe20fe5df71c5a48d2d74283c184329051a3740;2018-10-28T14:24:54+01:00;luca9294;README file;'
+A	SZZ/LICENSE
+A	SZZ/README.md
+
+'02af9f10a54a3b76972ca982dc6ee35791707512;2018-10-28T14:24:10+01:00;luca9294;First Commit;'
+A	SZZ/.classpath
+A	SZZ/.gitignore
+A	SZZ/.project
+A	SZZ/.settings/org.eclipse.jdt.core.prefs
+A	SZZ/httpclient-4.1.1.jar
+A	SZZ/jira-api-7.9.0-QR-20180316142030.jar
+A	SZZ/log4j-1.2.17.jar
+A	SZZ/log4j.properties
+A	SZZ/org.eclipse.jgit-4.9.0.201710071750-r.jar
+A	SZZ/slf4j-api-1.7.25.jar
+A	SZZ/src/.DS_Store
+A	SZZ/src/com/violation/jiraAnalyser/entities/Issue.java
+A	SZZ/src/com/violation/jiraAnalyser/entities/Link.java
+A	SZZ/src/com/violation/jiraAnalyser/entities/LinkManager.java
+A	SZZ/src/com/violation/jiraAnalyser/entities/Storage.java
+A	SZZ/src/com/violation/jiraAnalyser/entities/Suspect.java
+A	SZZ/src/com/violation/jiraAnalyser/entities/Transaction.java
+A	SZZ/src/com/violation/jiraAnalyser/entities/TransactionManager.java
+A	SZZ/src/com/violation/jiraAnalyser/git/Git.java
+A	SZZ/src/com/violation/jiraAnalyser/git/JiraRetriever.java
+A	SZZ/src/com/violation/logUtils/CreateLogFile.java
+A	SZZ/src/com/violation/logUtils/LogParser.java
+A	SZZ/src/com/violation/logUtils/ParsingLog.java

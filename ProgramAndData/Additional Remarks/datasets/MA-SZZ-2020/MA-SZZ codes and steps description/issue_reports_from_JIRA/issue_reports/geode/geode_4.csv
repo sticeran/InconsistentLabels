@@ -1,0 +1,1001 @@
+issueKey,type,resolution,status,createdDateEpoch,resolvedDateEpoch
+GEODE-4011,Bug,Fixed,Closed,2017/11/23 5:27,2017/12/5 23:00
+GEODE-4012,Improvement,Won't Fix,Closed,2017/11/23 7:15,2019/1/8 11:46
+GEODE-4013,Bug,Fixed,Closed,2017/11/23 8:39,2018/2/17 1:39
+GEODE-4014,Bug,Fixed,Closed,2017/11/28 2:28,2017/11/29 3:22
+GEODE-4015,Bug,Fixed,Closed,2017/11/28 2:35,2018/1/23 1:08
+GEODE-4016,Sub-task,Fixed,Closed,2017/11/28 3:54,2018/1/10 1:24
+GEODE-4017,Sub-task,Fixed,Closed,2017/11/28 6:18,2017/12/19 9:22
+GEODE-4018,Bug,Invalid,Closed,2017/11/28 8:31,2017/11/29 2:28
+GEODE-4019,Task,Invalid,Closed,2017/11/29 2:22,2017/11/29 2:23
+GEODE-4020,Sub-task,Fixed,Closed,2017/11/29 2:25,2017/12/19 9:22
+GEODE-4021,Sub-task,Fixed,Closed,2017/11/29 2:26,2017/12/19 9:22
+GEODE-4022,Sub-task,Fixed,Closed,2017/11/29 2:28,2017/12/19 9:21
+GEODE-4023,Improvement,Fixed,Closed,2017/11/29 5:29,2018/4/20 12:03
+GEODE-4024,Wish,Unresolved,Open,2017/11/29 5:37,
+GEODE-4025,Sub-task,Won't Fix,Closed,2017/11/29 5:42,2018/1/23 2:20
+GEODE-4026,Task,Fixed,Closed,2017/11/29 11:43,2017/11/29 11:47
+GEODE-4027,Improvement,Unresolved,Open,2017/11/29 14:22,
+GEODE-4028,Bug,Duplicate,Closed,2017/11/30 4:30,2017/11/30 5:45
+GEODE-4029,Bug,Fixed,Closed,2017/11/30 5:09,2017/12/5 22:59
+GEODE-4030,Bug,Fixed,Closed,2017/11/30 6:05,2017/12/28 4:47
+GEODE-4031,Sub-task,Fixed,Closed,2017/11/30 6:08,2018/1/23 2:08
+GEODE-4032,Improvement,Implemented,Closed,2017/11/30 6:45,2019/1/8 11:55
+GEODE-4033,Bug,Fixed,Closed,2017/11/30 7:11,2017/12/5 4:01
+GEODE-4034,Bug,Fixed,Closed,2017/11/30 23:29,2017/12/13 4:50
+GEODE-4035,Bug,Fixed,Closed,2017/12/1 1:08,2017/12/5 23:00
+GEODE-4036,Bug,Cannot Reproduce,Closed,2017/12/1 2:26,2019/1/30 6:45
+GEODE-4037,Bug,Unresolved,Open,2017/12/1 2:50,
+GEODE-4038,Improvement,Fixed,Closed,2017/12/1 3:04,2018/1/30 7:17
+GEODE-4039,New Feature,Fixed,Closed,2017/12/1 5:05,2018/1/31 3:02
+GEODE-4040,New Feature,Unresolved,Open,2017/12/1 18:14,
+GEODE-4041,New Feature,Unresolved,Open,2017/12/1 18:21,
+GEODE-4042,Bug,Fixed,Closed,2017/12/2 2:32,2017/12/19 2:55
+GEODE-4043,Sub-task,Fixed,Closed,2017/12/2 3:04,2017/12/8 3:27
+GEODE-4044,Bug,Unresolved,Open,2017/12/2 3:12,
+GEODE-4045,Improvement,Unresolved,Open,2017/12/2 5:17,
+GEODE-4046,Improvement,Fixed,Closed,2017/12/2 7:17,2017/12/22 3:17
+GEODE-4047,New Feature,Fixed,Closed,2017/12/5 3:50,2017/12/16 4:07
+GEODE-4048,Improvement,Unresolved,Open,2017/12/5 7:57,
+GEODE-4049,Bug,Unresolved,Open,2017/12/5 14:07,
+GEODE-4050,Bug,Duplicate,Closed,2017/12/5 17:54,2017/12/18 22:14
+GEODE-4051,Bug,Fixed,Closed,2017/12/6 0:36,2018/1/9 3:57
+GEODE-4052,Test,Fixed,Resolved,2017/12/6 2:49,2018/11/28 7:43
+GEODE-4053,Improvement,Fixed,Closed,2017/12/6 4:12,2017/12/16 3:46
+GEODE-4054,Improvement,Fixed,Closed,2017/12/6 4:16,2017/12/19 8:07
+GEODE-4055,Bug,Cannot Reproduce,Resolved,2017/12/6 6:21,2018/11/8 7:23
+GEODE-4056,Bug,Cannot Reproduce,Resolved,2017/12/6 6:24,2018/11/8 7:23
+GEODE-4057,Bug,Later,Closed,2017/12/6 6:28,2018/1/4 8:58
+GEODE-4058,Bug,Fixed,Closed,2017/12/6 7:54,2017/12/7 2:40
+GEODE-4059,New Feature,Fixed,Closed,2017/12/7 1:37,2017/12/9 1:59
+GEODE-4060,Bug,Unresolved,Open,2017/12/7 6:44,
+GEODE-4061,Bug,Fixed,Closed,2017/12/7 17:05,2018/1/20 7:40
+GEODE-4062,Bug,Unresolved,Open,2017/12/7 17:27,
+GEODE-4063,Bug,Unresolved,Open,2017/12/8 0:12,
+GEODE-4064,Bug,Duplicate,Closed,2017/12/8 4:01,2017/12/9 1:49
+GEODE-4065,Sub-task,Fixed,Closed,2017/12/8 5:38,2017/12/19 9:23
+GEODE-4066,Test,Fixed,Closed,2017/12/8 6:22,2019/1/8 12:02
+GEODE-4067,Wish,Unresolved,Open,2017/12/8 6:55,
+GEODE-4068,Bug,Fixed,Closed,2017/12/8 7:49,2017/12/8 8:30
+GEODE-4069,Task,Duplicate,Closed,2017/12/8 7:51,2017/12/8 7:52
+GEODE-4070,Bug,Fixed,Closed,2017/12/9 1:06,2017/12/14 6:07
+GEODE-4071,Improvement,Fixed,Closed,2017/12/9 1:44,2017/12/28 7:48
+GEODE-4072,Bug,Fixed,Closed,2017/12/9 7:39,2017/12/14 1:31
+GEODE-4073,Test,Fixed,Closed,2017/12/11 22:29,2017/12/12 7:52
+GEODE-4074,Test,Fixed,Closed,2017/12/12 0:51,2017/12/14 7:57
+GEODE-4075,Sub-task,Fixed,Closed,2017/12/12 4:16,2017/12/19 9:25
+GEODE-4076,Bug,Fixed,Closed,2017/12/12 6:39,2017/12/13 3:59
+GEODE-4077,Bug,Fixed,Closed,2017/12/12 6:42,2017/12/22 1:32
+GEODE-4078,Improvement,Fixed,Closed,2017/12/13 0:57,2018/2/2 23:43
+GEODE-4079,Bug,Fixed,Closed,2017/12/13 1:25,2017/12/16 5:40
+GEODE-4080,Improvement,Fixed,Closed,2017/12/13 2:41,2017/12/21 3:21
+GEODE-4081,Sub-task,Fixed,Closed,2017/12/13 3:22,2018/1/12 1:45
+GEODE-4082,Improvement,Fixed,Closed,2017/12/13 4:03,2018/1/9 2:36
+GEODE-4083,Bug,Fixed,Closed,2017/12/13 4:39,2017/12/15 0:22
+GEODE-4084,Task,Fixed,Closed,2017/12/13 4:40,2017/12/19 8:05
+GEODE-4085,Bug,Fixed,Closed,2017/12/13 4:44,2017/12/19 8:08
+GEODE-4086,Bug,Invalid,Closed,2017/12/13 4:50,2017/12/14 7:35
+GEODE-4087,Bug,Fixed,Closed,2017/12/13 6:26,2017/12/27 1:01
+GEODE-4088,Bug,Fixed,Closed,2017/12/13 7:23,2017/12/20 1:06
+GEODE-4089,Bug,Unresolved,Open,2017/12/13 8:29,
+GEODE-4090,New Feature,Fixed,Closed,2017/12/14 2:04,2017/12/19 7:21
+GEODE-4091,Bug,Fixed,Closed,2017/12/14 3:46,2017/12/15 3:21
+GEODE-4092,Improvement,Fixed,Closed,2017/12/14 3:50,2018/1/3 6:28
+GEODE-4093,Bug,Fixed,Closed,2017/12/14 6:45,2017/12/19 6:39
+GEODE-4094,Bug,Fixed,Closed,2017/12/14 7:48,2018/1/27 6:37
+GEODE-4095,Improvement,Fixed,Closed,2017/12/14 8:18,2017/12/14 9:42
+GEODE-4096,Bug,Fixed,Closed,2017/12/14 8:37,2018/1/5 6:02
+GEODE-4097,Bug,Fixed,Closed,2017/12/14 22:52,2018/1/5 3:40
+GEODE-4098,Bug,Fixed,Closed,2017/12/15 0:22,2018/2/10 1:41
+GEODE-4099,Bug,Fixed,Closed,2017/12/15 2:44,2017/12/16 1:55
+GEODE-4100,Bug,Unresolved,Open,2017/12/15 3:09,
+GEODE-4101,Bug,Fixed,Closed,2017/12/15 22:01,2018/3/1 12:34
+GEODE-4102,Bug,Unresolved,Open,2017/12/15 23:49,
+GEODE-4103,Test,Fixed,Closed,2017/12/16 0:57,2018/1/12 2:58
+GEODE-4104,Improvement,Fixed,Closed,2017/12/16 2:16,2018/8/31 0:49
+GEODE-4105,Improvement,Unresolved,Open,2017/12/16 2:23,
+GEODE-4106,Bug,Fixed,Closed,2017/12/16 2:56,2017/12/20 6:18
+GEODE-4107,Bug,Unresolved,Open,2017/12/16 3:09,
+GEODE-4108,Sub-task,Won't Fix,Closed,2017/12/16 5:12,2018/1/30 1:34
+GEODE-4109,Sub-task,Fixed,Closed,2017/12/16 6:23,2017/12/19 4:27
+GEODE-4110,Improvement,Fixed,Resolved,2017/12/16 6:58,2018/11/28 7:41
+GEODE-4111,Improvement,Fixed,Closed,2017/12/18 23:55,2017/12/18 23:59
+GEODE-4112,Bug,Fixed,Closed,2017/12/19 3:21,2017/12/21 7:41
+GEODE-4113,New Feature,Fixed,Closed,2017/12/19 6:00,2018/1/4 7:14
+GEODE-4114,Sub-task,Fixed,Closed,2017/12/19 6:42,2017/12/21 8:38
+GEODE-4115,Improvement,Unresolved,Open,2017/12/19 6:49,
+GEODE-4116,Bug,Fixed,Closed,2017/12/19 7:01,2018/1/3 3:51
+GEODE-4117,Improvement,Fixed,Closed,2017/12/19 7:49,2017/12/21 3:21
+GEODE-4118,Bug,Cannot Reproduce,Resolved,2017/12/19 8:51,2018/11/8 7:23
+GEODE-4119,New Feature,Fixed,Closed,2017/12/20 1:28,2018/1/12 3:36
+GEODE-4120,Wish,Won't Fix,Closed,2017/12/20 1:52,2018/2/14 7:39
+GEODE-4121,Task,Won't Fix,Resolved,2017/12/20 2:16,2019/2/5 1:37
+GEODE-4122,Bug,Fixed,Closed,2017/12/20 3:21,2018/2/2 6:08
+GEODE-4123,Improvement,Fixed,Closed,2017/12/20 3:22,2018/4/20 12:12
+GEODE-4124,Bug,Fixed,Closed,2017/12/20 3:41,2017/12/23 0:23
+GEODE-4125,Sub-task,Duplicate,Closed,2017/12/20 4:51,2018/1/9 2:48
+GEODE-4126,Bug,Unresolved,Open,2017/12/20 5:19,
+GEODE-4127,Bug,Fixed,Closed,2017/12/20 5:22,2017/12/20 11:01
+GEODE-4128,Bug,Duplicate,Resolved,2017/12/20 5:24,2018/8/30 3:21
+GEODE-4129,Bug,Fixed,Closed,2017/12/20 6:07,2018/1/19 23:55
+GEODE-4130,Improvement,Unresolved,Open,2017/12/20 6:15,
+GEODE-4131,Bug,Fixed,Closed,2017/12/20 23:25,2018/1/9 2:30
+GEODE-4132,Bug,Fixed,Closed,2017/12/21 2:39,2017/12/27 8:23
+GEODE-4133,Bug,Fixed,Closed,2017/12/21 3:20,2017/12/22 2:30
+GEODE-4134,Bug,Fixed,Closed,2017/12/21 3:24,2017/12/28 7:12
+GEODE-4135,Bug,Fixed,Closed,2017/12/21 3:41,2018/1/6 2:22
+GEODE-4136,Sub-task,Fixed,Closed,2017/12/21 4:08,2018/1/24 0:21
+GEODE-4137,Sub-task,Fixed,Closed,2017/12/21 6:08,2017/12/21 8:10
+GEODE-4138,Sub-task,Fixed,Closed,2017/12/21 6:10,2018/1/24 0:23
+GEODE-4139,Sub-task,Fixed,Closed,2017/12/21 6:38,2018/2/2 5:28
+GEODE-4140,Bug,Fixed,Closed,2017/12/21 6:50,2018/1/20 6:10
+GEODE-4141,Bug,Cannot Reproduce,Resolved,2017/12/21 6:55,2018/11/8 7:24
+GEODE-4142,Bug,Fixed,Closed,2017/12/21 7:40,2018/1/27 1:47
+GEODE-4143,Test,Fixed,Closed,2017/12/21 12:07,2018/1/6 5:15
+GEODE-4144,Bug,Fixed,Closed,2017/12/22 2:08,2018/1/17 3:38
+GEODE-4145,Task,Fixed,Closed,2017/12/22 3:10,2018/1/10 3:26
+GEODE-4146,Bug,Fixed,Closed,2017/12/22 3:34,2018/1/4 5:31
+GEODE-4147,Improvement,Fixed,Closed,2017/12/22 3:53,2018/1/19 1:55
+GEODE-4148,Improvement,Unresolved,Open,2017/12/22 4:01,
+GEODE-4149,Sub-task,Fixed,Closed,2017/12/22 4:51,2018/1/30 6:03
+GEODE-4150,Sub-task,Duplicate,Closed,2017/12/22 4:53,2018/2/3 4:54
+GEODE-4151,Bug,Fixed,Closed,2017/12/22 6:37,2018/1/11 4:58
+GEODE-4152,Improvement,Unresolved,Open,2017/12/22 6:48,
+GEODE-4153,Bug,Fixed,Closed,2017/12/22 7:06,2018/1/4 6:35
+GEODE-4154,Sub-task,Fixed,Closed,2017/12/22 7:27,2017/12/23 3:41
+GEODE-4155,Improvement,Unresolved,Open,2017/12/22 7:51,
+GEODE-4156,Sub-task,Unresolved,Open,2017/12/22 8:35,
+GEODE-4157,Bug,Unresolved,Open,2017/12/23 1:18,
+GEODE-4158,Bug,Fixed,Closed,2017/12/23 2:05,2018/1/9 0:59
+GEODE-4159,Bug,Fixed,Closed,2017/12/23 2:22,2017/12/23 5:10
+GEODE-4160,Bug,Fixed,Closed,2017/12/23 2:31,2018/1/6 3:24
+GEODE-4161,Bug,Fixed,Closed,2017/12/23 2:32,2018/1/5 8:08
+GEODE-4162,Sub-task,Unresolved,Open,2017/12/23 3:06,
+GEODE-4163,Bug,Fixed,Closed,2017/12/23 6:34,2017/12/28 8:44
+GEODE-4164,Bug,Not A Problem,Closed,2017/12/23 6:41,2018/1/9 2:30
+GEODE-4165,Bug,Fixed,Closed,2017/12/23 6:45,2018/1/17 3:39
+GEODE-4166,Bug,Not A Problem,Closed,2017/12/23 6:47,2018/1/3 6:53
+GEODE-4167,Bug,Cannot Reproduce,Resolved,2017/12/23 7:01,2018/11/8 7:23
+GEODE-4168,Bug,Fixed,Closed,2017/12/27 5:19,2018/1/3 3:52
+GEODE-4169,Task,Fixed,Closed,2017/12/27 6:34,2018/3/17 11:14
+GEODE-4170,Improvement,Fixed,Closed,2017/12/28 6:19,2018/1/3 3:29
+GEODE-4171,Bug,Fixed,Closed,2017/12/28 6:31,2019/3/21 4:16
+GEODE-4172,Bug,Fixed,Closed,2017/12/28 9:02,2018/4/27 6:46
+GEODE-4173,Bug,Unresolved,Open,2017/12/28 23:41,
+GEODE-4174,Bug,Unresolved,Open,2017/12/29 3:40,
+GEODE-4175,Bug,Fixed,Closed,2017/12/30 2:04,2017/12/30 2:19
+GEODE-4176,Bug,Fixed,Closed,2018/1/3 0:34,2018/1/4 5:39
+GEODE-4177,Bug,Fixed,Closed,2018/1/3 3:40,2018/1/18 3:37
+GEODE-4178,Bug,Fixed,Closed,2018/1/3 3:46,2018/1/4 6:05
+GEODE-4179,Bug,Unresolved,Open,2018/1/3 4:25,
+GEODE-4180,Bug,Unresolved,Open,2018/1/3 4:34,
+GEODE-4181,Improvement,Unresolved,Open,2018/1/3 5:02,
+GEODE-4182,Improvement,Fixed,Closed,2018/1/3 7:40,2018/3/2 5:47
+GEODE-4183,Bug,Not A Problem,Closed,2018/1/3 15:11,2018/1/18 6:27
+GEODE-4184,Bug,Fixed,Closed,2018/1/4 2:35,2018/1/5 9:43
+GEODE-4185,Task,Fixed,Closed,2018/1/4 3:40,2018/1/4 6:39
+GEODE-4186,Improvement,Fixed,Closed,2018/1/4 3:50,2018/2/3 0:42
+GEODE-4187,Bug,Unresolved,In Progress,2018/1/4 4:08,
+GEODE-4188,Task,Fixed,Closed,2018/1/4 4:14,2018/1/11 4:59
+GEODE-4189,Improvement,Unresolved,Open,2018/1/4 5:35,
+GEODE-4190,Bug,Unresolved,Open,2018/1/4 6:40,
+GEODE-4191,Bug,Fixed,Closed,2018/1/4 6:57,2018/1/9 3:11
+GEODE-4192,Improvement,Fixed,Closed,2018/1/4 7:22,2018/1/12 7:42
+GEODE-4193,Bug,Fixed,Closed,2018/1/5 1:48,2018/1/5 4:55
+GEODE-4194,Bug,Unresolved,Open,2018/1/5 1:59,
+GEODE-4195,New Feature,Unresolved,Open,2018/1/5 2:38,
+GEODE-4196,Sub-task,Fixed,Closed,2018/1/5 2:53,2018/1/17 5:23
+GEODE-4197,Sub-task,Fixed,Closed,2018/1/5 2:55,2018/1/17 5:23
+GEODE-4198,Sub-task,Fixed,Closed,2018/1/5 2:56,2018/1/17 5:24
+GEODE-4199,Sub-task,Fixed,Closed,2018/1/5 2:56,2018/1/17 5:24
+GEODE-4200,Sub-task,Fixed,Closed,2018/1/5 2:57,2018/1/17 5:24
+GEODE-4201,Sub-task,Fixed,Closed,2018/1/5 2:58,2018/1/17 5:25
+GEODE-4202,Sub-task,Fixed,Closed,2018/1/5 2:58,2018/2/6 4:46
+GEODE-4203,Sub-task,Fixed,Closed,2018/1/5 2:59,2018/1/17 5:25
+GEODE-4204,Sub-task,Fixed,Closed,2018/1/5 3:00,2018/1/17 5:25
+GEODE-4205,Sub-task,Fixed,Closed,2018/1/5 3:00,2018/1/17 5:25
+GEODE-4206,Sub-task,Fixed,Closed,2018/1/5 3:01,2018/1/17 5:26
+GEODE-4207,Sub-task,Fixed,Closed,2018/1/5 3:01,2018/1/17 5:29
+GEODE-4208,Sub-task,Fixed,Closed,2018/1/5 3:02,2018/1/17 5:26
+GEODE-4209,Sub-task,Fixed,Closed,2018/1/5 3:02,2018/1/17 5:26
+GEODE-4210,Sub-task,Fixed,Closed,2018/1/5 3:05,2018/1/17 5:26
+GEODE-4211,Sub-task,Fixed,Closed,2018/1/5 3:06,2018/1/19 4:21
+GEODE-4212,Sub-task,Fixed,Closed,2018/1/5 3:07,2018/1/17 5:27
+GEODE-4213,Sub-task,Fixed,Closed,2018/1/5 3:07,2018/1/17 5:27
+GEODE-4214,Sub-task,Fixed,Closed,2018/1/5 3:08,2018/1/17 5:33
+GEODE-4215,Sub-task,Unresolved,Open,2018/1/5 3:10,
+GEODE-4216,Sub-task,Unresolved,Open,2018/1/5 3:10,
+GEODE-4217,Bug,Fixed,Closed,2018/1/5 3:56,2018/3/8 0:55
+GEODE-4218,Improvement,Fixed,Closed,2018/1/5 5:14,2018/5/3 22:38
+GEODE-4219,Bug,Fixed,Closed,2018/1/5 5:53,2018/2/1 1:19
+GEODE-4220,Improvement,Fixed,Closed,2018/1/5 6:08,2018/1/6 4:41
+GEODE-4221,Bug,Fixed,Closed,2018/1/5 6:54,2018/1/9 0:58
+GEODE-4222,Bug,Fixed,Closed,2018/1/5 7:13,2018/1/6 1:50
+GEODE-4223,Bug,Fixed,Closed,2018/1/5 7:38,2018/1/27 9:05
+GEODE-4224,Bug,Unresolved,Open,2018/1/5 7:43,
+GEODE-4225,Improvement,Fixed,Closed,2018/1/5 8:10,2018/1/13 5:14
+GEODE-4226,Bug,Unresolved,Open,2018/1/5 8:48,
+GEODE-4227,Sub-task,Fixed,Closed,2018/1/5 10:12,2018/1/18 3:14
+GEODE-4228,Sub-task,Fixed,Closed,2018/1/5 10:18,2018/2/24 2:24
+GEODE-4229,Bug,Fixed,Closed,2018/1/6 0:06,2018/1/6 0:16
+GEODE-4230,Bug,Fixed,Closed,2018/1/6 2:28,2018/1/9 3:23
+GEODE-4231,Bug,Fixed,Closed,2018/1/6 3:07,2018/1/9 5:06
+GEODE-4232,Bug,Fixed,Closed,2018/1/6 4:34,2018/1/12 2:48
+GEODE-4233,New Feature,Fixed,Closed,2018/1/6 4:38,2018/3/13 3:40
+GEODE-4234,New Feature,Unresolved,Open,2018/1/6 7:09,
+GEODE-4235,Bug,Fixed,Closed,2018/1/6 7:16,2018/1/20 6:22
+GEODE-4236,Bug,Fixed,Closed,2018/1/6 7:38,2018/1/18 2:17
+GEODE-4237,Bug,Fixed,Closed,2018/1/6 8:04,2018/1/10 7:37
+GEODE-4238,Bug,Fixed,Closed,2018/1/6 8:07,2018/1/23 1:41
+GEODE-4239,Test,Fixed,Closed,2018/1/6 8:12,2018/1/12 8:04
+GEODE-4240,Bug,Fixed,Closed,2018/1/6 8:28,2019/10/15 5:05
+GEODE-4241,Bug,Fixed,Closed,2018/1/6 8:53,2018/1/11 6:18
+GEODE-4242,Bug,Cannot Reproduce,Resolved,2018/1/6 9:08,2018/11/8 7:23
+GEODE-4243,Bug,Cannot Reproduce,Resolved,2018/1/6 9:10,2018/11/8 7:23
+GEODE-4244,Bug,Duplicate,Closed,2018/1/7 0:48,2018/11/3 6:19
+GEODE-4245,Improvement,Unresolved,Open,2018/1/9 0:59,
+GEODE-4246,Bug,Fixed,Closed,2018/1/9 1:40,2018/1/12 6:57
+GEODE-4247,Bug,Fixed,Closed,2018/1/9 2:35,2018/4/20 12:14
+GEODE-4248,Improvement,Fixed,Closed,2018/1/9 2:42,2018/1/10 5:20
+GEODE-4249,Sub-task,Fixed,Closed,2018/1/9 2:43,2018/1/9 2:45
+GEODE-4250,Improvement,Unresolved,Open,2018/1/9 3:09,
+GEODE-4251,Bug,Fixed,Closed,2018/1/9 3:10,2018/1/20 6:22
+GEODE-4252,Bug,Unresolved,Open,2018/1/9 3:34,
+GEODE-4253,New Feature,Fixed,Closed,2018/1/9 4:09,2018/2/10 3:57
+GEODE-4254,Improvement,Fixed,Closed,2018/1/9 5:19,2018/1/11 4:13
+GEODE-4255,Bug,Fixed,Closed,2018/1/9 5:27,2018/1/12 2:50
+GEODE-4256,Bug,Invalid,Closed,2018/1/9 6:41,2018/1/19 2:24
+GEODE-4257,Bug,Fixed,Closed,2018/1/9 7:01,2018/1/17 4:58
+GEODE-4258,Improvement,Unresolved,Open,2018/1/9 7:57,
+GEODE-4259,Bug,Unresolved,Open,2018/1/9 8:03,
+GEODE-4260,Improvement,Unresolved,Open,2018/1/9 8:05,
+GEODE-4261,Improvement,Unresolved,Open,2018/1/9 23:01,
+GEODE-4262,Improvement,Unresolved,Open,2018/1/10 1:06,
+GEODE-4263,Bug,Unresolved,Reopened,2018/1/10 4:47,
+GEODE-4264,Bug,Unresolved,Reopened,2018/1/10 4:49,
+GEODE-4265,Task,Unresolved,Open,2018/1/10 5:00,
+GEODE-4266,Bug,Fixed,Closed,2018/1/10 5:14,2018/3/14 4:08
+GEODE-4267,Bug,Fixed,Reopened,2018/1/10 5:17,2019/4/5 8:25
+GEODE-4268,Improvement,Fixed,Resolved,2018/1/10 5:48,2019/7/27 7:12
+GEODE-4269,Improvement,Fixed,Closed,2018/1/10 8:04,2018/1/11 4:44
+GEODE-4270,Bug,Fixed,Closed,2018/1/10 9:25,2018/2/13 3:56
+GEODE-4271,Bug,Fixed,Closed,2018/1/10 23:54,2018/1/11 5:50
+GEODE-4272,New Feature,Unresolved,Open,2018/1/11 1:52,
+GEODE-4273,Bug,Fixed,Resolved,2018/1/11 1:55,2018/10/2 2:35
+GEODE-4274,Task,Fixed,Closed,2018/1/11 5:59,2018/4/20 12:15
+GEODE-4275,Bug,Fixed,Closed,2018/1/11 17:29,2018/1/22 18:43
+GEODE-4276,Bug,Cannot Reproduce,Resolved,2018/1/12 0:31,2018/11/8 7:24
+GEODE-4277,Bug,Unresolved,Open,2018/1/12 1:14,
+GEODE-4278,Improvement,Fixed,Closed,2018/1/12 1:38,2018/2/7 6:02
+GEODE-4279,Task,Fixed,Closed,2018/1/12 1:44,2018/4/20 12:17
+GEODE-4280,Bug,Fixed,Closed,2018/1/12 2:56,2018/1/17 3:12
+GEODE-4281,Bug,Fixed,Closed,2018/1/12 3:50,2018/1/13 5:12
+GEODE-4282,Bug,Fixed,Closed,2018/1/12 4:22,2018/1/23 6:37
+GEODE-4283,Improvement,Fixed,Closed,2018/1/12 6:25,2019/5/21 4:11
+GEODE-4284,Sub-task,Fixed,Closed,2018/1/12 6:40,2018/1/30 7:18
+GEODE-4285,Bug,Fixed,Closed,2018/1/12 7:21,2018/1/18 7:39
+GEODE-4286,Bug,Fixed,Closed,2018/1/12 8:45,2018/1/13 5:54
+GEODE-4287,Bug,Fixed,Closed,2018/1/13 0:18,2018/1/20 0:07
+GEODE-4288,New Feature,Duplicate,Closed,2018/1/13 0:36,2018/1/13 0:45
+GEODE-4289,Sub-task,Unresolved,Open,2018/1/13 0:43,
+GEODE-4290,Bug,Fixed,Closed,2018/1/13 0:57,2018/1/17 7:20
+GEODE-4291,Improvement,Fixed,Closed,2018/1/13 2:09,2018/1/18 5:13
+GEODE-4292,Bug,Fixed,Closed,2018/1/13 3:56,2018/1/18 5:14
+GEODE-4293,Bug,Fixed,Closed,2018/1/13 6:00,2018/1/18 1:31
+GEODE-4294,Bug,Fixed,Closed,2018/1/13 6:38,2018/1/18 0:47
+GEODE-4295,Bug,Fixed,Closed,2018/1/13 6:53,2018/2/16 4:12
+GEODE-4296,Bug,Fixed,Closed,2018/1/16 0:53,2018/1/17 7:20
+GEODE-4297,Improvement,Unresolved,Open,2018/1/17 1:28,
+GEODE-4298,Bug,Fixed,Closed,2018/1/17 2:23,2018/1/20 0:40
+GEODE-4299,Sub-task,Fixed,Closed,2018/1/17 5:57,2018/1/19 1:32
+GEODE-4300,Bug,Fixed,Closed,2018/1/17 7:09,2018/1/30 1:51
+GEODE-4301,Improvement,Not A Problem,Closed,2018/1/17 14:02,2018/4/20 12:19
+GEODE-4302,Bug,Unresolved,Open,2018/1/18 1:01,
+GEODE-4303,Bug,Fixed,Closed,2018/1/18 2:38,2018/1/20 6:26
+GEODE-4304,Sub-task,Fixed,Closed,2018/1/18 3:20,2018/1/19 4:18
+GEODE-4305,Sub-task,Fixed,Closed,2018/1/18 4:10,2018/1/19 1:35
+GEODE-4306,Bug,Fixed,Closed,2018/1/18 5:37,2018/1/23 6:55
+GEODE-4307,Sub-task,Fixed,Closed,2018/1/18 7:36,2018/1/26 5:26
+GEODE-4308,Sub-task,Fixed,Closed,2018/1/18 8:02,2018/1/31 2:22
+GEODE-4309,Bug,Fixed,Closed,2018/1/18 8:09,2018/2/6 1:59
+GEODE-4310,Improvement,Unresolved,Open,2018/1/18 9:01,
+GEODE-4311,Improvement,Won't Fix,Closed,2018/1/18 20:47,2018/5/15 3:06
+GEODE-4312,Bug,Fixed,Closed,2018/1/18 22:24,2018/1/27 2:21
+GEODE-4313,Bug,Unresolved,Open,2018/1/18 22:38,
+GEODE-4314,Improvement,Fixed,Closed,2018/1/18 23:05,2018/1/25 11:56
+GEODE-4315,Bug,Fixed,Closed,2018/1/19 0:16,2018/1/23 6:49
+GEODE-4316,Improvement,Fixed,Closed,2018/1/19 0:22,2018/1/27 2:20
+GEODE-4317,Bug,Fixed,Closed,2018/1/19 2:43,2018/1/23 6:52
+GEODE-4318,Bug,Fixed,Closed,2018/1/19 2:55,2019/3/29 21:11
+GEODE-4319,Bug,Cannot Reproduce,Resolved,2018/1/19 4:22,2018/11/8 7:23
+GEODE-4320,Bug,Fixed,Closed,2018/1/19 7:47,2018/2/14 1:35
+GEODE-4321,Improvement,Fixed,Closed,2018/1/19 9:43,2018/2/8 1:52
+GEODE-4322,Bug,Won't Fix,Closed,2018/1/19 22:08,2018/2/27 1:23
+GEODE-4323,Bug,Cannot Reproduce,Resolved,2018/1/20 0:25,2018/11/8 7:23
+GEODE-4324,Bug,Cannot Reproduce,Resolved,2018/1/20 1:31,2018/11/8 7:24
+GEODE-4325,Improvement,Fixed,Closed,2018/1/20 2:28,2018/2/17 7:23
+GEODE-4326,Bug,Not A Problem,Closed,2018/1/20 3:25,2018/2/3 8:30
+GEODE-4327,Improvement,Fixed,Closed,2018/1/20 5:31,2018/2/24 2:53
+GEODE-4328,Sub-task,Fixed,Closed,2018/1/20 5:38,2018/1/30 8:36
+GEODE-4329,Sub-task,Fixed,Closed,2018/1/20 5:47,2018/1/26 4:43
+GEODE-4330,Sub-task,Fixed,Closed,2018/1/20 5:50,2018/1/25 4:28
+GEODE-4331,Sub-task,Duplicate,Closed,2018/1/20 5:54,2018/3/1 1:24
+GEODE-4332,Bug,Fixed,Closed,2018/1/20 6:27,2018/1/23 2:27
+GEODE-4333,Improvement,Fixed,Closed,2018/1/20 7:25,2018/1/23 3:23
+GEODE-4334,Improvement,Fixed,Closed,2018/1/20 8:21,2018/1/26 6:17
+GEODE-4335,Sub-task,Fixed,Closed,2018/1/22 23:21,2019/5/21 4:17
+GEODE-4336,Sub-task,Fixed,Closed,2018/1/22 23:22,2018/8/10 1:26
+GEODE-4337,Sub-task,Done,Closed,2018/1/22 23:23,2018/11/8 5:30
+GEODE-4338,Sub-task,Fixed,Resolved,2018/1/22 23:44,2019/3/9 2:55
+GEODE-4339,Sub-task,Fixed,Resolved,2018/1/22 23:47,2019/3/9 2:56
+GEODE-4340,Sub-task,Fixed,Resolved,2018/1/22 23:55,2019/3/9 3:10
+GEODE-4341,Sub-task,Fixed,Resolved,2018/1/22 23:59,2019/3/9 3:12
+GEODE-4342,Sub-task,Fixed,Closed,2018/1/23 0:00,2019/5/21 4:19
+GEODE-4343,Sub-task,Fixed,Closed,2018/1/23 0:09,2018/3/8 5:47
+GEODE-4344,Sub-task,Unresolved,Open,2018/1/23 0:10,
+GEODE-4345,Sub-task,Fixed,Closed,2018/1/23 0:10,2018/2/7 1:26
+GEODE-4346,Sub-task,Fixed,Closed,2018/1/23 0:11,2019/5/21 4:19
+GEODE-4347,Sub-task,Fixed,Closed,2018/1/23 0:11,2019/5/21 5:28
+GEODE-4348,Sub-task,Fixed,Closed,2018/1/23 0:11,2019/5/21 5:28
+GEODE-4349,Sub-task,Fixed,Resolved,2018/1/23 0:13,2019/3/9 2:52
+GEODE-4350,Improvement,Fixed,Closed,2018/1/23 0:25,2018/1/23 6:52
+GEODE-4351,Sub-task,Won't Fix,Closed,2018/1/23 1:46,2018/1/23 1:57
+GEODE-4352,Sub-task,Won't Fix,Closed,2018/1/23 1:46,2018/1/23 1:58
+GEODE-4353,Bug,Fixed,Closed,2018/1/23 2:13,2018/2/8 8:05
+GEODE-4354,Improvement,Fixed,Closed,2018/1/23 2:18,2018/2/8 6:52
+GEODE-4355,Bug,Fixed,Closed,2018/1/23 4:26,2018/1/26 3:57
+GEODE-4356,Improvement,Fixed,Closed,2018/1/23 6:07,2019/3/21 4:27
+GEODE-4357,Improvement,Unresolved,Open,2018/1/23 6:31,
+GEODE-4358,Bug,Fixed,Closed,2018/1/23 7:03,2018/1/25 7:58
+GEODE-4359,Improvement,Fixed,Closed,2018/1/23 8:20,2019/3/21 4:23
+GEODE-4360,Bug,Fixed,Closed,2018/1/24 2:22,2018/1/24 5:12
+GEODE-4361,Sub-task,Unresolved,Open,2018/1/24 2:54,
+GEODE-4362,Bug,Fixed,Closed,2018/1/24 3:03,2018/3/1 3:24
+GEODE-4363,Sub-task,Unresolved,Open,2018/1/24 3:47,
+GEODE-4364,Sub-task,Fixed,Closed,2018/1/24 6:06,2018/2/1 3:41
+GEODE-4365,Improvement,Fixed,Closed,2018/1/24 6:25,2018/1/25 3:21
+GEODE-4366,Bug,Unresolved,Open,2018/1/24 6:36,
+GEODE-4367,Wish,Not A Problem,Closed,2018/1/24 6:50,2018/5/8 10:37
+GEODE-4368,Wish,Fixed,Closed,2018/1/25 1:50,2018/1/31 3:00
+GEODE-4369,Improvement,Fixed,Closed,2018/1/25 3:31,2018/1/26 4:07
+GEODE-4370,Bug,Fixed,Closed,2018/1/25 5:09,2018/1/26 2:52
+GEODE-4371,Bug,Fixed,Closed,2018/1/25 5:57,2018/4/21 1:26
+GEODE-4372,Improvement,Fixed,Closed,2018/1/25 6:07,2018/2/10 4:19
+GEODE-4373,Bug,Fixed,Closed,2018/1/25 9:18,2018/2/21 3:34
+GEODE-4374,Bug,Fixed,Resolved,2018/1/25 11:03,2019/7/18 20:41
+GEODE-4375,Bug,Fixed,Closed,2018/1/25 15:35,2018/2/1 2:29
+GEODE-4376,Bug,Unresolved,Open,2018/1/25 17:28,
+GEODE-4377,Improvement,Fixed,Closed,2018/1/26 2:27,2018/2/15 3:38
+GEODE-4378,Bug,Fixed,Closed,2018/1/26 2:35,2019/4/16 2:14
+GEODE-4379,Bug,Fixed,Closed,2018/1/26 2:51,2018/1/27 2:20
+GEODE-4380,Bug,Fixed,Closed,2018/1/26 3:31,2018/1/31 4:53
+GEODE-4381,Bug,Fixed,Closed,2018/1/26 4:59,2018/3/14 3:22
+GEODE-4382,Task,Fixed,Closed,2018/1/26 5:02,2018/3/14 3:22
+GEODE-4383,Sub-task,Won't Do,Closed,2018/1/26 5:31,2018/3/7 1:02
+GEODE-4384,Sub-task,Fixed,Closed,2018/1/26 5:36,2018/4/14 5:42
+GEODE-4385,Sub-task,Fixed,Closed,2018/1/26 5:39,2018/4/13 1:36
+GEODE-4386,Sub-task,Fixed,Closed,2018/1/26 5:41,2018/4/3 23:57
+GEODE-4387,Sub-task,Fixed,Closed,2018/1/26 5:47,2018/1/27 1:34
+GEODE-4388,Sub-task,Unresolved,Open,2018/1/26 5:54,
+GEODE-4389,Bug,Fixed,Reopened,2018/1/26 6:02,2018/1/27 2:20
+GEODE-4390,Bug,Fixed,Closed,2018/1/26 7:01,2018/2/1 6:36
+GEODE-4391,Task,Unresolved,Open,2018/1/26 7:44,
+GEODE-4392,Task,Fixed,Closed,2018/1/26 7:51,2018/2/7 8:22
+GEODE-4393,Bug,Cannot Reproduce,Resolved,2018/1/26 9:11,2018/11/8 7:23
+GEODE-4394,Improvement,Fixed,Closed,2018/1/27 2:30,2018/2/21 0:24
+GEODE-4395,Task,Duplicate,Closed,2018/1/27 3:08,2018/2/1 2:12
+GEODE-4396,Task,Unresolved,Reopened,2018/1/27 3:09,
+GEODE-4397,Sub-task,Fixed,Closed,2018/1/27 3:24,2018/2/6 1:29
+GEODE-4398,Sub-task,Unresolved,Open,2018/1/27 3:25,
+GEODE-4399,Improvement,Fixed,Closed,2018/1/27 3:29,2018/6/6 0:42
+GEODE-4400,Improvement,Unresolved,Open,2018/1/27 5:11,
+GEODE-4401,Task,Fixed,Closed,2018/1/27 6:35,2018/3/3 3:43
+GEODE-4402,Improvement,Fixed,Closed,2018/1/27 6:47,2018/3/1 2:34
+GEODE-4403,Improvement,Fixed,Closed,2018/1/27 8:06,2018/2/17 1:10
+GEODE-4404,Sub-task,Fixed,Closed,2018/1/27 8:36,2018/3/1 1:23
+GEODE-4405,Sub-task,Fixed,Closed,2018/1/27 8:36,2018/2/3 1:26
+GEODE-4406,New Feature,Fixed,Closed,2018/1/27 8:41,2018/2/28 8:24
+GEODE-4407,Sub-task,Unresolved,Open,2018/1/27 9:03,
+GEODE-4408,Improvement,Fixed,Closed,2018/1/27 15:06,2018/3/7 7:02
+GEODE-4409,Task,Unresolved,Open,2018/1/27 15:17,
+GEODE-4410,Task,Done,Closed,2018/1/27 15:18,2018/4/21 1:20
+GEODE-4411,Task,Fixed,Closed,2018/1/30 0:13,2018/3/6 0:46
+GEODE-4412,Task,Fixed,Closed,2018/1/30 0:24,2018/2/8 7:36
+GEODE-4413,Task,Fixed,Closed,2018/1/30 0:49,2018/2/1 1:51
+GEODE-4414,New Feature,Fixed,Closed,2018/1/30 1:37,2018/2/23 3:08
+GEODE-4415,Improvement,Unresolved,Open,2018/1/30 1:48,
+GEODE-4416,Task,Fixed,Closed,2018/1/30 2:02,2018/2/1 1:52
+GEODE-4417,Bug,Fixed,Closed,2018/1/30 2:45,2018/1/31 2:59
+GEODE-4418,Bug,Fixed,Closed,2018/1/30 3:22,2018/6/14 8:02
+GEODE-4419,Task,Fixed,Closed,2018/1/30 3:35,2018/1/30 7:17
+GEODE-4420,Bug,Cannot Reproduce,Resolved,2018/1/30 3:48,2018/11/8 7:23
+GEODE-4421,Improvement,Fixed,Closed,2018/1/30 5:44,2019/3/21 4:32
+GEODE-4422,Improvement,Fixed,Closed,2018/1/30 5:48,2019/5/21 5:35
+GEODE-4423,Improvement,Fixed,Closed,2018/1/30 5:48,2018/2/2 2:42
+GEODE-4424,Improvement,Fixed,Closed,2018/1/30 5:53,2018/2/10 0:37
+GEODE-4425,Improvement,Fixed,Closed,2018/1/30 5:58,2018/8/31 0:49
+GEODE-4426,Improvement,Fixed,Closed,2018/1/30 6:03,2018/1/31 4:54
+GEODE-4427,Improvement,Unresolved,In Progress,2018/1/30 6:07,
+GEODE-4428,Improvement,Fixed,Closed,2018/1/30 7:50,2018/2/10 3:57
+GEODE-4429,Sub-task,Fixed,Closed,2018/1/30 7:54,2018/2/1 4:24
+GEODE-4430,Sub-task,Fixed,Closed,2018/1/30 7:54,2018/2/1 4:25
+GEODE-4431,Sub-task,Fixed,Closed,2018/1/30 7:54,2018/2/1 4:25
+GEODE-4432,Sub-task,Fixed,Closed,2018/1/30 7:55,2018/2/1 4:25
+GEODE-4433,Sub-task,Fixed,Closed,2018/1/30 7:55,2018/2/1 4:25
+GEODE-4434,New Feature,Unresolved,Open,2018/1/30 8:06,
+GEODE-4435,Bug,Fixed,Closed,2018/1/30 8:39,2018/2/9 2:17
+GEODE-4436,Sub-task,Fixed,Closed,2018/1/30 18:08,2018/2/8 16:53
+GEODE-4437,Sub-task,Fixed,Closed,2018/1/30 18:09,2018/2/8 16:53
+GEODE-4438,Bug,Fixed,Closed,2018/1/31 1:44,2018/1/31 1:46
+GEODE-4439,Improvement,Fixed,Closed,2018/1/31 3:12,2018/2/3 5:09
+GEODE-4440,New Feature,Fixed,Closed,2018/1/31 6:05,2018/3/1 2:28
+GEODE-4441,Bug,Unresolved,Open,2018/1/31 6:28,
+GEODE-4442,Sub-task,Fixed,Closed,2018/2/1 0:48,2018/2/6 5:54
+GEODE-4443,Sub-task,Unresolved,Open,2018/2/1 0:51,
+GEODE-4444,Sub-task,Unresolved,Open,2018/2/1 3:42,
+GEODE-4445,Sub-task,Unresolved,Open,2018/2/1 3:43,
+GEODE-4446,Sub-task,Unresolved,Open,2018/2/1 3:44,
+GEODE-4447,Sub-task,Unresolved,Open,2018/2/1 3:45,
+GEODE-4448,Improvement,Fixed,Closed,2018/2/1 4:31,2018/2/2 2:41
+GEODE-4449,Improvement,Fixed,Closed,2018/2/1 5:31,2018/2/14 7:02
+GEODE-4450,Improvement,Fixed,Closed,2018/2/1 6:54,2018/2/3 8:17
+GEODE-4451,Bug,Fixed,Closed,2018/2/1 9:59,2018/3/23 0:44
+GEODE-4452,Sub-task,Unresolved,Open,2018/2/2 1:24,
+GEODE-4453,Sub-task,Unresolved,In Progress,2018/2/2 2:25,
+GEODE-4454,Sub-task,Unresolved,Open,2018/2/2 2:29,
+GEODE-4455,Sub-task,Unresolved,Open,2018/2/2 2:33,
+GEODE-4456,Sub-task,Unresolved,Open,2018/2/2 2:37,
+GEODE-4457,Sub-task,Unresolved,Open,2018/2/2 2:40,
+GEODE-4458,Sub-task,Unresolved,Open,2018/2/2 2:41,
+GEODE-4459,Sub-task,Unresolved,Open,2018/2/2 2:42,
+GEODE-4460,Sub-task,Unresolved,Open,2018/2/2 2:46,
+GEODE-4461,Sub-task,Unresolved,Open,2018/2/2 2:47,
+GEODE-4462,Sub-task,Unresolved,Open,2018/2/2 2:49,
+GEODE-4463,Sub-task,Unresolved,Open,2018/2/2 2:53,
+GEODE-4464,Sub-task,Fixed,Closed,2018/2/2 2:55,2018/2/23 4:18
+GEODE-4465,Sub-task,Unresolved,Open,2018/2/2 2:57,
+GEODE-4466,Sub-task,Unresolved,Open,2018/2/2 3:08,
+GEODE-4467,Sub-task,Fixed,Closed,2018/2/2 3:17,2018/2/20 13:36
+GEODE-4468,Sub-task,Unresolved,Open,2018/2/2 3:20,
+GEODE-4469,Sub-task,Unresolved,Open,2018/2/2 3:25,
+GEODE-4470,Sub-task,Unresolved,Open,2018/2/2 3:32,
+GEODE-4471,Sub-task,Unresolved,Open,2018/2/2 3:35,
+GEODE-4472,Sub-task,Unresolved,Open,2018/2/2 3:42,
+GEODE-4473,Sub-task,Fixed,Closed,2018/2/2 3:53,2018/2/20 13:37
+GEODE-4474,Sub-task,Unresolved,Open,2018/2/2 3:55,
+GEODE-4475,Sub-task,Unresolved,Open,2018/2/2 3:56,
+GEODE-4476,Sub-task,Unresolved,Open,2018/2/2 3:58,
+GEODE-4477,Sub-task,Unresolved,Open,2018/2/2 3:59,
+GEODE-4478,Sub-task,Unresolved,Open,2018/2/2 4:01,
+GEODE-4479,Sub-task,Unresolved,Open,2018/2/2 4:05,
+GEODE-4480,Sub-task,Unresolved,Open,2018/2/2 4:06,
+GEODE-4481,Sub-task,Unresolved,Open,2018/2/2 4:08,
+GEODE-4482,Sub-task,Unresolved,Open,2018/2/2 4:10,
+GEODE-4483,Sub-task,Unresolved,Open,2018/2/2 4:12,
+GEODE-4484,Sub-task,Unresolved,Open,2018/2/2 4:14,
+GEODE-4485,Sub-task,Unresolved,Open,2018/2/2 4:16,
+GEODE-4486,Sub-task,Unresolved,Open,2018/2/2 4:21,
+GEODE-4487,Sub-task,Fixed,Closed,2018/2/2 4:28,2018/2/6 5:20
+GEODE-4488,Sub-task,Unresolved,Open,2018/2/2 4:30,
+GEODE-4489,Sub-task,Unresolved,Open,2018/2/2 4:33,
+GEODE-4490,Sub-task,Unresolved,Open,2018/2/2 4:34,
+GEODE-4491,Sub-task,Unresolved,Open,2018/2/2 4:35,
+GEODE-4492,Sub-task,Unresolved,Open,2018/2/2 4:39,
+GEODE-4493,Sub-task,Fixed,Closed,2018/2/2 4:40,2018/2/23 4:26
+GEODE-4494,Sub-task,Unresolved,Open,2018/2/2 4:42,
+GEODE-4495,Sub-task,Unresolved,Open,2018/2/2 4:44,
+GEODE-4496,Sub-task,Unresolved,Open,2018/2/2 4:48,
+GEODE-4497,Bug,Fixed,Closed,2018/2/2 6:42,2018/3/28 23:52
+GEODE-4498,Bug,Cannot Reproduce,Resolved,2018/2/3 1:57,2018/11/8 7:23
+GEODE-4499,Test,Fixed,Closed,2018/2/3 2:00,2018/2/7 4:02
+GEODE-4500,Sub-task,Unresolved,Open,2018/2/3 3:13,
+GEODE-4501,Sub-task,Unresolved,Open,2018/2/3 3:17,
+GEODE-4502,Sub-task,Unresolved,Open,2018/2/3 3:21,
+GEODE-4503,Sub-task,Unresolved,Open,2018/2/3 3:24,
+GEODE-4504,Sub-task,Unresolved,Open,2018/2/3 3:27,
+GEODE-4505,Sub-task,Duplicate,Closed,2018/2/3 3:29,2018/2/3 8:32
+GEODE-4506,Sub-task,Unresolved,Open,2018/2/3 3:31,
+GEODE-4507,Sub-task,Fixed,Closed,2018/2/3 3:31,2018/2/10 1:41
+GEODE-4508,Sub-task,Unresolved,Open,2018/2/3 3:33,
+GEODE-4509,Improvement,Fixed,Closed,2018/2/3 3:36,2018/2/6 5:10
+GEODE-4510,Sub-task,Unresolved,Open,2018/2/3 3:36,
+GEODE-4511,Improvement,Fixed,Closed,2018/2/3 3:47,2018/2/15 1:04
+GEODE-4512,Sub-task,Unresolved,Open,2018/2/3 3:50,
+GEODE-4513,Sub-task,Unresolved,Open,2018/2/3 3:54,
+GEODE-4514,Sub-task,Unresolved,Open,2018/2/3 6:49,
+GEODE-4515,Sub-task,Unresolved,Open,2018/2/3 6:50,
+GEODE-4516,Sub-task,Unresolved,Open,2018/2/3 6:56,
+GEODE-4517,Sub-task,Fixed,Closed,2018/2/3 6:57,2018/3/6 1:42
+GEODE-4518,Improvement,Fixed,Closed,2018/2/3 6:58,2018/4/7 3:37
+GEODE-4519,Sub-task,Unresolved,Open,2018/2/3 7:00,
+GEODE-4520,Sub-task,Fixed,Closed,2018/2/3 7:04,2018/4/3 1:06
+GEODE-4521,Sub-task,Unresolved,Open,2018/2/3 7:05,
+GEODE-4522,Sub-task,Unresolved,Open,2018/2/3 7:06,
+GEODE-4523,Sub-task,Unresolved,Open,2018/2/3 7:07,
+GEODE-4524,Sub-task,Unresolved,Open,2018/2/3 7:12,
+GEODE-4525,Sub-task,Unresolved,Open,2018/2/3 7:13,
+GEODE-4526,Sub-task,Unresolved,Open,2018/2/3 7:14,
+GEODE-4527,Sub-task,Fixed,Closed,2018/2/3 7:15,2018/3/30 23:44
+GEODE-4528,Sub-task,Unresolved,Open,2018/2/3 7:16,
+GEODE-4529,Sub-task,Unresolved,Open,2018/2/3 7:17,
+GEODE-4530,Sub-task,Unresolved,Open,2018/2/3 7:19,
+GEODE-4531,Sub-task,Unresolved,Open,2018/2/3 7:20,
+GEODE-4532,Sub-task,Unresolved,Open,2018/2/3 7:22,
+GEODE-4533,Sub-task,Unresolved,Open,2018/2/3 7:23,
+GEODE-4534,Sub-task,Unresolved,Open,2018/2/3 7:23,
+GEODE-4535,Sub-task,Unresolved,Open,2018/2/3 7:24,
+GEODE-4536,Sub-task,Unresolved,Open,2018/2/3 7:25,
+GEODE-4537,Sub-task,Unresolved,Open,2018/2/3 7:32,
+GEODE-4538,Sub-task,Unresolved,Open,2018/2/3 7:36,
+GEODE-4539,Sub-task,Unresolved,Open,2018/2/3 7:37,
+GEODE-4540,Sub-task,Unresolved,Open,2018/2/3 7:38,
+GEODE-4541,Sub-task,Fixed,Closed,2018/2/3 7:40,2018/2/24 3:50
+GEODE-4542,Sub-task,Fixed,Closed,2018/2/3 7:42,2018/2/6 5:21
+GEODE-4543,Sub-task,Unresolved,Open,2018/2/3 7:44,
+GEODE-4544,Sub-task,Unresolved,Open,2018/2/3 7:49,
+GEODE-4545,Sub-task,Fixed,Closed,2018/2/3 7:50,2018/2/15 1:51
+GEODE-4546,Sub-task,Unresolved,Open,2018/2/3 7:52,
+GEODE-4547,Sub-task,Unresolved,Open,2018/2/3 7:53,
+GEODE-4548,Sub-task,Unresolved,Open,2018/2/3 7:57,
+GEODE-4549,Sub-task,Unresolved,Open,2018/2/3 8:00,
+GEODE-4550,Sub-task,Unresolved,Open,2018/2/3 8:01,
+GEODE-4551,Sub-task,Unresolved,Open,2018/2/3 8:02,
+GEODE-4552,Sub-task,Unresolved,Open,2018/2/3 8:03,
+GEODE-4553,Sub-task,Unresolved,Open,2018/2/3 8:06,
+GEODE-4554,Sub-task,Unresolved,Open,2018/2/3 8:09,
+GEODE-4555,Sub-task,Unresolved,Open,2018/2/3 8:11,
+GEODE-4556,Sub-task,Unresolved,Open,2018/2/3 8:12,
+GEODE-4557,Sub-task,Unresolved,Open,2018/2/3 8:17,
+GEODE-4558,Sub-task,Unresolved,Open,2018/2/3 8:19,
+GEODE-4559,Sub-task,Fixed,Closed,2018/2/3 8:20,2018/2/24 3:35
+GEODE-4560,Sub-task,Unresolved,Open,2018/2/3 8:21,
+GEODE-4561,Sub-task,Unresolved,Open,2018/2/3 8:22,
+GEODE-4562,Sub-task,Fixed,Closed,2018/2/3 8:23,2019/2/6 6:36
+GEODE-4563,Sub-task,Unresolved,Open,2018/2/3 8:24,
+GEODE-4564,Sub-task,Unresolved,Open,2018/2/3 8:27,
+GEODE-4565,Sub-task,Unresolved,Open,2018/2/3 8:34,
+GEODE-4566,Sub-task,Fixed,Closed,2018/2/3 8:39,2018/2/10 2:27
+GEODE-4567,Sub-task,Unresolved,Open,2018/2/3 8:42,
+GEODE-4568,Sub-task,Unresolved,Open,2018/2/3 8:44,
+GEODE-4569,Sub-task,Unresolved,Open,2018/2/3 8:46,
+GEODE-4570,Sub-task,Fixed,Closed,2018/2/3 8:47,2018/3/6 2:11
+GEODE-4571,Sub-task,Unresolved,Open,2018/2/3 8:49,
+GEODE-4572,Improvement,Fixed,Closed,2018/2/3 21:46,2018/2/7 1:26
+GEODE-4573,Bug,Fixed,Closed,2018/2/5 22:43,2018/2/9 1:28
+GEODE-4574,Sub-task,Unresolved,Open,2018/2/6 1:22,
+GEODE-4575,Sub-task,Fixed,Closed,2018/2/6 1:46,2018/2/10 2:31
+GEODE-4576,Sub-task,Unresolved,Open,2018/2/6 1:50,
+GEODE-4577,Sub-task,Unresolved,Open,2018/2/6 1:51,
+GEODE-4578,Sub-task,Unresolved,Open,2018/2/6 1:53,
+GEODE-4579,Sub-task,Fixed,Closed,2018/2/6 1:54,2018/2/20 13:39
+GEODE-4580,Sub-task,Unresolved,Open,2018/2/6 1:57,
+GEODE-4581,Sub-task,Fixed,Closed,2018/2/6 1:58,2019/2/6 6:35
+GEODE-4582,Sub-task,Fixed,Closed,2018/2/6 2:01,2019/2/6 6:36
+GEODE-4583,Sub-task,Fixed,Closed,2018/2/6 2:02,2018/2/9 4:27
+GEODE-4584,Sub-task,Unresolved,Open,2018/2/6 3:08,
+GEODE-4585,Sub-task,Fixed,Closed,2018/2/6 3:14,2018/2/15 3:07
+GEODE-4586,Sub-task,Fixed,Closed,2018/2/6 3:51,2018/2/10 3:04
+GEODE-4587,Sub-task,Unresolved,Open,2018/2/6 3:55,
+GEODE-4588,Sub-task,Fixed,Closed,2018/2/6 3:56,2018/2/9 3:21
+GEODE-4589,Sub-task,Unresolved,Open,2018/2/6 4:11,
+GEODE-4590,Sub-task,Fixed,Closed,2018/2/6 4:13,2018/2/8 1:00
+GEODE-4591,Sub-task,Unresolved,Open,2018/2/6 4:18,
+GEODE-4592,Sub-task,Fixed,Closed,2018/2/6 4:19,2019/2/5 2:39
+GEODE-4593,Improvement,Fixed,Closed,2018/2/6 4:21,2018/7/23 22:37
+GEODE-4594,Bug,Cannot Reproduce,Resolved,2018/2/6 4:49,2018/11/8 7:23
+GEODE-4595,Test,Unresolved,Open,2018/2/6 5:04,
+GEODE-4596,Improvement,Fixed,Closed,2018/2/6 5:16,2018/2/8 6:43
+GEODE-4597,Improvement,Unresolved,Open,2018/2/6 5:39,
+GEODE-4598,Bug,Fixed,Closed,2018/2/6 5:43,2018/2/9 9:26
+GEODE-4599,Wish,Unresolved,Open,2018/2/6 6:04,
+GEODE-4600,Improvement,Unresolved,Open,2018/2/6 6:15,
+GEODE-4601,Task,Unresolved,Open,2018/2/6 6:18,
+GEODE-4602,Task,Unresolved,Open,2018/2/6 6:20,
+GEODE-4603,Task,Unresolved,Open,2018/2/6 6:21,
+GEODE-4604,Bug,Fixed,Closed,2018/2/6 6:46,2018/2/16 7:45
+GEODE-4605,Improvement,Fixed,Closed,2018/2/6 7:41,2018/2/7 3:40
+GEODE-4606,New Feature,Unresolved,Open,2018/2/6 7:50,
+GEODE-4607,Bug,Done,Closed,2018/2/6 8:30,2018/3/21 2:11
+GEODE-4608,Improvement,Unresolved,Open,2018/2/6 23:42,
+GEODE-4609,Bug,Fixed,Closed,2018/2/7 0:50,2018/2/8 6:24
+GEODE-4610,New Feature,Unresolved,Open,2018/2/7 3:05,
+GEODE-4611,Improvement,Duplicate,Closed,2018/2/7 3:12,2018/2/7 3:13
+GEODE-4612,Bug,Unresolved,Open,2018/2/7 4:07,
+GEODE-4613,Bug,Fixed,Closed,2018/2/7 6:02,2018/2/14 4:52
+GEODE-4614,Bug,Fixed,Closed,2018/2/7 6:07,2018/5/30 6:53
+GEODE-4615,Bug,Fixed,Closed,2018/2/7 6:33,2018/2/10 6:36
+GEODE-4616,Bug,Fixed,Closed,2018/2/7 6:40,2018/4/21 3:27
+GEODE-4617,Task,Unresolved,Open,2018/2/8 1:07,
+GEODE-4618,Bug,Fixed,Closed,2018/2/8 1:37,2018/2/8 2:19
+GEODE-4619,Bug,Cannot Reproduce,Closed,2018/2/8 1:39,2019/3/21 4:28
+GEODE-4620,Task,Fixed,Closed,2018/2/8 1:53,2018/2/8 13:05
+GEODE-4621,Bug,Fixed,Closed,2018/2/8 2:35,2018/2/9 1:29
+GEODE-4622,Improvement,Fixed,Closed,2018/2/8 2:54,2018/2/13 3:12
+GEODE-4623,Improvement,Fixed,Closed,2018/2/8 4:33,2018/4/21 3:27
+GEODE-4624,Bug,Fixed,Closed,2018/2/8 4:35,2018/4/26 0:44
+GEODE-4625,Improvement,Implemented,Closed,2018/2/8 5:54,2018/3/1 0:29
+GEODE-4626,Improvement,Fixed,Closed,2018/2/8 5:55,2018/2/21 1:47
+GEODE-4627,Bug,Won't Fix,Closed,2018/2/8 6:25,2018/2/13 2:18
+GEODE-4628,Improvement,Fixed,Closed,2018/2/8 6:30,2018/2/17 7:30
+GEODE-4629,Bug,Fixed,Closed,2018/2/8 6:45,2018/2/10 3:36
+GEODE-4630,Improvement,Fixed,Closed,2018/2/8 8:29,2018/4/21 3:26
+GEODE-4631,Bug,Fixed,Closed,2018/2/8 10:06,2018/2/9 1:13
+GEODE-4632,Improvement,Fixed,Closed,2018/2/8 13:38,2018/2/10 1:40
+GEODE-4633,Task,Fixed,Closed,2018/2/8 23:37,2018/2/15 1:52
+GEODE-4634,Bug,Duplicate,Closed,2018/2/9 0:13,2018/2/13 8:47
+GEODE-4635,New Feature,Unresolved,Open,2018/2/9 0:39,
+GEODE-4636,Improvement,Fixed,Closed,2018/2/9 2:31,2018/2/14 7:33
+GEODE-4637,Improvement,Fixed,Closed,2018/2/9 2:53,2019/3/21 4:36
+GEODE-4638,Task,Fixed,Closed,2018/2/9 2:53,2018/3/1 2:33
+GEODE-4639,Bug,Fixed,Closed,2018/2/9 3:04,2018/2/10 1:02
+GEODE-4640,Bug,Fixed,Closed,2018/2/9 4:15,2018/2/15 4:53
+GEODE-4641,Bug,Cannot Reproduce,Resolved,2018/2/9 5:03,2018/11/8 7:23
+GEODE-4642,Bug,Fixed,Closed,2018/2/9 5:43,2018/2/14 3:17
+GEODE-4643,Bug,Unresolved,Open,2018/2/9 6:46,
+GEODE-4644,Sub-task,Fixed,Closed,2018/2/10 1:07,2018/4/5 5:52
+GEODE-4645,Improvement,Fixed,Closed,2018/2/10 2:08,2018/2/14 2:57
+GEODE-4646,Improvement,Fixed,Closed,2018/2/10 3:21,2018/3/1 2:28
+GEODE-4647,Bug,Fixed,Closed,2018/2/10 3:33,2018/4/25 5:57
+GEODE-4648,Bug,Fixed,Closed,2018/2/10 5:54,2018/2/10 5:55
+GEODE-4649,Improvement,Fixed,Closed,2018/2/13 1:22,2018/2/14 8:56
+GEODE-4650,Bug,Fixed,Resolved,2018/2/13 2:07,2019/5/14 1:11
+GEODE-4651,Bug,Fixed,Closed,2018/2/13 5:21,2018/2/14 6:26
+GEODE-4652,Improvement,Fixed,Closed,2018/2/13 7:18,2018/2/14 8:15
+GEODE-4653,Improvement,Done,Closed,2018/2/13 10:14,2018/2/17 1:12
+GEODE-4654,Wish,Duplicate,Reopened,2018/2/13 21:02,2018/2/14 6:01
+GEODE-4655,Bug,Fixed,Closed,2018/2/14 0:27,2018/2/15 1:28
+GEODE-4656,Sub-task,Fixed,Closed,2018/2/14 0:51,2018/2/23 23:59
+GEODE-4657,Task,Unresolved,In Progress,2018/2/14 1:38,
+GEODE-4658,Improvement,Unresolved,Open,2018/2/14 1:58,
+GEODE-4659,Bug,Unresolved,Open,2018/2/14 2:00,
+GEODE-4660,New Feature,Duplicate,Closed,2018/2/14 2:11,2018/2/14 2:32
+GEODE-4661,New Feature,Fixed,Closed,2018/2/14 2:13,2018/3/3 2:14
+GEODE-4662,New Feature,Fixed,Closed,2018/2/14 2:14,2018/3/7 2:32
+GEODE-4663,New Feature,Unresolved,Open,2018/2/14 2:17,
+GEODE-4664,New Feature,Unresolved,Open,2018/2/14 2:25,
+GEODE-4665,New Feature,Unresolved,Open,2018/2/14 2:28,
+GEODE-4666,Bug,Fixed,Closed,2018/2/14 3:33,2018/3/10 0:31
+GEODE-4667,Bug,Fixed,Closed,2018/2/14 6:06,2018/2/16 1:42
+GEODE-4668,Improvement,Fixed,Closed,2018/2/14 6:14,2018/2/14 7:00
+GEODE-4669,Sub-task,Fixed,Closed,2018/2/14 8:05,2018/3/14 6:56
+GEODE-4670,Sub-task,Fixed,Closed,2018/2/14 8:09,2018/2/17 1:39
+GEODE-4671,Sub-task,Fixed,Closed,2018/2/14 8:12,2018/2/17 1:39
+GEODE-4672,Sub-task,Fixed,Closed,2018/2/14 8:16,2018/3/3 3:59
+GEODE-4673,New Feature,Unresolved,Open,2018/2/15 0:56,
+GEODE-4674,Improvement,Duplicate,Closed,2018/2/15 1:51,2018/2/15 3:27
+GEODE-4675,Bug,Fixed,Closed,2018/2/15 2:52,2018/2/27 5:24
+GEODE-4676,Task,Fixed,Closed,2018/2/15 6:12,2018/4/21 3:38
+GEODE-4677,Improvement,Fixed,Closed,2018/2/15 6:25,2019/3/21 4:29
+GEODE-4678,Task,Fixed,Closed,2018/2/15 6:40,2018/2/21 6:54
+GEODE-4679,Bug,Fixed,Closed,2018/2/15 6:57,2018/3/13 7:36
+GEODE-4680,Sub-task,Unresolved,Open,2018/2/15 7:20,
+GEODE-4681,Bug,Fixed,Closed,2018/2/15 7:24,2018/3/13 7:37
+GEODE-4682,Bug,Fixed,Closed,2018/2/15 7:28,2018/3/13 7:37
+GEODE-4683,Bug,Fixed,Closed,2018/2/15 7:33,2018/3/13 7:37
+GEODE-4684,Bug,Fixed,Closed,2018/2/15 7:37,2018/3/13 7:37
+GEODE-4685,Bug,Fixed,Closed,2018/2/15 7:38,2018/3/13 7:36
+GEODE-4686,Bug,Fixed,Closed,2018/2/15 9:21,2018/2/20 13:41
+GEODE-4687,Bug,Unresolved,Open,2018/2/15 22:44,
+GEODE-4688,Task,Fixed,Closed,2018/2/16 2:29,2018/4/21 3:25
+GEODE-4689,Sub-task,Fixed,Closed,2018/2/16 3:37,2018/3/15 4:37
+GEODE-4690,Bug,Fixed,Closed,2018/2/16 4:13,2018/2/24 0:01
+GEODE-4691,Bug,Fixed,Closed,2018/2/16 7:34,2018/2/24 0:13
+GEODE-4692,Sub-task,Unresolved,Open,2018/2/16 7:48,
+GEODE-4693,Bug,Fixed,Closed,2018/2/16 8:05,2018/3/15 9:27
+GEODE-4694,Bug,Fixed,Closed,2018/2/16 8:14,2018/2/16 9:17
+GEODE-4695,Bug,Fixed,Closed,2018/2/16 8:22,2018/3/1 3:44
+GEODE-4696,Bug,Fixed,Closed,2018/2/16 8:52,2018/3/6 7:06
+GEODE-4697,Bug,Fixed,Closed,2018/2/16 9:09,2018/4/4 23:27
+GEODE-4698,Bug,Fixed,Closed,2018/2/16 9:46,2018/2/23 5:05
+GEODE-4699,Improvement,Unresolved,Open,2018/2/16 23:46,
+GEODE-4700,Improvement,Invalid,Closed,2018/2/17 0:39,2018/2/22 1:11
+GEODE-4701,Improvement,Unresolved,Open,2018/2/17 0:47,
+GEODE-4702,Improvement,Unresolved,Open,2018/2/17 0:49,
+GEODE-4703,Bug,Fixed,Closed,2018/2/17 3:16,2018/2/28 8:05
+GEODE-4704,Bug,Fixed,Closed,2018/2/17 7:56,2018/2/24 7:46
+GEODE-4705,Task,Fixed,Closed,2018/2/17 8:45,2018/2/22 1:37
+GEODE-4706,Improvement,Unresolved,Open,2018/2/20 20:43,
+GEODE-4707,Improvement,Unresolved,Open,2018/2/21 0:52,
+GEODE-4708,Improvement,Duplicate,Closed,2018/2/21 7:02,2018/4/12 1:49
+GEODE-4709,Bug,Unresolved,Open,2018/2/21 8:06,
+GEODE-4710,Improvement,Unresolved,Open,2018/2/22 0:27,
+GEODE-4711,Improvement,Unresolved,Open,2018/2/22 0:29,
+GEODE-4712,Bug,Unresolved,Open,2018/2/22 1:46,
+GEODE-4713,Sub-task,Fixed,Closed,2018/2/22 2:54,2018/2/23 4:14
+GEODE-4714,Sub-task,Unresolved,Open,2018/2/22 6:40,
+GEODE-4715,Sub-task,Fixed,Closed,2018/2/22 7:23,2018/3/27 2:18
+GEODE-4716,Improvement,Fixed,Closed,2018/2/22 8:02,2018/4/18 5:56
+GEODE-4717,Sub-task,Fixed,Closed,2018/2/22 9:06,2018/2/23 3:27
+GEODE-4718,Sub-task,Fixed,Closed,2018/2/22 9:25,2018/2/23 3:26
+GEODE-4719,Sub-task,Fixed,Closed,2018/2/22 9:39,2018/2/23 3:26
+GEODE-4720,Bug,Unresolved,Open,2018/2/22 16:02,
+GEODE-4721,Bug,Fixed,Closed,2018/2/22 23:46,2018/5/1 5:30
+GEODE-4722,Improvement,Fixed,Closed,2018/2/23 1:34,2018/3/6 1:44
+GEODE-4723,Bug,Not A Bug,Closed,2018/2/23 2:10,2018/3/17 3:22
+GEODE-4724,Bug,Unresolved,Open,2018/2/23 3:24,
+GEODE-4725,Bug,Fixed,Closed,2018/2/23 3:41,2018/3/1 6:56
+GEODE-4726,Bug,Fixed,Closed,2018/2/23 5:10,2018/7/14 7:39
+GEODE-4727,Improvement,Unresolved,Open,2018/2/23 5:15,
+GEODE-4728,Improvement,Fixed,Closed,2018/2/23 6:17,2019/3/14 6:12
+GEODE-4729,Sub-task,Fixed,Closed,2018/2/23 6:19,2018/3/9 1:37
+GEODE-4730,Improvement,Fixed,Closed,2018/2/23 6:34,2018/3/7 2:31
+GEODE-4731,Sub-task,Unresolved,Open,2018/2/23 7:03,
+GEODE-4732,Improvement,Unresolved,Open,2018/2/23 7:30,
+GEODE-4733,Sub-task,Fixed,Closed,2018/2/23 7:33,2018/3/6 1:43
+GEODE-4734,Improvement,Fixed,Closed,2018/2/23 7:44,2018/3/3 4:38
+GEODE-4735,Sub-task,Fixed,Closed,2018/2/23 8:04,2018/3/21 1:50
+GEODE-4736,Task,Fixed,Closed,2018/2/23 9:35,2018/2/28 3:34
+GEODE-4737,Improvement,Fixed,Closed,2018/2/24 2:19,2018/2/27 9:05
+GEODE-4738,Bug,Fixed,Closed,2018/2/24 2:30,2018/2/27 8:40
+GEODE-4739,Bug,Unresolved,Open,2018/2/24 2:39,
+GEODE-4740,Bug,Fixed,Closed,2018/2/24 3:29,2018/3/1 6:55
+GEODE-4741,Bug,Won't Fix,Closed,2018/2/24 3:44,2018/3/10 1:47
+GEODE-4742,Bug,Unresolved,Open,2018/2/24 5:27,
+GEODE-4743,Bug,Fixed,Closed,2018/2/24 7:41,2018/3/6 1:43
+GEODE-4744,Improvement,Fixed,Closed,2018/2/25 20:17,2018/3/1 2:26
+GEODE-4745,Bug,Fixed,Closed,2018/2/26 23:29,2018/3/1 6:55
+GEODE-4746,Improvement,Fixed,Closed,2018/2/27 1:50,2018/3/1 5:03
+GEODE-4747,Bug,Cannot Reproduce,Resolved,2018/2/27 9:35,2018/11/8 7:23
+GEODE-4748,Bug,Won't Fix,Resolved,2018/2/27 17:44,2019/2/5 1:27
+GEODE-4749,Bug,Fixed,Closed,2018/2/28 6:58,2018/3/24 1:27
+GEODE-4750,Improvement,Fixed,Closed,2018/2/28 7:15,2018/3/10 6:27
+GEODE-4751,New Feature,Fixed,Closed,2018/2/28 7:29,2018/3/10 1:54
+GEODE-4752,Task,Duplicate,Closed,2018/3/1 0:28,2018/3/13 2:14
+GEODE-4753,Bug,Fixed,Closed,2018/3/1 2:08,2018/3/1 2:16
+GEODE-4754,Bug,Won't Fix,Closed,2018/3/1 5:33,2018/3/17 3:48
+GEODE-4755,Bug,Fixed,Closed,2018/3/1 7:38,2018/3/14 22:57
+GEODE-4756,Bug,Fixed,Closed,2018/3/2 0:35,2018/3/2 5:28
+GEODE-4757,Bug,Fixed,Closed,2018/3/2 1:01,2018/3/2 5:48
+GEODE-4758,Bug,Unresolved,Open,2018/3/2 3:34,
+GEODE-4759,Bug,Fixed,Closed,2018/3/2 5:47,2018/3/6 3:07
+GEODE-4760,Task,Fixed,Closed,2018/3/2 5:55,2018/4/21 3:23
+GEODE-4761,Task,Fixed,Closed,2018/3/2 7:01,2018/3/2 7:05
+GEODE-4762,Improvement,Fixed,Closed,2018/3/2 7:40,2018/3/9 3:33
+GEODE-4763,New Feature,Unresolved,Open,2018/3/2 8:25,
+GEODE-4764,Sub-task,Fixed,Closed,2018/3/2 9:17,2018/3/8 1:01
+GEODE-4765,Bug,Fixed,Closed,2018/3/3 0:39,2018/3/7 2:30
+GEODE-4766,Bug,Fixed,Closed,2018/3/3 2:08,2018/3/10 1:45
+GEODE-4767,Bug,Fixed,Closed,2018/3/3 2:08,2018/3/6 7:04
+GEODE-4768,Task,Fixed,Closed,2018/3/3 2:19,2018/3/14 5:31
+GEODE-4769,Improvement,Fixed,Closed,2018/3/3 2:27,2018/3/17 0:38
+GEODE-4770,Bug,Fixed,Closed,2018/3/3 7:59,2018/3/7 2:51
+GEODE-4771,Bug,Fixed,Closed,2018/3/5 20:10,2018/3/22 16:52
+GEODE-4772,New Feature,Fixed,Closed,2018/3/6 0:51,2018/3/13 6:56
+GEODE-4773,New Feature,Unresolved,Open,2018/3/6 1:59,
+GEODE-4774,Bug,Unresolved,Reopened,2018/3/6 2:26,
+GEODE-4775,Improvement,Fixed,Closed,2018/3/6 2:37,2018/3/7 5:29
+GEODE-4776,Improvement,Fixed,Closed,2018/3/6 2:39,2018/3/7 6:54
+GEODE-4777,Task,Fixed,Closed,2018/3/6 2:58,2018/3/7 9:11
+GEODE-4778,Sub-task,Unresolved,Open,2018/3/6 5:50,
+GEODE-4779,Sub-task,Fixed,Resolved,2018/3/6 6:44,2019/1/3 3:14
+GEODE-4780,Sub-task,Fixed,Resolved,2018/3/6 7:48,2019/1/3 3:14
+GEODE-4781,Bug,Fixed,Closed,2018/3/6 11:15,2018/3/7 4:35
+GEODE-4782,Bug,Fixed,Closed,2018/3/7 0:06,2018/4/3 0:55
+GEODE-4783,Sub-task,Unresolved,Open,2018/3/7 0:08,
+GEODE-4784,Sub-task,Unresolved,Open,2018/3/7 0:10,
+GEODE-4785,Bug,Fixed,Closed,2018/3/7 0:14,2018/3/27 6:59
+GEODE-4786,Sub-task,Fixed,Closed,2018/3/7 2:43,2018/3/9 1:38
+GEODE-4787,Bug,Fixed,Closed,2018/3/7 3:12,2018/4/13 3:52
+GEODE-4788,New Feature,Fixed,Closed,2018/3/7 4:10,2018/3/7 15:09
+GEODE-4789,Improvement,Fixed,Closed,2018/3/7 6:13,2018/3/17 6:40
+GEODE-4790,Bug,Fixed,Closed,2018/3/7 7:12,2018/3/31 4:39
+GEODE-4791,Improvement,Fixed,Closed,2018/3/7 7:30,2018/7/20 7:10
+GEODE-4792,Improvement,Fixed,Closed,2018/3/7 7:57,2018/3/10 0:29
+GEODE-4793,Bug,Fixed,Closed,2018/3/7 12:39,2018/3/9 1:47
+GEODE-4794,Bug,Fixed,Closed,2018/3/7 19:56,2019/2/28 9:46
+GEODE-4795,Improvement,Fixed,Closed,2018/3/8 1:54,2018/3/9 7:41
+GEODE-4796,Bug,Fixed,Closed,2018/3/8 2:15,2018/3/13 6:10
+GEODE-4797,Bug,Fixed,Closed,2018/3/8 3:17,2018/3/13 1:30
+GEODE-4798,Bug,Fixed,Closed,2018/3/8 5:36,2018/3/13 5:35
+GEODE-4799,Improvement,Fixed,Closed,2018/3/8 5:57,2019/3/21 4:35
+GEODE-4800,Bug,Fixed,Closed,2018/3/8 7:29,2018/3/9 2:18
+GEODE-4801,Improvement,Fixed,Closed,2018/3/8 8:33,2018/3/13 3:14
+GEODE-4802,Bug,Unresolved,Open,2018/3/8 10:41,
+GEODE-4803,Bug,Fixed,Closed,2018/3/9 0:56,2018/7/7 1:49
+GEODE-4804,Sub-task,Fixed,Closed,2018/3/9 2:00,2018/4/11 8:19
+GEODE-4805,Improvement,Unresolved,Open,2018/3/9 2:37,
+GEODE-4806,Task,Fixed,Closed,2018/3/9 4:04,2019/7/17 1:05
+GEODE-4807,Test,Fixed,Closed,2018/3/9 4:27,2018/3/30 4:36
+GEODE-4808,Sub-task,Fixed,Closed,2018/3/9 6:00,2018/3/27 5:58
+GEODE-4809,Sub-task,Unresolved,Open,2018/3/9 6:03,
+GEODE-4810,Sub-task,Fixed,Closed,2018/3/9 6:04,2018/3/21 4:23
+GEODE-4811,New Feature,Unresolved,Open,2018/3/9 6:40,
+GEODE-4812,Bug,Unresolved,Open,2018/3/9 7:53,
+GEODE-4813,Sub-task,Fixed,Resolved,2018/3/9 8:02,2019/1/3 3:14
+GEODE-4814,Sub-task,Fixed,Closed,2018/3/9 8:19,2018/3/20 0:07
+GEODE-4815,Improvement,Fixed,Resolved,2018/3/10 1:43,2018/3/20 4:12
+GEODE-4816,New Feature,Fixed,Closed,2018/3/10 2:06,2018/3/23 2:46
+GEODE-4817,New Feature,Fixed,Closed,2018/3/10 2:06,2018/4/3 0:56
+GEODE-4818,Improvement,Fixed,Closed,2018/3/10 2:46,2018/3/23 8:31
+GEODE-4819,New Feature,Fixed,Closed,2018/3/10 3:17,2018/3/29 8:57
+GEODE-4820,Bug,Fixed,Closed,2018/3/10 8:11,2018/3/17 6:41
+GEODE-4821,Bug,Fixed,Closed,2018/3/10 8:12,2018/3/17 6:41
+GEODE-4822,Bug,Unresolved,Reopened,2018/3/12 18:23,
+GEODE-4823,Bug,Fixed,Closed,2018/3/13 0:48,2018/3/14 8:15
+GEODE-4824,Bug,Fixed,Closed,2018/3/13 1:33,2018/3/15 4:40
+GEODE-4825,Bug,Fixed,Resolved,2018/3/13 1:54,2019/1/17 3:12
+GEODE-4826,New Feature,Unresolved,Open,2018/3/13 2:27,
+GEODE-4827,Bug,Fixed,Closed,2018/3/13 10:02,2018/3/17 1:18
+GEODE-4828,Improvement,Unresolved,Open,2018/3/13 14:19,
+GEODE-4829,Bug,Fixed,Closed,2018/3/13 16:04,2018/3/14 8:22
+GEODE-4830,Sub-task,Fixed,Closed,2018/3/14 1:55,2018/4/13 1:39
+GEODE-4831,Improvement,Fixed,Closed,2018/3/14 2:48,2018/3/15 4:02
+GEODE-4832,Bug,Fixed,Closed,2018/3/14 3:59,2018/3/21 3:29
+GEODE-4833,Bug,Not A Problem,Closed,2018/3/14 5:17,2018/12/18 9:04
+GEODE-4834,New Feature,Fixed,Closed,2018/3/14 5:46,2018/3/15 1:38
+GEODE-4835,Bug,Fixed,Closed,2018/3/14 6:23,2018/4/21 3:20
+GEODE-4836,Bug,Fixed,Closed,2018/3/14 8:46,2018/3/22 4:34
+GEODE-4837,Improvement,Unresolved,Open,2018/3/15 1:00,
+GEODE-4838,Bug,Fixed,Closed,2018/3/15 1:27,2018/4/21 0:55
+GEODE-4839,Improvement,Fixed,Closed,2018/3/15 2:41,2018/4/24 5:54
+GEODE-4840,Bug,Fixed,Closed,2018/3/15 2:53,2018/4/4 5:59
+GEODE-4841,Improvement,Fixed,Closed,2018/3/15 2:54,2019/5/21 6:08
+GEODE-4842,Improvement,Done,Closed,2018/3/15 2:56,2018/4/21 1:20
+GEODE-4843,Bug,Fixed,Closed,2018/3/15 3:19,2018/3/15 21:17
+GEODE-4844,Bug,Fixed,Closed,2018/3/15 5:40,2018/3/16 5:47
+GEODE-4845,Improvement,Fixed,Closed,2018/3/15 5:53,2018/4/24 1:30
+GEODE-4846,Bug,Fixed,Closed,2018/3/15 5:54,2018/3/17 6:41
+GEODE-4847,Bug,Duplicate,Closed,2018/3/15 6:00,2018/3/15 6:03
+GEODE-4848,Bug,Cannot Reproduce,Resolved,2018/3/15 6:06,2018/11/8 7:24
+GEODE-4849,Bug,Not A Bug,Closed,2018/3/15 7:02,2018/4/6 2:25
+GEODE-4850,Task,Fixed,Closed,2018/3/15 12:17,2018/4/4 23:26
+GEODE-4851,Improvement,Fixed,Closed,2018/3/15 12:20,2018/3/17 3:41
+GEODE-4852,Bug,Duplicate,Resolved,2018/3/15 23:49,2018/7/10 6:11
+GEODE-4853,Improvement,Fixed,Closed,2018/3/16 3:23,2018/4/25 8:55
+GEODE-4854,Improvement,Fixed,Closed,2018/3/16 4:04,2019/3/21 4:47
+GEODE-4855,Improvement,Fixed,Closed,2018/3/16 4:35,2018/4/23 23:50
+GEODE-4856,New Feature,Unresolved,Open,2018/3/16 6:00,
+GEODE-4857,Sub-task,Fixed,Closed,2018/3/16 6:14,2018/4/5 0:23
+GEODE-4858,Sub-task,Unresolved,Open,2018/3/16 6:21,
+GEODE-4859,Sub-task,Fixed,Closed,2018/3/16 6:24,2018/3/28 23:48
+GEODE-4860,Sub-task,Fixed,Closed,2018/3/16 6:28,2018/5/4 6:54
+GEODE-4861,Improvement,Unresolved,Open,2018/3/16 6:36,
+GEODE-4862,Sub-task,Unresolved,Open,2018/3/16 6:41,
+GEODE-4863,Sub-task,Fixed,Closed,2018/3/16 6:41,2018/4/14 2:51
+GEODE-4864,Improvement,Fixed,Closed,2018/3/16 6:51,2018/3/21 1:48
+GEODE-4865,Improvement,Unresolved,Open,2018/3/16 7:49,
+GEODE-4866,Bug,Unresolved,Open,2018/3/16 7:56,
+GEODE-4867,Bug,Fixed,Closed,2018/3/16 14:36,2018/4/3 4:35
+GEODE-4868,Bug,Fixed,Closed,2018/3/16 15:01,2018/3/17 6:02
+GEODE-4869,Sub-task,Fixed,Closed,2018/3/16 23:05,2018/3/30 23:43
+GEODE-4870,Bug,Fixed,Closed,2018/3/16 23:09,2018/3/29 1:28
+GEODE-4871,Improvement,Won't Fix,Resolved,2018/3/17 0:39,2018/9/11 6:43
+GEODE-4872,Bug,Fixed,Closed,2018/3/17 1:05,2018/4/4 1:41
+GEODE-4873,Bug,Fixed,Closed,2018/3/17 1:25,2018/3/21 23:49
+GEODE-4874,Bug,Fixed,Closed,2018/3/17 1:32,2018/4/14 4:01
+GEODE-4875,Bug,Duplicate,Closed,2018/3/17 2:59,2018/3/20 3:08
+GEODE-4876,Improvement,Fixed,Closed,2018/3/17 3:00,2018/4/24 1:24
+GEODE-4877,Bug,Unresolved,Open,2018/3/17 3:19,
+GEODE-4878,Test,Fixed,Closed,2018/3/17 4:53,2018/3/30 23:42
+GEODE-4879,Improvement,Fixed,Closed,2018/3/17 5:05,2018/12/27 5:35
+GEODE-4880,Test,Fixed,Closed,2018/3/17 6:30,2018/3/30 4:35
+GEODE-4881,Sub-task,Fixed,Closed,2018/3/17 7:27,2018/4/13 4:26
+GEODE-4882,Bug,Fixed,Closed,2018/3/17 8:34,2018/3/24 0:35
+GEODE-4883,Test,Fixed,Reopened,2018/3/17 22:49,2018/3/30 23:41
+GEODE-4884,Task,Fixed,Closed,2018/3/17 23:10,2018/3/30 23:41
+GEODE-4885,Bug,Fixed,Closed,2018/3/19 5:43,2018/3/21 3:22
+GEODE-4886,Bug,Won't Fix,Resolved,2018/3/20 0:53,2018/9/26 1:30
+GEODE-4887,Bug,Cannot Reproduce,Resolved,2018/3/20 0:53,2018/11/8 7:23
+GEODE-4888,Improvement,Fixed,Closed,2018/3/20 1:05,2018/3/20 6:10
+GEODE-4889,Improvement,Fixed,Closed,2018/3/20 1:37,2018/5/10 0:13
+GEODE-4890,Bug,Cannot Reproduce,Resolved,2018/3/20 1:54,2018/11/8 7:23
+GEODE-4891,Bug,Fixed,Closed,2018/3/20 2:22,2018/4/21 3:19
+GEODE-4892,Bug,Duplicate,Resolved,2018/3/20 2:30,2018/7/14 1:45
+GEODE-4893,Bug,Fixed,Closed,2018/3/20 2:47,2018/4/4 0:48
+GEODE-4894,Bug,Fixed,Closed,2018/3/20 3:07,2018/3/25 1:29
+GEODE-4895,Sub-task,Fixed,Closed,2018/3/20 5:36,2018/4/11 1:09
+GEODE-4896,Wish,Fixed,Closed,2018/3/20 7:23,2018/3/20 7:26
+GEODE-4897,Bug,Duplicate,Closed,2018/3/20 7:32,2018/4/17 0:56
+GEODE-4898,Task,Fixed,Closed,2018/3/20 7:43,2018/3/30 4:35
+GEODE-4899,Task,Fixed,Closed,2018/3/21 0:57,2018/3/24 10:01
+GEODE-4900,Improvement,Unresolved,Open,2018/3/21 2:10,
+GEODE-4901,Bug,Fixed,Closed,2018/3/21 2:25,2018/3/22 10:21
+GEODE-4902,Bug,Fixed,Closed,2018/3/21 4:57,2018/4/14 1:27
+GEODE-4903,Task,Fixed,Closed,2018/3/21 6:29,2018/3/21 8:12
+GEODE-4904,Improvement,Unresolved,Open,2018/3/21 7:17,
+GEODE-4905,Improvement,Invalid,Closed,2018/3/21 7:19,2018/4/18 7:10
+GEODE-4906,Improvement,Fixed,Closed,2018/3/21 14:18,2018/4/4 23:25
+GEODE-4907,Bug,Fixed,Closed,2018/3/22 0:02,2018/3/22 2:00
+GEODE-4908,Task,Fixed,Closed,2018/3/22 1:15,2018/4/13 3:37
+GEODE-4909,Test,Fixed,Closed,2018/3/22 2:24,2018/5/1 7:53
+GEODE-4910,Improvement,Fixed,Closed,2018/3/22 2:55,2018/3/24 1:27
+GEODE-4911,Improvement,Fixed,Closed,2018/3/22 4:53,2018/4/5 2:31
+GEODE-4912,Improvement,Fixed,Closed,2018/3/22 6:11,2018/4/4 23:23
+GEODE-4913,Bug,Fixed,Closed,2018/3/22 8:17,2018/3/31 2:00
+GEODE-4914,Bug,Unresolved,Open,2018/3/22 20:47,
+GEODE-4915,Bug,Fixed,Closed,2018/3/22 23:50,2018/4/10 22:58
+GEODE-4916,Bug,Fixed,Closed,2018/3/23 1:15,2018/4/4 23:22
+GEODE-4917,Improvement,Fixed,Closed,2018/3/23 1:36,2018/4/3 0:52
+GEODE-4918,Bug,Fixed,Closed,2018/3/23 2:20,2018/4/4 23:25
+GEODE-4919,Bug,Fixed,Closed,2018/3/23 2:39,2018/4/13 4:18
+GEODE-4920,Bug,Unresolved,Open,2018/3/23 4:56,
+GEODE-4921,Improvement,Fixed,Closed,2018/3/23 5:06,2018/4/4 23:24
+GEODE-4922,Bug,Fixed,Closed,2018/3/23 6:19,2018/4/3 0:00
+GEODE-4923,Improvement,Fixed,Closed,2018/3/23 6:36,2018/5/1 7:32
+GEODE-4924,Bug,Fixed,Closed,2018/3/23 23:54,2018/3/24 1:31
+GEODE-4925,Bug,Unresolved,Open,2018/3/24 0:36,
+GEODE-4926,Bug,Unresolved,Open,2018/3/24 1:20,
+GEODE-4927,Improvement,Not A Bug,Closed,2018/3/24 1:39,2018/3/24 2:24
+GEODE-4928,New Feature,Unresolved,Reopened,2018/3/24 3:24,
+GEODE-4929,Bug,Fixed,Closed,2018/3/24 4:12,2018/3/31 1:04
+GEODE-4930,Sub-task,Fixed,Closed,2018/3/24 4:40,2018/4/3 0:52
+GEODE-4931,Sub-task,Unresolved,Open,2018/3/24 4:41,
+GEODE-4932,Sub-task,Unresolved,Open,2018/3/24 4:41,
+GEODE-4933,Bug,Fixed,Closed,2018/3/24 4:55,2018/3/27 6:01
+GEODE-4934,Bug,Won't Fix,Resolved,2018/3/24 5:49,2018/8/30 3:25
+GEODE-4935,Bug,Unresolved,Open,2018/3/24 5:51,
+GEODE-4936,Bug,Duplicate,Closed,2018/3/24 5:53,2018/4/16 23:59
+GEODE-4937,Wish,Unresolved,Open,2018/3/24 6:49,
+GEODE-4938,Improvement,Unresolved,Open,2018/3/24 10:00,
+GEODE-4939,Improvement,Unresolved,Open,2018/3/24 11:27,
+GEODE-4940,Sub-task,Unresolved,Open,2018/3/26 23:15,
+GEODE-4941,Task,Fixed,Closed,2018/3/26 23:46,2018/3/30 4:35
+GEODE-4942,Bug,Fixed,Closed,2018/3/27 0:03,2018/4/11 2:22
+GEODE-4943,Bug,Fixed,Closed,2018/3/27 1:18,2018/3/28 23:36
+GEODE-4944,Improvement,Unresolved,Open,2018/3/27 2:53,
+GEODE-4945,Task,Fixed,Closed,2018/3/27 5:36,2018/3/30 23:51
+GEODE-4946,Task,Fixed,Closed,2018/3/27 12:21,2018/3/30 5:48
+GEODE-4947,Test,Fixed,Closed,2018/3/28 0:55,2018/4/10 0:48
+GEODE-4948,Bug,Fixed,Closed,2018/3/28 1:35,2018/4/3 0:52
+GEODE-4949,Improvement,Fixed,Resolved,2018/3/28 2:06,2018/5/23 1:21
+GEODE-4950,Sub-task,Fixed,Closed,2018/3/28 2:09,2018/4/9 23:38
+GEODE-4951,Sub-task,Fixed,Closed,2018/3/28 2:10,2018/4/9 23:38
+GEODE-4952,Sub-task,Fixed,Closed,2018/3/28 2:10,2018/4/14 1:20
+GEODE-4953,Sub-task,Fixed,Resolved,2018/3/28 2:10,2018/5/23 1:21
+GEODE-4954,Sub-task,Fixed,Closed,2018/3/28 2:12,2018/4/18 0:51
+GEODE-4955,Sub-task,Fixed,Closed,2018/3/28 2:12,2018/4/18 0:52
+GEODE-4956,Bug,Fixed,Closed,2018/3/28 4:44,2018/3/31 2:29
+GEODE-4957,Bug,Fixed,Closed,2018/3/28 8:17,2018/4/25 3:09
+GEODE-4958,Improvement,Fixed,Closed,2018/3/28 8:17,2019/4/17 0:31
+GEODE-4959,Bug,Fixed,Closed,2018/3/29 4:11,2018/5/16 3:29
+GEODE-4960,Bug,Fixed,Closed,2018/3/29 7:02,2018/4/6 4:44
+GEODE-4961,New Feature,Done,Resolved,2018/3/29 8:56,2018/10/2 15:09
+GEODE-4962,Bug,Fixed,Closed,2018/3/29 9:02,2018/4/14 4:11
+GEODE-4963,Bug,Fixed,Closed,2018/3/29 12:35,2018/4/26 6:48
+GEODE-4964,Bug,Unresolved,Open,2018/3/29 19:03,
+GEODE-4965,Task,Fixed,Closed,2018/3/29 23:26,2018/7/17 0:33
+GEODE-4966,Task,Unresolved,Open,2018/3/29 23:29,
+GEODE-4967,Task,Fixed,Closed,2018/3/29 23:54,2018/4/5 23:32
+GEODE-4968,Task,Fixed,Closed,2018/3/30 0:47,2018/7/13 15:15
+GEODE-4969,Bug,Unresolved,Open,2018/3/30 1:15,
+GEODE-4970,Bug,Fixed,Closed,2018/3/30 4:47,2018/4/5 1:33
+GEODE-4971,Task,Fixed,Closed,2018/3/30 4:49,2018/4/9 23:38
+GEODE-4972,Task,Fixed,Closed,2018/3/30 4:50,2018/4/9 23:37
+GEODE-4973,Improvement,Fixed,Closed,2018/3/30 5:32,2018/4/21 3:16
+GEODE-4974,Bug,Fixed,Closed,2018/3/31 0:31,2018/3/31 5:35
+GEODE-4975,Improvement,Won't Fix,Closed,2018/3/31 0:57,2019/3/29 23:29
+GEODE-4976,Improvement,Fixed,Closed,2018/3/31 1:44,2018/4/3 0:56
+GEODE-4977,Task,Fixed,Closed,2018/4/1 10:57,2018/5/8 12:34
+GEODE-4978,Task,Fixed,Closed,2018/4/1 12:12,2018/8/24 2:34
+GEODE-4979,Bug,Fixed,Closed,2018/4/1 15:40,2018/4/4 1:00
+GEODE-4980,Bug,Fixed,Closed,2018/4/2 23:57,2018/4/3 0:04
+GEODE-4981,Bug,Fixed,Closed,2018/4/3 0:37,2018/4/4 0:25
+GEODE-4982,Improvement,Duplicate,Closed,2018/4/3 0:41,2018/4/3 0:55
+GEODE-4983,Bug,Fixed,Closed,2018/4/3 1:36,2018/4/4 1:10
+GEODE-4984,Improvement,Fixed,Closed,2018/4/3 1:40,2018/4/5 4:56
+GEODE-4985,Task,Not A Problem,Closed,2018/4/3 3:26,2018/4/3 22:45
+GEODE-4986,Bug,Fixed,Closed,2018/4/3 4:35,2018/4/18 0:57
+GEODE-4987,Test,Unresolved,Open,2018/4/3 4:43,
+GEODE-4988,Bug,Not A Problem,Closed,2018/4/3 4:46,2018/4/4 2:48
+GEODE-4989,Bug,Fixed,Closed,2018/4/3 6:11,2018/4/5 0:47
+GEODE-4990,Bug,Fixed,Closed,2018/4/3 22:42,2018/4/16 17:35
+GEODE-4991,Bug,Fixed,Closed,2018/4/4 2:54,2018/4/11 1:45
+GEODE-4992,Improvement,Implemented,Closed,2018/4/4 6:54,2018/8/18 2:26
+GEODE-4993,Improvement,Fixed,Resolved,2018/4/4 7:09,2019/8/10 4:38
+GEODE-4994,Task,Fixed,Closed,2018/4/4 23:30,2018/4/7 10:09
+GEODE-4995,Test,Fixed,Closed,2018/4/5 3:09,2018/4/10 6:05
+GEODE-4996,Improvement,Fixed,Closed,2018/4/5 3:48,2018/4/25 1:32
+GEODE-4997,Improvement,Unresolved,Open,2018/4/5 5:15,
+GEODE-4998,Improvement,Unresolved,Open,2018/4/5 5:22,
+GEODE-4999,Bug,Fixed,Resolved,2018/4/5 5:32,2019/1/17 3:11
+GEODE-5000,Bug,Fixed,Resolved,2018/4/5 6:23,2018/4/18 0:02
+GEODE-5001,Improvement,Fixed,Closed,2018/4/5 23:09,2018/5/17 0:59
+GEODE-5002,Task,Unresolved,Open,2018/4/5 23:38,
+GEODE-5003,Sub-task,Fixed,Closed,2018/4/5 23:42,2018/4/6 22:06
+GEODE-5004,Sub-task,Fixed,Closed,2018/4/5 23:43,2018/4/9 23:35
+GEODE-5005,Sub-task,Fixed,Closed,2018/4/5 23:44,2018/4/9 23:35
+GEODE-5006,Sub-task,Fixed,Closed,2018/4/5 23:44,2018/4/10 0:57
+GEODE-5007,Sub-task,Fixed,Closed,2018/4/5 23:45,2018/4/10 0:57
+GEODE-5008,Sub-task,Fixed,Closed,2018/4/5 23:46,2018/4/14 0:34
+GEODE-5009,Sub-task,Fixed,Closed,2018/4/5 23:46,2018/4/14 0:35
+GEODE-5010,Sub-task,Fixed,Closed,2018/4/5 23:48,2018/5/8 0:39

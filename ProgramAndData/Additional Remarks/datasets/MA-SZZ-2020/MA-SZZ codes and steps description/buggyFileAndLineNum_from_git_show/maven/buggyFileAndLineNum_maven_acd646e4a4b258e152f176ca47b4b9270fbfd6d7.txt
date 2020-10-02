@@ -1,0 +1,16 @@
+28,28 acd646e4a4b258e152f176ca47b4b9270fbfd6d7^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/MavenMetadata.java
+84,84 acd646e4a4b258e152f176ca47b4b9270fbfd6d7^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/MavenMetadata.java
+85,85 acd646e4a4b258e152f176ca47b4b9270fbfd6d7^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/MavenMetadata.java
+86,86 acd646e4a4b258e152f176ca47b4b9270fbfd6d7^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/MavenMetadata.java
+87,87 acd646e4a4b258e152f176ca47b4b9270fbfd6d7^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/MavenMetadata.java
+88,88 acd646e4a4b258e152f176ca47b4b9270fbfd6d7^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/MavenMetadata.java
+89,89 acd646e4a4b258e152f176ca47b4b9270fbfd6d7^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/MavenMetadata.java
+90,90 acd646e4a4b258e152f176ca47b4b9270fbfd6d7^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/MavenMetadata.java
+92,92 acd646e4a4b258e152f176ca47b4b9270fbfd6d7^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/MavenMetadata.java
+94,94 acd646e4a4b258e152f176ca47b4b9270fbfd6d7^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/MavenMetadata.java
+95,95 acd646e4a4b258e152f176ca47b4b9270fbfd6d7^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/MavenMetadata.java
+96,96 acd646e4a4b258e152f176ca47b4b9270fbfd6d7^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/MavenMetadata.java
+97,97 acd646e4a4b258e152f176ca47b4b9270fbfd6d7^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/MavenMetadata.java
+98,98 acd646e4a4b258e152f176ca47b4b9270fbfd6d7^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/MavenMetadata.java
+100,100 acd646e4a4b258e152f176ca47b4b9270fbfd6d7^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/MavenMetadata.java
+101,101 acd646e4a4b258e152f176ca47b4b9270fbfd6d7^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/MavenMetadata.java

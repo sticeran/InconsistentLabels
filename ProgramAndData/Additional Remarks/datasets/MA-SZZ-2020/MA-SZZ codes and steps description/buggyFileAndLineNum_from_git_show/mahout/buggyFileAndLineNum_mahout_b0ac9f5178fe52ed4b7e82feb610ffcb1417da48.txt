@@ -1,0 +1,8 @@
+151,151 b0ac9f5178fe52ed4b7e82feb610ffcb1417da48^ core/src/main/java/org/apache/mahout/math/hadoop/stochasticsvd/BtJob.java
+153,153 b0ac9f5178fe52ed4b7e82feb610ffcb1417da48^ core/src/main/java/org/apache/mahout/math/hadoop/stochasticsvd/BtJob.java
+154,154 b0ac9f5178fe52ed4b7e82feb610ffcb1417da48^ core/src/main/java/org/apache/mahout/math/hadoop/stochasticsvd/BtJob.java
+155,155 b0ac9f5178fe52ed4b7e82feb610ffcb1417da48^ core/src/main/java/org/apache/mahout/math/hadoop/stochasticsvd/BtJob.java
+156,156 b0ac9f5178fe52ed4b7e82feb610ffcb1417da48^ core/src/main/java/org/apache/mahout/math/hadoop/stochasticsvd/BtJob.java
+157,157 b0ac9f5178fe52ed4b7e82feb610ffcb1417da48^ core/src/main/java/org/apache/mahout/math/hadoop/stochasticsvd/BtJob.java
+158,158 b0ac9f5178fe52ed4b7e82feb610ffcb1417da48^ core/src/main/java/org/apache/mahout/math/hadoop/stochasticsvd/BtJob.java
+62,62 b0ac9f5178fe52ed4b7e82feb610ffcb1417da48^ core/src/main/java/org/apache/mahout/math/hadoop/stochasticsvd/Omega.java

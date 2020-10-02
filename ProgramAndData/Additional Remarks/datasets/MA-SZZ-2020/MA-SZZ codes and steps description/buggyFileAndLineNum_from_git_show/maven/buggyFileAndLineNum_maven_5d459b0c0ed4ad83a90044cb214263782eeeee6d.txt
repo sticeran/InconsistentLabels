@@ -1,0 +1,2 @@
+120,120 5d459b0c0ed4ad83a90044cb214263782eeeee6d^ maven-compat/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java
+198,198 5d459b0c0ed4ad83a90044cb214263782eeeee6d^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java

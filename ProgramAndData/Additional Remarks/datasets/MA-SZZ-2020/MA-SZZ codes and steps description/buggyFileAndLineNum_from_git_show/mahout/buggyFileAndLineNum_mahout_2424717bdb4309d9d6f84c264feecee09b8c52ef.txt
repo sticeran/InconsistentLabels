@@ -1,0 +1,10 @@
+41,41 2424717bdb4309d9d6f84c264feecee09b8c52ef^ core/src/main/java/org/apache/mahout/clustering/iterator/CIReducer.java
+44,44 2424717bdb4309d9d6f84c264feecee09b8c52ef^ core/src/main/java/org/apache/mahout/clustering/iterator/CIReducer.java
+45,45 2424717bdb4309d9d6f84c264feecee09b8c52ef^ core/src/main/java/org/apache/mahout/clustering/iterator/CIReducer.java
+46,46 2424717bdb4309d9d6f84c264feecee09b8c52ef^ core/src/main/java/org/apache/mahout/clustering/iterator/CIReducer.java
+47,47 2424717bdb4309d9d6f84c264feecee09b8c52ef^ core/src/main/java/org/apache/mahout/clustering/iterator/CIReducer.java
+48,48 2424717bdb4309d9d6f84c264feecee09b8c52ef^ core/src/main/java/org/apache/mahout/clustering/iterator/CIReducer.java
+49,49 2424717bdb4309d9d6f84c264feecee09b8c52ef^ core/src/main/java/org/apache/mahout/clustering/iterator/CIReducer.java
+54,54 2424717bdb4309d9d6f84c264feecee09b8c52ef^ core/src/main/java/org/apache/mahout/clustering/iterator/CIReducer.java
+58,58 2424717bdb4309d9d6f84c264feecee09b8c52ef^ core/src/main/java/org/apache/mahout/clustering/iterator/CIReducer.java
+495,495 2424717bdb4309d9d6f84c264feecee09b8c52ef^ core/src/test/java/org/apache/mahout/clustering/meanshift/TestMeanShift.java

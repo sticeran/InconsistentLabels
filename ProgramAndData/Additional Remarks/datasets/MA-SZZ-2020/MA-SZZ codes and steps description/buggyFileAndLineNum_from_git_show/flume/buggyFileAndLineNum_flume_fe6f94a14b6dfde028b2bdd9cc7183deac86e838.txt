@@ -1,0 +1,9 @@
+251,251 fe6f94a14b6dfde028b2bdd9cc7183deac86e838^ flume-core/src/main/java/com/cloudera/flume/agent/durability/NaiveFileWALDeco.java
+252,252 fe6f94a14b6dfde028b2bdd9cc7183deac86e838^ flume-core/src/main/java/com/cloudera/flume/agent/durability/NaiveFileWALDeco.java
+253,253 fe6f94a14b6dfde028b2bdd9cc7183deac86e838^ flume-core/src/main/java/com/cloudera/flume/agent/durability/NaiveFileWALDeco.java
+254,254 fe6f94a14b6dfde028b2bdd9cc7183deac86e838^ flume-core/src/main/java/com/cloudera/flume/agent/durability/NaiveFileWALDeco.java
+38,38 fe6f94a14b6dfde028b2bdd9cc7183deac86e838^ flume-core/src/main/java/com/cloudera/flume/handlers/debug/DelayDecorator.java
+60,60 fe6f94a14b6dfde028b2bdd9cc7183deac86e838^ flume-core/src/main/java/com/cloudera/flume/handlers/debug/DelayDecorator.java
+66,66 fe6f94a14b6dfde028b2bdd9cc7183deac86e838^ flume-core/src/main/java/com/cloudera/flume/handlers/debug/DelayDecorator.java
+214,214 fe6f94a14b6dfde028b2bdd9cc7183deac86e838^ flume-core/src/test/java/com/cloudera/flume/agent/diskfailover/TestDiskFailoverAgent.java
+260,260 fe6f94a14b6dfde028b2bdd9cc7183deac86e838^ flume-core/src/test/java/com/cloudera/flume/agent/diskfailover/TestDiskFailoverAgent.java

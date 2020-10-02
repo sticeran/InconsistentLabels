@@ -1,0 +1,4 @@
+149,149 e858adee407bf76cf2a036433ed4173714505924^ flume-ng-core/src/main/java/org/apache/flume/sink/RollingFileSink.java
+162,162 e858adee407bf76cf2a036433ed4173714505924^ flume-ng-core/src/main/java/org/apache/flume/sink/RollingFileSink.java
+163,163 e858adee407bf76cf2a036433ed4173714505924^ flume-ng-core/src/main/java/org/apache/flume/sink/RollingFileSink.java
+238,238 e858adee407bf76cf2a036433ed4173714505924^ flume-ng-core/src/main/java/org/apache/flume/sink/RollingFileSink.java

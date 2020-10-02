@@ -1,0 +1,4 @@
+114,114 27ab7503a7196a40b5ed1007181c82cdcf11e03c^ maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReader.java
+115,115 27ab7503a7196a40b5ed1007181c82cdcf11e03c^ maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReader.java
+127,127 27ab7503a7196a40b5ed1007181c82cdcf11e03c^ maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReader.java
+132,132 27ab7503a7196a40b5ed1007181c82cdcf11e03c^ maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReader.java

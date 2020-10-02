@@ -1,0 +1,4 @@
+89,89 6f562d4c87f5eb6eab06576db99b3d521962be72^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java
+95,95 6f562d4c87f5eb6eab06576db99b3d521962be72^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java
+296,296 6f562d4c87f5eb6eab06576db99b3d521962be72^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java
+314,314 6f562d4c87f5eb6eab06576db99b3d521962be72^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java

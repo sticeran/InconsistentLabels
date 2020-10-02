@@ -1,0 +1,10 @@
+38,38 9df6a300da1732ee12f40a2e05e10fb528df10e4^ src/java/com/cloudera/flume/handlers/scribe/ScribeEventSource.java
+57,57 9df6a300da1732ee12f40a2e05e10fb528df10e4^ src/java/com/cloudera/flume/handlers/scribe/ScribeEventSource.java
+94,94 9df6a300da1732ee12f40a2e05e10fb528df10e4^ src/java/com/cloudera/flume/handlers/scribe/ScribeEventSource.java
+38,38 9df6a300da1732ee12f40a2e05e10fb528df10e4^ src/java/com/cloudera/flume/util/ThriftServer.java
+39,39 9df6a300da1732ee12f40a2e05e10fb528df10e4^ src/java/com/cloudera/flume/util/ThriftServer.java
+64,64 9df6a300da1732ee12f40a2e05e10fb528df10e4^ src/java/com/cloudera/flume/util/ThriftServer.java
+65,65 9df6a300da1732ee12f40a2e05e10fb528df10e4^ src/java/com/cloudera/flume/util/ThriftServer.java
+126,126 9df6a300da1732ee12f40a2e05e10fb528df10e4^ src/java/org/apache/thrift/transport/TSaneServerSocket.java
+54,54 9df6a300da1732ee12f40a2e05e10fb528df10e4^ src/javatest/com/cloudera/flume/handlers/scribe/TestScribeSource.java
+95,95 9df6a300da1732ee12f40a2e05e10fb528df10e4^ src/javatest/com/cloudera/flume/handlers/scribe/TestScribeSource.java

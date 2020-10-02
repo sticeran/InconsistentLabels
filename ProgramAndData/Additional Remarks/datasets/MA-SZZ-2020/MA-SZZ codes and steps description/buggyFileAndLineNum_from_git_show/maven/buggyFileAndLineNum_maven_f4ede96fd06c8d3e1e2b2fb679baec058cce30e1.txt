@@ -1,0 +1,2 @@
+319,319 f4ede96fd06c8d3e1e2b2fb679baec058cce30e1^ maven-core/src/main/java/org/apache/maven/RepositoryUtils.java
+127,127 f4ede96fd06c8d3e1e2b2fb679baec058cce30e1^ maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/ArtifactDescriptorReaderDelegate.java

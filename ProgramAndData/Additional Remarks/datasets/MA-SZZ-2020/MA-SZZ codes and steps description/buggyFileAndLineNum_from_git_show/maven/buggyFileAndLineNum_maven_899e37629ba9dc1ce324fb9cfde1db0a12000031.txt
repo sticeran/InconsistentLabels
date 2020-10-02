@@ -1,0 +1,16 @@
+159,159 899e37629ba9dc1ce324fb9cfde1db0a12000031^ maven-compat/src/main/java/org/apache/maven/artifact/repository/MavenArtifactRepository.java
+160,160 899e37629ba9dc1ce324fb9cfde1db0a12000031^ maven-compat/src/main/java/org/apache/maven/artifact/repository/MavenArtifactRepository.java
+161,161 899e37629ba9dc1ce324fb9cfde1db0a12000031^ maven-compat/src/main/java/org/apache/maven/artifact/repository/MavenArtifactRepository.java
+162,162 899e37629ba9dc1ce324fb9cfde1db0a12000031^ maven-compat/src/main/java/org/apache/maven/artifact/repository/MavenArtifactRepository.java
+144,144 899e37629ba9dc1ce324fb9cfde1db0a12000031^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+145,145 899e37629ba9dc1ce324fb9cfde1db0a12000031^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+146,146 899e37629ba9dc1ce324fb9cfde1db0a12000031^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+147,147 899e37629ba9dc1ce324fb9cfde1db0a12000031^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+156,156 899e37629ba9dc1ce324fb9cfde1db0a12000031^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+186,186 899e37629ba9dc1ce324fb9cfde1db0a12000031^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+212,212 899e37629ba9dc1ce324fb9cfde1db0a12000031^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+23,23 899e37629ba9dc1ce324fb9cfde1db0a12000031^ maven-compat/src/main/java/org/apache/maven/repository/LocalArtifactRepository.java
+48,48 899e37629ba9dc1ce324fb9cfde1db0a12000031^ maven-compat/src/main/java/org/apache/maven/repository/UserLocalArtifactRepository.java
+49,49 899e37629ba9dc1ce324fb9cfde1db0a12000031^ maven-compat/src/main/java/org/apache/maven/repository/UserLocalArtifactRepository.java
+50,50 899e37629ba9dc1ce324fb9cfde1db0a12000031^ maven-compat/src/main/java/org/apache/maven/repository/UserLocalArtifactRepository.java
+51,51 899e37629ba9dc1ce324fb9cfde1db0a12000031^ maven-compat/src/main/java/org/apache/maven/repository/UserLocalArtifactRepository.java

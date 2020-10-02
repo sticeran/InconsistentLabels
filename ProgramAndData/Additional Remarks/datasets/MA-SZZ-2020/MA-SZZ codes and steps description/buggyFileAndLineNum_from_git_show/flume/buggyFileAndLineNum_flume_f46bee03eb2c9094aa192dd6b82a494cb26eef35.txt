@@ -1,0 +1,14 @@
+270,270 f46bee03eb2c9094aa192dd6b82a494cb26eef35^ flume-ng-channels/flume-kafka-channel/src/main/java/org/apache/flume/channel/kafka/KafkaChannel.java
+271,271 f46bee03eb2c9094aa192dd6b82a494cb26eef35^ flume-ng-channels/flume-kafka-channel/src/main/java/org/apache/flume/channel/kafka/KafkaChannel.java
+272,272 f46bee03eb2c9094aa192dd6b82a494cb26eef35^ flume-ng-channels/flume-kafka-channel/src/main/java/org/apache/flume/channel/kafka/KafkaChannel.java
+273,273 f46bee03eb2c9094aa192dd6b82a494cb26eef35^ flume-ng-channels/flume-kafka-channel/src/main/java/org/apache/flume/channel/kafka/KafkaChannel.java
+35,35 f46bee03eb2c9094aa192dd6b82a494cb26eef35^ flume-ng-channels/flume-kafka-channel/src/test/java/org/apache/flume/channel/kafka/TestKafkaChannel.java
+36,36 f46bee03eb2c9094aa192dd6b82a494cb26eef35^ flume-ng-channels/flume-kafka-channel/src/test/java/org/apache/flume/channel/kafka/TestKafkaChannel.java
+37,37 f46bee03eb2c9094aa192dd6b82a494cb26eef35^ flume-ng-channels/flume-kafka-channel/src/test/java/org/apache/flume/channel/kafka/TestKafkaChannel.java
+39,39 f46bee03eb2c9094aa192dd6b82a494cb26eef35^ flume-ng-channels/flume-kafka-channel/src/test/java/org/apache/flume/channel/kafka/TestKafkaChannel.java
+40,40 f46bee03eb2c9094aa192dd6b82a494cb26eef35^ flume-ng-channels/flume-kafka-channel/src/test/java/org/apache/flume/channel/kafka/TestKafkaChannel.java
+64,64 f46bee03eb2c9094aa192dd6b82a494cb26eef35^ flume-ng-channels/flume-kafka-channel/src/test/java/org/apache/flume/channel/kafka/TestKafkaChannel.java
+75,75 f46bee03eb2c9094aa192dd6b82a494cb26eef35^ flume-ng-channels/flume-kafka-channel/src/test/java/org/apache/flume/channel/kafka/TestKafkaChannel.java
+76,76 f46bee03eb2c9094aa192dd6b82a494cb26eef35^ flume-ng-channels/flume-kafka-channel/src/test/java/org/apache/flume/channel/kafka/TestKafkaChannel.java
+81,81 f46bee03eb2c9094aa192dd6b82a494cb26eef35^ flume-ng-channels/flume-kafka-channel/src/test/java/org/apache/flume/channel/kafka/TestKafkaChannel.java
+77,77 f46bee03eb2c9094aa192dd6b82a494cb26eef35^ flume-ng-channels/flume-kafka-channel/src/test/java/org/apache/flume/channel/kafka/TestKafkaChannel.java

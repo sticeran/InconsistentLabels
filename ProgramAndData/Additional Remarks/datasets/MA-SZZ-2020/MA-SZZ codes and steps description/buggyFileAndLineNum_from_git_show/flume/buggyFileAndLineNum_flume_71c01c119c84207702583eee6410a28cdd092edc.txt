@@ -1,0 +1,1 @@
+84,84 71c01c119c84207702583eee6410a28cdd092edc^ flume-ng-core/src/test/java/org/apache/flume/serialization/TestFlumeEventAvroEventSerializer.java

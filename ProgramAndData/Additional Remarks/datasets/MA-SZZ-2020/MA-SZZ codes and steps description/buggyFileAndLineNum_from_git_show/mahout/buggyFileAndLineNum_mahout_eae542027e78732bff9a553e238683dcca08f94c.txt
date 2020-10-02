@@ -1,0 +1,14 @@
+20,20 eae542027e78732bff9a553e238683dcca08f94c^ core/src/main/java/org/apache/mahout/vectorizer/collocations/llr/GramKeyPartitioner.java
+21,21 eae542027e78732bff9a553e238683dcca08f94c^ core/src/main/java/org/apache/mahout/vectorizer/collocations/llr/GramKeyPartitioner.java
+28,28 eae542027e78732bff9a553e238683dcca08f94c^ core/src/main/java/org/apache/mahout/vectorizer/collocations/llr/GramKeyPartitioner.java
+30,30 eae542027e78732bff9a553e238683dcca08f94c^ core/src/main/java/org/apache/mahout/vectorizer/collocations/llr/GramKeyPartitioner.java
+32,32 eae542027e78732bff9a553e238683dcca08f94c^ core/src/main/java/org/apache/mahout/vectorizer/collocations/llr/GramKeyPartitioner.java
+33,33 eae542027e78732bff9a553e238683dcca08f94c^ core/src/main/java/org/apache/mahout/vectorizer/collocations/llr/GramKeyPartitioner.java
+34,34 eae542027e78732bff9a553e238683dcca08f94c^ core/src/main/java/org/apache/mahout/vectorizer/collocations/llr/GramKeyPartitioner.java
+36,36 eae542027e78732bff9a553e238683dcca08f94c^ core/src/main/java/org/apache/mahout/vectorizer/collocations/llr/GramKeyPartitioner.java
+43,43 eae542027e78732bff9a553e238683dcca08f94c^ core/src/main/java/org/apache/mahout/vectorizer/collocations/llr/GramKeyPartitioner.java
+44,44 eae542027e78732bff9a553e238683dcca08f94c^ core/src/main/java/org/apache/mahout/vectorizer/collocations/llr/GramKeyPartitioner.java
+45,45 eae542027e78732bff9a553e238683dcca08f94c^ core/src/main/java/org/apache/mahout/vectorizer/collocations/llr/GramKeyPartitioner.java
+56,56 eae542027e78732bff9a553e238683dcca08f94c^ core/src/main/java/org/apache/mahout/vectorizer/collocations/llr/GramKeyPartitioner.java
+57,57 eae542027e78732bff9a553e238683dcca08f94c^ core/src/main/java/org/apache/mahout/vectorizer/collocations/llr/GramKeyPartitioner.java
+58,58 eae542027e78732bff9a553e238683dcca08f94c^ core/src/main/java/org/apache/mahout/vectorizer/collocations/llr/GramKeyPartitioner.java

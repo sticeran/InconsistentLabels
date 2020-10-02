@@ -1,0 +1,8 @@
+50,50 4005482797f3efdf9d65474eb91dcd246109ffab^ maven-embedder/src/main/java/org/apache/maven/embedder/ConfigurationValidationResult.java
+56,56 4005482797f3efdf9d65474eb91dcd246109ffab^ maven-embedder/src/main/java/org/apache/maven/embedder/ConfigurationValidationResult.java
+32,32 4005482797f3efdf9d65474eb91dcd246109ffab^ maven-embedder/src/main/java/org/apache/maven/embedder/DefaultConfigurationValidationResult.java
+35,35 4005482797f3efdf9d65474eb91dcd246109ffab^ maven-embedder/src/main/java/org/apache/maven/embedder/DefaultConfigurationValidationResult.java
+43,43 4005482797f3efdf9d65474eb91dcd246109ffab^ maven-embedder/src/main/java/org/apache/maven/embedder/DefaultConfigurationValidationResult.java
+49,49 4005482797f3efdf9d65474eb91dcd246109ffab^ maven-embedder/src/main/java/org/apache/maven/embedder/DefaultConfigurationValidationResult.java
+55,55 4005482797f3efdf9d65474eb91dcd246109ffab^ maven-embedder/src/main/java/org/apache/maven/embedder/DefaultConfigurationValidationResult.java
+61,61 4005482797f3efdf9d65474eb91dcd246109ffab^ maven-embedder/src/main/java/org/apache/maven/embedder/DefaultConfigurationValidationResult.java

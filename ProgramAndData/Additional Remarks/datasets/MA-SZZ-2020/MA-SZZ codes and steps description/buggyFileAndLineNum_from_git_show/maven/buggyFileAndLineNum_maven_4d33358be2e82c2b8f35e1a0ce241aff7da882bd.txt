@@ -1,0 +1,7 @@
+41,41 4d33358be2e82c2b8f35e1a0ce241aff7da882bd^ maven-core/src/main/java/org/apache/maven/execution/DefaultMavenExecutionResult.java
+44,44 4d33358be2e82c2b8f35e1a0ce241aff7da882bd^ maven-core/src/main/java/org/apache/maven/execution/DefaultMavenExecutionResult.java
+85,85 4d33358be2e82c2b8f35e1a0ce241aff7da882bd^ maven-core/src/main/java/org/apache/maven/execution/DefaultMavenExecutionResult.java
+107,107 4d33358be2e82c2b8f35e1a0ce241aff7da882bd^ maven-core/src/main/java/org/apache/maven/execution/DefaultMavenExecutionResult.java
+108,108 4d33358be2e82c2b8f35e1a0ce241aff7da882bd^ maven-core/src/main/java/org/apache/maven/execution/DefaultMavenExecutionResult.java
+109,109 4d33358be2e82c2b8f35e1a0ce241aff7da882bd^ maven-core/src/main/java/org/apache/maven/execution/DefaultMavenExecutionResult.java
+110,110 4d33358be2e82c2b8f35e1a0ce241aff7da882bd^ maven-core/src/main/java/org/apache/maven/execution/DefaultMavenExecutionResult.java

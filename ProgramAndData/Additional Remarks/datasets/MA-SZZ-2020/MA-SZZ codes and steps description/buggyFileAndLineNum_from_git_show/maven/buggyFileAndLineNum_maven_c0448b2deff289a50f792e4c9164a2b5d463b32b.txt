@@ -1,0 +1,3 @@
+200,200 c0448b2deff289a50f792e4c9164a2b5d463b32b^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+204,204 c0448b2deff289a50f792e4c9164a2b5d463b32b^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+261,261 c0448b2deff289a50f792e4c9164a2b5d463b32b^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java

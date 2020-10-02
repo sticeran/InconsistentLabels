@@ -1,0 +1,10 @@
+616,616 24b3c86c9b572a447705cc395550c5a19010cdd8^ maven-embedder/src/main/java/org/apache/maven/embedder/MavenEmbedder.java
+617,617 24b3c86c9b572a447705cc395550c5a19010cdd8^ maven-embedder/src/main/java/org/apache/maven/embedder/MavenEmbedder.java
+618,618 24b3c86c9b572a447705cc395550c5a19010cdd8^ maven-embedder/src/main/java/org/apache/maven/embedder/MavenEmbedder.java
+619,619 24b3c86c9b572a447705cc395550c5a19010cdd8^ maven-embedder/src/main/java/org/apache/maven/embedder/MavenEmbedder.java
+724,724 24b3c86c9b572a447705cc395550c5a19010cdd8^ maven-embedder/src/main/java/org/apache/maven/embedder/MavenEmbedder.java
+725,725 24b3c86c9b572a447705cc395550c5a19010cdd8^ maven-embedder/src/main/java/org/apache/maven/embedder/MavenEmbedder.java
+726,726 24b3c86c9b572a447705cc395550c5a19010cdd8^ maven-embedder/src/main/java/org/apache/maven/embedder/MavenEmbedder.java
+727,727 24b3c86c9b572a447705cc395550c5a19010cdd8^ maven-embedder/src/main/java/org/apache/maven/embedder/MavenEmbedder.java
+733,733 24b3c86c9b572a447705cc395550c5a19010cdd8^ maven-embedder/src/main/java/org/apache/maven/embedder/MavenEmbedder.java
+736,736 24b3c86c9b572a447705cc395550c5a19010cdd8^ maven-embedder/src/main/java/org/apache/maven/embedder/MavenEmbedder.java

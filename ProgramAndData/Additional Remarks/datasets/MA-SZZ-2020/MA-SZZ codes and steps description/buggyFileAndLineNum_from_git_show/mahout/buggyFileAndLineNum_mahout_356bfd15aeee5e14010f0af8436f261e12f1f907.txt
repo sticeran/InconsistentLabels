@@ -1,0 +1,9 @@
+267,267 356bfd15aeee5e14010f0af8436f261e12f1f907^ core/src/main/java/org/apache/mahout/vectorizer/SparseVectorsFromSequenceFiles.java
+271,271 356bfd15aeee5e14010f0af8436f261e12f1f907^ core/src/main/java/org/apache/mahout/vectorizer/SparseVectorsFromSequenceFiles.java
+67,67 356bfd15aeee5e14010f0af8436f261e12f1f907^ core/src/test/java/org/apache/mahout/vectorizer/SparseVectorsFromSequenceFilesTest.java
+74,74 356bfd15aeee5e14010f0af8436f261e12f1f907^ core/src/test/java/org/apache/mahout/vectorizer/SparseVectorsFromSequenceFilesTest.java
+81,81 356bfd15aeee5e14010f0af8436f261e12f1f907^ core/src/test/java/org/apache/mahout/vectorizer/SparseVectorsFromSequenceFilesTest.java
+88,88 356bfd15aeee5e14010f0af8436f261e12f1f907^ core/src/test/java/org/apache/mahout/vectorizer/SparseVectorsFromSequenceFilesTest.java
+105,105 356bfd15aeee5e14010f0af8436f261e12f1f907^ core/src/test/java/org/apache/mahout/vectorizer/SparseVectorsFromSequenceFilesTest.java
+125,125 356bfd15aeee5e14010f0af8436f261e12f1f907^ core/src/test/java/org/apache/mahout/vectorizer/SparseVectorsFromSequenceFilesTest.java
+154,154 356bfd15aeee5e14010f0af8436f261e12f1f907^ core/src/test/java/org/apache/mahout/vectorizer/SparseVectorsFromSequenceFilesTest.java

@@ -1,0 +1,12 @@
+85,85 1f6060121d24e32f4498455d97a592385fa231e0^ maven-shared-model/src/main/java/org/apache/maven/shared/model/ModelMarshaller.java
+103,103 1f6060121d24e32f4498455d97a592385fa231e0^ maven-shared-model/src/main/java/org/apache/maven/shared/model/ModelMarshaller.java
+104,104 1f6060121d24e32f4498455d97a592385fa231e0^ maven-shared-model/src/main/java/org/apache/maven/shared/model/ModelMarshaller.java
+107,107 1f6060121d24e32f4498455d97a592385fa231e0^ maven-shared-model/src/main/java/org/apache/maven/shared/model/ModelMarshaller.java
+116,116 1f6060121d24e32f4498455d97a592385fa231e0^ maven-shared-model/src/main/java/org/apache/maven/shared/model/ModelMarshaller.java
+119,119 1f6060121d24e32f4498455d97a592385fa231e0^ maven-shared-model/src/main/java/org/apache/maven/shared/model/ModelMarshaller.java
+141,141 1f6060121d24e32f4498455d97a592385fa231e0^ maven-shared-model/src/main/java/org/apache/maven/shared/model/ModelMarshaller.java
+158,158 1f6060121d24e32f4498455d97a592385fa231e0^ maven-shared-model/src/main/java/org/apache/maven/shared/model/ModelMarshaller.java
+159,159 1f6060121d24e32f4498455d97a592385fa231e0^ maven-shared-model/src/main/java/org/apache/maven/shared/model/ModelMarshaller.java
+160,160 1f6060121d24e32f4498455d97a592385fa231e0^ maven-shared-model/src/main/java/org/apache/maven/shared/model/ModelMarshaller.java
+161,161 1f6060121d24e32f4498455d97a592385fa231e0^ maven-shared-model/src/main/java/org/apache/maven/shared/model/ModelMarshaller.java
+166,166 1f6060121d24e32f4498455d97a592385fa231e0^ maven-shared-model/src/main/java/org/apache/maven/shared/model/ModelMarshaller.java

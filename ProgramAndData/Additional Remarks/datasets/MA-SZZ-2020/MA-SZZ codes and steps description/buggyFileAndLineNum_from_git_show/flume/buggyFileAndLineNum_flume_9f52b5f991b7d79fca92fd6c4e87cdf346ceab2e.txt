@@ -1,0 +1,3 @@
+144,144 9f52b5f991b7d79fca92fd6c4e87cdf346ceab2e^ flume-ng-legacy-sources/flume-thrift-source/src/main/java/org/apache/flume/source/thriftLegacy/ThriftLegacySource.java
+145,145 9f52b5f991b7d79fca92fd6c4e87cdf346ceab2e^ flume-ng-legacy-sources/flume-thrift-source/src/main/java/org/apache/flume/source/thriftLegacy/ThriftLegacySource.java
+124,124 9f52b5f991b7d79fca92fd6c4e87cdf346ceab2e^ flume-ng-legacy-sources/flume-thrift-source/src/test/java/org/apache/flume/source/thriftLegacy/TestThriftLegacySource.java

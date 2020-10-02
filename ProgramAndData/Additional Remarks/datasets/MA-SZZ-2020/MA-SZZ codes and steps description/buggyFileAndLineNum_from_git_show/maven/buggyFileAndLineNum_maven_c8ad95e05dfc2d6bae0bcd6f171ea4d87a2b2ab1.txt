@@ -1,0 +1,4 @@
+306,306 c8ad95e05dfc2d6bae0bcd6f171ea4d87a2b2ab1^ maven-archetype/maven-archetype-core/src/main/java/org/apache/maven/archetype/DefaultArchetype.java
+317,317 c8ad95e05dfc2d6bae0bcd6f171ea4d87a2b2ab1^ maven-archetype/maven-archetype-core/src/main/java/org/apache/maven/archetype/DefaultArchetype.java
+221,221 c8ad95e05dfc2d6bae0bcd6f171ea4d87a2b2ab1^ maven-archetype/maven-archetype-core/src/main/java/org/apache/maven/archetype/DefaultArchetype.java
+232,232 c8ad95e05dfc2d6bae0bcd6f171ea4d87a2b2ab1^ maven-archetype/maven-archetype-core/src/main/java/org/apache/maven/archetype/DefaultArchetype.java

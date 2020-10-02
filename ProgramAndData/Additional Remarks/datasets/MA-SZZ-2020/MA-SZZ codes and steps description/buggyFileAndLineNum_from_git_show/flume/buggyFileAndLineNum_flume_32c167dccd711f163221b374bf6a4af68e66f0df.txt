@@ -1,0 +1,6 @@
+43,43 32c167dccd711f163221b374bf6a4af68e66f0df^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSEventSinkOnMiniCluster.java
+573,573 32c167dccd711f163221b374bf6a4af68e66f0df^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSEventSinkOnMiniCluster.java
+575,575 32c167dccd711f163221b374bf6a4af68e66f0df^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSEventSinkOnMiniCluster.java
+579,579 32c167dccd711f163221b374bf6a4af68e66f0df^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSEventSinkOnMiniCluster.java
+582,582 32c167dccd711f163221b374bf6a4af68e66f0df^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSEventSinkOnMiniCluster.java
+588,588 32c167dccd711f163221b374bf6a4af68e66f0df^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSEventSinkOnMiniCluster.java

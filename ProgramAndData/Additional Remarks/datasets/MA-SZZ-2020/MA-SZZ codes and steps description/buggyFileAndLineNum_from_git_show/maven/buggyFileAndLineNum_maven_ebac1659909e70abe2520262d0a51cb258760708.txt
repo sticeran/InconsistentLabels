@@ -1,0 +1,3 @@
+585,585 ebac1659909e70abe2520262d0a51cb258760708^ maven-artifact/src/main/java/org/apache/maven/artifact/versioning/ComparableVersion.java
+649,649 ebac1659909e70abe2520262d0a51cb258760708^ maven-artifact/src/main/java/org/apache/maven/artifact/versioning/ComparableVersion.java
+656,656 ebac1659909e70abe2520262d0a51cb258760708^ maven-artifact/src/main/java/org/apache/maven/artifact/versioning/ComparableVersion.java

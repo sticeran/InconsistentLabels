@@ -1,0 +1,14 @@
+211,211 1422f733007dbb78caae7e5135bc33470e88502a^ flume-ng-core/src/main/java/org/apache/flume/source/SpoolDirectorySource.java
+250,250 1422f733007dbb78caae7e5135bc33470e88502a^ flume-ng-core/src/main/java/org/apache/flume/source/SpoolDirectorySource.java
+253,253 1422f733007dbb78caae7e5135bc33470e88502a^ flume-ng-core/src/main/java/org/apache/flume/source/SpoolDirectorySource.java
+264,264 1422f733007dbb78caae7e5135bc33470e88502a^ flume-ng-core/src/main/java/org/apache/flume/source/SpoolDirectorySource.java
+265,265 1422f733007dbb78caae7e5135bc33470e88502a^ flume-ng-core/src/main/java/org/apache/flume/source/SpoolDirectorySource.java
+266,266 1422f733007dbb78caae7e5135bc33470e88502a^ flume-ng-core/src/main/java/org/apache/flume/source/SpoolDirectorySource.java
+267,267 1422f733007dbb78caae7e5135bc33470e88502a^ flume-ng-core/src/main/java/org/apache/flume/source/SpoolDirectorySource.java
+268,268 1422f733007dbb78caae7e5135bc33470e88502a^ flume-ng-core/src/main/java/org/apache/flume/source/SpoolDirectorySource.java
+269,269 1422f733007dbb78caae7e5135bc33470e88502a^ flume-ng-core/src/main/java/org/apache/flume/source/SpoolDirectorySource.java
+90,90 1422f733007dbb78caae7e5135bc33470e88502a^ flume-ng-core/src/test/java/org/apache/flume/source/TestSpoolDirectorySource.java
+380,380 1422f733007dbb78caae7e5135bc33470e88502a^ flume-ng-core/src/test/java/org/apache/flume/source/TestSpoolDirectorySource.java
+381,381 1422f733007dbb78caae7e5135bc33470e88502a^ flume-ng-core/src/test/java/org/apache/flume/source/TestSpoolDirectorySource.java
+402,402 1422f733007dbb78caae7e5135bc33470e88502a^ flume-ng-core/src/test/java/org/apache/flume/source/TestSpoolDirectorySource.java
+403,403 1422f733007dbb78caae7e5135bc33470e88502a^ flume-ng-core/src/test/java/org/apache/flume/source/TestSpoolDirectorySource.java

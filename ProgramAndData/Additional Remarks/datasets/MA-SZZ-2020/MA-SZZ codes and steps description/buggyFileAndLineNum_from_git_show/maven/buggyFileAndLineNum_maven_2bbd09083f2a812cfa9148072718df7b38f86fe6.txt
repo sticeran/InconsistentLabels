@@ -1,0 +1,9 @@
+153,153 2bbd09083f2a812cfa9148072718df7b38f86fe6^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+169,169 2bbd09083f2a812cfa9148072718df7b38f86fe6^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+170,170 2bbd09083f2a812cfa9148072718df7b38f86fe6^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+171,171 2bbd09083f2a812cfa9148072718df7b38f86fe6^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+167,167 2bbd09083f2a812cfa9148072718df7b38f86fe6^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+169,169 2bbd09083f2a812cfa9148072718df7b38f86fe6^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+170,170 2bbd09083f2a812cfa9148072718df7b38f86fe6^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+171,171 2bbd09083f2a812cfa9148072718df7b38f86fe6^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+173,173 2bbd09083f2a812cfa9148072718df7b38f86fe6^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java

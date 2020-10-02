@@ -1,0 +1,10 @@
+46,46 91e3972fa35048fa87a642fc2551647ad15a71a4^ src/java/com/cloudera/flume/agent/AgentFailChainSink.java
+47,47 91e3972fa35048fa87a642fc2551647ad15a71a4^ src/java/com/cloudera/flume/handlers/syslog/SyslogUdpSource.java
+49,49 91e3972fa35048fa87a642fc2551647ad15a71a4^ src/java/com/cloudera/flume/master/MasterClientServerAvro.java
+49,49 91e3972fa35048fa87a642fc2551647ad15a71a4^ src/java/com/cloudera/flume/master/MasterClientServerThrift.java
+39,39 91e3972fa35048fa87a642fc2551647ad15a71a4^ src/java/com/cloudera/flume/watchdog/FlumeWatchdog.java
+44,44 91e3972fa35048fa87a642fc2551647ad15a71a4^ src/javatest/com/cloudera/flume/agent/TestAvroMultiMasterRPC.java
+60,60 91e3972fa35048fa87a642fc2551647ad15a71a4^ src/javatest/com/cloudera/flume/agent/TestRPCMechanisms.java
+49,49 91e3972fa35048fa87a642fc2551647ad15a71a4^ src/javatest/com/cloudera/flume/agent/diskfailover/TestDiskFailoverManager.java
+32,32 91e3972fa35048fa87a642fc2551647ad15a71a4^ src/javatest/com/cloudera/util/consistenthash/TestConsistentHash.java
+38,38 91e3972fa35048fa87a642fc2551647ad15a71a4^ src/javatest/com/cloudera/util/consistenthash/TestConsistentHash.java

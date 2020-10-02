@@ -1,0 +1,9 @@
+255,255 00733f81ba30e040d50da89025870e554554a6b7^ core/src/main/java/org/apache/shiro/config/IniSecurityManagerFactory.java
+108,108 00733f81ba30e040d50da89025870e554554a6b7^ core/src/main/java/org/apache/shiro/realm/text/IniRealm.java
+116,116 00733f81ba30e040d50da89025870e554554a6b7^ core/src/main/java/org/apache/shiro/realm/text/IniRealm.java
+117,117 00733f81ba30e040d50da89025870e554554a6b7^ core/src/main/java/org/apache/shiro/realm/text/IniRealm.java
+118,118 00733f81ba30e040d50da89025870e554554a6b7^ core/src/main/java/org/apache/shiro/realm/text/IniRealm.java
+119,119 00733f81ba30e040d50da89025870e554554a6b7^ core/src/main/java/org/apache/shiro/realm/text/IniRealm.java
+120,120 00733f81ba30e040d50da89025870e554554a6b7^ core/src/main/java/org/apache/shiro/realm/text/IniRealm.java
+123,123 00733f81ba30e040d50da89025870e554554a6b7^ core/src/main/java/org/apache/shiro/realm/text/IniRealm.java
+134,134 00733f81ba30e040d50da89025870e554554a6b7^ core/src/main/java/org/apache/shiro/realm/text/IniRealm.java

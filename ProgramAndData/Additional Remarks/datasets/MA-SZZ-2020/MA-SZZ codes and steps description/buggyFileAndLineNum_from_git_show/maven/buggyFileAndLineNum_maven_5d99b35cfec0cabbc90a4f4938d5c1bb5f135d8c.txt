@@ -1,0 +1,11 @@
+69,69 5d99b35cfec0cabbc90a4f4938d5c1bb5f135d8c^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+70,70 5d99b35cfec0cabbc90a4f4938d5c1bb5f135d8c^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+71,71 5d99b35cfec0cabbc90a4f4938d5c1bb5f135d8c^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+72,72 5d99b35cfec0cabbc90a4f4938d5c1bb5f135d8c^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+51,51 5d99b35cfec0cabbc90a4f4938d5c1bb5f135d8c^ maven-project/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java
+340,340 5d99b35cfec0cabbc90a4f4938d5c1bb5f135d8c^ maven-project/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java
+353,353 5d99b35cfec0cabbc90a4f4938d5c1bb5f135d8c^ maven-project/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java
+357,357 5d99b35cfec0cabbc90a4f4938d5c1bb5f135d8c^ maven-project/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java
+360,360 5d99b35cfec0cabbc90a4f4938d5c1bb5f135d8c^ maven-project/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java
+365,365 5d99b35cfec0cabbc90a4f4938d5c1bb5f135d8c^ maven-project/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java
+370,370 5d99b35cfec0cabbc90a4f4938d5c1bb5f135d8c^ maven-project/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java

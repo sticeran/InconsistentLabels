@@ -1,0 +1,1 @@
+60,60 6c15ab5df3dcfd22b75c332e7d6ad7db1ab069eb^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSCompressedDataStream.java

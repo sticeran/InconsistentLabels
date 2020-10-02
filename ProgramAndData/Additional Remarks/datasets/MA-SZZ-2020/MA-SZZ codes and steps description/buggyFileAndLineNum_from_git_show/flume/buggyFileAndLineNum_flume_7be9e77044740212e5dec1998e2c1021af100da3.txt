@@ -1,0 +1,12 @@
+39,39 7be9e77044740212e5dec1998e2c1021af100da3^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSCompressedDataStream.java
+55,55 7be9e77044740212e5dec1998e2c1021af100da3^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSCompressedDataStream.java
+62,62 7be9e77044740212e5dec1998e2c1021af100da3^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSCompressedDataStream.java
+65,65 7be9e77044740212e5dec1998e2c1021af100da3^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSCompressedDataStream.java
+68,68 7be9e77044740212e5dec1998e2c1021af100da3^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSCompressedDataStream.java
+80,80 7be9e77044740212e5dec1998e2c1021af100da3^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSCompressedDataStream.java
+86,86 7be9e77044740212e5dec1998e2c1021af100da3^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSCompressedDataStream.java
+102,102 7be9e77044740212e5dec1998e2c1021af100da3^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSCompressedDataStream.java
+103,103 7be9e77044740212e5dec1998e2c1021af100da3^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSCompressedDataStream.java
+225,225 7be9e77044740212e5dec1998e2c1021af100da3^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSEventSinkOnMiniCluster.java
+226,226 7be9e77044740212e5dec1998e2c1021af100da3^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSEventSinkOnMiniCluster.java
+227,227 7be9e77044740212e5dec1998e2c1021af100da3^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSEventSinkOnMiniCluster.java

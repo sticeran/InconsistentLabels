@@ -1,0 +1,12 @@
+148,148 e52473272d0b3b692a1c72ee166aced7e4b4a4e1^ maven-mercury/src/main/java/org/apache/maven/mercury/MavenDomainModel.java
+153,153 e52473272d0b3b692a1c72ee166aced7e4b4a4e1^ maven-mercury/src/main/java/org/apache/maven/mercury/MavenDomainModel.java
+158,158 e52473272d0b3b692a1c72ee166aced7e4b4a4e1^ maven-mercury/src/main/java/org/apache/maven/mercury/MavenDomainModel.java
+221,221 e52473272d0b3b692a1c72ee166aced7e4b4a4e1^ maven-mercury/src/main/java/org/apache/maven/mercury/MavenDomainModel.java
+226,226 e52473272d0b3b692a1c72ee166aced7e4b4a4e1^ maven-mercury/src/main/java/org/apache/maven/mercury/MavenDomainModel.java
+231,231 e52473272d0b3b692a1c72ee166aced7e4b4a4e1^ maven-mercury/src/main/java/org/apache/maven/mercury/MavenDomainModel.java
+236,236 e52473272d0b3b692a1c72ee166aced7e4b4a4e1^ maven-mercury/src/main/java/org/apache/maven/mercury/MavenDomainModel.java
+241,241 e52473272d0b3b692a1c72ee166aced7e4b4a4e1^ maven-mercury/src/main/java/org/apache/maven/mercury/MavenDomainModel.java
+246,246 e52473272d0b3b692a1c72ee166aced7e4b4a4e1^ maven-mercury/src/main/java/org/apache/maven/mercury/MavenDomainModel.java
+251,251 e52473272d0b3b692a1c72ee166aced7e4b4a4e1^ maven-mercury/src/main/java/org/apache/maven/mercury/MavenDomainModel.java
+268,268 e52473272d0b3b692a1c72ee166aced7e4b4a4e1^ maven-mercury/src/main/java/org/apache/maven/mercury/MavenDomainModel.java
+273,273 e52473272d0b3b692a1c72ee166aced7e4b4a4e1^ maven-mercury/src/main/java/org/apache/maven/mercury/MavenDomainModel.java

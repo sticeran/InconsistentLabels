@@ -1,0 +1,1 @@
+407,407 33cdcf0d4e85e68e6df9e1ca4be729889d480246^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/BucketWriter.java

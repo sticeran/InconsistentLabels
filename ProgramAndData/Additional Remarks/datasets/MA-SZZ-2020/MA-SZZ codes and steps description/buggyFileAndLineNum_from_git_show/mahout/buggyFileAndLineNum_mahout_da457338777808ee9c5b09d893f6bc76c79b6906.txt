@@ -1,0 +1,3 @@
+124,124 da457338777808ee9c5b09d893f6bc76c79b6906^ examples/src/main/java/org/apache/mahout/classifier/sgd/LogisticModelParameters.java
+125,125 da457338777808ee9c5b09d893f6bc76c79b6906^ examples/src/main/java/org/apache/mahout/classifier/sgd/LogisticModelParameters.java
+126,126 da457338777808ee9c5b09d893f6bc76c79b6906^ examples/src/main/java/org/apache/mahout/classifier/sgd/LogisticModelParameters.java

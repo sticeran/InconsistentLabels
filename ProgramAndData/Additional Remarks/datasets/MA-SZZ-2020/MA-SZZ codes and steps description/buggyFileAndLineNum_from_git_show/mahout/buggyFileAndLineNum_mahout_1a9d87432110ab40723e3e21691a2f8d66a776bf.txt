@@ -1,0 +1,5 @@
+20,20 1a9d87432110ab40723e3e21691a2f8d66a776bf^ core/src/test/java/org/apache/mahout/common/MockIterator.java
+21,21 1a9d87432110ab40723e3e21691a2f8d66a776bf^ core/src/test/java/org/apache/mahout/common/MockIterator.java
+22,22 1a9d87432110ab40723e3e21691a2f8d66a776bf^ core/src/test/java/org/apache/mahout/common/MockIterator.java
+32,32 1a9d87432110ab40723e3e21691a2f8d66a776bf^ core/src/test/java/org/apache/mahout/common/MockIterator.java
+42,42 1a9d87432110ab40723e3e21691a2f8d66a776bf^ core/src/test/java/org/apache/mahout/common/MockIterator.java

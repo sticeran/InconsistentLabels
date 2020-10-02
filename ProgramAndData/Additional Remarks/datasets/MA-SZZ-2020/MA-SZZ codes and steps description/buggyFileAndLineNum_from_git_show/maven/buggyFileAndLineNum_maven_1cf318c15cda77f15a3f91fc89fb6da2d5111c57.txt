@@ -1,0 +1,2 @@
+64,64 1cf318c15cda77f15a3f91fc89fb6da2d5111c57^ maven-model-builder/src/main/java/org/apache/maven/model/validation/DefaultModelValidator.java
+628,628 1cf318c15cda77f15a3f91fc89fb6da2d5111c57^ maven-model-builder/src/main/java/org/apache/maven/model/validation/DefaultModelValidator.java

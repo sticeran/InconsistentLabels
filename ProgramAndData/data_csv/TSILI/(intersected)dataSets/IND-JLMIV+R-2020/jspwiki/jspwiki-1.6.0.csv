@@ -1,0 +1,15 @@
+relName,bug
+src\com\ecyrd\jspwiki\TextUtil.java,0
+src\com\ecyrd\jspwiki\WikiEngine.java,1
+src\com\ecyrd\jspwiki\RCSFileProvider.java,0
+src\com\ecyrd\jspwiki\FileSystemProvider.java,0
+src\com\ecyrd\jspwiki\WikiPageProvider.java,0
+src\com\ecyrd\jspwiki\Release.java,0
+src\com\ecyrd\jspwiki\TranslatorReader.java,0
+src\com\ecyrd\jspwiki\FileUtil.java,0
+src\com\ecyrd\jspwiki\NoRequiredPropertyException.java,0
+src\com\ecyrd\jspwiki\PageTimeComparator.java,0
+src\com\ecyrd\jspwiki\QueryItem.java,0
+src\com\ecyrd\jspwiki\SearchResult.java,0
+src\com\ecyrd\jspwiki\SearchResultComparator.java,0
+src\com\ecyrd\jspwiki\WikiPage.java,0

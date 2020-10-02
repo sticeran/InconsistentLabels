@@ -1,0 +1,2 @@
+26,26 f8b362e010555914bb04be030025b9a1bd542e31^ flume-ng-channels/flume-jdbc-channel/src/main/java/org/apache/flume/channel/jdbc/JdbcChannel.java
+35,35 f8b362e010555914bb04be030025b9a1bd542e31^ flume-ng-channels/flume-jdbc-channel/src/main/java/org/apache/flume/channel/jdbc/JdbcChannel.java

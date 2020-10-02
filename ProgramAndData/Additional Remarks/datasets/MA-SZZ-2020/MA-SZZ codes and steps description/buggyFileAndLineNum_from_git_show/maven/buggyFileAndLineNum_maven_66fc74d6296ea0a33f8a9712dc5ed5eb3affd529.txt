@@ -1,0 +1,16 @@
+42,42 66fc74d6296ea0a33f8a9712dc5ed5eb3affd529^ maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReader.java
+43,43 66fc74d6296ea0a33f8a9712dc5ed5eb3affd529^ maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReader.java
+80,80 66fc74d6296ea0a33f8a9712dc5ed5eb3affd529^ maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReader.java
+87,87 66fc74d6296ea0a33f8a9712dc5ed5eb3affd529^ maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReader.java
+25,25 66fc74d6296ea0a33f8a9712dc5ed5eb3affd529^ maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultVersionRangeResolver.java
+26,26 66fc74d6296ea0a33f8a9712dc5ed5eb3affd529^ maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultVersionRangeResolver.java
+72,72 66fc74d6296ea0a33f8a9712dc5ed5eb3affd529^ maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultVersionRangeResolver.java
+80,80 66fc74d6296ea0a33f8a9712dc5ed5eb3affd529^ maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultVersionRangeResolver.java
+27,27 66fc74d6296ea0a33f8a9712dc5ed5eb3affd529^ maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultVersionResolver.java
+28,28 66fc74d6296ea0a33f8a9712dc5ed5eb3affd529^ maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultVersionResolver.java
+78,78 66fc74d6296ea0a33f8a9712dc5ed5eb3affd529^ maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultVersionResolver.java
+92,92 66fc74d6296ea0a33f8a9712dc5ed5eb3affd529^ maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultVersionResolver.java
+22,22 66fc74d6296ea0a33f8a9712dc5ed5eb3affd529^ maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/SnapshotMetadataGeneratorFactory.java
+32,32 66fc74d6296ea0a33f8a9712dc5ed5eb3affd529^ maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/SnapshotMetadataGeneratorFactory.java
+22,22 66fc74d6296ea0a33f8a9712dc5ed5eb3affd529^ maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/VersionsMetadataGeneratorFactory.java
+32,32 66fc74d6296ea0a33f8a9712dc5ed5eb3affd529^ maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/VersionsMetadataGeneratorFactory.java

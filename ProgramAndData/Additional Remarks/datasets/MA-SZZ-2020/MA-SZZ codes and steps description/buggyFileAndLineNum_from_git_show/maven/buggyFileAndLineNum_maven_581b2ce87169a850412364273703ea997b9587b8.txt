@@ -1,0 +1,1 @@
+505,505 581b2ce87169a850412364273703ea997b9587b8^ maven-project/src/main/java/org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler.java

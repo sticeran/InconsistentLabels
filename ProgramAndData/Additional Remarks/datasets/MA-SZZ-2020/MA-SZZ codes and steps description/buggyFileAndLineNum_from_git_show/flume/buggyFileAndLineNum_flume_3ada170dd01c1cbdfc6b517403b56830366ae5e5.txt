@@ -1,0 +1,6 @@
+245,245 3ada170dd01c1cbdfc6b517403b56830366ae5e5^ flume-ng-sources/flume-taildir-source/src/main/java/org/apache/flume/source/taildir/ReliableTaildirEventReader.java
+72,72 3ada170dd01c1cbdfc6b517403b56830366ae5e5^ flume-ng-sources/flume-taildir-source/src/test/java/org/apache/flume/source/taildir/TestTaildirEventReader.java
+89,89 3ada170dd01c1cbdfc6b517403b56830366ae5e5^ flume-ng-sources/flume-taildir-source/src/test/java/org/apache/flume/source/taildir/TestTaildirEventReader.java
+95,95 3ada170dd01c1cbdfc6b517403b56830366ae5e5^ flume-ng-sources/flume-taildir-source/src/test/java/org/apache/flume/source/taildir/TestTaildirEventReader.java
+100,100 3ada170dd01c1cbdfc6b517403b56830366ae5e5^ flume-ng-sources/flume-taildir-source/src/test/java/org/apache/flume/source/taildir/TestTaildirEventReader.java
+462,462 3ada170dd01c1cbdfc6b517403b56830366ae5e5^ flume-ng-sources/flume-taildir-source/src/test/java/org/apache/flume/source/taildir/TestTaildirEventReader.java

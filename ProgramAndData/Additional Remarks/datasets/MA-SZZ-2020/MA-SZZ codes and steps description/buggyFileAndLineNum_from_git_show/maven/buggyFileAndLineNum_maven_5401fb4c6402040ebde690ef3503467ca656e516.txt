@@ -1,0 +1,8 @@
+48,48 5401fb4c6402040ebde690ef3503467ca656e516^ maven-project/src/main/java/org/apache/maven/project/injection/DefaultProfileInjector.java
+161,161 5401fb4c6402040ebde690ef3503467ca656e516^ maven-project/src/main/java/org/apache/maven/project/injection/DefaultProfileInjector.java
+180,180 5401fb4c6402040ebde690ef3503467ca656e516^ maven-project/src/main/java/org/apache/maven/project/injection/DefaultProfileInjector.java
+200,200 5401fb4c6402040ebde690ef3503467ca656e516^ maven-project/src/main/java/org/apache/maven/project/injection/DefaultProfileInjector.java
+222,222 5401fb4c6402040ebde690ef3503467ca656e516^ maven-project/src/main/java/org/apache/maven/project/injection/DefaultProfileInjector.java
+229,229 5401fb4c6402040ebde690ef3503467ca656e516^ maven-project/src/main/java/org/apache/maven/project/injection/DefaultProfileInjector.java
+252,252 5401fb4c6402040ebde690ef3503467ca656e516^ maven-project/src/main/java/org/apache/maven/project/injection/DefaultProfileInjector.java
+334,334 5401fb4c6402040ebde690ef3503467ca656e516^ maven-project/src/main/java/org/apache/maven/project/injection/DefaultProfileInjector.java

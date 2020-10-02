@@ -1,0 +1,730 @@
+issueKey,type,resolution,status,createdDateEpoch,resolvedDateEpoch
+SHIRO-1,Bug,Fixed,Closed,2008/11/6 3:23,2008/11/7 15:00
+SHIRO-2,Bug,Fixed,Closed,2009/1/30 21:15,2009/1/30 22:27
+SHIRO-3,Bug,Fixed,Closed,2009/1/30 6:14,2009/3/2 11:21
+SHIRO-4,Bug,Fixed,Closed,2009/6/5 6:40,2009/6/5 8:32
+SHIRO-5,Bug,Fixed,Closed,2008/10/17 22:47,2009/3/2 11:11
+SHIRO-6,Bug,Cannot Reproduce,Closed,2008/12/1 6:11,2008/12/29 3:56
+SHIRO-7,Bug,Fixed,Closed,2008/11/6 0:48,2008/11/6 3:00
+SHIRO-8,Bug,Fixed,Closed,2009/2/7 8:39,2009/2/23 14:52
+SHIRO-9,Bug,Fixed,Closed,2008/12/6 0:34,2009/1/21 14:04
+SHIRO-10,Bug,Won't Fix,Closed,2008/11/24 7:21,2009/9/4 5:33
+SHIRO-11,Bug,Won't Fix,Closed,2009/2/2 23:19,2009/6/2 1:36
+SHIRO-12,Bug,Fixed,Closed,2008/11/6 2:49,2008/11/14 3:12
+SHIRO-13,Bug,Fixed,Closed,2009/1/28 12:05,2009/1/29 12:12
+SHIRO-14,Bug,Fixed,Closed,2009/3/12 2:04,2009/6/2 1:40
+SHIRO-15,Bug,Fixed,Closed,2009/3/19 21:53,2009/3/19 23:05
+SHIRO-16,Bug,Fixed,Closed,2009/2/27 2:24,2009/3/3 0:40
+SHIRO-17,Bug,Fixed,Closed,2009/2/4 18:46,2009/3/2 11:20
+SHIRO-18,New Feature,Won't Fix,Closed,2008/11/9 3:20,2011/8/31 3:48
+SHIRO-19,New Feature,Unresolved,Open,2009/2/13 22:12,
+SHIRO-20,New Feature,Unresolved,Open,2008/7/31 3:12,
+SHIRO-21,New Feature,Unresolved,Open,2008/7/18 22:22,
+SHIRO-22,New Feature,Unresolved,Open,2009/1/14 2:45,
+SHIRO-23,New Feature,Fixed,Closed,2008/10/14 1:43,2011/7/18 19:13
+SHIRO-24,New Feature,Unresolved,Open,2008/7/18 22:26,
+SHIRO-25,New Feature,Fixed,Closed,2008/12/16 4:20,2010/5/14 15:28
+SHIRO-26,New Feature,Unresolved,Open,2008/7/18 22:14,
+SHIRO-27,New Feature,Duplicate,Closed,2008/7/18 22:23,2010/10/29 2:10
+SHIRO-28,New Feature,Unresolved,Open,2008/7/18 22:12,
+SHIRO-29,New Feature,Unresolved,Open,2008/7/18 22:28,
+SHIRO-30,New Feature,Fixed,Closed,2008/8/19 23:27,2009/9/4 3:30
+SHIRO-31,New Feature,Unresolved,Open,2009/1/24 0:02,
+SHIRO-32,Task,Unresolved,Open,2008/11/26 12:28,
+SHIRO-33,Task,Unresolved,Open,2008/7/18 22:13,
+SHIRO-34,Task,Fixed,Closed,2008/12/12 0:56,2010/4/24 4:55
+SHIRO-35,Task,Fixed,Closed,2008/7/18 22:21,2011/5/7 8:05
+SHIRO-36,Task,Fixed,Closed,2009/3/26 4:22,2009/3/28 3:56
+SHIRO-37,Task,Fixed,Closed,2009/2/27 1:39,2009/9/4 3:26
+SHIRO-38,Task,Fixed,Closed,2008/10/16 20:55,2009/1/27 12:59
+SHIRO-39,Task,Unresolved,Open,2009/4/3 1:09,
+SHIRO-40,Task,Fixed,Closed,2008/7/25 14:39,2011/5/7 8:18
+SHIRO-41,Task,Fixed,Closed,2009/3/11 2:42,2009/12/19 5:16
+SHIRO-42,Task,Fixed,Closed,2008/11/9 2:14,2009/1/11 15:46
+SHIRO-43,Task,Fixed,Closed,2009/2/23 6:27,2009/8/26 1:16
+SHIRO-44,Task,Unresolved,Open,2008/7/25 22:54,
+SHIRO-45,Task,Unresolved,Open,2008/10/16 15:54,
+SHIRO-46,Task,Fixed,Closed,2009/1/21 4:34,2009/5/2 3:16
+SHIRO-47,Task,Won't Fix,Closed,2009/3/11 2:38,2009/7/9 12:18
+SHIRO-48,Task,Fixed,Closed,2008/7/25 14:37,2010/6/22 2:13
+SHIRO-49,Task,Fixed,Closed,2008/11/9 2:13,2009/12/9 3:23
+SHIRO-50,Task,Fixed,Closed,2008/11/24 1:18,2009/9/4 3:18
+SHIRO-51,Task,Unresolved,Open,2009/1/24 1:35,
+SHIRO-52,Task,Fixed,Closed,2009/1/23 13:33,2009/12/19 5:21
+SHIRO-53,Improvement,Unresolved,Open,2009/5/30 2:46,
+SHIRO-54,Improvement,Fixed,Closed,2008/12/31 0:37,2009/1/21 12:05
+SHIRO-55,Improvement,Unresolved,Open,2009/3/11 18:03,
+SHIRO-56,Improvement,Fixed,Closed,2009/4/4 5:43,2009/4/6 12:51
+SHIRO-57,Improvement,Not A Problem,Closed,2008/7/26 1:17,2016/6/24 6:44
+SHIRO-58,Improvement,Won't Fix,Closed,2008/11/26 4:31,2008/11/26 12:27
+SHIRO-59,Improvement,Fixed,Closed,2009/4/28 3:44,2010/2/14 9:51
+SHIRO-60,Improvement,Not A Problem,Resolved,2009/1/22 23:59,2016/7/12 5:57
+SHIRO-61,Improvement,Fixed,Closed,2008/12/24 2:24,2009/1/11 14:24
+SHIRO-62,Improvement,Duplicate,Closed,2009/2/7 19:39,2009/2/23 14:55
+SHIRO-63,Improvement,Unresolved,Open,2009/3/31 2:14,
+SHIRO-64,Improvement,Duplicate,Closed,2008/12/31 8:15,2009/1/11 14:25
+SHIRO-65,Improvement,Unresolved,Open,2009/5/5 4:52,
+SHIRO-66,Improvement,Fixed,Closed,2008/12/31 0:24,2009/1/11 15:47
+SHIRO-67,Improvement,Fixed,Closed,2009/2/16 4:00,2009/2/23 14:56
+SHIRO-68,Improvement,Unresolved,Open,2009/6/6 4:13,
+SHIRO-69,Improvement,Fixed,Closed,2008/12/16 22:30,2009/1/21 14:19
+SHIRO-70,Improvement,Fixed,Closed,2008/7/18 22:24,2009/3/3 0:40
+SHIRO-71,Improvement,Unresolved,Open,2009/4/6 1:09,
+SHIRO-72,Improvement,Fixed,Closed,2009/2/6 23:29,2009/2/23 13:02
+SHIRO-73,New Feature,Fixed,Closed,2009/2/6 22:10,2012/1/25 3:17
+SHIRO-74,Improvement,Unresolved,Open,2009/3/2 13:34,
+SHIRO-75,Improvement,Fixed,Closed,2008/7/29 1:41,2009/1/27 12:37
+SHIRO-76,Improvement,Won't Fix,Closed,2008/7/18 22:25,2009/1/23 8:22
+SHIRO-77,Improvement,Unresolved,Open,2009/3/26 4:14,
+SHIRO-78,Improvement,Won't Fix,Closed,2008/12/10 3:19,2009/3/5 11:20
+SHIRO-79,Improvement,Fixed,Closed,2009/2/22 15:08,2009/3/2 11:25
+SHIRO-80,Improvement,Fixed,Closed,2008/10/17 23:14,2009/1/27 13:29
+SHIRO-81,Improvement,Fixed,Closed,2008/12/29 7:11,2009/1/11 15:48
+SHIRO-82,Bug,Invalid,Closed,2009/7/31 6:34,2009/8/6 23:02
+SHIRO-83,Improvement,Fixed,Closed,2009/8/6 4:09,2010/5/10 8:27
+SHIRO-84,Improvement,Unresolved,Open,2009/8/6 23:37,
+SHIRO-85,Bug,Fixed,Closed,2009/8/21 2:35,2009/8/21 2:43
+SHIRO-86,Improvement,Fixed,Closed,2009/8/22 4:33,2009/8/29 0:47
+SHIRO-87,Bug,Fixed,Closed,2009/8/25 0:42,2009/8/25 0:47
+SHIRO-88,Improvement,Fixed,Closed,2009/8/25 10:12,2009/9/4 2:54
+SHIRO-89,Bug,Fixed,Closed,2009/8/26 5:58,2010/5/13 14:13
+SHIRO-90,Test,Fixed,Closed,2009/8/26 10:37,2009/8/28 4:15
+SHIRO-91,Test,Fixed,Closed,2009/8/26 11:48,2009/8/28 21:47
+SHIRO-92,New Feature,Fixed,Closed,2009/8/29 2:23,2009/9/3 5:46
+SHIRO-93,Test,Fixed,Closed,2009/9/2 4:26,2009/9/3 5:46
+SHIRO-94,Task,Fixed,Closed,2009/9/2 5:04,2009/9/4 14:08
+SHIRO-95,Bug,Fixed,Closed,2009/9/4 3:42,2010/5/11 16:10
+SHIRO-96,Test,Fixed,Closed,2009/9/4 12:22,2009/10/27 3:44
+SHIRO-97,Task,Fixed,Closed,2009/9/11 11:02,2011/2/12 2:38
+SHIRO-98,Task,Fixed,Closed,2009/9/11 11:05,2009/9/11 11:05
+SHIRO-99,Sub-task,Fixed,Closed,2009/9/11 11:08,2009/9/11 11:09
+SHIRO-100,Bug,Won't Fix,Closed,2009/9/16 16:51,2009/9/16 21:22
+SHIRO-101,Bug,Not A Problem,Closed,2009/9/17 23:31,2009/12/19 5:00
+SHIRO-102,Task,Fixed,Closed,2009/9/18 4:42,2010/5/20 0:41
+SHIRO-103,Task,Fixed,Closed,2009/9/18 6:07,2010/2/2 21:47
+SHIRO-104,Improvement,Fixed,Closed,2009/9/18 23:52,2009/9/19 0:09
+SHIRO-105,New Feature,Fixed,Closed,2009/9/22 3:37,2009/9/22 4:08
+SHIRO-106,Bug,Fixed,Closed,2009/10/2 4:06,2009/10/3 13:19
+SHIRO-107,New Feature,Fixed,Closed,2009/10/13 21:26,2010/2/6 4:28
+SHIRO-108,Bug,Fixed,Closed,2009/10/25 3:31,2009/10/25 4:17
+SHIRO-109,Improvement,Fixed,Closed,2009/10/29 9:00,2010/2/12 6:04
+SHIRO-110,Improvement,Fixed,Closed,2009/10/29 9:03,2010/2/19 11:49
+SHIRO-111,Improvement,Fixed,Closed,2009/10/30 2:10,2010/5/11 3:09
+SHIRO-112,Improvement,Fixed,Closed,2009/11/5 1:51,2010/2/13 6:12
+SHIRO-113,Task,Fixed,Closed,2009/11/10 11:25,2009/11/10 13:26
+SHIRO-114,Improvement,Fixed,Closed,2009/11/15 5:56,2009/12/19 7:46
+SHIRO-115,Bug,Fixed,Closed,2009/11/27 17:56,2009/12/8 0:29
+SHIRO-116,New Feature,Fixed,Closed,2009/12/8 1:24,2009/12/10 2:35
+SHIRO-117,New Feature,Unresolved,Open,2009/12/9 0:48,
+SHIRO-118,New Feature,Fixed,Closed,2009/12/9 3:16,2009/12/9 3:21
+SHIRO-119,New Feature,Unresolved,Open,2009/12/14 8:50,
+SHIRO-120,Bug,Fixed,Closed,2009/12/15 19:20,2010/1/15 4:13
+SHIRO-121,New Feature,Fixed,Closed,2009/12/18 5:14,2009/12/19 5:01
+SHIRO-122,New Feature,Fixed,Closed,2009/12/20 4:43,2010/3/26 9:47
+SHIRO-123,Task,Not A Problem,Resolved,2010/1/6 0:11,2016/7/12 5:34
+SHIRO-124,Bug,Fixed,Closed,2010/1/7 4:48,2010/2/21 14:21
+SHIRO-125,Improvement,Fixed,Closed,2010/1/8 3:44,2010/1/16 3:32
+SHIRO-126,Temp,Unresolved,Open,2010/1/8 5:23,
+SHIRO-127,Improvement,Unresolved,Open,2010/1/8 13:26,
+SHIRO-128,Improvement,Fixed,Closed,2010/1/12 23:33,2010/5/9 15:14
+SHIRO-129,New Feature,Fixed,Closed,2010/1/13 0:43,2010/2/2 21:30
+SHIRO-130,Bug,Fixed,Closed,2010/1/13 20:30,2010/2/1 19:29
+SHIRO-131,Improvement,Fixed,Closed,2010/1/20 2:57,2010/1/22 5:32
+SHIRO-132,Improvement,Unresolved,Open,2010/1/27 16:33,
+SHIRO-133,Improvement,Fixed,Closed,2010/1/29 1:03,2010/1/30 6:57
+SHIRO-134,Improvement,Unresolved,Open,2010/2/3 2:07,
+SHIRO-135,Bug,Fixed,Closed,2010/2/4 1:44,2010/2/4 4:31
+SHIRO-136,Improvement,Fixed,Closed,2010/2/9 0:46,2010/2/9 0:53
+SHIRO-137,Improvement,Fixed,Closed,2010/2/9 3:08,2010/2/19 12:41
+SHIRO-138,Bug,Fixed,Closed,2010/2/18 23:45,2010/2/19 2:07
+SHIRO-139,Improvement,Fixed,Closed,2010/2/20 1:01,2010/5/14 11:19
+SHIRO-140,New Feature,Fixed,Closed,2010/2/20 1:51,2010/5/12 2:34
+SHIRO-141,Bug,Fixed,Closed,2010/2/21 14:44,2010/5/9 15:17
+SHIRO-142,Bug,Fixed,Closed,2010/2/22 6:43,2010/2/23 0:59
+SHIRO-143,Wish,Fixed,Closed,2010/2/27 20:23,2010/4/24 5:16
+SHIRO-144,Improvement,Fixed,Closed,2010/3/12 4:32,2010/3/26 9:48
+SHIRO-145,Bug,Fixed,Closed,2010/3/16 22:29,2010/5/9 15:59
+SHIRO-146,Improvement,Fixed,Closed,2010/3/19 9:01,2010/3/20 2:03
+SHIRO-147,New Feature,Fixed,Closed,2010/3/26 1:15,2010/4/23 9:33
+SHIRO-148,Improvement,Fixed,Closed,2010/3/26 9:43,2010/3/26 9:46
+SHIRO-149,Task,Fixed,Closed,2010/4/3 2:18,2010/5/13 14:19
+SHIRO-150,Bug,Fixed,Closed,2010/4/6 6:22,2010/5/9 15:22
+SHIRO-151,New Feature,Fixed,Closed,2010/4/6 7:25,2011/3/6 6:50
+SHIRO-152,Improvement,Fixed,Closed,2010/4/24 4:59,2010/4/25 5:31
+SHIRO-153,Improvement,Fixed,Closed,2010/4/27 2:30,2010/5/9 15:33
+SHIRO-154,Bug,Fixed,Closed,2010/4/30 14:34,2010/5/13 15:13
+SHIRO-155,Task,Fixed,Closed,2010/5/9 8:26,2010/5/15 15:52
+SHIRO-156,Bug,Fixed,Closed,2010/5/9 12:21,2010/5/15 13:45
+SHIRO-157,Bug,Fixed,Closed,2010/5/13 2:45,2010/5/14 13:13
+SHIRO-158,Bug,Fixed,Closed,2010/5/13 12:38,2010/5/13 15:20
+SHIRO-159,Bug,Fixed,Closed,2010/5/14 9:55,2010/5/15 3:05
+SHIRO-160,New Feature,Unresolved,Open,2010/5/15 2:45,
+SHIRO-161,Bug,Fixed,Closed,2010/5/16 5:41,2010/5/18 3:01
+SHIRO-162,Task,Fixed,Closed,2010/5/16 10:20,2010/5/20 0:33
+SHIRO-163,Bug,Fixed,Closed,2010/5/18 3:01,2010/5/18 4:33
+SHIRO-164,Bug,Fixed,Closed,2010/5/18 11:10,2010/5/20 0:42
+SHIRO-165,Improvement,Unresolved,Open,2010/5/19 22:22,
+SHIRO-166,New Feature,Won't Fix,Closed,2010/5/19 22:25,2010/10/12 12:26
+SHIRO-167,Bug,Fixed,Closed,2010/5/21 0:46,2010/5/21 4:46
+SHIRO-168,Task,Fixed,Closed,2010/5/22 0:45,2010/5/30 16:51
+SHIRO-169,Task,Won't Fix,Closed,2010/5/22 0:50,2010/5/22 0:56
+SHIRO-170,New Feature,Unresolved,Open,2010/5/25 4:34,
+SHIRO-171,Wish,Fixed,Closed,2010/5/26 0:49,2010/10/10 3:36
+SHIRO-172,Bug,Fixed,Closed,2010/5/27 0:13,2010/5/27 2:35
+SHIRO-173,New Feature,Fixed,Closed,2010/6/4 4:07,2010/10/12 13:01
+SHIRO-174,New Feature,Unresolved,Open,2010/6/5 13:45,
+SHIRO-175,Improvement,Fixed,Closed,2010/6/10 1:11,2010/8/3 12:31
+SHIRO-176,Improvement,Duplicate,Closed,2010/6/16 10:50,2010/10/5 2:54
+SHIRO-177,Bug,Fixed,Closed,2010/6/21 19:32,2010/7/1 14:25
+SHIRO-178,Improvement,Fixed,Closed,2010/6/22 23:07,2011/4/28 2:57
+SHIRO-179,Bug,Duplicate,Closed,2010/6/23 16:37,2010/6/24 1:12
+SHIRO-180,Improvement,Fixed,Closed,2010/6/30 1:05,2010/10/29 7:26
+SHIRO-181,Bug,Fixed,Closed,2010/6/30 4:38,2010/7/1 14:15
+SHIRO-182,Bug,Fixed,Closed,2010/7/5 22:29,2010/7/7 12:19
+SHIRO-183,Bug,Fixed,Closed,2010/7/15 17:17,2010/10/12 9:00
+SHIRO-184,Bug,Fixed,Closed,2010/7/16 2:38,2010/12/10 2:30
+SHIRO-185,Bug,Fixed,Closed,2010/7/17 16:27,2010/7/18 17:25
+SHIRO-186,Improvement,Fixed,Closed,2010/7/19 6:36,2010/10/29 1:12
+SHIRO-187,New Feature,Fixed,Closed,2010/8/15 2:51,2011/6/27 7:29
+SHIRO-188,Improvement,Unresolved,Open,2010/8/15 2:55,
+SHIRO-189,New Feature,Fixed,Closed,2010/9/9 14:53,2010/10/29 2:11
+SHIRO-190,Bug,Fixed,Closed,2010/9/10 2:34,2010/9/10 8:06
+SHIRO-191,Improvement,Fixed,Closed,2010/9/10 8:09,2010/10/12 12:22
+SHIRO-192,Task,Unresolved,Open,2010/9/12 9:11,
+SHIRO-193,Task,Fixed,Closed,2010/9/12 9:16,2011/2/12 2:45
+SHIRO-194,Task,Fixed,Closed,2010/9/12 9:18,2011/2/12 2:38
+SHIRO-195,Task,Fixed,Closed,2010/10/7 9:42,2010/10/12 8:57
+SHIRO-196,Improvement,Duplicate,Closed,2010/10/10 2:53,2010/10/12 12:23
+SHIRO-197,Bug,Fixed,Closed,2010/10/12 7:02,2010/12/10 2:27
+SHIRO-198,Bug,Fixed,Closed,2010/10/12 8:41,2012/1/25 3:23
+SHIRO-199,Bug,Fixed,Closed,2010/10/14 2:35,2010/10/14 3:14
+SHIRO-200,New Feature,Fixed,Resolved,2010/10/15 17:56,2016/7/12 6:49
+SHIRO-201,Bug,Fixed,Closed,2010/10/16 0:48,2010/10/16 0:56
+SHIRO-202,Bug,Incomplete,Closed,2010/10/18 3:05,2016/11/9 0:41
+SHIRO-203,Improvement,Unresolved,Open,2010/10/20 3:54,
+SHIRO-204,Improvement,Fixed,Closed,2010/10/24 3:14,2010/10/24 5:12
+SHIRO-205,Bug,Fixed,Closed,2010/10/24 21:48,2012/1/11 11:47
+SHIRO-206,New Feature,Unresolved,Reopened,2010/10/26 2:11,
+SHIRO-208,Task,Won't Fix,Closed,2010/10/30 1:47,2016/6/22 3:01
+SHIRO-209,Task,Fixed,Closed,2010/10/30 10:57,2010/10/30 10:57
+SHIRO-210,New Feature,Won't Fix,Closed,2010/10/31 23:08,2011/6/26 23:05
+SHIRO-211,Task,Unresolved,Open,2010/11/1 0:35,
+SHIRO-212,Bug,Cannot Reproduce,Closed,2010/11/1 2:14,2012/1/4 8:38
+SHIRO-213,New Feature,Fixed,Closed,2010/11/1 2:59,2011/12/13 9:38
+SHIRO-214,Bug,Fixed,Closed,2010/11/6 4:26,2011/3/27 4:07
+SHIRO-215,Improvement,Fixed,Closed,2010/11/8 11:56,2011/5/7 8:17
+SHIRO-216,Improvement,Unresolved,Open,2010/11/9 6:54,
+SHIRO-217,New Feature,Fixed,Closed,2010/11/11 2:56,2012/1/5 9:01
+SHIRO-218,Wish,Fixed,Closed,2010/11/15 12:25,2010/12/12 7:51
+SHIRO-219,Bug,Fixed,Closed,2010/11/28 7:47,2010/11/30 4:01
+SHIRO-220,Task,Fixed,Closed,2010/12/3 0:01,2010/12/3 1:02
+SHIRO-221,Improvement,Fixed,Closed,2010/12/10 2:49,2010/12/11 7:00
+SHIRO-222,Bug,Fixed,Closed,2010/12/10 3:48,2011/3/6 7:12
+SHIRO-223,Bug,Fixed,Closed,2010/12/10 4:08,2012/1/4 8:46
+SHIRO-224,Improvement,Unresolved,Open,2010/12/11 5:40,
+SHIRO-225,Bug,Fixed,Closed,2010/12/12 6:20,2011/12/22 10:12
+SHIRO-226,Improvement,Unresolved,Open,2010/12/15 20:28,
+SHIRO-227,Bug,Fixed,Closed,2010/12/21 3:33,2012/1/25 3:25
+SHIRO-228,Improvement,Cannot Reproduce,Closed,2011/1/2 7:58,2016/10/6 4:10
+SHIRO-229,Improvement,Fixed,Closed,2011/1/7 7:34,2011/5/7 23:14
+SHIRO-230,Improvement,Unresolved,Open,2011/1/9 21:19,
+SHIRO-231,Bug,Fixed,Closed,2011/1/10 5:13,2011/1/10 5:23
+SHIRO-232,Improvement,Unresolved,Open,2011/1/11 4:45,
+SHIRO-233,Improvement,Unresolved,Open,2011/1/12 15:23,
+SHIRO-234,Bug,Fixed,Closed,2011/1/13 8:47,2011/3/6 6:18
+SHIRO-235,Bug,Fixed,Closed,2011/1/13 8:49,2011/3/6 6:54
+SHIRO-236,Improvement,Fixed,Closed,2011/1/17 4:43,2011/2/11 2:56
+SHIRO-237,Bug,Fixed,Closed,2011/1/17 19:00,2011/2/13 5:49
+SHIRO-238,Bug,Fixed,Closed,2011/1/17 19:44,2012/1/25 3:24
+SHIRO-239,New Feature,Unresolved,Open,2011/2/3 23:54,
+SHIRO-240,Bug,Fixed,Closed,2011/2/4 4:14,2011/3/26 9:56
+SHIRO-241,Bug,Fixed,Closed,2011/2/8 6:56,2011/2/9 4:56
+SHIRO-242,Task,Fixed,Closed,2011/2/8 6:57,2011/2/9 1:52
+SHIRO-243,Improvement,Fixed,Closed,2011/2/9 9:20,2011/2/11 7:49
+SHIRO-244,Bug,Duplicate,Closed,2011/2/10 15:51,2011/2/10 15:59
+SHIRO-245,Improvement,Fixed,Closed,2011/2/11 3:09,2011/2/11 10:11
+SHIRO-246,Improvement,Unresolved,Open,2011/2/11 3:15,
+SHIRO-247,Improvement,Unresolved,Open,2011/2/11 3:18,
+SHIRO-248,Improvement,Unresolved,Open,2011/2/11 3:19,
+SHIRO-249,Improvement,Unresolved,Open,2011/2/11 4:12,
+SHIRO-250,Improvement,Fixed,Closed,2011/2/11 4:13,2011/5/7 23:12
+SHIRO-251,Improvement,Unresolved,Open,2011/2/11 4:14,
+SHIRO-252,Improvement,Unresolved,Open,2011/2/11 4:15,
+SHIRO-253,Improvement,Unresolved,Open,2011/2/11 4:19,
+SHIRO-254,Improvement,Unresolved,Open,2011/2/11 4:20,
+SHIRO-255,Improvement,Unresolved,Open,2011/2/11 4:25,
+SHIRO-256,Improvement,Unresolved,Open,2011/2/11 8:11,
+SHIRO-257,Improvement,Unresolved,Open,2011/2/11 8:15,
+SHIRO-258,New Feature,Unresolved,Open,2011/2/11 10:08,
+SHIRO-259,Improvement,Fixed,Closed,2011/2/11 10:14,2011/2/11 10:38
+SHIRO-260,Bug,Fixed,Closed,2011/2/11 10:29,2011/2/11 10:30
+SHIRO-261,Improvement,Unresolved,Open,2011/2/11 10:31,
+SHIRO-262,Improvement,Fixed,Closed,2011/2/11 10:34,2011/5/7 23:13
+SHIRO-263,Improvement,Unresolved,Open,2011/2/11 10:36,
+SHIRO-264,Task,Fixed,Closed,2011/2/12 2:32,2011/5/7 23:13
+SHIRO-265,Improvement,Unresolved,Open,2011/2/12 2:37,
+SHIRO-266,Improvement,Fixed,Closed,2011/2/12 8:25,2011/9/29 1:31
+SHIRO-267,Improvement,Fixed,Closed,2011/2/13 2:49,2011/5/7 23:12
+SHIRO-268,Improvement,Fixed,Closed,2011/2/13 3:14,2011/5/7 23:12
+SHIRO-269,Improvement,Unresolved,Open,2011/2/18 3:19,
+SHIRO-270,Bug,Fixed,Closed,2011/2/18 21:46,2011/3/6 6:29
+SHIRO-271,Bug,Fixed,Closed,2011/2/20 1:59,2012/1/4 8:25
+SHIRO-272,Bug,Fixed,Closed,2011/2/20 3:44,2011/2/20 5:48
+SHIRO-273,Bug,Fixed,Closed,2011/2/20 5:51,2011/2/20 7:15
+SHIRO-274,New Feature,Fixed,Closed,2011/2/20 11:23,2011/3/6 6:04
+SHIRO-275,Improvement,Unresolved,Open,2011/2/20 14:24,
+SHIRO-276,Improvement,Fixed,Closed,2011/2/21 11:17,2011/2/22 4:19
+SHIRO-277,Improvement,Fixed,Resolved,2011/2/22 13:17,2016/7/12 21:34
+SHIRO-278,Improvement,Fixed,Resolved,2011/3/6 6:22,2016/7/9 1:22
+SHIRO-279,New Feature,Fixed,Closed,2011/3/28 4:22,2011/12/13 9:37
+SHIRO-280,New Feature,Fixed,Closed,2011/4/2 1:50,2011/12/13 9:38
+SHIRO-281,New Feature,Unresolved,Open,2011/4/3 11:17,
+SHIRO-282,New Feature,Fixed,Closed,2011/4/9 2:44,2011/4/9 2:58
+SHIRO-283,Improvement,Unresolved,Open,2011/4/17 13:19,
+SHIRO-284,New Feature,Fixed,Closed,2011/4/17 13:20,2011/5/6 5:46
+SHIRO-285,New Feature,Fixed,Closed,2011/4/18 23:56,2012/1/7 5:10
+SHIRO-286,New Feature,Unresolved,Open,2011/4/19 6:41,
+SHIRO-287,New Feature,Fixed,Closed,2011/4/21 10:20,2012/1/7 11:44
+SHIRO-288,Bug,Fixed,Closed,2011/5/4 3:49,2012/1/25 3:22
+SHIRO-289,New Feature,Unresolved,Open,2011/5/5 1:45,
+SHIRO-290,New Feature,Unresolved,Reopened,2011/5/7 7:16,
+SHIRO-291,New Feature,Duplicate,Closed,2011/5/10 7:50,2011/6/27 6:06
+SHIRO-292,Wish,Unresolved,Open,2011/5/10 10:31,
+SHIRO-293,New Feature,Fixed,Closed,2011/5/10 13:20,2011/5/18 9:04
+SHIRO-294,New Feature,Won't Fix,Closed,2011/5/12 5:59,2012/7/25 5:32
+SHIRO-295,Bug,Not A Problem,Closed,2011/5/13 15:57,2011/5/14 2:41
+SHIRO-296,Improvement,Fixed,Resolved,2011/5/14 21:42,2016/10/21 22:51
+SHIRO-297,Bug,Won't Fix,Closed,2011/5/17 9:16,2012/1/4 8:53
+SHIRO-298,Bug,Fixed,Closed,2011/5/20 15:35,2012/1/4 9:17
+SHIRO-299,Task,Fixed,Closed,2011/5/21 11:14,2011/5/21 11:19
+SHIRO-300,Improvement,Fixed,Resolved,2011/5/27 16:41,2016/6/30 6:42
+SHIRO-301,Improvement,Fixed,Resolved,2011/5/27 19:10,2016/10/21 22:50
+SHIRO-302,Bug,Fixed,Closed,2011/6/3 18:16,2011/6/3 22:52
+SHIRO-303,Bug,Not A Problem,Closed,2011/6/9 21:23,2011/6/9 22:03
+SHIRO-304,Wish,Unresolved,Open,2011/6/14 6:11,
+SHIRO-305,Bug,Fixed,Closed,2011/6/15 15:25,2012/1/7 11:41
+SHIRO-306,Bug,Fixed,Closed,2011/6/16 4:30,2011/12/28 7:35
+SHIRO-307,Bug,Unresolved,Open,2011/6/23 6:35,
+SHIRO-308,Improvement,Unresolved,Open,2011/6/24 7:02,
+SHIRO-309,New Feature,Unresolved,Open,2011/6/26 23:09,
+SHIRO-310,Improvement,Unresolved,Open,2011/7/3 7:45,
+SHIRO-311,New Feature,Unresolved,Open,2011/7/8 4:07,
+SHIRO-312,Bug,Fixed,Closed,2011/7/20 11:27,2011/9/16 22:54
+SHIRO-313,Bug,Fixed,Closed,2011/7/20 11:50,2012/1/4 11:36
+SHIRO-314,New Feature,Unresolved,Open,2011/7/21 5:19,
+SHIRO-315,Bug,Not A Problem,Closed,2011/7/25 17:45,2012/1/4 6:28
+SHIRO-316,Bug,Fixed,Resolved,2011/7/25 18:25,2013/5/5 5:45
+SHIRO-317,New Feature,Unresolved,In Progress,2011/7/26 18:53,
+SHIRO-318,Bug,Fixed,Closed,2011/8/5 21:32,2011/8/6 6:42
+SHIRO-319,Improvement,Fixed,Closed,2011/8/6 4:00,2011/8/6 4:21
+SHIRO-320,Task,Fixed,Closed,2011/8/12 23:12,2016/11/9 0:45
+SHIRO-321,Improvement,Unresolved,Open,2011/8/16 0:23,
+SHIRO-322,Bug,Fixed,Closed,2011/8/23 3:05,2012/1/18 5:33
+SHIRO-323,Bug,Fixed,Closed,2011/9/17 4:42,2012/1/7 11:59
+SHIRO-324,Bug,Duplicate,Closed,2011/9/27 17:20,2011/9/28 15:24
+SHIRO-325,Bug,Fixed,Closed,2011/9/28 6:06,2011/9/28 11:20
+SHIRO-326,Bug,Duplicate,Closed,2011/9/28 15:24,2011/9/28 15:29
+SHIRO-327,Bug,Not A Problem,Closed,2011/9/28 15:27,2011/9/28 23:23
+SHIRO-328,Task,Fixed,Closed,2011/9/29 1:37,2011/12/13 9:39
+SHIRO-329,Bug,Fixed,Resolved,2011/9/29 14:17,2013/3/17 6:03
+SHIRO-330,New Feature,Unresolved,Open,2011/9/29 23:19,
+SHIRO-331,New Feature,Unresolved,Open,2011/11/10 5:38,
+SHIRO-332,Improvement,Fixed,Resolved,2011/12/3 1:16,2012/12/29 2:06
+SHIRO-333,Bug,Fixed,Closed,2011/12/11 23:37,2011/12/13 2:32
+SHIRO-334,Bug,Fixed,Closed,2011/12/15 1:31,2011/12/15 8:01
+SHIRO-335,Bug,Fixed,Closed,2012/1/4 13:12,2012/1/7 11:49
+SHIRO-336,Improvement,Unresolved,Open,2012/1/5 12:26,
+SHIRO-337,New Feature,Unresolved,Open,2012/1/5 22:02,
+SHIRO-338,Bug,Fixed,Closed,2012/1/17 21:33,2012/1/21 8:30
+SHIRO-339,Task,Fixed,Closed,2012/1/19 6:37,2012/1/24 9:10
+SHIRO-340,Improvement,Unresolved,Open,2012/1/20 4:45,
+SHIRO-341,Bug,Fixed,Closed,2012/1/24 5:23,2016/7/15 22:38
+SHIRO-342,Bug,Fixed,Closed,2012/1/24 12:53,2016/7/15 22:39
+SHIRO-343,Bug,Unresolved,Open,2012/1/24 22:08,
+SHIRO-344,Bug,Fixed,Closed,2012/2/1 3:28,2016/7/15 22:40
+SHIRO-345,Bug,Unresolved,Open,2012/3/2 8:39,
+SHIRO-346,New Feature,Unresolved,Open,2012/3/7 22:55,
+SHIRO-347,New Feature,Unresolved,Open,2012/3/8 5:21,
+SHIRO-348,Improvement,Unresolved,Open,2012/3/9 23:22,
+SHIRO-349,Bug,Unresolved,Open,2012/3/10 1:04,
+SHIRO-350,Bug,Fixed,Closed,2012/3/15 3:05,2016/7/15 22:41
+SHIRO-351,Bug,Fixed,Closed,2012/3/27 2:04,2016/7/15 22:42
+SHIRO-352,Bug,Not A Problem,Closed,2012/3/27 19:40,2012/3/27 21:41
+SHIRO-353,Bug,Fixed,Closed,2012/3/29 23:09,2016/7/15 22:42
+SHIRO-354,Bug,Fixed,Closed,2012/4/2 22:56,2016/7/15 22:43
+SHIRO-355,Improvement,Unresolved,Open,2012/4/5 16:51,
+SHIRO-356,Task,Unresolved,Open,2012/4/13 4:33,
+SHIRO-357,Improvement,Invalid,Closed,2012/4/23 19:58,2012/4/24 0:55
+SHIRO-358,Bug,Fixed,Closed,2012/4/25 20:06,2016/7/15 22:43
+SHIRO-359,Bug,Unresolved,Open,2012/4/26 4:35,
+SHIRO-360,New Feature,Unresolved,Open,2012/5/10 4:39,
+SHIRO-361,Improvement,Fixed,Resolved,2012/5/10 4:41,2016/7/20 5:25
+SHIRO-362,Question,Invalid,Closed,2012/5/19 0:56,2012/5/19 1:27
+SHIRO-363,Bug,Fixed,Closed,2012/5/19 1:40,2016/7/15 22:44
+SHIRO-364,New Feature,Unresolved,Open,2012/5/22 11:41,
+SHIRO-365,New Feature,Unresolved,Open,2012/5/22 11:45,
+SHIRO-366,Improvement,Unresolved,Open,2012/5/22 23:33,
+SHIRO-367,New Feature,Unresolved,Open,2012/5/25 0:21,
+SHIRO-368,Bug,Fixed,Closed,2012/5/29 0:17,2016/7/15 22:44
+SHIRO-369,Bug,Unresolved,Open,2012/6/6 11:48,
+SHIRO-370,New Feature,Unresolved,Open,2012/6/6 11:54,
+SHIRO-371,Improvement,Unresolved,Open,2012/6/14 20:27,
+SHIRO-372,Improvement,Unresolved,Open,2012/6/25 1:58,
+SHIRO-373,Bug,Fixed,Resolved,2012/7/1 20:37,2013/4/17 12:27
+SHIRO-374,Bug,Cannot Reproduce,Closed,2012/7/13 12:07,2012/7/25 5:28
+SHIRO-375,Bug,Fixed,Closed,2012/7/16 22:37,2016/7/15 22:45
+SHIRO-376,Bug,Fixed,Closed,2012/7/17 1:33,2012/7/20 20:14
+SHIRO-377,Bug,Fixed,Closed,2012/7/20 23:58,2016/7/15 22:46
+SHIRO-378,New Feature,Unresolved,Open,2012/7/21 0:01,
+SHIRO-379,Bug,Fixed,Closed,2012/7/26 17:49,2013/5/5 6:19
+SHIRO-380,Bug,Fixed,Closed,2012/8/7 22:41,2016/7/15 22:48
+SHIRO-381,New Feature,Unresolved,Open,2012/8/8 0:55,
+SHIRO-382,Bug,Fixed,Closed,2012/8/14 5:35,2016/7/15 22:50
+SHIRO-383,Bug,Fixed,Closed,2012/8/15 5:53,2013/5/5 6:51
+SHIRO-384,Bug,Not A Problem,Closed,2012/8/21 22:55,2012/8/22 1:09
+SHIRO-385,New Feature,Unresolved,Open,2012/8/22 5:18,
+SHIRO-386,Wish,Won't Fix,Closed,2012/9/17 18:27,2015/2/9 15:21
+SHIRO-387,Bug,Fixed,Closed,2012/10/15 17:17,2013/5/5 7:14
+SHIRO-388,Bug,Fixed,Closed,2012/10/16 15:58,2013/5/5 6:40
+SHIRO-389,Bug,Fixed,Closed,2012/10/20 4:11,2013/4/17 12:54
+SHIRO-390,Bug,Fixed,Closed,2012/10/23 17:09,2013/4/17 12:41
+SHIRO-391,Improvement,Unresolved,Reopened,2012/10/24 2:16,
+SHIRO-392,Improvement,Fixed,Resolved,2012/10/26 21:43,2016/10/21 22:53
+SHIRO-393,Improvement,Unresolved,Open,2012/11/1 1:04,
+SHIRO-394,Bug,Fixed,Closed,2012/11/3 4:23,2013/5/5 6:59
+SHIRO-395,New Feature,Fixed,Resolved,2012/11/17 16:11,2016/7/12 22:51
+SHIRO-396,Bug,Invalid,Closed,2012/11/20 3:32,2013/9/14 13:34
+SHIRO-397,Bug,Fixed,Closed,2012/11/22 21:07,2012/11/24 5:05
+SHIRO-398,Improvement,Unresolved,Open,2012/11/23 19:34,
+SHIRO-399,Bug,Fixed,Closed,2012/11/26 17:58,2013/4/17 12:51
+SHIRO-400,Improvement,Unresolved,Open,2012/11/26 21:40,
+SHIRO-401,Improvement,Unresolved,Open,2012/12/6 0:47,
+SHIRO-402,Improvement,Unresolved,Open,2012/12/11 23:13,
+SHIRO-403,Bug,Fixed,Closed,2012/12/21 13:12,2016/7/15 23:05
+SHIRO-404,Task,Unresolved,In Progress,2012/12/24 3:50,
+SHIRO-405,Improvement,Unresolved,Open,2013/1/7 1:11,
+SHIRO-406,Bug,Not A Problem,Resolved,2013/1/7 3:00,2013/5/6 5:52
+SHIRO-407,Improvement,Unresolved,Open,2013/1/10 1:58,
+SHIRO-408,Improvement,Unresolved,Open,2013/1/10 2:52,
+SHIRO-409,New Feature,Won't Fix,Resolved,2013/1/14 2:52,2013/1/14 4:11
+SHIRO-410,Improvement,Unresolved,Open,2013/1/15 0:11,
+SHIRO-411,Bug,Invalid,Resolved,2013/1/15 21:52,2013/5/5 8:23
+SHIRO-412,New Feature,Fixed,Resolved,2013/1/16 4:05,2013/1/16 6:40
+SHIRO-413,Bug,Fixed,Closed,2013/1/17 3:17,2016/7/15 23:06
+SHIRO-414,New Feature,Unresolved,Open,2013/1/18 1:50,
+SHIRO-415,Bug,Fixed,Closed,2013/2/2 21:30,2013/4/17 12:33
+SHIRO-416,Question,Unresolved,Open,2013/2/15 19:19,
+SHIRO-417,New Feature,Unresolved,Open,2013/2/19 21:25,
+SHIRO-418,Bug,Fixed,Resolved,2013/2/27 8:34,2013/4/17 12:32
+SHIRO-419,Improvement,Unresolved,Open,2013/2/28 6:17,
+SHIRO-420,Improvement,Unresolved,Open,2013/3/2 17:02,
+SHIRO-421,Bug,Fixed,Resolved,2013/3/9 3:29,2016/7/7 22:23
+SHIRO-422,New Feature,Duplicate,Resolved,2013/3/11 0:28,2016/7/7 3:10
+SHIRO-423,Bug,Fixed,Closed,2013/3/11 0:51,2013/5/5 9:24
+SHIRO-424,Improvement,Unresolved,Open,2013/3/11 0:57,
+SHIRO-425,Improvement,Unresolved,Open,2013/3/12 0:24,
+SHIRO-426,Improvement,Unresolved,Open,2013/3/14 9:24,
+SHIRO-427,Improvement,Duplicate,Closed,2013/3/18 14:32,2016/3/26 4:45
+SHIRO-428,Improvement,Fixed,Resolved,2013/3/20 1:29,2016/7/12 6:27
+SHIRO-429,Bug,Fixed,Closed,2013/3/20 20:52,2013/5/12 4:38
+SHIRO-430,Improvement,Unresolved,Open,2013/3/26 15:38,
+SHIRO-431,Bug,Fixed,Closed,2013/4/3 20:54,2013/4/17 12:20
+SHIRO-432,Improvement,Unresolved,Open,2013/4/5 22:39,
+SHIRO-433,New Feature,Unresolved,Open,2013/4/30 2:56,
+SHIRO-434,Improvement,Unresolved,Open,2013/5/4 22:54,
+SHIRO-435,Bug,Fixed,Resolved,2013/5/5 4:44,2016/6/30 6:40
+SHIRO-436,New Feature,Fixed,Resolved,2013/5/5 7:10,2016/7/8 22:24
+SHIRO-437,Improvement,Fixed,Resolved,2013/5/7 5:53,2016/7/7 3:27
+SHIRO-438,New Feature,Incomplete,Resolved,2013/5/7 6:12,2016/10/6 2:40
+SHIRO-439,Improvement,Unresolved,Open,2013/5/9 2:37,
+SHIRO-440,Improvement,Unresolved,Open,2013/5/15 17:47,
+SHIRO-441,Documentation,Unresolved,Open,2013/5/20 21:34,
+SHIRO-442,Bug,Unresolved,Open,2013/5/20 23:14,
+SHIRO-443,Bug,Fixed,Closed,2013/5/23 16:19,2016/5/12 9:06
+SHIRO-444,Bug,Cannot Reproduce,Resolved,2013/5/31 16:09,2016/6/22 2:32
+SHIRO-445,New Feature,Unresolved,In Progress,2013/6/7 5:25,
+SHIRO-446,Bug,Unresolved,Open,2013/6/7 14:56,
+SHIRO-447,Bug,Fixed,Closed,2013/6/10 20:08,2013/9/14 4:11
+SHIRO-448,Bug,Unresolved,Open,2013/6/19 20:42,
+SHIRO-449,New Feature,Unresolved,Open,2013/7/5 10:25,
+SHIRO-450,Improvement,Unresolved,Open,2013/7/9 14:19,
+SHIRO-451,Documentation,Unresolved,Open,2013/7/11 19:27,
+SHIRO-452,Bug,Unresolved,Open,2013/7/12 21:32,
+SHIRO-453,Improvement,Duplicate,Closed,2013/7/13 1:21,2016/6/28 7:12
+SHIRO-454,Improvement,Unresolved,Open,2013/7/29 17:12,
+SHIRO-455,Improvement,Unresolved,Open,2013/7/31 23:31,
+SHIRO-456,New Feature,Unresolved,Open,2013/9/11 0:50,
+SHIRO-457,Bug,Resolved,Resolved,2013/9/16 16:38,2019/1/29 12:56
+SHIRO-458,Bug,Resolved,Resolved,2013/9/16 17:16,2019/11/22 2:40
+SHIRO-459,New Feature,Unresolved,Open,2013/9/19 22:49,
+SHIRO-460,Bug,Unresolved,Open,2013/9/20 1:46,
+SHIRO-461,Improvement,Unresolved,Open,2013/9/20 10:53,
+SHIRO-462,Bug,Fixed,Closed,2013/10/8 16:09,2016/5/12 9:08
+SHIRO-463,Question,Unresolved,Open,2013/10/11 19:21,
+SHIRO-464,New Feature,Unresolved,Open,2013/10/15 2:10,
+SHIRO-465,Improvement,Unresolved,Open,2013/10/15 12:52,
+SHIRO-466,Wish,Unresolved,Open,2013/10/16 7:18,
+SHIRO-467,Bug,Fixed,Closed,2013/10/23 15:07,2016/5/12 9:08
+SHIRO-468,Question,Unresolved,Open,2013/10/23 15:57,
+SHIRO-469,Bug,Unresolved,Open,2013/10/30 20:28,
+SHIRO-470,New Feature,Unresolved,Open,2013/11/7 14:27,
+SHIRO-471,Bug,Fixed,Closed,2013/11/25 22:17,2016/6/24 7:56
+SHIRO-472,Bug,Unresolved,Open,2013/11/25 22:35,
+SHIRO-473,Bug,Fixed,Resolved,2013/11/27 0:40,2016/7/2 2:02
+SHIRO-474,Improvement,Unresolved,Open,2013/12/5 15:30,
+SHIRO-475,Improvement,Unresolved,Open,2013/12/5 18:04,
+SHIRO-476,Bug,Unresolved,Open,2013/12/13 1:06,
+SHIRO-477,Bug,Unresolved,Open,2013/12/13 1:17,
+SHIRO-478,Improvement,Won't Fix,Closed,2013/12/16 21:14,2019/1/4 18:55
+SHIRO-479,Improvement,Unresolved,Open,2014/1/8 20:36,
+SHIRO-480,Bug,Fixed,Resolved,2014/1/17 11:00,2016/7/7 2:57
+SHIRO-481,Wish,Unresolved,Open,2014/1/17 23:50,
+SHIRO-482,Bug,Unresolved,Open,2014/1/22 21:59,
+SHIRO-483,Bug,Fixed,Resolved,2014/1/27 2:32,2016/7/8 4:38
+SHIRO-484,Improvement,Unresolved,Open,2014/1/31 17:42,
+SHIRO-485,New Feature,Unresolved,Open,2014/2/9 21:50,
+SHIRO-486,Bug,Unresolved,Open,2014/2/25 15:20,
+SHIRO-487,Bug,Unresolved,Open,2014/3/5 12:15,
+SHIRO-488,Bug,Unresolved,Open,2014/3/7 4:51,
+SHIRO-489,Bug,Unresolved,Open,2014/3/7 17:31,
+SHIRO-490,Improvement,Unresolved,Open,2014/3/22 2:09,
+SHIRO-491,Bug,Unresolved,Open,2014/3/22 2:29,
+SHIRO-492,Improvement,Unresolved,Open,2014/3/22 3:03,
+SHIRO-493,Bug,Fixed,Resolved,2014/4/2 23:41,2016/10/21 22:53
+SHIRO-494,Bug,Unresolved,Open,2014/4/10 22:06,
+SHIRO-495,Bug,Unresolved,Open,2014/4/14 22:21,
+SHIRO-496,Improvement,Fixed,Closed,2014/4/16 17:25,2015/3/18 2:10
+SHIRO-497,Improvement,Unresolved,Open,2014/4/23 1:33,
+SHIRO-498,Improvement,Fixed,Closed,2014/4/30 22:05,2015/4/12 11:12
+SHIRO-499,Improvement,Unresolved,Open,2014/5/5 21:51,
+SHIRO-500,Bug,Unresolved,Open,2014/5/7 2:20,
+SHIRO-501,New Feature,Fixed,Resolved,2014/5/12 19:58,2016/10/21 22:51
+SHIRO-502,Bug,Fixed,Resolved,2014/5/23 23:59,2016/7/1 23:39
+SHIRO-503,Bug,Unresolved,Open,2014/5/27 20:51,
+SHIRO-504,Improvement,Fixed,Resolved,2014/5/30 1:08,2016/5/26 1:04
+SHIRO-505,Bug,Cannot Reproduce,Closed,2014/6/3 17:38,2016/6/24 8:21
+SHIRO-506,Documentation,Fixed,Closed,2014/6/4 14:07,2016/10/6 3:38
+SHIRO-507,Improvement,Fixed,Closed,2014/6/16 18:24,2015/4/12 10:35
+SHIRO-508,Bug,Abandoned,Resolved,2014/7/2 22:02,2016/6/28 0:50
+SHIRO-509,Bug,Unresolved,Open,2014/7/10 22:14,
+SHIRO-510,Bug,Unresolved,Open,2014/8/6 6:39,
+SHIRO-511,Improvement,Fixed,Closed,2014/8/13 16:56,2016/10/6 3:45
+SHIRO-512,Bug,Unresolved,Open,2014/8/13 23:05,
+SHIRO-513,Bug,Fixed,Closed,2014/8/18 19:58,2016/11/21 22:47
+SHIRO-514,Improvement,Fixed,Resolved,2014/8/20 19:37,2016/7/15 1:08
+SHIRO-515,Bug,Fixed,Resolved,2014/8/20 21:51,2016/6/30 1:32
+SHIRO-516,Improvement,Fixed,Resolved,2014/8/21 0:25,2016/4/14 19:10
+SHIRO-517,Bug,Fixed,Resolved,2014/8/27 11:00,2015/3/18 2:13
+SHIRO-518,Bug,Fixed,Closed,2014/9/15 18:37,2015/3/13 9:30
+SHIRO-519,Bug,Unresolved,Open,2014/9/21 16:15,
+SHIRO-520,Bug,Unresolved,Open,2014/9/29 16:14,
+SHIRO-521,Bug,Unresolved,Open,2014/10/10 21:16,
+SHIRO-522,Bug,Not A Problem,Closed,2014/10/16 5:38,2014/10/17 22:38
+SHIRO-523,New Feature,Unresolved,Open,2014/11/2 17:44,
+SHIRO-524,Question,Invalid,Closed,2015/1/14 10:02,2015/1/15 15:37
+SHIRO-525,Bug,Unresolved,Open,2015/1/29 1:30,
+SHIRO-526,Improvement,Unresolved,Open,2015/2/23 2:57,
+SHIRO-527,Documentation,Fixed,Resolved,2015/2/28 3:49,2016/7/2 0:30
+SHIRO-528,Bug,Unresolved,Open,2015/3/12 12:45,
+SHIRO-529,Improvement,Unresolved,Open,2015/3/12 12:56,
+SHIRO-530,Bug,Unresolved,Open,2015/3/19 3:18,
+SHIRO-531,Improvement,Unresolved,Open,2015/4/1 23:47,
+SHIRO-532,Improvement,Unresolved,Open,2015/5/27 2:47,
+SHIRO-533,Question,Not A Problem,Closed,2015/5/27 20:55,2019/1/13 23:58
+SHIRO-534,Documentation,Unresolved,Open,2015/6/3 14:36,
+SHIRO-535,Bug,Unresolved,Open,2015/6/27 19:17,
+SHIRO-536,Bug,Duplicate,Resolved,2015/7/13 13:02,2016/7/14 4:57
+SHIRO-537,Bug,Unresolved,Open,2015/7/29 2:25,
+SHIRO-538,Bug,Unresolved,Open,2015/8/7 5:44,
+SHIRO-539,Brainstorming,Unresolved,Open,2015/8/14 21:37,
+SHIRO-540,Improvement,Unresolved,Open,2015/8/27 23:11,
+SHIRO-541,Improvement,Fixed,Resolved,2015/8/28 12:51,2016/7/2 3:39
+SHIRO-542,Bug,Unresolved,Open,2015/9/18 19:43,
+SHIRO-543,Bug,Fixed,Resolved,2015/9/22 2:17,2016/3/24 2:02
+SHIRO-544,Bug,Unresolved,Open,2015/9/30 6:42,
+SHIRO-545,Bug,Fixed,Resolved,2015/10/6 2:25,2016/6/29 0:51
+SHIRO-546,Bug,Cannot Reproduce,Resolved,2015/10/8 1:46,2016/7/8 3:43
+SHIRO-547,Bug,Fixed,Resolved,2015/10/23 20:41,2016/7/2 5:24
+SHIRO-548,Bug,Unresolved,Open,2015/10/30 11:25,
+SHIRO-549,Bug,Duplicate,Resolved,2015/11/8 9:21,2016/7/2 2:05
+SHIRO-550,Bug,Fixed,Resolved,2015/11/19 18:15,2016/5/12 9:14
+SHIRO-551,Improvement,Unresolved,Open,2015/12/16 20:56,
+SHIRO-552,Bug,Resolved,Resolved,2015/12/17 23:01,2019/8/3 3:08
+SHIRO-553,Bug,Unresolved,Open,2015/12/30 0:06,
+SHIRO-554,Documentation,Unresolved,Open,2016/1/8 6:59,
+SHIRO-555,Bug,Unresolved,Open,2016/1/13 3:09,
+SHIRO-556,Bug,Fixed,Closed,2016/1/15 4:48,2016/3/5 8:10
+SHIRO-557,Bug,Unresolved,Reopened,2016/1/26 21:25,
+SHIRO-558,Improvement,Unresolved,Open,2016/2/2 23:38,
+SHIRO-559,Bug,Fixed,Resolved,2016/2/5 19:38,2017/5/1 10:18
+SHIRO-560,Improvement,Resolved,Resolved,2016/2/20 19:51,2019/3/27 2:18
+SHIRO-561,Bug,Unresolved,Open,2016/2/26 1:22,
+SHIRO-562,Improvement,Fixed,Closed,2016/3/18 7:12,2016/3/22 2:45
+SHIRO-563,Bug,Resolved,Resolved,2016/3/18 15:58,2019/3/27 2:22
+SHIRO-564,Improvement,Fixed,Resolved,2016/3/22 3:08,2016/6/30 6:26
+SHIRO-565,Bug,Unresolved,Open,2016/5/23 18:09,
+SHIRO-566,Improvement,Fixed,Resolved,2016/5/31 1:44,2016/6/30 6:21
+SHIRO-567,Bug,Fixed,Resolved,2016/6/22 21:29,2016/6/29 0:51
+SHIRO-568,Bug,Fixed,Resolved,2016/6/29 0:55,2016/6/30 6:41
+SHIRO-569,Improvement,Unresolved,Open,2016/7/2 0:33,
+SHIRO-570,Bug,Fixed,Resolved,2016/7/4 17:01,2016/7/8 0:08
+SHIRO-571,Task,Fixed,Resolved,2016/7/15 5:10,2016/7/19 1:10
+SHIRO-572,Task,Unresolved,Open,2016/7/16 2:51,
+SHIRO-573,Task,Unresolved,Reopened,2016/7/19 1:10,
+SHIRO-574,Wish,Unresolved,Open,2016/7/19 16:32,
+SHIRO-575,Bug,Unresolved,Open,2016/7/22 10:52,
+SHIRO-576,Bug,Fixed,Resolved,2016/7/27 16:52,2016/9/28 21:15
+SHIRO-577,Bug,Fixed,Resolved,2016/7/30 0:01,2016/8/10 0:25
+SHIRO-578,Bug,Unresolved,Open,2016/8/1 22:32,
+SHIRO-579,Bug,Fixed,Resolved,2016/8/12 3:57,2016/12/16 1:43
+SHIRO-580,Bug,Not A Bug,Closed,2016/8/16 10:20,2016/8/16 22:18
+SHIRO-581,Bug,Fixed,Resolved,2016/8/20 1:23,2016/8/20 1:25
+SHIRO-582,Bug,Unresolved,Open,2016/8/22 20:59,
+SHIRO-583,Bug,Unresolved,Open,2016/9/6 21:19,
+SHIRO-584,Bug,Fixed,Resolved,2016/9/7 6:52,2016/9/28 21:16
+SHIRO-585,Bug,Unresolved,Open,2016/9/16 1:06,
+SHIRO-586,Bug,Fixed,Resolved,2016/9/19 8:32,2016/10/21 22:53
+SHIRO-587,Bug,Fixed,Resolved,2016/9/19 8:52,2016/10/1 3:04
+SHIRO-588,Improvement,Unresolved,Open,2016/9/26 21:41,
+SHIRO-589,New Feature,Fixed,Resolved,2016/10/6 21:44,2016/10/21 22:50
+SHIRO-590,New Feature,Fixed,Resolved,2016/10/6 21:53,2016/10/21 22:50
+SHIRO-591,Bug,Fixed,Resolved,2016/10/11 3:07,2016/10/21 22:52
+SHIRO-592,Bug,Fixed,Closed,2016/10/13 2:49,2019/3/27 21:35
+SHIRO-593,Bug,Fixed,Resolved,2016/10/14 22:17,2016/10/21 22:51
+SHIRO-594,Bug,Fixed,Resolved,2016/10/18 23:28,2016/10/21 22:53
+SHIRO-595,Bug,Fixed,Resolved,2016/10/21 22:15,2016/10/21 22:55
+SHIRO-596,Improvement,Fixed,Resolved,2016/10/29 12:58,2016/12/7 3:12
+SHIRO-597,Dependency upgrade,Duplicate,Closed,2016/11/4 0:13,2016/11/4 0:46
+SHIRO-598,Dependency upgrade,Duplicate,Closed,2016/11/4 0:13,2016/11/4 0:15
+SHIRO-599,Improvement,Fixed,Closed,2016/11/4 18:19,2016/11/9 0:39
+SHIRO-600,Bug,Unresolved,Open,2016/11/10 18:59,
+SHIRO-601,Bug,Unresolved,Open,2016/11/10 21:59,
+SHIRO-602,Bug,Unresolved,Open,2016/11/16 21:46,
+SHIRO-603,Bug,Fixed,Closed,2016/11/22 7:14,2019/1/10 22:09
+SHIRO-604,Bug,Unresolved,Open,2016/12/9 3:02,
+SHIRO-605,Bug,Fixed,Resolved,2016/12/13 6:07,2016/12/16 1:40
+SHIRO-606,Improvement,Unresolved,Open,2016/12/17 16:02,
+SHIRO-607,Bug,Fixed,Resolved,2017/1/4 3:06,2017/6/6 5:42
+SHIRO-608,Bug,Fixed,Resolved,2017/1/11 23:43,2017/4/20 22:31
+SHIRO-609,Improvement,Unresolved,Open,2017/1/24 11:53,
+SHIRO-610,Bug,Unresolved,Open,2017/1/30 8:41,
+SHIRO-611,Bug,Fixed,Resolved,2017/1/31 9:14,2017/5/10 9:53
+SHIRO-612,Bug,Duplicate,Resolved,2017/2/14 2:45,2017/2/14 2:52
+SHIRO-613,Bug,Cannot Reproduce,Resolved,2017/2/18 3:00,2017/2/21 22:54
+SHIRO-614,Bug,Unresolved,Open,2017/2/20 19:05,
+SHIRO-615,Improvement,Unresolved,Open,2017/2/24 3:56,
+SHIRO-616,Bug,Unresolved,Open,2017/3/20 4:31,
+SHIRO-617,Improvement,Unresolved,Open,2017/3/20 20:29,
+SHIRO-618,Improvement,Fixed,Resolved,2017/3/23 1:12,2017/5/1 10:18
+SHIRO-619,Bug,Fixed,Resolved,2017/3/29 0:37,2019/10/23 20:43
+SHIRO-620,New Feature,Unresolved,Open,2017/3/30 5:09,
+SHIRO-621,Bug,Unresolved,Open,2017/4/13 13:54,
+SHIRO-622,Documentation,Fixed,Resolved,2017/5/4 10:54,2017/6/24 1:06
+SHIRO-623,Documentation,Unresolved,Open,2017/5/4 11:48,
+SHIRO-624,Bug,Resolved,Resolved,2017/5/19 20:05,2019/3/27 2:26
+SHIRO-625,Improvement,Unresolved,Open,2017/6/1 4:55,
+SHIRO-626,Bug,Resolved,Resolved,2017/6/11 23:32,2019/3/10 0:02
+SHIRO-627,Question,Not A Problem,Closed,2017/6/26 21:08,2019/1/10 18:31
+SHIRO-628,Question,Invalid,Closed,2017/6/28 16:00,2017/7/7 22:07
+SHIRO-629,Question,Unresolved,Open,2017/6/28 19:22,
+SHIRO-630,Bug,Unresolved,Open,2017/7/6 6:07,
+SHIRO-631,New Feature,Unresolved,Open,2017/7/18 18:54,
+SHIRO-632,Bug,Unresolved,Open,2017/7/19 22:21,
+SHIRO-633,Bug,Unresolved,Open,2017/7/22 17:57,
+SHIRO-634,Bug,Unresolved,Open,2017/8/30 17:27,
+SHIRO-635,Bug,Unresolved,Open,2017/8/30 17:28,
+SHIRO-636,Improvement,Not A Problem,Closed,2017/9/4 15:22,2017/9/5 16:59
+SHIRO-637,Bug,Resolved,Resolved,2017/10/24 0:00,2019/4/11 16:03
+SHIRO-638,New Feature,Resolved,Resolved,2017/10/24 2:11,2019/3/9 22:54
+SHIRO-639,Bug,Duplicate,Resolved,2017/10/24 14:34,2017/10/24 14:35
+SHIRO-640,Improvement,Unresolved,Open,2017/11/4 8:34,
+SHIRO-641,Bug,Duplicate,Closed,2017/12/11 13:25,2017/12/11 23:44
+SHIRO-642,New Feature,Unresolved,Open,2017/12/27 6:32,
+SHIRO-643,Improvement,Unresolved,Open,2018/1/9 19:05,
+SHIRO-644,Bug,Unresolved,Open,2018/2/8 0:20,
+SHIRO-645,Bug,Duplicate,Closed,2018/3/10 4:26,2018/7/16 20:22
+SHIRO-646,Bug,Unresolved,Open,2018/4/9 18:00,
+SHIRO-647,Bug,Unresolved,Open,2018/5/19 8:45,
+SHIRO-648,Bug,Unresolved,Open,2018/6/7 6:22,
+SHIRO-649,Bug,Unresolved,Open,2018/7/12 17:59,
+SHIRO-650,Bug,Resolved,Resolved,2018/8/6 22:39,2019/1/22 14:10
+SHIRO-652,Improvement,Resolved,Resolved,2018/10/15 23:02,2019/3/27 2:16
+SHIRO-653,Bug,Resolved,Resolved,2018/11/9 22:15,2019/1/23 13:18
+SHIRO-654,Bug,Unresolved,Open,2018/11/25 1:04,
+SHIRO-655,Bug,Resolved,Resolved,2018/11/25 3:35,2019/1/21 2:11
+SHIRO-656,Bug,Unresolved,Open,2018/12/31 1:22,
+SHIRO-657,Improvement,Won't Do,Closed,2019/1/7 0:10,2019/1/13 22:54
+SHIRO-658,Bug,Resolved,Resolved,2019/1/18 1:24,2019/1/21 19:11
+SHIRO-659,Dependency upgrade,Resolved,Resolved,2019/1/22 1:23,2019/1/23 12:13
+SHIRO-660,Bug,Resolved,Resolved,2019/1/23 18:32,2019/1/23 18:39
+SHIRO-661,Bug,Fixed,Resolved,2019/1/28 13:30,2019/9/22 20:40
+SHIRO-662,Task,Resolved,Resolved,2019/1/28 13:46,2019/2/23 19:48
+SHIRO-663,Task,Resolved,Resolved,2019/2/2 18:31,2019/2/2 20:00
+SHIRO-664,Improvement,Resolved,Resolved,2019/2/3 15:03,2019/2/3 20:33
+SHIRO-665,Improvement,Resolved,Resolved,2019/2/3 20:38,2019/2/3 21:35
+SHIRO-666,Bug,Unresolved,Open,2019/2/12 18:45,
+SHIRO-667,Improvement,Resolved,Resolved,2019/2/15 18:37,2019/3/9 4:18
+SHIRO-668,Improvement,Unresolved,Open,2019/2/21 15:13,
+SHIRO-669,Improvement,Unresolved,Open,2019/2/21 15:16,
+SHIRO-670,Improvement,Won't Fix,Closed,2019/2/21 15:36,2019/7/2 16:53
+SHIRO-671,Improvement,Unresolved,Open,2019/2/22 2:57,
+SHIRO-672,Improvement,Resolved,Resolved,2019/2/23 18:53,2019/2/23 19:20
+SHIRO-673,Improvement,Resolved,Resolved,2019/2/24 15:38,2019/2/24 16:41
+SHIRO-674,Improvement,Resolved,Resolved,2019/2/24 16:23,2019/2/24 16:42
+SHIRO-675,Improvement,Resolved,Resolved,2019/2/24 17:01,2019/2/24 22:48
+SHIRO-676,Improvement,Resolved,Resolved,2019/2/25 1:14,2019/2/25 11:15
+SHIRO-677,Improvement,Resolved,Resolved,2019/2/25 11:27,2019/2/25 13:16
+SHIRO-678,Bug,Unresolved,Open,2019/3/5 17:30,
+SHIRO-679,Improvement,Unresolved,Open,2019/3/8 20:42,
+SHIRO-680,Bug,Resolved,Resolved,2019/3/9 0:14,2019/3/10 0:03
+SHIRO-681,Improvement,Resolved,Resolved,2019/3/9 23:30,2019/5/8 20:40
+SHIRO-682,Bug,Resolved,Resolved,2019/3/26 0:49,2019/11/20 22:02
+SHIRO-683,Improvement,Resolved,Resolved,2019/3/31 23:41,2019/4/9 0:22
+SHIRO-684,Bug,Fixed,Resolved,2019/4/26 4:05,2019/10/10 23:23
+SHIRO-685,Bug,Resolved,Resolved,2019/4/29 22:05,2019/5/10 3:13
+SHIRO-686,Improvement,Not A Problem,Closed,2019/5/2 3:27,2019/5/23 13:34
+SHIRO-687,Bug,Unresolved,Open,2019/5/6 22:44,
+SHIRO-688,Dependency upgrade,Resolved,Resolved,2019/5/9 0:50,2019/5/9 2:09
+SHIRO-689,Dependency upgrade,Resolved,Resolved,2019/5/12 0:42,2019/5/12 1:28
+SHIRO-690,Task,Resolved,Resolved,2019/5/23 13:32,2019/11/13 21:32
+SHIRO-691,Dependency upgrade,Resolved,Resolved,2019/5/26 0:04,2019/5/26 1:33
+SHIRO-692,Task,Resolved,Resolved,2019/5/27 1:26,2019/6/7 1:24
+SHIRO-693,Improvement,Fixed,Resolved,2019/5/30 17:58,2019/5/30 21:23
+SHIRO-694,New Feature,Resolved,Resolved,2019/6/2 1:27,2019/6/2 1:28
+SHIRO-695,Dependency upgrade,Resolved,Resolved,2019/6/4 18:18,2019/6/4 19:20
+SHIRO-696,Dependency upgrade,Resolved,Resolved,2019/6/6 19:53,2019/6/6 20:57
+SHIRO-697,Test,Resolved,Resolved,2019/6/7 1:53,2019/6/7 1:54
+SHIRO-698,Task,Resolved,Resolved,2019/6/7 1:59,2019/6/7 2:00
+SHIRO-699,Dependency upgrade,Resolved,Resolved,2019/6/7 2:02,2019/6/7 2:03
+SHIRO-700,Improvement,Resolved,Resolved,2019/6/7 19:59,2019/6/8 16:33
+SHIRO-701,Dependency upgrade,Resolved,Resolved,2019/6/10 17:26,2019/6/10 20:56
+SHIRO-702,Dependency upgrade,Resolved,Resolved,2019/6/10 21:30,2019/6/10 23:30
+SHIRO-703,Dependency upgrade,Fixed,Resolved,2019/6/13 19:03,2019/6/13 21:46
+SHIRO-704,Dependency upgrade,Fixed,Resolved,2019/6/14 18:42,2019/6/16 18:09
+SHIRO-705,Dependency upgrade,Resolved,Resolved,2019/6/17 18:53,2019/6/17 21:16
+SHIRO-706,Improvement,Resolved,Resolved,2019/6/18 17:33,2019/6/18 19:20
+SHIRO-707,Dependency upgrade,Resolved,Resolved,2019/6/19 19:25,2019/6/19 20:36
+SHIRO-708,Improvement,Unresolved,Open,2019/6/21 22:01,
+SHIRO-709,Improvement,Resolved,Resolved,2019/6/24 19:29,2019/6/24 21:16
+SHIRO-710,Improvement,Resolved,Resolved,2019/6/25 17:34,2019/6/27 0:57
+SHIRO-711,Improvement,Resolved,Resolved,2019/6/27 18:21,2019/7/8 20:33
+SHIRO-712,Improvement,Resolved,Resolved,2019/6/27 18:24,2019/6/29 2:29
+SHIRO-713,Improvement,Unresolved,Open,2019/7/2 0:26,
+SHIRO-714,Improvement,Unresolved,Open,2019/7/2 1:49,
+SHIRO-715,Improvement,Resolved,Resolved,2019/7/2 5:11,2019/7/2 5:12
+SHIRO-716,Dependency upgrade,Resolved,Resolved,2019/7/24 17:14,2019/7/24 21:30
+SHIRO-717,Dependency upgrade,Resolved,Resolved,2019/7/24 23:10,2019/7/27 17:40
+SHIRO-718,Dependency upgrade,Resolved,Resolved,2019/7/24 23:12,2019/7/25 3:03
+SHIRO-719,Dependency upgrade,Resolved,Resolved,2019/7/25 15:28,2019/7/25 22:37
+SHIRO-720,Improvement,Resolved,Resolved,2019/8/15 17:13,2019/8/15 20:32
+SHIRO-721,Bug,Resolved,Resolved,2019/9/8 12:17,2019/11/19 4:34
+SHIRO-722,New Feature,Resolved,Resolved,2019/9/11 21:45,2019/9/12 23:17
+SHIRO-723,Request,Resolved,Resolved,2019/10/1 17:41,2019/11/5 16:43
+SHIRO-724,Improvement,Fixed,Resolved,2019/10/17 20:24,2019/10/18 1:06
+SHIRO-725,Improvement,Unresolved,Open,2019/10/21 3:45,
+SHIRO-726,Improvement,Resolved,Closed,2019/10/31 3:48,2019/10/31 14:24
+SHIRO-727,Bug,Unresolved,Open,2019/11/4 10:42,
+SHIRO-728,Improvement,Resolved,Resolved,2019/11/12 1:25,2019/11/12 3:21
+SHIRO-729,Improvement,Resolved,Resolved,2019/11/15 18:14,2019/11/16 4:39
+SHIRO-730,Improvement,Resolved,Resolved,2019/11/17 23:07,2019/11/17 23:08
+SHIRO-731,Improvement,Resolved,Resolved,2019/11/20 0:52,2019/11/20 3:32

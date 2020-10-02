@@ -1,0 +1,5 @@
+590,590 cf01846d8d5163b595c900cd00015b907a362505^ maven-project/src/main/java/org/apache/maven/project/ModelUtils.java
+294,294 cf01846d8d5163b595c900cd00015b907a362505^ maven-project/src/main/java/org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler.java
+302,302 cf01846d8d5163b595c900cd00015b907a362505^ maven-project/src/main/java/org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler.java
+364,364 cf01846d8d5163b595c900cd00015b907a362505^ maven-project/src/main/java/org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler.java
+38,38 cf01846d8d5163b595c900cd00015b907a362505^ maven-project/src/main/java/org/apache/maven/project/inheritance/ModelInheritanceAssembler.java

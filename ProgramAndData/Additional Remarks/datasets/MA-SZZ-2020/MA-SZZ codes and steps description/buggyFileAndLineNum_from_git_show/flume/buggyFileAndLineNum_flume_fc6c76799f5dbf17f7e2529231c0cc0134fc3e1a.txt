@@ -1,0 +1,2 @@
+326,326 fc6c76799f5dbf17f7e2529231c0cc0134fc3e1a^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSEventSink.java
+327,327 fc6c76799f5dbf17f7e2529231c0cc0134fc3e1a^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSEventSink.java

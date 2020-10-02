@@ -1,0 +1,13 @@
+185,185 8b7055fe3ff3696b821409a6904ff4d69aa3ff6b^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+186,186 8b7055fe3ff3696b821409a6904ff4d69aa3ff6b^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+448,448 8b7055fe3ff3696b821409a6904ff4d69aa3ff6b^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+454,454 8b7055fe3ff3696b821409a6904ff4d69aa3ff6b^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+599,599 8b7055fe3ff3696b821409a6904ff4d69aa3ff6b^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+600,600 8b7055fe3ff3696b821409a6904ff4d69aa3ff6b^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+621,621 8b7055fe3ff3696b821409a6904ff4d69aa3ff6b^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+622,622 8b7055fe3ff3696b821409a6904ff4d69aa3ff6b^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+632,632 8b7055fe3ff3696b821409a6904ff4d69aa3ff6b^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+641,641 8b7055fe3ff3696b821409a6904ff4d69aa3ff6b^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+818,818 8b7055fe3ff3696b821409a6904ff4d69aa3ff6b^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+819,819 8b7055fe3ff3696b821409a6904ff4d69aa3ff6b^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+838,838 8b7055fe3ff3696b821409a6904ff4d69aa3ff6b^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java

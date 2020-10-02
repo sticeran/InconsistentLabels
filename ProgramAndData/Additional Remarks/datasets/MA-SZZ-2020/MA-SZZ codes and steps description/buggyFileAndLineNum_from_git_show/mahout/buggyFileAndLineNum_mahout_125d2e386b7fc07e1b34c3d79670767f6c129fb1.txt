@@ -1,0 +1,12 @@
+22,22 125d2e386b7fc07e1b34c3d79670767f6c129fb1^ core/src/test/java/org/apache/mahout/common/DummyRecordWriter.java
+23,23 125d2e386b7fc07e1b34c3d79670767f6c129fb1^ core/src/test/java/org/apache/mahout/common/DummyRecordWriter.java
+24,24 125d2e386b7fc07e1b34c3d79670767f6c129fb1^ core/src/test/java/org/apache/mahout/common/DummyRecordWriter.java
+25,25 125d2e386b7fc07e1b34c3d79670767f6c129fb1^ core/src/test/java/org/apache/mahout/common/DummyRecordWriter.java
+26,26 125d2e386b7fc07e1b34c3d79670767f6c129fb1^ core/src/test/java/org/apache/mahout/common/DummyRecordWriter.java
+27,27 125d2e386b7fc07e1b34c3d79670767f6c129fb1^ core/src/test/java/org/apache/mahout/common/DummyRecordWriter.java
+51,51 125d2e386b7fc07e1b34c3d79670767f6c129fb1^ core/src/test/java/org/apache/mahout/common/DummyRecordWriter.java
+54,54 125d2e386b7fc07e1b34c3d79670767f6c129fb1^ core/src/test/java/org/apache/mahout/common/DummyRecordWriter.java
+104,104 125d2e386b7fc07e1b34c3d79670767f6c129fb1^ core/src/test/java/org/apache/mahout/common/DummyRecordWriter.java
+118,118 125d2e386b7fc07e1b34c3d79670767f6c129fb1^ core/src/test/java/org/apache/mahout/common/DummyRecordWriter.java
+132,132 125d2e386b7fc07e1b34c3d79670767f6c129fb1^ core/src/test/java/org/apache/mahout/common/DummyRecordWriter.java
+152,152 125d2e386b7fc07e1b34c3d79670767f6c129fb1^ core/src/test/java/org/apache/mahout/common/DummyRecordWriter.java

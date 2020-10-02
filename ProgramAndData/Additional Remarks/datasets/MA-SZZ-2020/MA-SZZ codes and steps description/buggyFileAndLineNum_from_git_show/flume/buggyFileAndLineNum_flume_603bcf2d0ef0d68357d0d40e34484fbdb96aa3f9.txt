@@ -1,0 +1,3 @@
+244,244 603bcf2d0ef0d68357d0d40e34484fbdb96aa3f9^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/main/java/org/apache/flume/sink/elasticsearch/ElasticSearchSink.java
+245,245 603bcf2d0ef0d68357d0d40e34484fbdb96aa3f9^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/main/java/org/apache/flume/sink/elasticsearch/ElasticSearchSink.java
+246,246 603bcf2d0ef0d68357d0d40e34484fbdb96aa3f9^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/main/java/org/apache/flume/sink/elasticsearch/ElasticSearchSink.java

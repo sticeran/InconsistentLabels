@@ -1,0 +1,1 @@
+60,60 aef02df10a26a6b6911b771a506994f2069857cf^ flume-ng-sinks/flume-ng-kafka-sink/src/test/java/org/apache/flume/sink/kafka/util/KafkaConsumer.java

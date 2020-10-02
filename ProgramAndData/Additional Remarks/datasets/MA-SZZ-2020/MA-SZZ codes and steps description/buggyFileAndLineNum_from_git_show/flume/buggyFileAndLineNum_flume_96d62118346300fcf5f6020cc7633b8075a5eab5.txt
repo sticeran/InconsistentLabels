@@ -1,0 +1,8 @@
+82,82 96d62118346300fcf5f6020cc7633b8075a5eab5^ src/java/com/cloudera/flume/collector/CollectorSink.java
+97,97 96d62118346300fcf5f6020cc7633b8075a5eab5^ src/java/com/cloudera/flume/handlers/debug/InsistentAppendDecorator.java
+132,132 96d62118346300fcf5f6020cc7633b8075a5eab5^ src/java/com/cloudera/flume/handlers/debug/InsistentAppendDecorator.java
+141,141 96d62118346300fcf5f6020cc7633b8075a5eab5^ src/java/com/cloudera/flume/handlers/debug/InsistentAppendDecorator.java
+147,147 96d62118346300fcf5f6020cc7633b8075a5eab5^ src/java/com/cloudera/flume/handlers/debug/InsistentAppendDecorator.java
+153,153 96d62118346300fcf5f6020cc7633b8075a5eab5^ src/java/com/cloudera/flume/handlers/debug/InsistentOpenDecorator.java
+20,20 96d62118346300fcf5f6020cc7633b8075a5eab5^ src/javatest/com/cloudera/flume/collector/TestCollectorSink.java
+182,182 96d62118346300fcf5f6020cc7633b8075a5eab5^ src/javatest/com/cloudera/flume/collector/TestCollectorSink.java

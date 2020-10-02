@@ -1,0 +1,2 @@
+41,41 3fdb53d9af0d7e388705f0a8d669f0f174364b9f^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSDataStream.java
+53,53 3fdb53d9af0d7e388705f0a8d669f0f174364b9f^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSSequenceFile.java

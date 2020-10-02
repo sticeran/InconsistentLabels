@@ -1,0 +1,16 @@
+243,243 12649ae4a7883f7034012dd806f3439506851937^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/DefaultVersionResolver.java
+244,244 12649ae4a7883f7034012dd806f3439506851937^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/DefaultVersionResolver.java
+366,366 12649ae4a7883f7034012dd806f3439506851937^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/DefaultVersionResolver.java
+36,36 12649ae4a7883f7034012dd806f3439506851937^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/LocalSnapshotMetadata.java
+39,39 12649ae4a7883f7034012dd806f3439506851937^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/LocalSnapshotMetadata.java
+44,44 12649ae4a7883f7034012dd806f3439506851937^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/LocalSnapshotMetadata.java
+45,45 12649ae4a7883f7034012dd806f3439506851937^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/LocalSnapshotMetadata.java
+50,50 12649ae4a7883f7034012dd806f3439506851937^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/LocalSnapshotMetadata.java
+53,53 12649ae4a7883f7034012dd806f3439506851937^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/LocalSnapshotMetadata.java
+54,54 12649ae4a7883f7034012dd806f3439506851937^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/LocalSnapshotMetadata.java
+59,59 12649ae4a7883f7034012dd806f3439506851937^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/LocalSnapshotMetadata.java
+78,78 12649ae4a7883f7034012dd806f3439506851937^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/LocalSnapshotMetadata.java
+128,128 12649ae4a7883f7034012dd806f3439506851937^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/LocalSnapshotMetadata.java
+134,134 12649ae4a7883f7034012dd806f3439506851937^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/LocalSnapshotMetadata.java
+140,140 12649ae4a7883f7034012dd806f3439506851937^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/LocalSnapshotMetadata.java
+57,57 12649ae4a7883f7034012dd806f3439506851937^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/LocalSnapshotMetadataGenerator.java

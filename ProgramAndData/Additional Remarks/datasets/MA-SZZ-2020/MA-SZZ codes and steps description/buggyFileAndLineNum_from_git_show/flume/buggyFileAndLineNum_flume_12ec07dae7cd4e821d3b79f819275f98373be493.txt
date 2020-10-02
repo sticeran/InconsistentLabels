@@ -1,0 +1,11 @@
+72,72 12ec07dae7cd4e821d3b79f819275f98373be493^ src/java/com/cloudera/flume/handlers/debug/LazyOpenDecorator.java
+24,24 12ec07dae7cd4e821d3b79f819275f98373be493^ src/javatest/com/cloudera/flume/handlers/debug/TestLazyOpen.java
+28,28 12ec07dae7cd4e821d3b79f819275f98373be493^ src/javatest/com/cloudera/flume/handlers/debug/TestLazyOpen.java
+37,37 12ec07dae7cd4e821d3b79f819275f98373be493^ src/javatest/com/cloudera/flume/handlers/debug/TestLazyOpen.java
+42,42 12ec07dae7cd4e821d3b79f819275f98373be493^ src/javatest/com/cloudera/flume/handlers/debug/TestLazyOpen.java
+54,54 12ec07dae7cd4e821d3b79f819275f98373be493^ src/javatest/com/cloudera/flume/handlers/debug/TestLazyOpen.java
+66,66 12ec07dae7cd4e821d3b79f819275f98373be493^ src/javatest/com/cloudera/flume/handlers/debug/TestLazyOpen.java
+67,67 12ec07dae7cd4e821d3b79f819275f98373be493^ src/javatest/com/cloudera/flume/handlers/debug/TestLazyOpen.java
+71,71 12ec07dae7cd4e821d3b79f819275f98373be493^ src/javatest/com/cloudera/flume/handlers/debug/TestLazyOpen.java
+75,75 12ec07dae7cd4e821d3b79f819275f98373be493^ src/javatest/com/cloudera/flume/handlers/debug/TestLazyOpen.java
+76,76 12ec07dae7cd4e821d3b79f819275f98373be493^ src/javatest/com/cloudera/flume/handlers/debug/TestLazyOpen.java

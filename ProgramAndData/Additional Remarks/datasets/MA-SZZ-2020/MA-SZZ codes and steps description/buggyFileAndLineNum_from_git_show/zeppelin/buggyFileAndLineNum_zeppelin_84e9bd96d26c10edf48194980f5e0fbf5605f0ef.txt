@@ -1,0 +1,9 @@
+281,281 84e9bd96d26c10edf48194980f5e0fbf5605f0ef^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCInterpreter.java
+291,291 84e9bd96d26c10edf48194980f5e0fbf5605f0ef^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCInterpreter.java
+292,292 84e9bd96d26c10edf48194980f5e0fbf5605f0ef^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCInterpreter.java
+51,51 84e9bd96d26c10edf48194980f5e0fbf5605f0ef^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCUserConfigurations.java
+52,52 84e9bd96d26c10edf48194980f5e0fbf5605f0ef^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCUserConfigurations.java
+53,53 84e9bd96d26c10edf48194980f5e0fbf5605f0ef^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCUserConfigurations.java
+54,54 84e9bd96d26c10edf48194980f5e0fbf5605f0ef^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCUserConfigurations.java
+55,55 84e9bd96d26c10edf48194980f5e0fbf5605f0ef^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCUserConfigurations.java
+56,56 84e9bd96d26c10edf48194980f5e0fbf5605f0ef^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCUserConfigurations.java

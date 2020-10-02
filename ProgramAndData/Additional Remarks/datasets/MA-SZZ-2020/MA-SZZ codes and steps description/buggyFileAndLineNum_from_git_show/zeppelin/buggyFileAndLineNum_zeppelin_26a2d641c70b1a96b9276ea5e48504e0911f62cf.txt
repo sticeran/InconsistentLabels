@@ -1,0 +1,6 @@
+65,65 26a2d641c70b1a96b9276ea5e48504e0911f62cf^ hbase/src/main/java/org/apache/zeppelin/hbase/HbaseInterpreter.java
+71,71 26a2d641c70b1a96b9276ea5e48504e0911f62cf^ hbase/src/main/java/org/apache/zeppelin/hbase/HbaseInterpreter.java
+72,72 26a2d641c70b1a96b9276ea5e48504e0911f62cf^ hbase/src/main/java/org/apache/zeppelin/hbase/HbaseInterpreter.java
+82,82 26a2d641c70b1a96b9276ea5e48504e0911f62cf^ hbase/src/main/java/org/apache/zeppelin/hbase/HbaseInterpreter.java
+92,92 26a2d641c70b1a96b9276ea5e48504e0911f62cf^ hbase/src/main/java/org/apache/zeppelin/hbase/HbaseInterpreter.java
+43,43 26a2d641c70b1a96b9276ea5e48504e0911f62cf^ hbase/src/test/java/org/apache/zeppelin/hbase/HbaseInterpreterTest.java

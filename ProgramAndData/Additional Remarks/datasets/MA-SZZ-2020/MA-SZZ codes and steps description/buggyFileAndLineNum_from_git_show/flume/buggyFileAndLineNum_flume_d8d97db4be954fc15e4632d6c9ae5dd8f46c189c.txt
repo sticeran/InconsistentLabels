@@ -1,0 +1,2 @@
+180,180 d8d97db4be954fc15e4632d6c9ae5dd8f46c189c^ flume-ng-channels/flume-kafka-channel/src/main/java/org/apache/flume/channel/kafka/KafkaChannel.java
+186,186 d8d97db4be954fc15e4632d6c9ae5dd8f46c189c^ flume-ng-channels/flume-kafka-channel/src/main/java/org/apache/flume/channel/kafka/KafkaChannel.java

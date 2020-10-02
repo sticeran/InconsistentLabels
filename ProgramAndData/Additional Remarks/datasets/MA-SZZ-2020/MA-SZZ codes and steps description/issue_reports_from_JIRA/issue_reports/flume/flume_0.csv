@@ -1,0 +1,1001 @@
+issueKey,type,resolution,status,createdDateEpoch,resolvedDateEpoch
+FLUME-1,Bug,Fixed,Closed,2010/6/29 10:44,2010/8/8 8:49
+FLUME-2,Bug,Fixed,Closed,2010/6/30 7:29,2010/8/21 23:56
+FLUME-3,Bug,Cannot Reproduce,Closed,2010/6/30 9:33,2010/9/5 23:12
+FLUME-4,Bug,Fixed,Closed,2010/6/30 15:34,2010/7/9 13:03
+FLUME-5,New Feature,Won't Fix,Resolved,2010/6/30 16:36,2014/11/5 14:37
+FLUME-6,Epic,Fixed,Closed,2010/6/30 18:36,2011/4/25 21:36
+FLUME-7,Bug,Fixed,Closed,2010/7/2 10:31,2010/7/13 15:30
+FLUME-8,Bug,Fixed,Closed,2010/7/2 10:51,2010/7/9 13:05
+FLUME-9,Bug,Fixed,Closed,2010/7/2 20:33,2010/7/16 9:34
+FLUME-10,New Feature,Duplicate,Closed,2010/7/2 23:58,2010/8/17 8:21
+FLUME-11,Bug,Fixed,Resolved,2010/7/3 8:06,2012/3/7 17:53
+FLUME-12,Improvement,Fixed,Closed,2010/7/3 8:35,2010/7/7 2:39
+FLUME-13,New Feature,Won't Fix,Resolved,2010/7/3 10:30,2014/11/5 14:38
+FLUME-14,Bug,Fixed,Closed,2010/7/4 11:49,2010/7/13 15:30
+FLUME-15,Improvement,Fixed,Closed,2010/7/6 0:12,2010/10/27 10:24
+FLUME-16,Improvement,Won't Fix,Resolved,2010/7/6 0:20,2014/11/5 14:41
+FLUME-17,Improvement,Fixed,Resolved,2010/7/6 9:01,2011/1/2 6:45
+FLUME-18,New Feature,Invalid,Resolved,2010/7/6 10:39,2011/8/19 10:55
+FLUME-19,New Feature,Won't Fix,Closed,2010/7/6 10:41,2014/11/5 14:43
+FLUME-20,New Feature,Fixed,Resolved,2010/7/7 0:53,2010/9/24 3:11
+FLUME-21,Bug,Won't Fix,Resolved,2010/7/7 3:28,2011/8/6 4:15
+FLUME-22,New Feature,Fixed,Closed,2010/7/7 4:31,2010/7/13 10:42
+FLUME-23,Improvement,Won't Fix,Resolved,2010/7/7 4:42,2014/11/5 14:47
+FLUME-24,Improvement,Fixed,Closed,2010/7/7 7:13,2010/7/16 9:35
+FLUME-25,Bug,Fixed,Closed,2010/7/7 10:19,2010/8/5 0:29
+FLUME-26,New Feature,Fixed,Closed,2010/7/7 10:36,2010/7/16 9:35
+FLUME-27,New Feature,Fixed,Closed,2010/7/7 23:34,2011/4/22 1:55
+FLUME-28,Task,Fixed,Closed,2010/7/8 0:20,2010/7/16 9:35
+FLUME-29,New Feature,Fixed,Closed,2010/7/9 6:58,2010/8/10 4:56
+FLUME-30,Improvement,Fixed,Closed,2010/7/9 7:00,2010/8/7 9:54
+FLUME-31,Improvement,Fixed,Closed,2010/7/9 7:07,2011/4/15 8:24
+FLUME-32,Improvement,Won't Fix,Resolved,2010/7/9 7:13,2014/11/5 15:03
+FLUME-33,New Feature,Won't Fix,Resolved,2010/7/9 7:30,2010/7/27 6:21
+FLUME-34,New Feature,Won't Fix,Resolved,2010/7/9 7:37,2014/11/5 15:05
+FLUME-35,Improvement,Won't Fix,Resolved,2010/7/9 7:38,2014/11/5 15:06
+FLUME-36,Bug,Fixed,Closed,2010/7/9 7:46,2010/7/28 2:14
+FLUME-37,Bug,Fixed,Closed,2010/7/9 7:49,2010/8/10 7:16
+FLUME-38,Bug,Fixed,Closed,2010/7/9 7:51,2010/7/16 9:36
+FLUME-39,New Feature,Won't Fix,Resolved,2010/7/9 8:08,2014/11/5 15:07
+FLUME-40,Improvement,Won't Fix,Resolved,2010/7/9 12:51,2014/11/5 15:07
+FLUME-41,New Feature,Won't Fix,Resolved,2010/7/9 13:59,2014/11/5 15:08
+FLUME-42,Improvement,Fixed,Closed,2010/7/10 8:08,2010/8/8 8:47
+FLUME-43,Bug,Fixed,Closed,2010/7/13 5:58,2010/7/16 9:36
+FLUME-44,Bug,Fixed,Closed,2010/7/14 2:05,2010/7/23 6:43
+FLUME-45,Bug,Fixed,Closed,2010/7/14 2:12,2010/8/22 0:39
+FLUME-46,Bug,Cannot Reproduce,Closed,2010/7/14 5:02,2010/7/27 6:30
+FLUME-47,Bug,Fixed,Closed,2010/7/14 5:23,2010/7/29 2:08
+FLUME-48,Bug,Fixed,Closed,2010/7/14 7:12,2011/5/10 1:58
+FLUME-49,Improvement,Won't Fix,Resolved,2010/7/14 7:21,2014/11/5 15:09
+FLUME-50,New Feature,Won't Fix,Resolved,2010/7/14 8:47,2011/7/3 7:50
+FLUME-51,Improvement,Fixed,Closed,2010/7/14 9:29,2010/8/5 3:02
+FLUME-52,Bug,Not A Problem,Resolved,2010/7/15 1:55,2011/8/19 10:57
+FLUME-53,Bug,Fixed,Closed,2010/7/15 2:29,2010/8/6 3:35
+FLUME-54,Bug,Fixed,Closed,2010/7/15 4:29,2010/8/5 2:57
+FLUME-55,Bug,Fixed,Closed,2010/7/15 5:56,2010/7/23 7:06
+FLUME-56,Improvement,Duplicate,Closed,2010/7/15 7:44,2010/8/7 7:32
+FLUME-57,Improvement,Won't Fix,Resolved,2010/7/16 4:07,2014/11/5 15:09
+FLUME-58,New Feature,Fixed,Resolved,2010/7/16 5:05,2010/12/21 16:28
+FLUME-59,New Feature,Won't Fix,Resolved,2010/7/16 7:58,2014/11/5 15:10
+FLUME-60,Bug,Won't Fix,Resolved,2010/7/16 14:37,2014/11/5 15:11
+FLUME-61,Bug,Fixed,Closed,2010/7/17 1:00,2010/8/8 13:12
+FLUME-62,New Feature,Won't Fix,Resolved,2010/7/17 2:22,2014/11/5 15:12
+FLUME-63,Bug,Fixed,Resolved,2010/7/20 7:27,2011/1/6 22:34
+FLUME-64,New Feature,Duplicate,Closed,2010/7/20 9:43,2010/10/28 5:57
+FLUME-65,New Feature,Won't Fix,Resolved,2010/7/20 14:07,2014/11/5 15:12
+FLUME-66,New Feature,Cannot Reproduce,Resolved,2010/7/20 15:18,2011/7/3 7:56
+FLUME-67,Bug,Fixed,Closed,2010/7/20 21:41,2010/7/23 7:13
+FLUME-68,Bug,Fixed,Closed,2010/7/20 21:47,2010/7/23 8:09
+FLUME-69,Improvement,Fixed,Closed,2010/7/20 22:05,2010/7/31 2:34
+FLUME-70,Bug,Fixed,Closed,2010/7/20 22:34,2010/8/7 9:53
+FLUME-71,Bug,Fixed,Closed,2010/7/21 1:36,2010/7/23 6:56
+FLUME-72,New Feature,Fixed,Closed,2010/7/21 3:58,2010/7/29 2:10
+FLUME-73,New Feature,Duplicate,Resolved,2010/7/21 4:03,2011/7/3 7:54
+FLUME-74,New Feature,Won't Fix,Resolved,2010/7/22 6:34,2014/11/5 15:13
+FLUME-75,Bug,Fixed,Closed,2010/7/23 8:10,2010/10/5 23:04
+FLUME-76,Sub-task,Won't Fix,Resolved,2010/7/24 6:44,2014/11/5 15:13
+FLUME-77,Sub-task,Won't Fix,Resolved,2010/7/24 6:53,2014/11/5 15:14
+FLUME-78,Bug,Duplicate,Closed,2010/7/27 6:04,2010/9/28 15:20
+FLUME-79,New Feature,Won't Fix,Resolved,2010/7/27 23:03,2014/11/5 15:14
+FLUME-80,Bug,Won't Fix,Resolved,2010/7/28 3:48,2014/11/5 15:15
+FLUME-81,New Feature,Fixed,Closed,2010/7/28 5:20,2011/2/25 8:41
+FLUME-82,Bug,Fixed,Closed,2010/7/28 6:03,2010/8/5 2:57
+FLUME-83,New Feature,Fixed,Closed,2010/7/28 6:36,2010/7/30 2:39
+FLUME-84,Improvement,Fixed,Closed,2010/7/28 6:43,2010/7/30 2:23
+FLUME-85,Improvement,Fixed,Closed,2010/7/28 6:57,2010/7/30 2:17
+FLUME-86,Improvement,Cannot Reproduce,Resolved,2010/7/28 8:45,2011/1/11 4:12
+FLUME-87,Improvement,Fixed,Closed,2010/7/28 11:55,2010/8/10 7:19
+FLUME-88,New Feature,Duplicate,Resolved,2010/7/28 14:51,2011/7/3 7:53
+FLUME-89,Improvement,Fixed,Closed,2010/7/28 15:35,2010/10/6 2:11
+FLUME-90,New Feature,Won't Fix,Resolved,2010/7/28 16:05,2014/11/5 15:15
+FLUME-91,New Feature,Won't Fix,Resolved,2010/7/28 18:19,2014/11/5 15:20
+FLUME-92,New Feature,Fixed,Closed,2010/7/29 1:22,2011/2/25 14:38
+FLUME-93,Bug,Won't Fix,Resolved,2010/7/29 6:25,2014/11/5 15:21
+FLUME-94,Bug,Fixed,Closed,2010/7/29 8:10,2010/8/7 10:06
+FLUME-95,New Feature,Fixed,Closed,2010/7/29 14:31,2010/9/1 5:06
+FLUME-96,New Feature,Won't Fix,Resolved,2010/7/29 14:33,2014/11/5 15:21
+FLUME-97,Improvement,Duplicate,Resolved,2010/7/29 14:45,2010/9/5 23:35
+FLUME-98,New Feature,Won't Fix,Resolved,2010/7/30 0:42,2014/11/5 15:22
+FLUME-99,Bug,Fixed,Resolved,2010/7/30 3:11,2010/12/29 7:09
+FLUME-100,New Feature,Won't Fix,Resolved,2010/7/30 3:30,2010/7/30 6:10
+FLUME-101,Sub-task,Fixed,Closed,2010/7/30 13:50,2010/8/5 2:55
+FLUME-102,Sub-task,Fixed,Closed,2010/7/31 2:35,2010/8/6 3:35
+FLUME-103,Sub-task,Fixed,Closed,2010/7/31 2:39,2010/8/10 7:15
+FLUME-104,Sub-task,Fixed,Closed,2010/7/31 2:42,2010/8/10 7:16
+FLUME-105,Bug,Duplicate,Closed,2010/7/31 4:46,2010/8/7 22:54
+FLUME-106,New Feature,Fixed,Closed,2010/8/3 5:37,2010/10/19 19:17
+FLUME-107,New Feature,Fixed,Resolved,2010/8/3 13:39,2010/12/14 0:11
+FLUME-108,Bug,Won't Fix,Resolved,2010/8/4 0:05,2014/11/5 15:23
+FLUME-109,Bug,Won't Fix,Resolved,2010/8/4 0:18,2014/11/5 15:23
+FLUME-110,Improvement,Won't Fix,Resolved,2010/8/4 6:08,2014/11/5 15:24
+FLUME-111,Bug,Fixed,Closed,2010/8/4 6:15,2010/8/7 9:53
+FLUME-112,New Feature,Won't Fix,Resolved,2010/8/4 12:26,2014/11/5 15:24
+FLUME-113,Bug,Fixed,Closed,2010/8/4 12:55,2010/8/8 16:40
+FLUME-114,Bug,Won't Fix,Resolved,2010/8/5 2:00,2014/11/5 15:24
+FLUME-115,Bug,Cannot Reproduce,Closed,2010/8/5 4:38,2010/8/10 4:14
+FLUME-116,Bug,Fixed,Closed,2010/8/5 4:51,2010/8/8 13:06
+FLUME-117,Bug,Fixed,Closed,2010/8/5 5:06,2010/8/5 13:38
+FLUME-118,Improvement,Won't Fix,Resolved,2010/8/5 10:46,2014/11/5 15:25
+FLUME-119,Bug,Fixed,Closed,2010/8/5 15:04,2010/8/10 4:13
+FLUME-120,Sub-task,Fixed,Closed,2010/8/5 15:28,2010/8/10 7:16
+FLUME-121,New Feature,Fixed,Closed,2010/8/6 10:49,2010/9/24 11:59
+FLUME-122,Improvement,Fixed,Resolved,2010/8/8 10:17,2011/1/19 14:13
+FLUME-123,New Feature,Won't Fix,Resolved,2010/8/9 0:43,2014/11/5 15:25
+FLUME-124,Improvement,Fixed,Closed,2010/8/9 22:45,2010/8/10 0:34
+FLUME-125,Improvement,Fixed,Closed,2010/8/9 22:48,2010/8/10 7:16
+FLUME-126,New Feature,Incomplete,Resolved,2010/8/9 23:25,2011/7/3 8:07
+FLUME-127,New Feature,Won't Fix,Resolved,2010/8/10 5:12,2014/11/5 15:26
+FLUME-128,Improvement,Fixed,Closed,2010/8/10 8:48,2010/8/10 13:23
+FLUME-129,Bug,Cannot Reproduce,Closed,2010/8/10 9:04,2011/5/1 0:36
+FLUME-130,Bug,Cannot Reproduce,Resolved,2010/8/10 9:05,2011/7/6 15:20
+FLUME-131,Improvement,Fixed,Resolved,2010/8/10 9:09,2010/12/21 16:29
+FLUME-132,Improvement,Fixed,Closed,2010/8/10 9:37,2010/9/7 7:26
+FLUME-133,New Feature,Fixed,Closed,2010/8/10 9:39,2010/10/29 1:44
+FLUME-134,New Feature,Duplicate,Resolved,2010/8/10 9:40,2011/7/3 8:01
+FLUME-135,Sub-task,Fixed,Closed,2010/8/11 0:05,2010/8/17 2:40
+FLUME-136,Sub-task,Fixed,Closed,2010/8/11 0:08,2010/8/21 9:52
+FLUME-137,Sub-task,Fixed,Closed,2010/8/11 0:09,2010/10/19 10:26
+FLUME-138,Sub-task,Fixed,Closed,2010/8/11 0:09,2010/9/23 10:28
+FLUME-139,Sub-task,Fixed,Closed,2010/8/11 0:24,2010/8/27 8:15
+FLUME-140,New Feature,Duplicate,Closed,2010/8/11 0:41,2010/9/17 15:50
+FLUME-141,Improvement,Won't Fix,Resolved,2010/8/11 0:56,2014/11/5 15:27
+FLUME-142,New Feature,Won't Fix,Resolved,2010/8/11 3:08,2014/11/5 15:27
+FLUME-144,Documentation,Won't Fix,Resolved,2010/8/11 12:29,2014/11/5 15:28
+FLUME-145,New Feature,Won't Fix,Resolved,2010/8/11 13:24,2014/11/5 15:28
+FLUME-146,Epic,Won't Fix,Resolved,2010/8/11 16:06,2014/11/5 15:29
+FLUME-147,New Feature,Won't Fix,Resolved,2010/8/11 16:07,2014/11/5 15:29
+FLUME-148,Bug,Won't Fix,Resolved,2010/8/12 5:21,2011/8/7 0:59
+FLUME-149,New Feature,Fixed,Closed,2010/8/12 6:29,2010/9/1 2:43
+FLUME-150,Bug,Won't Fix,Resolved,2010/8/13 0:06,2014/11/5 15:29
+FLUME-151,Bug,Fixed,Closed,2010/8/13 4:34,2010/9/18 2:27
+FLUME-152,Bug,Fixed,Closed,2010/8/14 2:16,2010/8/27 8:52
+FLUME-153,Bug,Fixed,Closed,2010/8/14 3:07,2010/8/21 8:09
+FLUME-154,Bug,Fixed,Closed,2010/8/14 9:18,2010/8/19 5:25
+FLUME-155,Task,Fixed,Closed,2010/8/16 5:21,2010/9/23 11:11
+FLUME-156,New Feature,Won't Fix,Resolved,2010/8/16 6:28,2014/11/5 15:29
+FLUME-157,New Feature,Won't Fix,Resolved,2010/8/16 6:29,2014/11/5 15:30
+FLUME-158,Bug,Fixed,Closed,2010/8/17 0:37,2010/8/20 6:45
+FLUME-159,Bug,Fixed,Closed,2010/8/17 0:50,2010/10/27 8:23
+FLUME-160,Bug,Fixed,Closed,2010/8/17 1:10,2010/8/18 7:04
+FLUME-161,Epic,Won't Fix,Resolved,2010/8/17 3:23,2014/11/5 15:30
+FLUME-162,Improvement,Fixed,Closed,2010/8/17 9:15,2010/9/4 8:07
+FLUME-163,Bug,Fixed,Closed,2010/8/17 13:00,2010/8/19 2:04
+FLUME-164,Bug,Cannot Reproduce,Resolved,2010/8/18 2:12,2010/12/3 5:12
+FLUME-165,New Feature,Fixed,Resolved,2010/8/18 6:40,2011/1/31 23:25
+FLUME-166,Bug,Won't Fix,Resolved,2010/8/18 8:57,2014/11/5 15:30
+FLUME-167,Bug,Duplicate,Closed,2010/8/18 10:11,2010/9/17 15:46
+FLUME-168,Improvement,Won't Fix,Resolved,2010/8/18 11:18,2010/12/19 9:35
+FLUME-169,Improvement,Won't Fix,Closed,2010/8/20 2:39,2010/10/19 20:56
+FLUME-170,Improvement,Fixed,Closed,2010/8/22 0:34,2010/9/15 13:38
+FLUME-171,Bug,Won't Fix,Resolved,2010/8/22 7:04,2014/11/5 15:30
+FLUME-172,New Feature,Fixed,Closed,2010/8/23 12:42,2010/8/27 8:57
+FLUME-173,New Feature,Unresolved,Reopened,2010/8/23 12:43,
+FLUME-174,New Feature,Won't Fix,Resolved,2010/8/23 12:44,2014/11/5 15:31
+FLUME-175,New Feature,Won't Fix,Resolved,2010/8/24 7:41,2014/11/5 15:31
+FLUME-176,Bug,Fixed,Closed,2010/8/25 1:50,2010/8/26 0:31
+FLUME-177,Sub-task,Fixed,Closed,2010/8/26 4:45,2010/9/24 11:56
+FLUME-178,Sub-task,Fixed,Closed,2010/8/26 4:46,2010/9/15 7:10
+FLUME-179,Documentation,Invalid,Resolved,2010/8/26 4:46,2013/7/4 16:44
+FLUME-180,Sub-task,Fixed,Closed,2010/8/26 4:46,2010/9/10 16:44
+FLUME-181,Improvement,Won't Fix,Resolved,2010/8/26 7:08,2010/12/25 1:10
+FLUME-182,New Feature,Fixed,Closed,2010/8/26 16:55,2010/9/17 2:53
+FLUME-183,Bug,Fixed,Closed,2010/8/27 14:37,2010/9/2 6:53
+FLUME-184,Improvement,Won't Fix,Resolved,2010/8/31 6:27,2010/8/31 6:29
+FLUME-185,New Feature,Won't Fix,Resolved,2010/8/31 6:42,2014/11/5 15:32
+FLUME-186,Sub-task,Fixed,Closed,2010/8/31 8:13,2010/9/15 7:53
+FLUME-187,Bug,Won't Fix,Resolved,2010/9/1 4:37,2014/11/5 15:32
+FLUME-188,Bug,Won't Fix,Resolved,2010/9/1 4:45,2011/8/7 1:02
+FLUME-189,New Feature,Won't Fix,Resolved,2010/9/1 7:53,2014/11/5 15:32
+FLUME-190,Improvement,Fixed,Closed,2010/9/2 3:36,2010/11/3 8:26
+FLUME-191,Bug,Cannot Reproduce,Closed,2010/9/2 4:26,2010/10/28 3:10
+FLUME-192,Bug,Fixed,Closed,2010/9/2 5:08,2010/11/2 8:02
+FLUME-193,Bug,Won't Fix,Resolved,2010/9/2 9:19,2014/11/5 15:33
+FLUME-194,New Feature,Won't Fix,Resolved,2010/9/2 9:23,2014/11/5 15:33
+FLUME-195,New Feature,Fixed,Resolved,2010/9/3 5:59,2010/11/8 7:16
+FLUME-196,New Feature,Won't Fix,Resolved,2010/9/3 8:31,2014/11/5 16:05
+FLUME-197,New Feature,Fixed,Closed,2010/9/3 10:13,2010/9/12 22:31
+FLUME-198,Bug,Fixed,Closed,2010/9/3 10:17,2010/11/2 8:18
+FLUME-199,Improvement,Unresolved,Reopened,2010/9/3 12:33,
+FLUME-200,Bug,Fixed,Closed,2010/9/4 3:00,2010/9/4 8:31
+FLUME-201,Improvement,Fixed,Resolved,2010/9/4 3:55,2010/9/8 2:47
+FLUME-202,Improvement,Fixed,Closed,2010/9/4 9:17,2010/10/19 20:56
+FLUME-203,Bug,Fixed,Closed,2010/9/5 11:15,2011/5/1 8:49
+FLUME-204,New Feature,Won't Fix,Resolved,2010/9/5 13:07,2014/11/5 16:05
+FLUME-205,Bug,Fixed,Closed,2010/9/7 1:42,2010/11/5 5:01
+FLUME-206,Sub-task,Fixed,Closed,2010/9/9 6:38,2010/9/10 16:45
+FLUME-207,Bug,Fixed,Closed,2010/9/9 15:03,2010/9/15 13:15
+FLUME-208,New Feature,Fixed,Resolved,2010/9/10 1:23,2010/12/17 3:02
+FLUME-209,New Feature,Won't Fix,Resolved,2010/9/10 5:39,2014/11/5 16:06
+FLUME-210,New Feature,Duplicate,Closed,2010/9/11 7:27,2010/10/3 11:00
+FLUME-211,New Feature,Fixed,Closed,2010/9/11 7:28,2010/9/16 13:46
+FLUME-212,Sub-task,Fixed,Closed,2010/9/11 14:37,2010/9/15 7:53
+FLUME-213,Improvement,Fixed,Closed,2010/9/12 9:23,2010/9/15 8:34
+FLUME-214,Improvement,Fixed,Closed,2010/9/12 22:33,2010/9/25 2:23
+FLUME-215,New Feature,Fixed,Resolved,2010/9/13 8:56,2010/11/1 23:52
+FLUME-216,Improvement,Fixed,Resolved,2010/9/13 9:24,2010/10/6 3:37
+FLUME-217,Sub-task,Won't Fix,Resolved,2010/9/14 3:05,2014/11/5 16:06
+FLUME-218,Bug,Fixed,Closed,2010/9/14 6:11,2010/10/7 14:14
+FLUME-219,Documentation,Won't Fix,Resolved,2010/9/14 6:48,2014/11/5 16:06
+FLUME-220,New Feature,Duplicate,Resolved,2010/9/14 8:33,2010/9/25 6:13
+FLUME-221,Improvement,Fixed,Closed,2010/9/14 21:09,2010/9/23 10:31
+FLUME-222,Bug,Fixed,Closed,2010/9/14 22:21,2010/9/28 14:57
+FLUME-223,Sub-task,Won't Fix,Resolved,2010/9/15 2:16,2014/11/5 16:06
+FLUME-224,Bug,Fixed,Closed,2010/9/15 7:13,2010/9/28 14:22
+FLUME-225,Task,Won't Fix,Resolved,2010/9/15 7:47,2014/11/5 16:07
+FLUME-226,Improvement,Fixed,Closed,2010/9/15 13:10,2011/2/25 5:58
+FLUME-227,Improvement,Fixed,Closed,2010/9/16 3:01,2010/10/6 2:06
+FLUME-228,Task,Fixed,Closed,2010/9/17 2:55,2010/10/10 3:55
+FLUME-229,Bug,Fixed,Closed,2010/9/17 10:16,2010/9/29 6:40
+FLUME-230,Improvement,Fixed,Closed,2010/9/18 6:23,2010/10/19 10:25
+FLUME-231,Bug,Won't Fix,Resolved,2010/9/19 5:26,2014/11/5 16:07
+FLUME-232,Bug,Fixed,Closed,2010/9/19 5:35,2010/11/5 5:01
+FLUME-233,New Feature,Won't Fix,Resolved,2010/9/20 21:40,2014/11/5 16:07
+FLUME-234,Bug,Fixed,Closed,2010/9/20 23:10,2010/9/28 6:14
+FLUME-235,Bug,Fixed,Closed,2010/9/21 2:21,2010/9/28 9:24
+FLUME-236,Bug,Won't Fix,Resolved,2010/9/21 3:26,2014/11/5 16:09
+FLUME-237,Improvement,Won't Fix,Resolved,2010/9/22 6:28,2014/11/5 16:10
+FLUME-238,Improvement,Won't Fix,Resolved,2010/9/23 10:51,2014/11/5 16:10
+FLUME-239,Bug,Won't Fix,Resolved,2010/9/24 0:21,2014/11/5 16:11
+FLUME-240,Improvement,Fixed,Resolved,2010/9/24 2:05,2010/12/21 6:21
+FLUME-241,Improvement,Fixed,Closed,2010/9/24 17:52,2010/10/6 4:44
+FLUME-242,Improvement,Won't Fix,Resolved,2010/9/25 7:00,2014/11/5 16:11
+FLUME-243,Improvement,Won't Fix,Resolved,2010/9/27 7:32,2014/11/5 16:11
+FLUME-244,Improvement,Unresolved,Open,2010/9/27 22:55,
+FLUME-245,Bug,Won't Fix,Resolved,2010/9/28 6:40,2014/11/5 16:12
+FLUME-246,Improvement,Won't Fix,Resolved,2010/9/28 17:10,2010/11/4 17:49
+FLUME-247,New Feature,Fixed,Closed,2010/9/28 18:39,2010/11/23 3:42
+FLUME-248,Bug,Fixed,Closed,2010/9/28 22:33,2010/11/5 5:01
+FLUME-249,Improvement,Won't Fix,Resolved,2010/9/29 6:39,2014/11/5 16:12
+FLUME-250,Improvement,Fixed,Closed,2010/9/29 7:43,2011/2/23 3:12
+FLUME-251,New Feature,Won't Fix,Resolved,2010/9/29 8:26,2014/11/5 16:12
+FLUME-252,Improvement,Fixed,Closed,2010/9/29 12:38,2010/11/5 5:02
+FLUME-253,New Feature,Won't Fix,Resolved,2010/9/30 13:38,2014/11/5 16:12
+FLUME-254,Bug,Fixed,Closed,2010/10/1 5:33,2010/11/11 6:06
+FLUME-255,Improvement,Fixed,Closed,2010/10/3 9:43,2010/10/5 23:04
+FLUME-256,Improvement,Fixed,Closed,2010/10/3 9:44,2010/10/6 1:27
+FLUME-257,Bug,Not A Problem,Resolved,2010/10/5 6:59,2011/1/18 22:59
+FLUME-258,New Feature,Fixed,Closed,2010/10/5 20:13,2010/11/5 5:02
+FLUME-259,Improvement,Won't Fix,Resolved,2010/10/6 3:32,2010/12/13 15:13
+FLUME-260,Bug,Fixed,Closed,2010/10/6 6:51,2010/10/8 6:44
+FLUME-261,Bug,Won't Fix,Resolved,2010/10/6 12:18,2014/11/5 16:15
+FLUME-262,Improvement,Fixed,Closed,2010/10/6 23:44,2010/10/8 6:35
+FLUME-263,Bug,Fixed,Closed,2010/10/7 20:18,2010/10/19 1:53
+FLUME-264,Bug,Fixed,Closed,2010/10/8 0:19,2010/10/27 8:03
+FLUME-265,Bug,Cannot Reproduce,Closed,2010/10/8 4:24,2011/5/1 0:37
+FLUME-266,Task,Fixed,Closed,2010/10/8 7:11,2010/10/9 6:21
+FLUME-267,Bug,Fixed,Closed,2010/10/9 1:57,2010/10/9 6:20
+FLUME-268,Bug,Fixed,Closed,2010/10/9 3:44,2010/10/9 6:19
+FLUME-269,Documentation,Won't Fix,Resolved,2010/10/9 6:42,2014/11/5 16:16
+FLUME-270,Bug,Fixed,Closed,2010/10/10 5:53,2010/10/10 10:53
+FLUME-271,Improvement,Fixed,Closed,2010/10/10 6:27,2010/10/10 9:18
+FLUME-272,Bug,Fixed,Closed,2010/10/10 19:51,2010/10/20 11:00
+FLUME-273,New Feature,Fixed,Resolved,2010/10/12 2:04,2011/6/29 22:14
+FLUME-274,Improvement,Fixed,Closed,2010/10/14 9:45,2010/10/19 2:45
+FLUME-275,Bug,Fixed,Closed,2010/10/14 12:00,2010/10/19 2:44
+FLUME-276,Bug,Fixed,Closed,2010/10/16 1:51,2010/10/19 2:44
+FLUME-277,Bug,Won't Fix,Resolved,2010/10/19 17:31,2014/11/5 16:19
+FLUME-278,Improvement,Duplicate,Resolved,2010/10/19 20:58,2011/3/17 6:52
+FLUME-279,New Feature,Won't Fix,Resolved,2010/10/20 1:43,2014/11/5 16:19
+FLUME-280,Bug,Fixed,Resolved,2010/10/20 1:46,2010/12/4 11:28
+FLUME-281,Improvement,Fixed,Resolved,2010/10/20 8:30,2010/10/26 7:53
+FLUME-282,Wish,Won't Fix,Resolved,2010/10/20 12:45,2014/11/5 16:20
+FLUME-283,Improvement,Fixed,Closed,2010/10/20 20:57,2010/11/4 12:49
+FLUME-284,Bug,Fixed,Closed,2010/10/20 21:28,2010/10/24 1:00
+FLUME-285,Task,Not A Problem,Resolved,2010/10/20 23:49,2011/5/25 2:08
+FLUME-286,Bug,Fixed,Closed,2010/10/21 6:45,2010/11/6 0:34
+FLUME-287,New Feature,Won't Fix,Resolved,2010/10/21 12:58,2014/11/5 16:21
+FLUME-288,New Feature,Won't Fix,Resolved,2010/10/21 15:55,2014/11/5 16:21
+FLUME-289,New Feature,Fixed,Closed,2010/10/22 3:01,2010/11/10 9:34
+FLUME-290,Improvement,Fixed,Closed,2010/10/23 6:53,2010/10/24 1:00
+FLUME-291,Task,Fixed,Resolved,2010/10/23 23:39,2010/11/11 7:53
+FLUME-292,Improvement,Fixed,Resolved,2010/10/25 5:38,2010/11/8 7:17
+FLUME-293,Improvement,Fixed,Resolved,2010/10/25 7:14,2010/10/26 8:07
+FLUME-294,Improvement,Won't Fix,Resolved,2010/10/26 7:17,2014/11/5 16:22
+FLUME-295,Improvement,Duplicate,Resolved,2010/10/26 23:28,2011/7/3 8:12
+FLUME-296,Epic,Fixed,Closed,2010/10/27 8:52,2011/4/21 12:35
+FLUME-297,Sub-task,Fixed,Resolved,2010/10/27 8:55,2010/11/5 3:29
+FLUME-298,Improvement,Won't Fix,Resolved,2010/10/27 13:10,2014/11/5 16:22
+FLUME-299,Improvement,Fixed,Closed,2010/10/28 15:44,2011/5/24 8:58
+FLUME-300,New Feature,Won't Fix,Resolved,2010/10/28 22:48,2014/11/5 16:22
+FLUME-301,Improvement,Fixed,Resolved,2010/10/31 1:08,2010/10/31 14:59
+FLUME-302,Bug,Fixed,Closed,2010/10/31 10:18,2010/11/2 1:52
+FLUME-303,Bug,Fixed,Closed,2010/10/31 12:25,2010/11/2 0:38
+FLUME-304,Bug,Fixed,Closed,2010/10/31 12:53,2010/11/2 0:39
+FLUME-305,Bug,Fixed,Closed,2010/11/2 1:54,2011/5/3 2:54
+FLUME-306,Task,Fixed,Closed,2010/11/3 8:19,2010/11/7 17:08
+FLUME-307,Improvement,Fixed,Closed,2010/11/3 8:27,2010/11/17 14:10
+FLUME-308,New Feature,Won't Fix,Resolved,2010/11/3 9:10,2014/11/5 19:41
+FLUME-309,Task,Fixed,Resolved,2010/11/3 14:22,2010/11/11 7:44
+FLUME-310,Bug,Won't Fix,Resolved,2010/11/3 16:55,2014/11/5 16:25
+FLUME-311,Bug,Fixed,Closed,2010/11/3 22:04,2010/11/4 21:58
+FLUME-312,Bug,Won't Fix,Resolved,2010/11/4 6:40,2014/11/5 16:25
+FLUME-313,Improvement,Won't Fix,Resolved,2010/11/4 9:18,2014/11/5 16:25
+FLUME-314,Bug,Won't Fix,Resolved,2010/11/4 10:00,2014/11/5 16:26
+FLUME-315,Task,Fixed,Resolved,2010/11/4 17:08,2010/11/11 7:44
+FLUME-316,Improvement,Won't Fix,Resolved,2010/11/4 17:23,2014/11/5 16:26
+FLUME-317,Improvement,Fixed,Resolved,2010/11/4 17:27,2010/11/5 1:11
+FLUME-318,Improvement,Won't Fix,Resolved,2010/11/4 17:28,2014/11/5 16:26
+FLUME-319,Improvement,Won't Fix,Resolved,2010/11/4 22:04,2014/11/5 16:26
+FLUME-320,Bug,Fixed,Resolved,2010/11/5 4:25,2011/1/31 13:40
+FLUME-321,Improvement,Won't Fix,Resolved,2010/11/5 5:00,2014/11/5 16:27
+FLUME-322,Bug,Fixed,Resolved,2010/11/5 15:39,2014/11/5 16:28
+FLUME-323,Improvement,Won't Fix,Resolved,2010/11/5 22:18,2014/11/5 16:29
+FLUME-324,Improvement,Won't Fix,Resolved,2010/11/5 22:20,2014/11/5 16:29
+FLUME-325,New Feature,Won't Fix,Resolved,2010/11/6 0:17,2014/11/5 16:31
+FLUME-326,Documentation,Won't Fix,Resolved,2010/11/6 0:30,2014/11/5 16:31
+FLUME-327,Improvement,Fixed,Resolved,2010/11/6 7:30,2010/11/16 4:39
+FLUME-328,Task,Fixed,Resolved,2010/11/6 23:50,2010/12/14 0:13
+FLUME-329,Bug,Duplicate,Resolved,2010/11/6 23:50,2010/11/11 9:49
+FLUME-330,Bug,Won't Fix,Resolved,2010/11/8 18:27,2014/11/5 16:33
+FLUME-331,Improvement,Won't Fix,Resolved,2010/11/10 7:31,2014/11/5 16:33
+FLUME-332,New Feature,Won't Fix,Resolved,2010/11/10 13:57,2014/11/5 16:33
+FLUME-333,Bug,Fixed,Closed,2010/11/10 15:05,2010/11/13 7:53
+FLUME-334,Bug,Won't Fix,Resolved,2010/11/11 2:26,2014/11/5 16:38
+FLUME-335,Task,Fixed,Closed,2010/11/11 3:34,2010/11/13 8:24
+FLUME-336,Bug,Fixed,Resolved,2010/11/11 11:15,2010/11/19 4:41
+FLUME-337,Bug,Fixed,Resolved,2010/11/11 14:02,2010/11/16 4:39
+FLUME-338,New Feature,Fixed,Resolved,2010/11/11 14:14,2010/12/3 3:39
+FLUME-339,Bug,Fixed,Resolved,2010/11/11 14:24,2010/11/19 4:41
+FLUME-340,Task,Fixed,Resolved,2010/11/11 22:35,2010/11/17 23:15
+FLUME-341,Task,Duplicate,Resolved,2010/11/12 0:31,2010/12/13 23:32
+FLUME-342,Improvement,Won't Fix,Resolved,2010/11/12 0:32,2014/11/5 16:40
+FLUME-343,Improvement,Won't Fix,Resolved,2010/11/12 0:33,2014/11/5 16:40
+FLUME-344,Task,Won't Fix,Resolved,2010/11/16 4:06,2014/11/5 16:41
+FLUME-345,Bug,Fixed,Closed,2010/11/16 9:13,2010/11/17 11:54
+FLUME-346,New Feature,Won't Fix,Resolved,2010/11/17 2:55,2014/11/5 16:41
+FLUME-347,Bug,Fixed,Resolved,2010/11/17 9:32,2010/11/17 11:53
+FLUME-348,Bug,Fixed,Closed,2010/11/17 9:59,2010/11/18 5:33
+FLUME-349,Bug,Fixed,Resolved,2010/11/18 8:33,2010/11/19 4:41
+FLUME-350,Bug,Fixed,Resolved,2010/11/18 15:07,2010/12/13 23:15
+FLUME-351,Documentation,Won't Fix,Resolved,2010/11/19 11:31,2014/11/5 16:42
+FLUME-352,Task,Fixed,Resolved,2010/11/20 7:56,2011/2/2 2:31
+FLUME-353,Task,Fixed,Resolved,2010/11/20 7:57,2011/8/25 19:33
+FLUME-354,Task,Fixed,Resolved,2010/11/23 3:45,2010/12/17 1:51
+FLUME-355,Improvement,Won't Fix,Resolved,2010/11/24 9:44,2014/11/5 16:43
+FLUME-356,New Feature,Fixed,Resolved,2010/11/25 18:46,2010/12/7 0:10
+FLUME-357,Task,Won't Fix,Resolved,2010/11/27 4:49,2014/11/5 16:44
+FLUME-358,New Feature,Won't Fix,Resolved,2010/11/27 9:22,2014/11/5 16:51
+FLUME-359,Improvement,Won't Fix,Resolved,2010/11/27 12:11,2014/11/5 16:52
+FLUME-360,New Feature,Fixed,Resolved,2010/11/27 12:23,2011/2/1 21:45
+FLUME-361,New Feature,Fixed,Resolved,2010/11/27 12:35,2011/1/24 15:11
+FLUME-362,Bug,Fixed,Closed,2010/11/27 13:58,2010/11/29 13:52
+FLUME-363,New Feature,Won't Fix,Resolved,2010/11/27 17:41,2014/11/5 16:53
+FLUME-364,Bug,Won't Fix,Resolved,2010/12/3 7:18,2011/2/23 22:20
+FLUME-365,Bug,Fixed,Resolved,2010/12/3 7:20,2011/1/11 4:09
+FLUME-366,Improvement,Fixed,Resolved,2010/12/5 3:55,2010/12/17 2:24
+FLUME-367,New Feature,Fixed,Resolved,2010/12/6 9:16,2010/12/29 7:48
+FLUME-368,Improvement,Won't Fix,Resolved,2010/12/6 9:34,2014/11/5 16:53
+FLUME-369,Bug,Won't Fix,Resolved,2010/12/6 11:13,2014/11/5 16:54
+FLUME-370,Improvement,Won't Fix,Resolved,2010/12/6 11:38,2014/11/5 16:54
+FLUME-371,Improvement,Won't Fix,Resolved,2010/12/6 22:29,2014/11/5 16:54
+FLUME-372,Improvement,Won't Fix,Resolved,2010/12/6 22:32,2014/11/5 16:55
+FLUME-373,New Feature,Fixed,Closed,2010/12/6 22:34,2011/2/9 11:10
+FLUME-374,Improvement,Won't Fix,Resolved,2010/12/6 23:56,2014/11/5 16:55
+FLUME-375,Bug,Won't Fix,Resolved,2010/12/7 5:10,2014/11/5 16:56
+FLUME-376,Bug,Fixed,Resolved,2010/12/7 13:12,2010/12/29 6:32
+FLUME-377,Improvement,Fixed,Resolved,2010/12/9 5:38,2010/12/14 13:44
+FLUME-378,Improvement,Won't Fix,Resolved,2010/12/9 7:25,2014/11/5 16:56
+FLUME-379,Improvement,Fixed,Resolved,2010/12/9 7:54,2011/1/11 4:10
+FLUME-380,Improvement,Won't Fix,Resolved,2010/12/9 8:10,2014/11/5 16:56
+FLUME-381,Bug,Won't Fix,Resolved,2010/12/9 8:19,2014/11/5 16:57
+FLUME-382,Bug,Fixed,Resolved,2010/12/9 8:23,2011/1/5 21:36
+FLUME-383,Bug,Won't Fix,Resolved,2010/12/11 1:57,2014/11/5 16:58
+FLUME-384,Improvement,Won't Fix,Resolved,2010/12/11 8:21,2014/11/5 16:58
+FLUME-385,New Feature,Fixed,Resolved,2010/12/11 8:22,2010/12/29 7:47
+FLUME-386,Improvement,Won't Fix,Resolved,2010/12/11 8:23,2014/11/5 16:58
+FLUME-387,Improvement,Won't Fix,Resolved,2010/12/13 4:31,2014/11/5 16:59
+FLUME-388,Task,Won't Fix,Resolved,2010/12/13 17:14,2014/11/5 16:59
+FLUME-389,Improvement,Won't Fix,Resolved,2010/12/13 18:32,2014/11/5 17:00
+FLUME-390,Bug,Won't Fix,Resolved,2010/12/13 18:56,2014/11/5 17:00
+FLUME-391,Improvement,Fixed,Resolved,2010/12/13 22:21,2010/12/13 22:27
+FLUME-392,Improvement,Won't Fix,Resolved,2010/12/14 5:30,2014/11/5 17:00
+FLUME-393,Improvement,Won't Fix,Resolved,2010/12/14 5:37,2014/11/5 17:01
+FLUME-394,Improvement,Won't Fix,Resolved,2010/12/14 5:41,2014/11/5 17:01
+FLUME-395,Bug,Fixed,Resolved,2010/12/14 6:38,2010/12/29 7:09
+FLUME-396,Bug,Won't Fix,Resolved,2010/12/14 7:13,2014/11/5 17:02
+FLUME-397,Improvement,Won't Fix,Resolved,2010/12/14 7:37,2014/11/5 17:02
+FLUME-398,Improvement,Fixed,Resolved,2010/12/14 13:47,2010/12/29 5:50
+FLUME-399,Improvement,Fixed,Resolved,2010/12/14 15:01,2010/12/29 4:51
+FLUME-400,Improvement,Won't Fix,Resolved,2010/12/14 22:37,2014/11/5 17:02
+FLUME-401,New Feature,Won't Fix,Resolved,2010/12/15 21:31,2014/11/5 17:03
+FLUME-402,Documentation,Unresolved,Open,2010/12/16 0:16,
+FLUME-403,Bug,Cannot Reproduce,Resolved,2010/12/16 21:48,2010/12/30 2:37
+FLUME-404,New Feature,Won't Fix,Resolved,2010/12/16 21:52,2014/11/5 17:03
+FLUME-405,Improvement,Fixed,Resolved,2010/12/16 22:28,2010/12/21 16:30
+FLUME-406,New Feature,Fixed,Resolved,2010/12/17 1:54,2011/1/11 8:58
+FLUME-407,Improvement,Fixed,Resolved,2010/12/17 5:13,2010/12/21 16:30
+FLUME-408,New Feature,Fixed,Resolved,2010/12/17 5:19,2010/12/29 7:49
+FLUME-409,Task,Won't Fix,Resolved,2010/12/17 9:47,2014/11/5 17:05
+FLUME-410,New Feature,Fixed,Resolved,2010/12/18 2:49,2010/12/29 4:55
+FLUME-411,Bug,Fixed,Resolved,2010/12/19 10:19,2010/12/21 6:50
+FLUME-412,Improvement,Fixed,Resolved,2010/12/19 21:03,2010/12/21 23:16
+FLUME-413,New Feature,Fixed,Resolved,2010/12/19 21:14,2011/1/6 5:35
+FLUME-414,Improvement,Fixed,Closed,2010/12/20 21:39,2011/4/23 22:05
+FLUME-415,Task,Fixed,Resolved,2010/12/20 22:44,2011/2/5 2:10
+FLUME-416,Bug,Fixed,Resolved,2010/12/21 1:08,2010/12/29 5:49
+FLUME-417,Improvement,Won't Fix,Resolved,2010/12/21 6:17,2014/11/5 17:05
+FLUME-418,Improvement,Fixed,Closed,2010/12/21 7:07,2011/5/10 7:52
+FLUME-419,New Feature,Duplicate,Resolved,2010/12/21 7:37,2011/1/29 23:31
+FLUME-420,Improvement,Fixed,Closed,2010/12/21 11:26,2011/5/26 5:45
+FLUME-421,Documentation,Won't Fix,Resolved,2010/12/22 3:56,2014/11/5 17:06
+FLUME-422,Improvement,Fixed,Resolved,2010/12/22 5:04,2010/12/29 3:35
+FLUME-423,Improvement,Fixed,Resolved,2010/12/22 5:08,2010/12/22 5:46
+FLUME-424,New Feature,Fixed,Resolved,2010/12/23 12:09,2011/1/6 5:22
+FLUME-425,New Feature,Fixed,Resolved,2010/12/26 4:12,2011/1/29 17:35
+FLUME-426,New Feature,Fixed,Resolved,2010/12/26 4:18,2011/1/6 5:24
+FLUME-427,Improvement,Fixed,Closed,2010/12/26 21:51,2011/3/17 19:17
+FLUME-428,Improvement,Fixed,Resolved,2010/12/27 0:22,2011/1/2 6:46
+FLUME-429,Improvement,Won't Fix,Resolved,2010/12/27 0:23,2014/11/5 17:06
+FLUME-430,Bug,Fixed,Resolved,2010/12/27 15:21,2011/1/6 0:44
+FLUME-431,Improvement,Won't Fix,Resolved,2010/12/27 16:54,2014/11/5 17:07
+FLUME-432,Improvement,Won't Fix,Resolved,2010/12/27 17:07,2014/11/5 17:07
+FLUME-433,Bug,Fixed,Resolved,2010/12/28 9:30,2011/2/5 2:38
+FLUME-434,Improvement,Fixed,Resolved,2010/12/29 3:43,2011/1/2 6:46
+FLUME-435,Bug,Fixed,Resolved,2010/12/29 3:52,2011/1/6 5:17
+FLUME-436,Improvement,Fixed,Resolved,2010/12/29 3:54,2011/1/6 5:23
+FLUME-437,Improvement,Fixed,Resolved,2010/12/29 3:57,2011/1/5 21:49
+FLUME-438,Improvement,Fixed,Resolved,2010/12/29 5:19,2011/1/5 21:37
+FLUME-439,Bug,Fixed,Resolved,2010/12/29 5:24,2011/1/6 0:27
+FLUME-440,New Feature,Fixed,Resolved,2010/12/29 5:27,2011/1/6 5:23
+FLUME-441,Documentation,Won't Fix,Resolved,2010/12/29 9:36,2014/11/5 17:07
+FLUME-442,Improvement,Won't Fix,Resolved,2010/12/30 0:34,2014/11/5 17:08
+FLUME-443,New Feature,Fixed,Resolved,2010/12/30 7:41,2011/1/2 6:46
+FLUME-444,Improvement,Fixed,Resolved,2010/12/31 3:52,2011/1/5 21:49
+FLUME-445,Improvement,Fixed,Resolved,2010/12/31 6:44,2011/1/2 6:46
+FLUME-446,Improvement,Fixed,Resolved,2010/12/31 6:47,2011/1/18 7:36
+FLUME-447,Improvement,Won't Fix,Resolved,2011/1/3 3:52,2014/11/5 17:08
+FLUME-448,New Feature,Won't Fix,Resolved,2011/1/5 5:05,2014/11/5 17:08
+FLUME-449,New Feature,Won't Fix,Resolved,2011/1/5 5:06,2014/11/5 17:09
+FLUME-450,New Feature,Unresolved,Open,2011/1/5 5:08,
+FLUME-451,New Feature,Won't Fix,Resolved,2011/1/5 5:13,2014/11/5 17:09
+FLUME-452,New Feature,Won't Fix,Resolved,2011/1/5 5:17,2014/11/5 17:09
+FLUME-453,Bug,Won't Fix,Resolved,2011/1/5 5:18,2014/11/5 17:09
+FLUME-454,New Feature,Won't Fix,Resolved,2011/1/5 5:20,2014/11/5 17:10
+FLUME-455,Improvement,Won't Fix,Resolved,2011/1/5 5:24,2014/11/5 17:10
+FLUME-456,New Feature,Won't Fix,Resolved,2011/1/5 5:27,2014/11/5 17:12
+FLUME-457,New Feature,Won't Fix,Resolved,2011/1/5 6:11,2014/11/5 17:19
+FLUME-458,New Feature,Unresolved,Open,2011/1/5 6:12,
+FLUME-459,New Feature,Won't Fix,Resolved,2011/1/5 6:16,2014/11/5 17:19
+FLUME-460,Improvement,Won't Fix,Resolved,2011/1/5 21:40,2014/11/5 17:23
+FLUME-461,Task,Fixed,Resolved,2011/1/6 0:26,2011/1/29 17:21
+FLUME-462,Task,Fixed,Resolved,2011/1/8 6:58,2011/1/10 14:55
+FLUME-463,New Feature,Won't Fix,Resolved,2011/1/8 9:33,2014/11/5 17:23
+FLUME-464,Task,Fixed,Closed,2011/1/8 11:33,2011/3/25 4:42
+FLUME-465,Bug,Duplicate,Resolved,2011/1/9 11:33,2011/1/30 15:25
+FLUME-466,Bug,Fixed,Resolved,2011/1/10 2:04,2011/1/28 12:35
+FLUME-467,New Feature,Fixed,Closed,2011/1/11 8:57,2011/4/23 22:04
+FLUME-468,Task,Fixed,Resolved,2011/1/12 2:49,2013/4/10 1:49
+FLUME-469,Improvement,Fixed,Resolved,2011/1/12 23:53,2011/1/18 7:36
+FLUME-470,Improvement,Fixed,Resolved,2011/1/13 3:27,2011/1/18 7:53
+FLUME-471,New Feature,Fixed,Resolved,2011/1/13 10:00,2011/1/29 17:35
+FLUME-472,Improvement,Won't Fix,Resolved,2011/1/13 11:52,2014/11/5 17:24
+FLUME-473,Bug,Won't Fix,Resolved,2011/1/14 3:49,2014/11/5 17:25
+FLUME-474,Bug,Fixed,Closed,2011/1/18 1:54,2011/2/23 22:27
+FLUME-475,Improvement,Won't Fix,Resolved,2011/1/19 4:35,2014/11/5 17:25
+FLUME-476,New Feature,Won't Fix,Resolved,2011/1/19 6:05,2014/11/5 17:25
+FLUME-477,Bug,Duplicate,Resolved,2011/1/19 8:09,2011/2/1 6:07
+FLUME-478,Bug,Won't Fix,Resolved,2011/1/20 6:17,2014/11/5 17:26
+FLUME-479,Improvement,Fixed,Resolved,2011/1/20 9:50,2011/1/28 12:22
+FLUME-480,Bug,Won't Fix,Resolved,2011/1/21 1:06,2014/11/5 17:26
+FLUME-481,Bug,Won't Fix,Resolved,2011/1/21 1:13,2014/11/5 17:26
+FLUME-482,Bug,Fixed,Closed,2011/1/21 3:05,2011/2/25 14:49
+FLUME-483,Bug,Fixed,Resolved,2011/1/21 8:30,2011/2/5 1:40
+FLUME-484,Improvement,Won't Fix,Resolved,2011/1/21 12:27,2014/11/5 17:26
+FLUME-485,New Feature,Won't Fix,Resolved,2011/1/22 2:56,2014/11/5 17:27
+FLUME-486,Bug,Won't Fix,Resolved,2011/1/22 15:07,2014/11/5 17:29
+FLUME-487,Improvement,Fixed,Resolved,2011/1/24 15:14,2011/2/3 15:18
+FLUME-488,Improvement,Fixed,Resolved,2011/1/24 18:28,2011/1/25 1:10
+FLUME-489,Task,Fixed,Resolved,2011/1/29 3:18,2011/2/4 13:31
+FLUME-490,Improvement,Won't Fix,Resolved,2011/1/31 13:49,2014/11/5 17:30
+FLUME-491,New Feature,Won't Fix,Resolved,2011/2/1 17:36,2014/11/5 17:31
+FLUME-492,New Feature,Won't Fix,Resolved,2011/2/1 17:38,2014/11/5 17:31
+FLUME-493,Bug,Won't Fix,Resolved,2011/2/1 22:49,2014/11/5 17:31
+FLUME-494,Improvement,Won't Fix,Resolved,2011/2/1 22:51,2014/11/5 17:32
+FLUME-495,Improvement,Won't Fix,Resolved,2011/2/1 22:54,2014/11/5 17:32
+FLUME-496,Bug,Fixed,Closed,2011/2/1 22:56,2011/2/9 11:09
+FLUME-497,Improvement,Won't Fix,Resolved,2011/2/1 22:59,2014/11/5 17:33
+FLUME-498,New Feature,Won't Fix,Resolved,2011/2/1 23:01,2014/11/5 17:33
+FLUME-499,New Feature,Fixed,Resolved,2011/2/1 23:02,2011/10/18 3:36
+FLUME-500,Bug,Won't Fix,Resolved,2011/2/1 23:07,2014/11/5 19:34
+FLUME-501,Documentation,Won't Fix,Resolved,2011/2/1 23:09,2014/11/5 17:33
+FLUME-502,Bug,Won't Fix,Resolved,2011/2/2 5:06,2014/11/5 17:34
+FLUME-503,New Feature,Won't Fix,Resolved,2011/2/3 3:31,2014/11/5 17:34
+FLUME-504,Task,Fixed,Closed,2011/2/3 15:05,2011/3/2 8:41
+FLUME-505,New Feature,Fixed,Resolved,2011/2/3 15:09,2011/2/5 5:02
+FLUME-506,New Feature,Duplicate,Resolved,2011/2/4 0:15,2011/8/19 11:04
+FLUME-507,New Feature,Won't Fix,Resolved,2011/2/4 7:43,2014/11/5 17:35
+FLUME-508,Bug,Fixed,Resolved,2011/2/4 14:46,2011/2/5 1:45
+FLUME-509,Improvement,Fixed,Closed,2011/2/5 4:11,2011/2/12 14:26
+FLUME-510,New Feature,Fixed,Resolved,2011/2/7 1:03,2011/2/7 17:01
+FLUME-511,Bug,Duplicate,Closed,2011/2/7 23:04,2011/6/3 4:10
+FLUME-512,Bug,Fixed,Resolved,2011/2/8 3:49,2011/6/29 22:15
+FLUME-513,Bug,Fixed,Closed,2011/2/9 9:05,2011/2/15 20:27
+FLUME-514,New Feature,Duplicate,Resolved,2011/2/9 11:11,2011/7/3 8:19
+FLUME-515,Bug,Fixed,Closed,2011/2/10 3:16,2011/2/12 14:27
+FLUME-516,Bug,Fixed,Closed,2011/2/11 15:54,2011/2/13 2:32
+FLUME-517,Bug,Won't Fix,Resolved,2011/2/12 6:52,2014/11/5 17:35
+FLUME-518,Bug,Duplicate,Resolved,2011/2/12 7:43,2011/3/15 22:51
+FLUME-519,Improvement,Fixed,Closed,2011/2/12 8:28,2011/3/12 14:43
+FLUME-520,Improvement,Fixed,Closed,2011/2/15 18:18,2011/2/17 9:27
+FLUME-521,Improvement,Fixed,Closed,2011/2/15 18:23,2011/3/4 12:49
+FLUME-522,Improvement,Won't Fix,Resolved,2011/2/16 7:39,2014/11/5 17:36
+FLUME-523,Bug,Fixed,Closed,2011/2/17 18:51,2011/3/17 11:03
+FLUME-524,New Feature,Duplicate,Closed,2011/2/17 22:19,2011/4/29 22:43
+FLUME-525,Test,Unresolved,Open,2011/2/18 1:44,
+FLUME-526,Bug,Won't Fix,Resolved,2011/2/18 1:47,2014/11/5 17:36
+FLUME-527,New Feature,Won't Fix,Resolved,2011/2/18 3:42,2014/11/6 18:50
+FLUME-528,New Feature,Won't Fix,Resolved,2011/2/18 5:18,2014/11/5 17:37
+FLUME-529,New Feature,Won't Fix,Resolved,2011/2/18 23:26,2014/11/5 17:37
+FLUME-530,Task,Fixed,Closed,2011/2/19 0:01,2011/2/23 0:05
+FLUME-531,Bug,Not A Problem,Resolved,2011/2/19 8:08,2011/3/15 19:14
+FLUME-532,Bug,Not A Problem,Resolved,2011/2/20 3:04,2011/2/23 4:05
+FLUME-533,Bug,Won't Fix,Resolved,2011/2/23 0:34,2014/11/5 17:37
+FLUME-534,Bug,Won't Fix,Resolved,2011/2/23 3:43,2014/11/5 17:38
+FLUME-535,Improvement,Won't Fix,Resolved,2011/2/23 4:08,2014/11/5 17:38
+FLUME-536,New Feature,Won't Fix,Resolved,2011/2/23 5:00,2014/11/5 17:39
+FLUME-537,Improvement,Won't Fix,Resolved,2011/2/24 7:27,2014/11/5 17:39
+FLUME-538,Improvement,Won't Fix,Resolved,2011/2/24 10:28,2014/11/5 17:39
+FLUME-539,Improvement,Won't Fix,Resolved,2011/2/24 11:00,2014/11/5 17:40
+FLUME-540,Bug,Fixed,Closed,2011/2/25 2:12,2011/3/17 5:20
+FLUME-541,Improvement,Duplicate,Resolved,2011/2/25 4:34,2011/7/3 8:20
+FLUME-542,Bug,Unresolved,Open,2011/3/1 7:48,
+FLUME-543,Bug,Fixed,Resolved,2011/3/1 9:17,2011/8/25 19:40
+FLUME-544,Bug,Won't Fix,Resolved,2011/3/1 9:32,2014/11/5 17:42
+FLUME-545,Task,Fixed,Closed,2011/3/1 9:44,2011/3/17 3:06
+FLUME-546,New Feature,Fixed,Closed,2011/3/2 9:45,2011/3/11 22:38
+FLUME-547,Bug,Not A Problem,Resolved,2011/3/4 11:52,2011/3/4 12:10
+FLUME-548,Bug,Fixed,Closed,2011/3/4 12:18,2011/3/4 22:28
+FLUME-549,Bug,Fixed,Closed,2011/3/4 12:36,2011/3/4 22:23
+FLUME-550,Improvement,Fixed,Closed,2011/3/9 1:19,2011/3/11 13:11
+FLUME-551,Task,Fixed,Closed,2011/3/9 3:29,2011/4/2 6:04
+FLUME-552,Improvement,Unresolved,Open,2011/3/9 4:37,
+FLUME-553,Bug,Won't Fix,Resolved,2011/3/11 1:46,2014/11/5 17:42
+FLUME-554,Bug,Won't Fix,Resolved,2011/3/11 2:03,2014/11/5 17:42
+FLUME-555,Sub-task,Won't Fix,Resolved,2011/3/11 2:06,2014/11/5 17:43
+FLUME-556,Sub-task,Won't Fix,Resolved,2011/3/11 2:09,2014/11/5 17:43
+FLUME-557,Sub-task,Won't Fix,Resolved,2011/3/11 2:12,2014/11/5 17:48
+FLUME-558,Improvement,Won't Fix,Resolved,2011/3/11 14:32,2014/11/5 17:49
+FLUME-559,New Feature,Won't Fix,Resolved,2011/3/11 22:57,2014/11/5 17:49
+FLUME-560,Improvement,Won't Fix,Resolved,2011/3/13 8:42,2014/11/5 17:50
+FLUME-561,Improvement,Fixed,Closed,2011/3/15 8:13,2011/3/16 2:55
+FLUME-562,New Feature,Won't Fix,Resolved,2011/3/17 2:27,2014/11/5 17:59
+FLUME-563,Documentation,Won't Fix,Resolved,2011/3/17 2:31,2014/11/5 18:00
+FLUME-564,Bug,Fixed,Closed,2011/3/17 2:35,2011/3/17 7:15
+FLUME-565,New Feature,Won't Fix,Resolved,2011/3/17 5:07,2014/11/5 18:01
+FLUME-566,Bug,Won't Fix,Resolved,2011/3/17 5:13,2014/11/5 18:01
+FLUME-567,New Feature,Won't Fix,Resolved,2011/3/17 19:54,2014/11/5 18:02
+FLUME-568,Improvement,Won't Fix,Resolved,2011/3/17 19:59,2014/11/5 18:02
+FLUME-569,Improvement,Fixed,Closed,2011/3/17 20:09,2011/4/23 22:05
+FLUME-570,Documentation,Won't Fix,Resolved,2011/3/17 22:47,2014/11/5 18:03
+FLUME-571,Bug,Fixed,Closed,2011/3/17 23:24,2011/3/18 4:18
+FLUME-572,New Feature,Fixed,Closed,2011/3/18 5:26,2011/4/2 6:04
+FLUME-573,Documentation,Won't Fix,Resolved,2011/3/18 8:02,2014/11/5 18:04
+FLUME-574,Bug,Won't Fix,Resolved,2011/3/18 11:23,2014/11/5 18:05
+FLUME-575,Epic,Won't Fix,Resolved,2011/3/19 13:20,2014/11/5 18:06
+FLUME-576,Bug,Won't Fix,Resolved,2011/3/19 13:59,2014/11/5 18:06
+FLUME-577,Improvement,Won't Fix,Resolved,2011/3/21 14:19,2014/11/5 18:06
+FLUME-578,Documentation,Won't Fix,Resolved,2011/3/22 3:40,2014/11/5 18:07
+FLUME-579,New Feature,Fixed,Closed,2011/3/23 3:36,2011/6/2 12:53
+FLUME-580,Bug,Fixed,Resolved,2011/3/24 5:24,2011/9/20 23:55
+FLUME-581,Improvement,Won't Fix,Resolved,2011/3/24 5:29,2014/11/5 18:07
+FLUME-582,Bug,Won't Fix,Resolved,2011/3/26 16:08,2014/11/5 18:08
+FLUME-583,Improvement,Won't Fix,Resolved,2011/3/29 23:53,2014/11/5 18:08
+FLUME-584,Sub-task,Fixed,Closed,2011/3/31 7:01,2011/4/4 6:26
+FLUME-585,Sub-task,Fixed,Closed,2011/4/1 2:49,2011/4/6 3:26
+FLUME-586,Bug,Fixed,Closed,2011/4/2 0:38,2011/4/20 13:25
+FLUME-587,Sub-task,Fixed,Closed,2011/4/2 6:29,2011/4/21 4:52
+FLUME-588,Bug,Fixed,Closed,2011/4/2 6:42,2011/5/1 8:48
+FLUME-589,Improvement,Fixed,Closed,2011/4/2 7:38,2011/4/23 22:06
+FLUME-590,Sub-task,Fixed,Closed,2011/4/2 8:29,2011/4/21 4:53
+FLUME-591,Sub-task,Fixed,Closed,2011/4/5 7:59,2011/4/5 8:02
+FLUME-592,Epic,Fixed,Closed,2011/4/5 23:36,2011/7/7 10:40
+FLUME-593,Bug,Fixed,Closed,2011/4/6 1:18,2011/4/23 22:05
+FLUME-594,Bug,Duplicate,Resolved,2011/4/6 2:15,2011/4/8 2:58
+FLUME-595,Bug,Fixed,Closed,2011/4/6 5:27,2011/4/23 22:06
+FLUME-596,Improvement,Fixed,Closed,2011/4/6 5:33,2011/4/23 22:06
+FLUME-597,Bug,Fixed,Closed,2011/4/6 5:41,2011/4/23 22:07
+FLUME-598,Improvement,Fixed,Closed,2011/4/8 2:24,2011/4/23 22:07
+FLUME-599,Improvement,Won't Fix,Resolved,2011/4/10 6:06,2014/11/5 18:09
+FLUME-600,Bug,Fixed,Closed,2011/4/12 11:53,2011/5/10 1:55
+FLUME-601,Bug,Fixed,Resolved,2011/4/13 0:58,2011/4/29 9:55
+FLUME-602,Bug,Fixed,Closed,2011/4/15 7:38,2011/4/20 12:28
+FLUME-603,Improvement,Fixed,Resolved,2011/4/19 1:59,2011/7/1 22:56
+FLUME-604,New Feature,Won't Fix,Resolved,2011/4/19 5:52,2014/11/5 18:09
+FLUME-605,Improvement,Won't Fix,Resolved,2011/4/19 6:59,2014/11/5 18:09
+FLUME-606,Bug,Fixed,Closed,2011/4/21 14:37,2011/4/21 14:39
+FLUME-607,Bug,Fixed,Closed,2011/4/22 4:24,2011/4/24 2:30
+FLUME-608,Bug,Fixed,Closed,2011/4/22 4:28,2011/6/16 1:42
+FLUME-609,Bug,Fixed,Closed,2011/4/22 4:32,2011/6/14 5:40
+FLUME-610,Improvement,Won't Fix,Resolved,2011/4/22 7:49,2014/11/5 18:12
+FLUME-611,Improvement,Won't Fix,Resolved,2011/4/22 11:43,2014/11/5 18:12
+FLUME-612,Bug,Won't Fix,Resolved,2011/4/23 0:45,2014/11/5 18:12
+FLUME-613,New Feature,Unresolved,Patch Available,2011/4/23 2:10,
+FLUME-614,Bug,Fixed,Closed,2011/4/23 4:04,2011/4/24 2:29
+FLUME-615,Bug,Won't Fix,Resolved,2011/4/23 5:27,2014/11/5 18:13
+FLUME-616,Improvement,Won't Fix,Resolved,2011/4/24 2:48,2014/11/5 18:13
+FLUME-617,Epic,Won't Fix,Resolved,2011/4/25 22:13,2014/11/5 18:14
+FLUME-618,Improvement,Fixed,Closed,2011/4/26 1:09,2011/4/29 1:46
+FLUME-619,Epic,Won't Fix,Resolved,2011/4/29 0:22,2014/11/5 18:14
+FLUME-620,Bug,Fixed,Resolved,2011/4/30 2:50,2011/6/27 14:18
+FLUME-621,Bug,Won't Fix,Resolved,2011/4/30 5:56,2014/11/5 18:14
+FLUME-622,Bug,Fixed,Closed,2011/4/30 9:42,2011/5/1 5:54
+FLUME-623,Bug,Fixed,Closed,2011/5/1 8:14,2011/5/3 2:54
+FLUME-624,Bug,Fixed,Closed,2011/5/1 8:30,2011/5/3 2:55
+FLUME-625,Improvement,Won't Fix,Resolved,2011/5/1 12:47,2014/11/5 18:14
+FLUME-626,Bug,Won't Fix,Resolved,2011/5/3 2:03,2014/11/5 18:15
+FLUME-627,Improvement,Fixed,Closed,2011/5/4 7:53,2011/5/10 7:51
+FLUME-628,Test,Won't Fix,Resolved,2011/5/4 8:16,2014/11/5 18:16
+FLUME-629,Bug,Won't Fix,Resolved,2011/5/10 7:06,2014/11/5 18:16
+FLUME-630,Bug,Fixed,Closed,2011/5/11 1:27,2011/5/26 5:24
+FLUME-631,Bug,Won't Fix,Resolved,2011/5/18 5:21,2014/11/5 18:16
+FLUME-632,Improvement,Fixed,Closed,2011/5/18 5:32,2011/6/3 4:13
+FLUME-633,Improvement,Fixed,Closed,2011/5/18 5:34,2011/5/23 7:44
+FLUME-634,Bug,Won't Fix,Resolved,2011/5/18 5:41,2014/11/5 18:17
+FLUME-635,Improvement,Fixed,Closed,2011/5/18 5:57,2011/6/1 5:08
+FLUME-636,Bug,Not A Problem,Resolved,2011/5/19 7:11,2011/8/5 16:23
+FLUME-637,Bug,Won't Fix,Resolved,2011/5/21 1:51,2014/11/5 18:17
+FLUME-638,Bug,Won't Fix,Resolved,2011/5/24 4:19,2014/11/5 18:17
+FLUME-639,Improvement,Fixed,Closed,2011/5/24 5:06,2011/6/2 11:10
+FLUME-640,Improvement,Won't Fix,Resolved,2011/5/25 9:04,2014/11/5 18:18
+FLUME-641,Improvement,Fixed,Closed,2011/5/26 6:37,2011/6/2 13:59
+FLUME-642,Bug,Fixed,Closed,2011/5/26 14:18,2011/5/27 6:25
+FLUME-643,Bug,Won't Fix,Resolved,2011/5/26 18:59,2014/11/5 18:18
+FLUME-644,Improvement,Fixed,Closed,2011/5/27 1:18,2011/6/2 11:09
+FLUME-645,Epic,Unresolved,Open,2011/5/27 7:52,
+FLUME-646,Bug,Fixed,Closed,2011/5/27 17:27,2011/6/2 10:54
+FLUME-647,Bug,Won't Fix,Resolved,2011/5/28 5:40,2014/11/5 18:18
+FLUME-648,Improvement,Won't Fix,Resolved,2011/5/30 10:33,2014/11/5 18:21
+FLUME-649,Bug,Won't Fix,Resolved,2011/6/1 21:13,2014/11/5 18:21
+FLUME-650,Improvement,Unresolved,Reopened,2011/6/2 6:51,
+FLUME-651,New Feature,Fixed,Closed,2011/6/3 4:11,2011/6/14 5:40
+FLUME-652,Improvement,Won't Fix,Resolved,2011/6/9 2:22,2014/11/5 18:22
+FLUME-653,Bug,Won't Fix,Resolved,2011/6/9 20:41,2014/11/5 18:22
+FLUME-654,Documentation,Won't Fix,Resolved,2011/6/13 14:31,2014/11/5 18:22
+FLUME-655,Bug,Won't Fix,Resolved,2011/6/13 14:34,2014/11/5 18:23
+FLUME-656,Bug,Fixed,Resolved,2011/6/14 14:51,2011/6/29 22:15
+FLUME-657,Improvement,Won't Fix,Resolved,2011/6/14 22:44,2014/11/5 18:24
+FLUME-658,Bug,Fixed,Resolved,2011/6/15 15:49,2011/6/29 22:10
+FLUME-659,Bug,Won't Fix,Resolved,2011/6/15 18:30,2014/11/5 18:24
+FLUME-660,Improvement,Fixed,Closed,2011/6/16 5:07,2011/6/16 14:27
+FLUME-661,Bug,Fixed,Closed,2011/6/16 8:55,2011/6/19 0:40
+FLUME-662,Bug,Fixed,Closed,2011/6/16 14:25,2011/6/19 0:39
+FLUME-663,New Feature,Fixed,Closed,2011/6/16 15:15,2011/6/20 12:22
+FLUME-664,Improvement,Won't Fix,Resolved,2011/6/16 23:33,2014/11/5 18:24
+FLUME-665,Improvement,Fixed,Closed,2011/6/18 1:51,2011/6/20 6:01
+FLUME-666,Bug,Fixed,Resolved,2011/6/18 8:53,2011/6/29 22:15
+FLUME-667,Bug,Fixed,Closed,2011/6/19 1:34,2011/6/21 2:30
+FLUME-668,New Feature,Fixed,Closed,2011/6/19 1:35,2011/7/6 15:44
+FLUME-669,Bug,Fixed,Closed,2011/6/19 11:56,2011/6/20 14:27
+FLUME-670,New Feature,Won't Fix,Resolved,2011/6/20 0:39,2014/11/5 18:25
+FLUME-671,New Feature,Won't Fix,Resolved,2011/6/20 14:29,2014/11/5 18:25
+FLUME-672,Improvement,Fixed,Resolved,2011/6/21 1:31,2011/8/10 16:04
+FLUME-673,Bug,Fixed,Closed,2011/6/21 5:32,2011/6/21 5:41
+FLUME-674,Epic,Won't Fix,Resolved,2011/6/21 13:35,2014/11/5 18:26
+FLUME-675,Bug,Won't Fix,Resolved,2011/6/21 14:05,2014/11/5 18:27
+FLUME-676,Improvement,Fixed,Resolved,2011/6/22 20:08,2011/6/28 15:10
+FLUME-677,Task,Fixed,Resolved,2011/6/23 0:38,2011/6/28 0:23
+FLUME-678,New Feature,Won't Fix,Resolved,2011/6/23 11:08,2014/11/5 18:27
+FLUME-679,Documentation,Won't Fix,Resolved,2011/6/23 12:55,2014/11/5 18:27
+FLUME-680,Improvement,Won't Fix,Resolved,2011/6/24 3:03,2014/11/5 18:28
+FLUME-681,Bug,Fixed,Resolved,2011/6/25 3:54,2011/7/1 23:08
+FLUME-682,Bug,Fixed,Resolved,2011/6/25 4:04,2011/6/29 8:08
+FLUME-683,Improvement,Fixed,Resolved,2011/6/25 4:50,2011/6/29 8:10
+FLUME-684,Improvement,Won't Fix,Resolved,2011/6/27 11:56,2014/11/5 18:28
+FLUME-685,Bug,Won't Fix,Resolved,2011/6/28 0:21,2014/11/5 18:28
+FLUME-686,Bug,Won't Fix,Resolved,2011/6/28 11:39,2014/11/5 18:29
+FLUME-687,Bug,Won't Fix,Resolved,2011/6/28 11:40,2014/11/5 18:30
+FLUME-688,Improvement,Won't Fix,Resolved,2011/6/28 20:06,2014/11/5 18:30
+FLUME-689,Improvement,Won't Fix,Resolved,2011/6/28 20:51,2014/11/5 18:31
+FLUME-690,Improvement,Won't Fix,Resolved,2011/6/29 1:04,2014/11/5 18:32
+FLUME-691,Improvement,Fixed,Resolved,2011/6/29 2:40,2011/7/1 7:39
+FLUME-692,Improvement,Won't Fix,Resolved,2011/6/29 3:57,2014/11/5 18:32
+FLUME-693,Improvement,Won't Fix,Resolved,2011/7/1 5:54,2014/11/5 18:33
+FLUME-694,Task,Fixed,Resolved,2011/7/1 7:10,2011/8/9 22:47
+FLUME-695,Improvement,Won't Fix,Resolved,2011/7/1 22:58,2014/11/5 18:33
+FLUME-696,New Feature,Won't Fix,Resolved,2011/7/2 2:00,2014/11/5 18:33
+FLUME-697,Bug,Fixed,Resolved,2011/7/3 5:17,2011/7/5 0:32
+FLUME-698,New Feature,Won't Fix,Resolved,2011/7/3 6:00,2014/11/5 18:34
+FLUME-699,Improvement,Fixed,Resolved,2011/7/3 7:35,2011/8/15 21:40
+FLUME-700,Task,Fixed,Resolved,2011/7/7 13:32,2011/7/22 5:59
+FLUME-701,Task,Fixed,Resolved,2011/7/7 13:36,2011/7/22 5:59
+FLUME-702,Task,Fixed,Resolved,2011/7/7 13:43,2011/7/22 5:58
+FLUME-703,Task,Fixed,Resolved,2011/7/7 13:46,2011/7/22 5:58
+FLUME-704,Task,Won't Fix,Resolved,2011/7/8 13:38,2014/11/5 18:34
+FLUME-705,Documentation,Won't Fix,Resolved,2011/7/12 5:34,2014/11/5 18:35
+FLUME-706,Bug,Fixed,Resolved,2011/7/19 4:27,2011/8/25 19:32
+FLUME-707,Bug,Won't Fix,Resolved,2011/7/20 5:27,2014/11/5 18:35
+FLUME-708,Bug,Not A Problem,Resolved,2011/7/20 7:49,2011/7/20 9:07
+FLUME-709,Bug,Won't Fix,Resolved,2011/7/21 1:00,2014/11/5 18:36
+FLUME-710,Bug,Invalid,Resolved,2011/7/21 3:31,2016/7/23 16:36
+FLUME-711,Bug,Won't Fix,Resolved,2011/7/21 6:18,2014/11/5 18:36
+FLUME-712,Epic,Won't Fix,Resolved,2011/7/21 18:31,2014/11/5 18:37
+FLUME-713,Improvement,Fixed,Resolved,2011/7/21 18:34,2011/7/21 21:27
+FLUME-714,Improvement,Won't Fix,Resolved,2011/7/21 20:20,2014/11/5 18:38
+FLUME-715,Improvement,Won't Fix,Resolved,2011/7/21 20:28,2014/11/5 18:38
+FLUME-716,Task,Fixed,Resolved,2011/7/22 2:50,2011/7/22 20:59
+FLUME-717,Bug,Unresolved,Reopened,2011/7/22 4:05,
+FLUME-718,Bug,Fixed,Resolved,2011/8/3 17:06,2011/8/10 16:04
+FLUME-719,Bug,Fixed,Resolved,2011/8/3 17:20,2011/8/10 15:59
+FLUME-720,Bug,Fixed,Resolved,2011/8/3 20:42,2011/8/25 20:18
+FLUME-721,Bug,Fixed,Resolved,2011/8/4 4:53,2011/8/25 20:18
+FLUME-722,Bug,Fixed,Resolved,2011/8/4 10:01,2011/8/10 16:04
+FLUME-723,New Feature,Won't Fix,Resolved,2011/8/4 10:04,2014/11/5 18:38
+FLUME-724,Improvement,Won't Fix,Resolved,2011/8/5 4:08,2014/11/5 18:39
+FLUME-725,Task,Fixed,Resolved,2011/8/5 4:59,2012/2/1 3:17
+FLUME-726,New Feature,Won't Fix,Resolved,2011/8/6 1:30,2014/11/5 18:40
+FLUME-727,Improvement,Won't Fix,Resolved,2011/8/8 1:03,2014/11/5 18:40
+FLUME-728,Epic,Fixed,Closed,2011/8/9 14:24,2011/10/23 4:58
+FLUME-729,Sub-task,Fixed,Resolved,2011/8/9 14:31,2011/8/20 4:59
+FLUME-730,Sub-task,Fixed,Resolved,2011/8/9 14:32,2011/8/20 5:01
+FLUME-731,Sub-task,Unresolved,Open,2011/8/9 14:43,
+FLUME-732,Sub-task,Unresolved,Open,2011/8/9 14:44,
+FLUME-733,Sub-task,Unresolved,Open,2011/8/9 14:58,
+FLUME-734,Bug,Fixed,Resolved,2011/8/10 17:10,2011/10/1 6:57
+FLUME-735,Bug,Won't Fix,Resolved,2011/8/11 0:02,2014/11/5 18:40
+FLUME-736,Sub-task,Fixed,Resolved,2011/8/12 2:44,2011/9/7 23:11
+FLUME-737,Sub-task,Incomplete,Closed,2011/8/12 2:45,2011/10/6 8:04
+FLUME-738,Sub-task,Unresolved,Open,2011/8/12 4:22,
+FLUME-739,Sub-task,Fixed,Closed,2011/8/12 4:22,2011/10/6 8:02
+FLUME-740,Bug,Won't Fix,Resolved,2011/8/12 16:18,2014/11/5 18:41
+FLUME-741,Improvement,Fixed,Resolved,2011/8/13 8:32,2011/8/18 0:31
+FLUME-742,Bug,Fixed,Resolved,2011/8/13 13:08,2011/8/17 22:31
+FLUME-743,Bug,Won't Fix,Resolved,2011/8/15 20:59,2014/11/5 18:41
+FLUME-744,Documentation,Invalid,Resolved,2011/8/15 21:50,2018/11/11 18:14
+FLUME-745,Bug,Fixed,Closed,2011/8/18 5:56,2011/8/20 8:55
+FLUME-746,Bug,Fixed,Resolved,2011/8/18 23:29,2011/8/20 8:56
+FLUME-747,Sub-task,Fixed,Closed,2011/8/20 5:02,2011/10/6 8:00
+FLUME-748,Sub-task,Fixed,Closed,2011/8/20 5:04,2012/7/6 11:21
+FLUME-749,Sub-task,Unresolved,Open,2011/8/20 5:04,
+FLUME-750,Improvement,Unresolved,Open,2011/8/20 8:55,
+FLUME-751,Bug,Won't Fix,Resolved,2011/8/22 20:44,2014/11/5 18:42
+FLUME-752,Improvement,Won't Fix,Resolved,2011/8/23 13:58,2014/11/5 18:42
+FLUME-753,Bug,Won't Fix,Resolved,2011/8/26 21:16,2014/11/5 18:42
+FLUME-754,Bug,Won't Fix,Resolved,2011/8/30 19:24,2014/11/5 18:43
+FLUME-755,Improvement,Duplicate,Resolved,2011/8/31 6:06,2011/9/9 1:07
+FLUME-756,Test,Won't Fix,Resolved,2011/9/1 6:08,2014/11/5 18:43
+FLUME-757,Bug,Won't Fix,Resolved,2011/9/3 3:43,2014/11/5 18:43
+FLUME-758,Bug,Fixed,Resolved,2011/9/5 12:31,2011/9/7 16:44
+FLUME-759,Bug,Fixed,Resolved,2011/9/6 1:15,2011/9/13 23:03
+FLUME-760,Sub-task,Fixed,Closed,2011/9/7 23:13,2011/10/21 23:44
+FLUME-761,Sub-task,Fixed,Closed,2011/9/7 23:14,2011/10/6 7:58
+FLUME-762,Improvement,Fixed,Resolved,2011/9/8 6:56,2011/9/30 15:28
+FLUME-763,Bug,Won't Fix,Resolved,2011/9/15 14:58,2014/11/5 18:43
+FLUME-764,Improvement,Won't Fix,Resolved,2011/9/16 13:58,2014/11/5 18:44
+FLUME-765,Bug,Fixed,Resolved,2011/9/21 9:17,2011/9/23 5:05
+FLUME-766,Bug,Fixed,Resolved,2011/9/21 9:21,2011/9/23 5:05
+FLUME-767,Bug,Won't Fix,Resolved,2011/9/27 22:36,2014/11/5 18:44
+FLUME-768,Bug,Fixed,Resolved,2011/9/28 6:50,2011/10/1 3:54
+FLUME-769,Bug,Fixed,Closed,2011/10/2 6:04,2011/10/6 7:57
+FLUME-770,Bug,Fixed,Resolved,2011/10/4 4:56,2011/10/5 23:55
+FLUME-771,New Feature,Fixed,Closed,2011/10/6 8:07,2011/10/7 7:01
+FLUME-772,Improvement,Fixed,Closed,2011/10/6 8:12,2011/10/13 0:50
+FLUME-773,Bug,Fixed,Closed,2011/10/7 2:44,2011/10/29 6:07
+FLUME-774,Improvement,Fixed,Closed,2011/10/7 2:52,2011/10/13 3:34
+FLUME-775,New Feature,Fixed,Closed,2011/10/7 2:58,2011/11/2 8:49
+FLUME-776,New Feature,Fixed,Resolved,2011/10/7 3:09,2012/10/13 0:30
+FLUME-777,Sub-task,Fixed,Closed,2011/10/7 3:11,2011/10/13 0:55
+FLUME-778,New Feature,Fixed,Closed,2011/10/7 3:58,2011/10/11 15:05
+FLUME-779,New Feature,Fixed,Closed,2011/10/7 11:40,2011/10/7 11:41
+FLUME-780,Task,Fixed,Closed,2011/10/7 11:43,2011/10/7 11:43
+FLUME-781,Improvement,Fixed,Closed,2011/10/7 14:25,2011/10/7 14:26
+FLUME-782,Improvement,Fixed,Closed,2011/10/8 5:31,2011/10/8 5:40
+FLUME-783,Improvement,Fixed,Closed,2011/10/8 5:36,2011/10/8 5:39
+FLUME-784,Bug,Fixed,Closed,2011/10/11 14:58,2011/10/11 14:59
+FLUME-785,Task,Fixed,Closed,2011/10/12 1:46,2011/10/12 3:20
+FLUME-786,Task,Fixed,Closed,2011/10/12 1:47,2011/10/22 6:41
+FLUME-787,Task,Fixed,Closed,2011/10/12 1:49,2011/10/18 6:31
+FLUME-788,Bug,Fixed,Closed,2011/10/12 2:08,2011/10/13 3:36
+FLUME-789,Improvement,Won't Fix,Resolved,2011/10/14 1:57,2014/11/5 18:44
+FLUME-790,Bug,Won't Fix,Resolved,2011/10/14 2:05,2014/11/5 18:45
+FLUME-791,Bug,Won't Fix,Resolved,2011/10/14 2:21,2014/11/5 18:45
+FLUME-792,Bug,Won't Fix,Resolved,2011/10/14 2:48,2014/11/5 18:46
+FLUME-793,Documentation,Won't Fix,Resolved,2011/10/14 3:35,2014/11/5 18:46
+FLUME-794,Bug,Won't Fix,Resolved,2011/10/14 3:50,2014/11/5 18:47
+FLUME-795,Sub-task,Fixed,Closed,2011/10/14 5:24,2011/10/20 13:04
+FLUME-796,Bug,Won't Fix,Resolved,2011/10/14 5:45,2014/11/5 18:47
+FLUME-797,Improvement,Won't Fix,Resolved,2011/10/14 6:45,2014/11/5 18:47
+FLUME-798,Bug,Fixed,Resolved,2011/10/15 0:30,2011/11/30 16:04
+FLUME-799,New Feature,Won't Fix,Resolved,2011/10/15 5:40,2014/11/5 18:48
+FLUME-800,Improvement,Unresolved,Open,2011/10/18 19:29,
+FLUME-801,Task,Fixed,Closed,2011/10/19 7:26,2011/10/21 5:29
+FLUME-802,Task,Fixed,Closed,2011/10/19 11:05,2011/10/20 8:40
+FLUME-803,Bug,Fixed,Closed,2011/10/20 2:08,2011/10/21 7:03
+FLUME-804,Improvement,Fixed,Closed,2011/10/20 3:52,2011/10/20 3:53
+FLUME-805,Bug,Fixed,Closed,2011/10/20 7:18,2011/11/13 22:51
+FLUME-806,Bug,Fixed,Closed,2011/10/20 8:50,2011/10/20 9:53
+FLUME-807,Bug,Fixed,Closed,2011/10/20 8:56,2011/10/20 9:53
+FLUME-808,Bug,Won't Fix,Resolved,2011/10/20 14:29,2014/11/5 18:48
+FLUME-809,Bug,Fixed,Closed,2011/10/21 5:31,2011/10/21 5:32
+FLUME-810,Improvement,Fixed,Closed,2011/10/21 5:33,2011/10/21 5:34
+FLUME-811,Bug,Fixed,Closed,2011/10/21 6:09,2011/10/21 6:16
+FLUME-812,Task,Fixed,Closed,2011/10/23 4:50,2011/11/13 22:16
+FLUME-813,Task,Unresolved,Open,2011/10/23 4:52,
+FLUME-814,New Feature,Fixed,Closed,2011/10/23 4:55,2011/12/1 8:40
+FLUME-815,Bug,Fixed,Closed,2011/10/23 5:34,2011/10/23 5:35
+FLUME-816,Bug,Fixed,Closed,2011/10/24 4:03,2011/12/1 2:30
+FLUME-817,Bug,Fixed,Closed,2011/10/24 4:14,2011/10/29 5:55
+FLUME-818,Bug,Fixed,Closed,2011/10/24 4:21,2011/10/24 4:25
+FLUME-819,Improvement,Fixed,Closed,2011/10/24 4:28,2011/10/24 4:33
+FLUME-820,Improvement,Fixed,Closed,2011/10/26 4:13,2011/12/1 2:44
+FLUME-821,Improvement,Fixed,Closed,2011/10/26 4:14,2011/12/1 2:17
+FLUME-822,Bug,Fixed,Closed,2011/10/31 6:52,2011/12/1 2:27
+FLUME-823,Bug,Fixed,Closed,2011/11/1 4:06,2011/12/1 2:22
+FLUME-824,Improvement,Won't Fix,Resolved,2011/11/1 4:58,2014/11/5 18:48
+FLUME-825,Bug,Fixed,Closed,2011/11/1 6:51,2011/11/2 3:05
+FLUME-826,Improvement,Fixed,Closed,2011/11/1 7:51,2011/11/13 22:20
+FLUME-827,Bug,Fixed,Closed,2011/11/1 8:19,2011/12/3 5:26
+FLUME-828,Improvement,Fixed,Resolved,2011/11/2 8:59,2012/3/22 14:37
+FLUME-829,Improvement,Done,Resolved,2011/11/2 9:39,2018/11/11 18:20
+FLUME-830,Bug,Fixed,Closed,2011/11/2 10:16,2011/12/30 12:56
+FLUME-831,Bug,Fixed,Closed,2011/11/2 11:56,2011/11/19 2:32
+FLUME-832,Task,Fixed,Resolved,2011/11/2 13:51,2014/11/5 18:49
+FLUME-833,Bug,Fixed,Closed,2011/11/2 16:44,2011/12/28 8:55
+FLUME-834,Improvement,Fixed,Resolved,2011/11/2 16:52,2018/11/11 18:21
+FLUME-835,Bug,Fixed,Closed,2011/11/3 3:40,2011/12/30 12:57
+FLUME-836,Bug,Unresolved,Open,2011/11/3 3:55,
+FLUME-837,Bug,Invalid,Resolved,2011/11/3 4:09,2011/11/3 4:35
+FLUME-838,Bug,Not A Problem,Closed,2011/11/3 15:34,2011/11/15 4:24
+FLUME-839,Bug,Won't Fix,Resolved,2011/11/4 18:22,2014/11/5 18:49
+FLUME-840,Task,Fixed,Resolved,2011/11/6 4:21,2012/7/3 21:03
+FLUME-841,Improvement,Fixed,Resolved,2011/11/6 4:22,2018/11/11 18:22
+FLUME-842,Bug,Fixed,Closed,2011/11/8 3:15,2011/11/22 9:23
+FLUME-843,Bug,Cannot Reproduce,Closed,2011/11/8 3:49,2011/11/22 9:43
+FLUME-844,Bug,Duplicate,Closed,2011/11/8 4:03,2011/11/22 9:47
+FLUME-845,Improvement,Won't Fix,Resolved,2011/11/9 3:26,2014/11/5 18:50
+FLUME-846,Improvement,Fixed,Closed,2011/11/9 13:47,2011/12/30 13:01
+FLUME-847,Bug,Won't Fix,Resolved,2011/11/11 2:23,2014/11/5 18:51
+FLUME-848,Bug,Fixed,Closed,2011/11/13 22:53,2011/11/13 22:54
+FLUME-849,Bug,Unresolved,Reopened,2011/11/15 4:29,
+FLUME-850,Bug,Fixed,Closed,2011/11/15 8:44,2011/12/30 13:00
+FLUME-851,Improvement,Unresolved,Open,2011/11/17 14:00,
+FLUME-852,Bug,Won't Fix,Resolved,2011/11/17 20:48,2014/11/5 18:52
+FLUME-853,Bug,Invalid,Resolved,2011/11/20 5:25,2012/2/1 3:04
+FLUME-854,New Feature,Unresolved,Open,2011/11/22 13:17,
+FLUME-855,New Feature,Unresolved,Open,2011/11/22 14:27,
+FLUME-856,Question,Fixed,Closed,2011/11/22 19:32,2011/12/30 13:03
+FLUME-857,Bug,Fixed,Resolved,2011/11/23 9:18,2011/11/29 6:24
+FLUME-858,Bug,Fixed,Closed,2011/11/25 0:51,2011/12/8 7:28
+FLUME-859,Bug,Won't Fix,Resolved,2011/11/25 14:42,2014/11/5 18:54
+FLUME-860,Bug,Invalid,Resolved,2011/11/25 15:12,2011/12/11 2:13
+FLUME-861,Bug,Duplicate,Closed,2011/11/25 15:34,2011/12/4 11:02
+FLUME-862,Bug,Fixed,Resolved,2011/11/25 16:45,2012/3/24 7:14
+FLUME-863,Bug,Fixed,Closed,2011/11/25 20:11,2011/12/20 3:46
+FLUME-864,Bug,Won't Fix,Resolved,2011/11/30 18:05,2014/11/5 18:54
+FLUME-865,New Feature,Fixed,Resolved,2011/12/1 22:23,2012/2/21 14:31
+FLUME-866,Task,Fixed,Closed,2011/12/3 6:06,2011/12/3 9:02
+FLUME-867,Improvement,Fixed,Closed,2011/12/4 10:58,2011/12/6 7:01
+FLUME-868,Bug,Fixed,Closed,2011/12/6 0:37,2011/12/6 0:58
+FLUME-869,Bug,Fixed,Closed,2011/12/6 2:35,2011/12/16 8:31
+FLUME-870,Bug,Fixed,Closed,2011/12/6 3:57,2011/12/6 7:00
+FLUME-871,Improvement,Fixed,Closed,2011/12/6 4:58,2011/12/8 7:13
+FLUME-872,Improvement,Not A Problem,Resolved,2011/12/7 10:44,2012/6/19 14:36
+FLUME-873,Bug,Won't Fix,Resolved,2011/12/8 18:40,2014/11/5 18:55
+FLUME-874,Bug,Won't Fix,Resolved,2011/12/8 21:48,2014/11/5 18:55
+FLUME-875,Bug,Won't Fix,Resolved,2011/12/9 15:31,2014/11/5 18:56
+FLUME-876,Task,Fixed,Closed,2011/12/10 14:03,2011/12/16 9:13
+FLUME-878,Task,Fixed,Closed,2011/12/10 14:08,2011/12/15 6:13
+FLUME-879,Task,Fixed,Closed,2011/12/10 14:09,2011/12/19 17:23
+FLUME-880,Bug,Fixed,Closed,2011/12/11 2:15,2011/12/21 14:21
+FLUME-881,Improvement,Fixed,Resolved,2011/12/11 2:46,2012/3/26 11:32
+FLUME-882,Task,Not A Problem,Closed,2011/12/14 15:11,2012/3/27 4:01
+FLUME-883,Bug,Fixed,Resolved,2011/12/16 2:59,2011/12/16 9:35
+FLUME-884,Bug,Duplicate,Resolved,2011/12/16 4:07,2011/12/17 3:00
+FLUME-885,Task,Fixed,Closed,2011/12/17 5:17,2011/12/17 5:26
+FLUME-886,Improvement,Fixed,Resolved,2011/12/17 5:34,2012/2/21 12:01
+FLUME-887,Bug,Fixed,Closed,2011/12/17 6:10,2011/12/21 13:39
+FLUME-888,New Feature,Duplicate,Resolved,2011/12/17 6:43,2012/5/22 16:39
+FLUME-889,Bug,Fixed,Resolved,2011/12/17 7:50,2012/2/2 1:54
+FLUME-890,Improvement,Unresolved,Open,2011/12/17 7:52,
+FLUME-891,Bug,Fixed,Closed,2011/12/17 8:34,2011/12/21 12:37
+FLUME-892,New Feature,Fixed,Resolved,2011/12/17 8:36,2012/3/7 4:46
+FLUME-893,Bug,Won't Fix,Resolved,2011/12/17 8:37,2018/11/11 18:26
+FLUME-894,Bug,Fixed,Closed,2011/12/17 8:41,2011/12/23 5:37
+FLUME-895,Bug,Won't Fix,Resolved,2011/12/18 19:10,2014/11/5 19:20
+FLUME-896,New Feature,Fixed,Resolved,2011/12/19 12:53,2012/4/6 2:14
+FLUME-897,Sub-task,Implemented,Resolved,2011/12/19 12:55,2012/7/31 14:08
+FLUME-898,Bug,Fixed,Closed,2011/12/20 2:55,2011/12/20 3:49
+FLUME-899,Task,Fixed,Closed,2011/12/21 9:49,2011/12/21 16:30
+FLUME-900,Bug,Fixed,Closed,2011/12/22 6:52,2011/12/22 7:47
+FLUME-901,Task,Fixed,Closed,2011/12/23 2:35,2011/12/23 7:21
+FLUME-902,Bug,Fixed,Closed,2011/12/24 12:44,2011/12/28 8:50
+FLUME-903,Bug,Fixed,Closed,2011/12/24 12:46,2011/12/28 8:58
+FLUME-904,Bug,Duplicate,Closed,2011/12/24 12:48,2011/12/25 4:40
+FLUME-905,Bug,Fixed,Closed,2011/12/28 7:27,2011/12/28 9:04
+FLUME-906,Bug,Fixed,Closed,2011/12/28 9:21,2011/12/29 7:16
+FLUME-907,Bug,Fixed,Closed,2011/12/28 9:55,2011/12/29 7:17
+FLUME-908,Bug,Fixed,Closed,2011/12/29 2:23,2011/12/29 6:01
+FLUME-909,Bug,Fixed,Closed,2011/12/29 6:35,2011/12/29 7:14
+FLUME-910,Bug,Fixed,Closed,2011/12/29 7:48,2011/12/29 8:18
+FLUME-911,Bug,Fixed,Closed,2011/12/29 7:54,2011/12/29 8:17
+FLUME-912,Bug,Fixed,Closed,2011/12/29 7:55,2011/12/29 9:31
+FLUME-913,Bug,Fixed,Closed,2011/12/30 6:14,2011/12/30 7:58
+FLUME-914,New Feature,Fixed,Resolved,2011/12/31 4:16,2012/1/20 7:57
+FLUME-915,Bug,Fixed,Closed,2011/12/31 5:38,2011/12/31 5:56
+FLUME-916,Bug,Fixed,Closed,2011/12/31 5:39,2011/12/31 5:56
+FLUME-917,New Feature,Duplicate,Resolved,2011/12/31 22:54,2014/2/7 5:30
+FLUME-918,Improvement,Unresolved,Open,2012/1/4 8:01,
+FLUME-919,Improvement,Fixed,Resolved,2012/1/5 6:31,2012/1/14 8:47
+FLUME-920,Bug,Fixed,Resolved,2012/1/5 11:43,2012/1/16 15:15
+FLUME-921,Bug,Duplicate,Closed,2012/1/10 4:16,2012/1/11 7:07
+FLUME-922,Improvement,Fixed,Resolved,2012/1/10 4:36,2012/3/12 23:19
+FLUME-923,New Feature,Unresolved,Patch Available,2012/1/10 5:49,
+FLUME-924,New Feature,Fixed,Resolved,2012/1/10 11:06,2012/12/15 3:54
+FLUME-925,Improvement,Fixed,Resolved,2012/1/11 2:56,2012/1/11 7:10
+FLUME-926,Bug,Won't Fix,Resolved,2012/1/11 22:15,2014/11/5 19:21
+FLUME-927,Bug,Fixed,Resolved,2012/1/12 6:45,2012/1/19 3:11
+FLUME-928,Bug,Duplicate,Resolved,2012/1/12 16:23,2012/1/12 21:30
+FLUME-929,Bug,Won't Fix,Resolved,2012/1/12 16:31,2014/11/5 19:23
+FLUME-930,New Feature,Fixed,Resolved,2012/1/13 1:33,2012/2/1 10:51
+FLUME-931,Improvement,Not A Problem,Resolved,2012/1/13 14:08,2012/2/28 8:52
+FLUME-932,Improvement,Fixed,Resolved,2012/1/13 16:41,2012/3/7 6:07
+FLUME-933,Bug,Fixed,Resolved,2012/1/14 6:57,2012/1/14 6:58
+FLUME-934,Improvement,Fixed,Resolved,2012/1/14 9:17,2012/1/20 8:24
+FLUME-935,Improvement,Fixed,Resolved,2012/1/17 23:13,2012/2/14 5:33
+FLUME-936,Bug,Fixed,Resolved,2012/1/19 17:48,2012/2/24 13:17
+FLUME-937,Improvement,Fixed,Resolved,2012/1/21 4:04,2012/2/1 3:39
+FLUME-938,Bug,Won't Fix,Resolved,2012/1/28 2:29,2014/11/5 19:23
+FLUME-939,Improvement,Fixed,Resolved,2012/1/31 3:43,2012/1/31 8:50
+FLUME-940,Task,Fixed,Resolved,2012/1/31 5:54,2012/2/2 1:27
+FLUME-941,Improvement,Won't Fix,Resolved,2012/1/31 10:40,2014/11/5 19:23
+FLUME-942,New Feature,Fixed,Resolved,2012/1/31 11:44,2012/2/7 3:48
+FLUME-943,Improvement,Unresolved,Open,2012/1/31 23:08,
+FLUME-944,Improvement,Unresolved,Open,2012/2/1 10:47,
+FLUME-945,Improvement,Fixed,Resolved,2012/2/1 10:49,2012/2/15 13:50
+FLUME-946,Improvement,Fixed,Resolved,2012/2/1 11:03,2012/10/30 5:30
+FLUME-947,New Feature,Duplicate,Resolved,2012/2/1 12:29,2012/2/10 1:41
+FLUME-948,Bug,Won't Fix,Resolved,2012/2/1 15:01,2014/11/5 19:24
+FLUME-949,Task,Fixed,Resolved,2012/2/2 2:13,2012/2/4 3:46
+FLUME-950,Task,Unresolved,Open,2012/2/2 2:46,
+FLUME-951,New Feature,Unresolved,Open,2012/2/3 2:13,
+FLUME-952,Brainstorming,Not A Problem,Resolved,2012/2/6 11:28,2012/2/14 14:47
+FLUME-953,New Feature,Not A Problem,Resolved,2012/2/7 13:37,2016/6/22 4:48
+FLUME-954,Bug,Won't Fix,Resolved,2012/2/7 13:48,2014/11/5 19:24
+FLUME-955,Bug,Fixed,Resolved,2012/2/8 8:54,2012/2/8 9:36
+FLUME-956,Improvement,Fixed,Closed,2012/2/8 9:40,2012/2/8 11:44
+FLUME-957,Bug,Fixed,Resolved,2012/2/9 2:54,2012/2/10 6:23
+FLUME-958,Improvement,Fixed,Resolved,2012/2/9 3:23,2012/2/10 6:24
+FLUME-959,Bug,Won't Fix,Resolved,2012/2/10 15:46,2014/11/5 19:25
+FLUME-960,Bug,Fixed,Resolved,2012/2/11 1:54,2012/2/13 12:17
+FLUME-961,New Feature,Unresolved,Open,2012/2/11 2:22,
+FLUME-962,Sub-task,Fixed,Resolved,2012/2/11 7:42,2012/3/29 9:59
+FLUME-963,Bug,Fixed,Resolved,2012/2/12 3:04,2012/2/14 2:00
+FLUME-964,Improvement,Fixed,Resolved,2012/2/13 1:55,2012/2/13 12:04
+FLUME-965,Improvement,Won't Fix,Resolved,2012/2/13 4:04,2014/11/5 19:25
+FLUME-966,Task,Unresolved,Open,2012/2/13 11:24,
+FLUME-967,Task,Fixed,Resolved,2012/2/13 13:24,2014/10/30 3:46
+FLUME-968,Sub-task,Won't Fix,Resolved,2012/2/13 13:31,2012/3/22 9:04
+FLUME-969,Task,Duplicate,Resolved,2012/2/13 13:33,2012/2/21 2:50
+FLUME-970,New Feature,Fixed,Resolved,2012/2/14 3:56,2012/2/25 2:56
+FLUME-971,New Feature,Fixed,Resolved,2012/2/15 2:54,2012/7/9 10:57
+FLUME-972,Bug,Invalid,Resolved,2012/2/15 3:29,2012/2/23 14:57
+FLUME-973,Bug,Won't Fix,Resolved,2012/2/16 4:10,2012/2/20 22:54
+FLUME-974,Task,Fixed,Resolved,2012/2/16 9:47,2012/3/13 8:03
+FLUME-975,Improvement,Won't Fix,Resolved,2012/2/18 4:01,2012/4/21 8:20
+FLUME-976,Bug,Fixed,Resolved,2012/2/19 14:30,2018/11/11 18:44
+FLUME-977,Task,Fixed,Resolved,2012/2/20 4:37,2012/3/9 2:33
+FLUME-978,Improvement,Fixed,Resolved,2012/2/20 7:26,2012/2/29 12:53
+FLUME-979,Improvement,Fixed,Resolved,2012/2/20 7:59,2012/3/22 14:08
+FLUME-980,Improvement,Duplicate,Resolved,2012/2/20 22:18,2012/2/21 2:53
+FLUME-981,Bug,Unresolved,Patch Available,2012/2/21 15:09,
+FLUME-982,Improvement,Won't Fix,Resolved,2012/2/21 23:30,2012/3/13 3:14
+FLUME-983,Bug,Won't Fix,Resolved,2012/2/22 0:26,2014/11/5 19:26
+FLUME-984,Improvement,Fixed,Resolved,2012/2/22 2:39,2012/3/13 4:10
+FLUME-985,Improvement,Fixed,Resolved,2012/2/22 2:41,2012/3/24 5:09
+FLUME-986,Bug,Won't Fix,Resolved,2012/2/22 8:40,2014/11/5 19:27
+FLUME-987,Bug,Duplicate,Resolved,2012/2/22 9:10,2012/2/22 9:39
+FLUME-988,New Feature,Fixed,Resolved,2012/2/23 10:41,2012/3/29 10:01
+FLUME-989,Sub-task,Fixed,Resolved,2012/2/23 11:38,2012/3/13 10:26
+FLUME-990,Improvement,Duplicate,Closed,2012/2/24 1:23,2012/3/7 20:19
+FLUME-991,Task,Fixed,Resolved,2012/2/24 4:11,2012/4/27 12:56
+FLUME-992,Sub-task,Fixed,Resolved,2012/2/24 4:15,2012/4/27 12:55
+FLUME-993,Bug,Won't Fix,Resolved,2012/2/24 4:57,2014/11/5 19:27
+FLUME-994,New Feature,Unresolved,Open,2012/2/24 5:42,
+FLUME-995,New Feature,Unresolved,Open,2012/2/24 13:53,
+FLUME-996,Test,Won't Fix,Resolved,2012/2/24 13:58,2014/11/5 19:29
+FLUME-997,New Feature,Fixed,Resolved,2012/2/25 12:51,2013/6/13 14:05
+FLUME-998,Improvement,Won't Fix,Resolved,2012/2/26 14:46,2012/2/28 20:58
+FLUME-999,Sub-task,Fixed,Resolved,2012/2/27 14:09,2012/4/2 8:02
+FLUME-1000,Bug,Unresolved,Open,2012/2/28 1:30,
+FLUME-1001,Improvement,Fixed,Resolved,2012/2/28 1:57,2012/5/12 23:58
+FLUME-1002,Bug,Fixed,Resolved,2012/2/28 2:05,2012/3/22 9:36

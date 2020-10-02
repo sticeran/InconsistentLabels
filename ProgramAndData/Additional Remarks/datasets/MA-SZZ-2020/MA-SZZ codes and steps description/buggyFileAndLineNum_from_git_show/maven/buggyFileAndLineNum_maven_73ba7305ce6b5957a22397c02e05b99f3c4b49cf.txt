@@ -1,0 +1,4 @@
+30,30 73ba7305ce6b5957a22397c02e05b99f3c4b49cf^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+58,58 73ba7305ce6b5957a22397c02e05b99f3c4b49cf^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+76,76 73ba7305ce6b5957a22397c02e05b99f3c4b49cf^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+413,413 73ba7305ce6b5957a22397c02e05b99f3c4b49cf^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java

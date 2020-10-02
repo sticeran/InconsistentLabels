@@ -1,0 +1,17 @@
+32,32 49e73d3ff615add1634c80bc161b08dc7c5afda9^ maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmManager.java
+91,91 49e73d3ff615add1634c80bc161b08dc7c5afda9^ maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmManager.java
+113,113 49e73d3ff615add1634c80bc161b08dc7c5afda9^ maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmManager.java
+116,116 49e73d3ff615add1634c80bc161b08dc7c5afda9^ maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmManager.java
+207,207 49e73d3ff615add1634c80bc161b08dc7c5afda9^ maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmManager.java
+210,210 49e73d3ff615add1634c80bc161b08dc7c5afda9^ maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmManager.java
+211,211 49e73d3ff615add1634c80bc161b08dc7c5afda9^ maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmManager.java
+212,212 49e73d3ff615add1634c80bc161b08dc7c5afda9^ maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmManager.java
+213,213 49e73d3ff615add1634c80bc161b08dc7c5afda9^ maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmManager.java
+214,214 49e73d3ff615add1634c80bc161b08dc7c5afda9^ maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmManager.java
+215,215 49e73d3ff615add1634c80bc161b08dc7c5afda9^ maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmManager.java
+216,216 49e73d3ff615add1634c80bc161b08dc7c5afda9^ maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmManager.java
+217,217 49e73d3ff615add1634c80bc161b08dc7c5afda9^ maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmManager.java
+218,218 49e73d3ff615add1634c80bc161b08dc7c5afda9^ maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmManager.java
+219,219 49e73d3ff615add1634c80bc161b08dc7c5afda9^ maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmManager.java
+220,220 49e73d3ff615add1634c80bc161b08dc7c5afda9^ maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmManager.java
+221,221 49e73d3ff615add1634c80bc161b08dc7c5afda9^ maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmManager.java

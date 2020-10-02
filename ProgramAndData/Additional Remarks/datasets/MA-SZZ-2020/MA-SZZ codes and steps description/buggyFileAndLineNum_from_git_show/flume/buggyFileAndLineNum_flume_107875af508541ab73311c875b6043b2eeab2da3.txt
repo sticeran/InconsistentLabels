@@ -1,0 +1,3 @@
+34,34 107875af508541ab73311c875b6043b2eeab2da3^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/test/java/org/apache/flume/sink/elasticsearch/ElasticSearchDynamicSerializerTest.java
+35,35 107875af508541ab73311c875b6043b2eeab2da3^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/test/java/org/apache/flume/sink/elasticsearch/ElasticSearchLogStashEventSerializerTest.java
+47,47 107875af508541ab73311c875b6043b2eeab2da3^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/test/java/org/apache/flume/sink/elasticsearch/ElasticSearchSinkTest.java

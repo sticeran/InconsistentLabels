@@ -1,0 +1,10 @@
+208,208 24db0eb9c0b2c004920f95713e86334be25e4177^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactCollector.java
+218,218 24db0eb9c0b2c004920f95713e86334be25e4177^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactCollector.java
+21,21 24db0eb9c0b2c004920f95713e86334be25e4177^ maven-artifact/src/test/java/org/apache/maven/artifact/resolver/DefaultArtifactCollectorTest.java
+509,509 24db0eb9c0b2c004920f95713e86334be25e4177^ maven-artifact/src/test/java/org/apache/maven/artifact/resolver/DefaultArtifactCollectorTest.java
+575,575 24db0eb9c0b2c004920f95713e86334be25e4177^ maven-artifact/src/test/java/org/apache/maven/artifact/resolver/DefaultArtifactCollectorTest.java
+576,576 24db0eb9c0b2c004920f95713e86334be25e4177^ maven-artifact/src/test/java/org/apache/maven/artifact/resolver/DefaultArtifactCollectorTest.java
+577,577 24db0eb9c0b2c004920f95713e86334be25e4177^ maven-artifact/src/test/java/org/apache/maven/artifact/resolver/DefaultArtifactCollectorTest.java
+605,605 24db0eb9c0b2c004920f95713e86334be25e4177^ maven-artifact/src/test/java/org/apache/maven/artifact/resolver/DefaultArtifactCollectorTest.java
+606,606 24db0eb9c0b2c004920f95713e86334be25e4177^ maven-artifact/src/test/java/org/apache/maven/artifact/resolver/DefaultArtifactCollectorTest.java
+779,779 24db0eb9c0b2c004920f95713e86334be25e4177^ maven-artifact/src/test/java/org/apache/maven/artifact/resolver/DefaultArtifactCollectorTest.java

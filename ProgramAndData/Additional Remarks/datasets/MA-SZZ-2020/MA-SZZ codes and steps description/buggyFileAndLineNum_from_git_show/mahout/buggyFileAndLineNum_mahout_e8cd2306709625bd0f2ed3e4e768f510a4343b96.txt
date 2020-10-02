@@ -1,0 +1,3 @@
+342,342 e8cd2306709625bd0f2ed3e4e768f510a4343b96^ core/src/test/java/org/apache/mahout/cf/taste/hadoop/als/ParallelALSFactorizationJobTest.java
+359,359 e8cd2306709625bd0f2ed3e4e768f510a4343b96^ core/src/test/java/org/apache/mahout/cf/taste/hadoop/als/ParallelALSFactorizationJobTest.java
+132,132 e8cd2306709625bd0f2ed3e4e768f510a4343b96^ integration/src/test/java/org/apache/mahout/text/SequenceFilesFromMailArchivesTest.java

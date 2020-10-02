@@ -1,0 +1,1 @@
+593,593 fe929c8a620f15d5d9656db25dfd0e582891b2ae^ maven-artifact/src/test/java/org/apache/maven/artifact/resolver/DefaultArtifactCollectorTest.java

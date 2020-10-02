@@ -1,0 +1,8 @@
+154,154 ed0b352c9a7937415ab069c43db54378a7f40927^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/SnapshotArtifactRepositoryMetadata.java
+157,157 ed0b352c9a7937415ab069c43db54378a7f40927^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/SnapshotArtifactRepositoryMetadata.java
+158,158 ed0b352c9a7937415ab069c43db54378a7f40927^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/SnapshotArtifactRepositoryMetadata.java
+159,159 ed0b352c9a7937415ab069c43db54378a7f40927^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/SnapshotArtifactRepositoryMetadata.java
+160,160 ed0b352c9a7937415ab069c43db54378a7f40927^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/SnapshotArtifactRepositoryMetadata.java
+161,161 ed0b352c9a7937415ab069c43db54378a7f40927^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/SnapshotArtifactRepositoryMetadata.java
+162,162 ed0b352c9a7937415ab069c43db54378a7f40927^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/SnapshotArtifactRepositoryMetadata.java
+163,163 ed0b352c9a7937415ab069c43db54378a7f40927^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/SnapshotArtifactRepositoryMetadata.java

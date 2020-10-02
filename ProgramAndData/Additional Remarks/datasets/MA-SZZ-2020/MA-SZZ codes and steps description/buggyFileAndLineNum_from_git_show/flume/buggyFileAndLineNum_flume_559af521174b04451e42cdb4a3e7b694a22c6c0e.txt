@@ -1,0 +1,5 @@
+198,198 559af521174b04451e42cdb4a3e7b694a22c6c0e^ src/java/com/cloudera/flume/handlers/syslog/SyslogWireExtractor.java
+199,199 559af521174b04451e42cdb4a3e7b694a22c6c0e^ src/java/com/cloudera/flume/handlers/syslog/SyslogWireExtractor.java
+29,29 559af521174b04451e42cdb4a3e7b694a22c6c0e^ src/java/com/cloudera/util/ByteBufferInputStream.java
+37,37 559af521174b04451e42cdb4a3e7b694a22c6c0e^ src/java/com/cloudera/util/ByteBufferInputStream.java
+49,49 559af521174b04451e42cdb4a3e7b694a22c6c0e^ src/java/com/cloudera/util/ByteBufferInputStream.java

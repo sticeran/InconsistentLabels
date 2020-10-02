@@ -1,0 +1,7 @@
+372,372 e6df16d782ae8917b443be81d6a5ad755e02f5c3^ flume-ng-core/src/main/java/org/apache/flume/source/SyslogUtils.java
+133,133 e6df16d782ae8917b443be81d6a5ad755e02f5c3^ flume-ng-core/src/test/java/org/apache/flume/source/TestSyslogUtils.java
+144,144 e6df16d782ae8917b443be81d6a5ad755e02f5c3^ flume-ng-core/src/test/java/org/apache/flume/source/TestSyslogUtils.java
+151,151 e6df16d782ae8917b443be81d6a5ad755e02f5c3^ flume-ng-core/src/test/java/org/apache/flume/source/TestSyslogUtils.java
+162,162 e6df16d782ae8917b443be81d6a5ad755e02f5c3^ flume-ng-core/src/test/java/org/apache/flume/source/TestSyslogUtils.java
+172,172 e6df16d782ae8917b443be81d6a5ad755e02f5c3^ flume-ng-core/src/test/java/org/apache/flume/source/TestSyslogUtils.java
+182,182 e6df16d782ae8917b443be81d6a5ad755e02f5c3^ flume-ng-core/src/test/java/org/apache/flume/source/TestSyslogUtils.java

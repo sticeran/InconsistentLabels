@@ -1,0 +1,1 @@
+77,77 dd1880231b7f8f64e2a0d4a43ebf7e95e0196562^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSSequenceFile.java

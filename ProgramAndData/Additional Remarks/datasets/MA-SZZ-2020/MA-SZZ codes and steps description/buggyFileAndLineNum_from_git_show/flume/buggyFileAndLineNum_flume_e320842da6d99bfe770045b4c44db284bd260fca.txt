@@ -1,0 +1,9 @@
+135,135 e320842da6d99bfe770045b4c44db284bd260fca^ flume-ng-sources/flume-jms-source/src/main/java/org/apache/flume/source/jms/JMSSource.java
+136,136 e320842da6d99bfe770045b4c44db284bd260fca^ flume-ng-sources/flume-jms-source/src/main/java/org/apache/flume/source/jms/JMSSource.java
+140,140 e320842da6d99bfe770045b4c44db284bd260fca^ flume-ng-sources/flume-jms-source/src/main/java/org/apache/flume/source/jms/JMSSource.java
+51,51 e320842da6d99bfe770045b4c44db284bd260fca^ flume-ng-sources/flume-jms-source/src/main/java/org/apache/flume/source/jms/JMSSourceConfiguration.java
+53,53 e320842da6d99bfe770045b4c44db284bd260fca^ flume-ng-sources/flume-jms-source/src/main/java/org/apache/flume/source/jms/JMSSourceConfiguration.java
+196,196 e320842da6d99bfe770045b4c44db284bd260fca^ flume-ng-sources/flume-jms-source/src/test/java/org/apache/flume/source/jms/TestJMSSource.java
+211,211 e320842da6d99bfe770045b4c44db284bd260fca^ flume-ng-sources/flume-jms-source/src/test/java/org/apache/flume/source/jms/TestJMSSource.java
+241,241 e320842da6d99bfe770045b4c44db284bd260fca^ flume-ng-sources/flume-jms-source/src/test/java/org/apache/flume/source/jms/TestJMSSource.java
+253,253 e320842da6d99bfe770045b4c44db284bd260fca^ flume-ng-sources/flume-jms-source/src/test/java/org/apache/flume/source/jms/TestJMSSource.java

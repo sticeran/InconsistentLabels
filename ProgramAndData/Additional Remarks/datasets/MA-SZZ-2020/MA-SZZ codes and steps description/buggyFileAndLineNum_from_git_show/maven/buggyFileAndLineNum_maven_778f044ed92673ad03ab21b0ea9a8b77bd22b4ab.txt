@@ -1,0 +1,9 @@
+225,225 778f044ed92673ad03ab21b0ea9a8b77bd22b4ab^ maven-project/src/main/java/org/apache/maven/project/builder/impl/DefaultProjectBuilder.java
+226,226 778f044ed92673ad03ab21b0ea9a8b77bd22b4ab^ maven-project/src/main/java/org/apache/maven/project/builder/impl/DefaultProjectBuilder.java
+25,25 778f044ed92673ad03ab21b0ea9a8b77bd22b4ab^ maven-project/src/test/java/org/apache/maven/project/builder/PomConstructionTest.java
+26,26 778f044ed92673ad03ab21b0ea9a8b77bd22b4ab^ maven-project/src/test/java/org/apache/maven/project/builder/PomConstructionTest.java
+27,27 778f044ed92673ad03ab21b0ea9a8b77bd22b4ab^ maven-project/src/test/java/org/apache/maven/project/builder/PomConstructionTest.java
+28,28 778f044ed92673ad03ab21b0ea9a8b77bd22b4ab^ maven-project/src/test/java/org/apache/maven/project/builder/PomConstructionTest.java
+189,189 778f044ed92673ad03ab21b0ea9a8b77bd22b4ab^ maven-project/src/test/java/org/apache/maven/project/builder/PomConstructionTest.java
+827,827 778f044ed92673ad03ab21b0ea9a8b77bd22b4ab^ maven-project/src/test/java/org/apache/maven/project/builder/PomConstructionTest.java
+838,838 778f044ed92673ad03ab21b0ea9a8b77bd22b4ab^ maven-project/src/test/java/org/apache/maven/project/builder/PomConstructionTest.java

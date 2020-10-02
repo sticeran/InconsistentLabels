@@ -1,0 +1,4 @@
+303,303 b4cfe5671125835f383e39935919abceca9b85b6^ maven-artifact/src/main/java/org/apache/maven/artifact/manager/DefaultWagonManager.java
+304,304 b4cfe5671125835f383e39935919abceca9b85b6^ maven-artifact/src/main/java/org/apache/maven/artifact/manager/DefaultWagonManager.java
+305,305 b4cfe5671125835f383e39935919abceca9b85b6^ maven-artifact/src/main/java/org/apache/maven/artifact/manager/DefaultWagonManager.java
+306,306 b4cfe5671125835f383e39935919abceca9b85b6^ maven-artifact/src/main/java/org/apache/maven/artifact/manager/DefaultWagonManager.java

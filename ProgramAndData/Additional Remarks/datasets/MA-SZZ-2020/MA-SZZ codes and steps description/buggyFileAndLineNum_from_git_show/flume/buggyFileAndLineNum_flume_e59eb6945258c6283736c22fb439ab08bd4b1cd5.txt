@@ -1,0 +1,13 @@
+54,54 e59eb6945258c6283736c22fb439ab08bd4b1cd5^ src/javatest/com/cloudera/flume/handlers/avro/TestAvroDataFile.java
+69,69 e59eb6945258c6283736c22fb439ab08bd4b1cd5^ src/javatest/com/cloudera/flume/handlers/text/TestTailDirSource.java
+77,77 e59eb6945258c6283736c22fb439ab08bd4b1cd5^ src/javatest/com/cloudera/flume/handlers/text/TestTailDirSource.java
+117,117 e59eb6945258c6283736c22fb439ab08bd4b1cd5^ src/javatest/com/cloudera/flume/handlers/text/output/TestOutputFormatFactory.java
+118,118 e59eb6945258c6283736c22fb439ab08bd4b1cd5^ src/javatest/com/cloudera/flume/handlers/text/output/TestOutputFormatFactory.java
+137,137 e59eb6945258c6283736c22fb439ab08bd4b1cd5^ src/javatest/com/cloudera/flume/handlers/text/output/TestOutputFormatFactory.java
+138,138 e59eb6945258c6283736c22fb439ab08bd4b1cd5^ src/javatest/com/cloudera/flume/handlers/text/output/TestOutputFormatFactory.java
+158,158 e59eb6945258c6283736c22fb439ab08bd4b1cd5^ src/javatest/com/cloudera/flume/handlers/text/output/TestOutputFormatFactory.java
+159,159 e59eb6945258c6283736c22fb439ab08bd4b1cd5^ src/javatest/com/cloudera/flume/handlers/text/output/TestOutputFormatFactory.java
+179,179 e59eb6945258c6283736c22fb439ab08bd4b1cd5^ src/javatest/com/cloudera/flume/handlers/text/output/TestOutputFormatFactory.java
+220,220 e59eb6945258c6283736c22fb439ab08bd4b1cd5^ src/javatest/com/cloudera/flume/handlers/text/output/TestOutputFormatFactory.java
+276,276 e59eb6945258c6283736c22fb439ab08bd4b1cd5^ src/javatest/com/cloudera/flume/handlers/text/output/TestOutputFormatFactory.java
+277,277 e59eb6945258c6283736c22fb439ab08bd4b1cd5^ src/javatest/com/cloudera/flume/handlers/text/output/TestOutputFormatFactory.java

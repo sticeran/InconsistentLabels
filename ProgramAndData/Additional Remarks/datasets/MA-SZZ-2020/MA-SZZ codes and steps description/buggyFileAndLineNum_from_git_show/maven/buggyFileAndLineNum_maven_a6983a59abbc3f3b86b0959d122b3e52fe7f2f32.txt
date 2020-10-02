@@ -1,0 +1,2 @@
+61,61 a6983a59abbc3f3b86b0959d122b3e52fe7f2f32^ maven-plugin-registry/src/main/java/org/apache/maven/plugin/registry/DefaultPluginRegistryBuilder.java
+97,97 a6983a59abbc3f3b86b0959d122b3e52fe7f2f32^ maven-plugin-registry/src/main/java/org/apache/maven/plugin/registry/DefaultPluginRegistryBuilder.java

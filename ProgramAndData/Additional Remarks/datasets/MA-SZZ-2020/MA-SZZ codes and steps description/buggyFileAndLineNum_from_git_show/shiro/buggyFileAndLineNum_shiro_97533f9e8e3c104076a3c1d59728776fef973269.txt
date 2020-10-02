@@ -1,0 +1,8 @@
+337,337 97533f9e8e3c104076a3c1d59728776fef973269^ web/src/main/java/org/apache/shiro/web/servlet/SimpleCookie.java
+152,152 97533f9e8e3c104076a3c1d59728776fef973269^ web/src/test/java/org/apache/shiro/web/mgt/CookieRememberMeManagerTest.java
+154,154 97533f9e8e3c104076a3c1d59728776fef973269^ web/src/test/java/org/apache/shiro/web/mgt/CookieRememberMeManagerTest.java
+156,156 97533f9e8e3c104076a3c1d59728776fef973269^ web/src/test/java/org/apache/shiro/web/mgt/CookieRememberMeManagerTest.java
+159,159 97533f9e8e3c104076a3c1d59728776fef973269^ web/src/test/java/org/apache/shiro/web/mgt/CookieRememberMeManagerTest.java
+162,162 97533f9e8e3c104076a3c1d59728776fef973269^ web/src/test/java/org/apache/shiro/web/mgt/CookieRememberMeManagerTest.java
+164,164 97533f9e8e3c104076a3c1d59728776fef973269^ web/src/test/java/org/apache/shiro/web/mgt/CookieRememberMeManagerTest.java
+167,167 97533f9e8e3c104076a3c1d59728776fef973269^ web/src/test/java/org/apache/shiro/web/mgt/CookieRememberMeManagerTest.java

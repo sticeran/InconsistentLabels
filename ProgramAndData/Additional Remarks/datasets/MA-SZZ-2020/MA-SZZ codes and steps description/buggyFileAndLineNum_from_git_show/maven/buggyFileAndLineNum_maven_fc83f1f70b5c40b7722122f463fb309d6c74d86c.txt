@@ -1,0 +1,12 @@
+327,327 fc83f1f70b5c40b7722122f463fb309d6c74d86c^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+328,328 fc83f1f70b5c40b7722122f463fb309d6c74d86c^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+329,329 fc83f1f70b5c40b7722122f463fb309d6c74d86c^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+330,330 fc83f1f70b5c40b7722122f463fb309d6c74d86c^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+331,331 fc83f1f70b5c40b7722122f463fb309d6c74d86c^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+332,332 fc83f1f70b5c40b7722122f463fb309d6c74d86c^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+333,333 fc83f1f70b5c40b7722122f463fb309d6c74d86c^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+334,334 fc83f1f70b5c40b7722122f463fb309d6c74d86c^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+335,335 fc83f1f70b5c40b7722122f463fb309d6c74d86c^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+261,261 fc83f1f70b5c40b7722122f463fb309d6c74d86c^ maven-project/src/test/java/org/apache/maven/project/PomConstructionTest.java
+501,501 fc83f1f70b5c40b7722122f463fb309d6c74d86c^ maven-project/src/test/java/org/apache/maven/project/PomConstructionTest.java
+630,630 fc83f1f70b5c40b7722122f463fb309d6c74d86c^ maven-project/src/test/java/org/apache/maven/project/PomConstructionTest.java

@@ -1,0 +1,6 @@
+85,85 0f8624c2971fa500a2abf82d91c55e82aec57a10^ maven-project/src/main/java/org/apache/maven/project/processor/ProcessorContext.java
+37,37 0f8624c2971fa500a2abf82d91c55e82aec57a10^ maven-project/src/main/java/org/apache/maven/project/processor/PropertiesProcessor.java
+38,38 0f8624c2971fa500a2abf82d91c55e82aec57a10^ maven-project/src/main/java/org/apache/maven/project/processor/PropertiesProcessor.java
+39,39 0f8624c2971fa500a2abf82d91c55e82aec57a10^ maven-project/src/main/java/org/apache/maven/project/processor/PropertiesProcessor.java
+40,40 0f8624c2971fa500a2abf82d91c55e82aec57a10^ maven-project/src/main/java/org/apache/maven/project/processor/PropertiesProcessor.java
+54,54 0f8624c2971fa500a2abf82d91c55e82aec57a10^ maven-project/src/main/java/org/apache/maven/project/processor/PropertiesProcessor.java

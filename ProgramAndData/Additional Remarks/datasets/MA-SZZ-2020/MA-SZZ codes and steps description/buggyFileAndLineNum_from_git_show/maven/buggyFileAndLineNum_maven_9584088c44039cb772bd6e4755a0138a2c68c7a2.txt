@@ -1,0 +1,9 @@
+102,102 9584088c44039cb772bd6e4755a0138a2c68c7a2^ maven-project/src/main/java/org/apache/maven/project/ModelUtils.java
+112,112 9584088c44039cb772bd6e4755a0138a2c68c7a2^ maven-project/src/main/java/org/apache/maven/project/ModelUtils.java
+117,117 9584088c44039cb772bd6e4755a0138a2c68c7a2^ maven-project/src/main/java/org/apache/maven/project/ModelUtils.java
+248,248 9584088c44039cb772bd6e4755a0138a2c68c7a2^ maven-project/src/main/java/org/apache/maven/project/ModelUtils.java
+251,251 9584088c44039cb772bd6e4755a0138a2c68c7a2^ maven-project/src/main/java/org/apache/maven/project/ModelUtils.java
+253,253 9584088c44039cb772bd6e4755a0138a2c68c7a2^ maven-project/src/main/java/org/apache/maven/project/ModelUtils.java
+256,256 9584088c44039cb772bd6e4755a0138a2c68c7a2^ maven-project/src/main/java/org/apache/maven/project/ModelUtils.java
+259,259 9584088c44039cb772bd6e4755a0138a2c68c7a2^ maven-project/src/main/java/org/apache/maven/project/ModelUtils.java
+264,264 9584088c44039cb772bd6e4755a0138a2c68c7a2^ maven-project/src/main/java/org/apache/maven/project/ModelUtils.java

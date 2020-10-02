@@ -1,0 +1,14 @@
+47,47 f2cb0d75f3108ae7e7e44f6b8bbbe964198a83a9^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/FileChannelConfiguration.java
+66,66 f2cb0d75f3108ae7e7e44f6b8bbbe964198a83a9^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/FileChannelConfiguration.java
+53,53 f2cb0d75f3108ae7e7e44f6b8bbbe964198a83a9^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogFile.java
+54,54 f2cb0d75f3108ae7e7e44f6b8bbbe964198a83a9^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogFile.java
+80,80 f2cb0d75f3108ae7e7e44f6b8bbbe964198a83a9^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogFile.java
+335,335 f2cb0d75f3108ae7e7e44f6b8bbbe964198a83a9^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogFile.java
+336,336 f2cb0d75f3108ae7e7e44f6b8bbbe964198a83a9^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogFile.java
+117,117 f2cb0d75f3108ae7e7e44f6b8bbbe964198a83a9^ flume-ng-channels/flume-file-channel/src/test/java/org/apache/flume/channel/file/TestLog.java
+136,136 f2cb0d75f3108ae7e7e44f6b8bbbe964198a83a9^ flume-ng-channels/flume-file-channel/src/test/java/org/apache/flume/channel/file/TestLog.java
+159,159 f2cb0d75f3108ae7e7e44f6b8bbbe964198a83a9^ flume-ng-channels/flume-file-channel/src/test/java/org/apache/flume/channel/file/TestLog.java
+181,181 f2cb0d75f3108ae7e7e44f6b8bbbe964198a83a9^ flume-ng-channels/flume-file-channel/src/test/java/org/apache/flume/channel/file/TestLog.java
+193,193 f2cb0d75f3108ae7e7e44f6b8bbbe964198a83a9^ flume-ng-channels/flume-file-channel/src/test/java/org/apache/flume/channel/file/TestLog.java
+207,207 f2cb0d75f3108ae7e7e44f6b8bbbe964198a83a9^ flume-ng-channels/flume-file-channel/src/test/java/org/apache/flume/channel/file/TestLog.java
+221,221 f2cb0d75f3108ae7e7e44f6b8bbbe964198a83a9^ flume-ng-channels/flume-file-channel/src/test/java/org/apache/flume/channel/file/TestLog.java

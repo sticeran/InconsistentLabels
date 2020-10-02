@@ -1,0 +1,7 @@
+148,148 c9289c083c8dc66a103119f2ade1879e03acaed6^ flume-ng-sinks/flume-hive-sink/src/main/java/org/apache/flume/sink/hive/HiveWriter.java
+170,170 c9289c083c8dc66a103119f2ade1879e03acaed6^ flume-ng-sinks/flume-hive-sink/src/main/java/org/apache/flume/sink/hive/HiveWriter.java
+171,171 c9289c083c8dc66a103119f2ade1879e03acaed6^ flume-ng-sinks/flume-hive-sink/src/main/java/org/apache/flume/sink/hive/HiveWriter.java
+159,159 c9289c083c8dc66a103119f2ade1879e03acaed6^ flume-ng-sinks/flume-hive-sink/src/main/java/org/apache/flume/sink/hive/HiveWriter.java
+338,338 c9289c083c8dc66a103119f2ade1879e03acaed6^ flume-ng-sinks/flume-hive-sink/src/main/java/org/apache/flume/sink/hive/HiveWriter.java
+357,357 c9289c083c8dc66a103119f2ade1879e03acaed6^ flume-ng-sinks/flume-hive-sink/src/main/java/org/apache/flume/sink/hive/HiveWriter.java
+387,387 c9289c083c8dc66a103119f2ade1879e03acaed6^ flume-ng-sinks/flume-hive-sink/src/main/java/org/apache/flume/sink/hive/HiveWriter.java

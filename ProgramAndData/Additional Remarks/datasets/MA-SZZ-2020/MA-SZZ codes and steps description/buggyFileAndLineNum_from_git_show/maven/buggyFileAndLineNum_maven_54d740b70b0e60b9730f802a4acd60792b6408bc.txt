@@ -1,0 +1,3 @@
+139,139 54d740b70b0e60b9730f802a4acd60792b6408bc^ maven-plugins/maven-idea-plugin/src/main/java/org/apache/maven/plugin/idea/IdeaMojo.java
+144,144 54d740b70b0e60b9730f802a4acd60792b6408bc^ maven-plugins/maven-idea-plugin/src/main/java/org/apache/maven/plugin/idea/IdeaMojo.java
+368,368 54d740b70b0e60b9730f802a4acd60792b6408bc^ maven-plugins/maven-idea-plugin/src/main/java/org/apache/maven/plugin/idea/IdeaMojo.java

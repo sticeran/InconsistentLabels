@@ -1,0 +1,7 @@
+87,87 fac09aa5f543f251acbe3aa205b470562b93b344^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/AbstractHDFSWriter.java
+109,109 fac09aa5f543f251acbe3aa205b470562b93b344^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/AbstractHDFSWriter.java
+110,110 fac09aa5f543f251acbe3aa205b470562b93b344^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/AbstractHDFSWriter.java
+126,126 fac09aa5f543f251acbe3aa205b470562b93b344^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/AbstractHDFSWriter.java
+105,105 fac09aa5f543f251acbe3aa205b470562b93b344^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSCompressedDataStream.java
+93,93 fac09aa5f543f251acbe3aa205b470562b93b344^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSDataStream.java
+95,95 fac09aa5f543f251acbe3aa205b470562b93b344^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSSequenceFile.java

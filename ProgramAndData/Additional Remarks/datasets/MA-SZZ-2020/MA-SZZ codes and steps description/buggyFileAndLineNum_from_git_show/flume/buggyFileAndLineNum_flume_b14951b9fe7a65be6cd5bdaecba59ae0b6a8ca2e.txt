@@ -1,0 +1,9 @@
+79,79 b14951b9fe7a65be6cd5bdaecba59ae0b6a8ca2e^ src/javatest/com/cloudera/flume/agent/TestFlumeNodeMain.java
+83,83 b14951b9fe7a65be6cd5bdaecba59ae0b6a8ca2e^ src/javatest/com/cloudera/flume/agent/TestFlumeNodeMain.java
+84,84 b14951b9fe7a65be6cd5bdaecba59ae0b6a8ca2e^ src/javatest/com/cloudera/flume/agent/TestFlumeNodeMain.java
+91,91 b14951b9fe7a65be6cd5bdaecba59ae0b6a8ca2e^ src/javatest/com/cloudera/flume/agent/TestFlumeNodeMain.java
+92,92 b14951b9fe7a65be6cd5bdaecba59ae0b6a8ca2e^ src/javatest/com/cloudera/flume/agent/TestFlumeNodeMain.java
+93,93 b14951b9fe7a65be6cd5bdaecba59ae0b6a8ca2e^ src/javatest/com/cloudera/flume/agent/TestFlumeNodeMain.java
+94,94 b14951b9fe7a65be6cd5bdaecba59ae0b6a8ca2e^ src/javatest/com/cloudera/flume/agent/TestFlumeNodeMain.java
+252,252 b14951b9fe7a65be6cd5bdaecba59ae0b6a8ca2e^ src/javatest/com/cloudera/flume/handlers/hdfs/TestDFSWrite.java
+259,259 b14951b9fe7a65be6cd5bdaecba59ae0b6a8ca2e^ src/javatest/com/cloudera/flume/handlers/hdfs/TestDFSWrite.java

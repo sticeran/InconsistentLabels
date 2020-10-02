@@ -1,0 +1,4 @@
+59,59 6d2b36d3a6605625f29a7eca045af5a64a8edea8^ core/src/test/java/org/apache/shiro/mgt/VMSingletonDefaultSecurityManagerTest.java
+75,75 6d2b36d3a6605625f29a7eca045af5a64a8edea8^ core/src/test/java/org/apache/shiro/mgt/VMSingletonDefaultSecurityManagerTest.java
+76,76 6d2b36d3a6605625f29a7eca045af5a64a8edea8^ core/src/test/java/org/apache/shiro/mgt/VMSingletonDefaultSecurityManagerTest.java
+78,78 6d2b36d3a6605625f29a7eca045af5a64a8edea8^ core/src/test/java/org/apache/shiro/mgt/VMSingletonDefaultSecurityManagerTest.java

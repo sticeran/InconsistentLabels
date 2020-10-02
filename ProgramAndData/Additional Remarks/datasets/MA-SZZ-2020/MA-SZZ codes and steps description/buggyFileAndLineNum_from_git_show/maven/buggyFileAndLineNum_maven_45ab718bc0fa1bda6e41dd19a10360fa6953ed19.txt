@@ -1,0 +1,6 @@
+47,47 45ab718bc0fa1bda6e41dd19a10360fa6953ed19^ maven-embedder/src/main/java/org/apache/maven/cli/event/ExecutionEventLogger.java
+139,139 45ab718bc0fa1bda6e41dd19a10360fa6953ed19^ maven-embedder/src/main/java/org/apache/maven/cli/event/ExecutionEventLogger.java
+143,143 45ab718bc0fa1bda6e41dd19a10360fa6953ed19^ maven-embedder/src/main/java/org/apache/maven/cli/event/ExecutionEventLogger.java
+150,150 45ab718bc0fa1bda6e41dd19a10360fa6953ed19^ maven-embedder/src/main/java/org/apache/maven/cli/event/ExecutionEventLogger.java
+155,155 45ab718bc0fa1bda6e41dd19a10360fa6953ed19^ maven-embedder/src/main/java/org/apache/maven/cli/event/ExecutionEventLogger.java
+163,163 45ab718bc0fa1bda6e41dd19a10360fa6953ed19^ maven-embedder/src/main/java/org/apache/maven/cli/event/ExecutionEventLogger.java

@@ -1,0 +1,8 @@
+58,58 00229e537c3a018e59a9d60c7a45ed624ac5978c^ flume-core/src/main/java/com/cloudera/flume/handlers/hdfs/EscapedCustomDfsSink.java
+74,74 00229e537c3a018e59a9d60c7a45ed624ac5978c^ flume-core/src/main/java/com/cloudera/flume/handlers/hdfs/EscapedCustomDfsSink.java
+81,81 00229e537c3a018e59a9d60c7a45ed624ac5978c^ flume-core/src/main/java/com/cloudera/flume/handlers/hdfs/EscapedCustomDfsSink.java
+98,98 00229e537c3a018e59a9d60c7a45ed624ac5978c^ flume-core/src/main/java/com/cloudera/flume/handlers/hdfs/EscapedCustomDfsSink.java
+99,99 00229e537c3a018e59a9d60c7a45ed624ac5978c^ flume-core/src/main/java/com/cloudera/flume/handlers/hdfs/EscapedCustomDfsSink.java
+182,182 00229e537c3a018e59a9d60c7a45ed624ac5978c^ flume-core/src/main/java/com/cloudera/flume/handlers/hdfs/EscapedCustomDfsSink.java
+93,93 00229e537c3a018e59a9d60c7a45ed624ac5978c^ flume-core/src/test/java/com/cloudera/flume/handlers/rolling/TestRollSink.java
+420,420 00229e537c3a018e59a9d60c7a45ed624ac5978c^ flume-core/src/test/java/com/cloudera/flume/handlers/rolling/TestRollSink.java

@@ -1,0 +1,8 @@
+148,148 bd6aa12253c17ae6d6bf9732d8bea30577306b68^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+160,160 bd6aa12253c17ae6d6bf9732d8bea30577306b68^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+165,165 bd6aa12253c17ae6d6bf9732d8bea30577306b68^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+182,182 bd6aa12253c17ae6d6bf9732d8bea30577306b68^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+175,175 bd6aa12253c17ae6d6bf9732d8bea30577306b68^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+185,185 bd6aa12253c17ae6d6bf9732d8bea30577306b68^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+125,125 bd6aa12253c17ae6d6bf9732d8bea30577306b68^ maven-project/src/test/java/org/apache/maven/project/interpolation/RegexBasedModelInterpolatorTest.java
+126,126 bd6aa12253c17ae6d6bf9732d8bea30577306b68^ maven-project/src/test/java/org/apache/maven/project/interpolation/RegexBasedModelInterpolatorTest.java

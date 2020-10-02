@@ -1,0 +1,17 @@
+190,190 06979601c0d890d3d074c6a45e212f5af1e8e6b4^ maven-artifact/src/main/java/org/apache/maven/artifact/DefaultArtifact.java
+286,286 06979601c0d890d3d074c6a45e212f5af1e8e6b4^ maven-artifact/src/main/java/org/apache/maven/artifact/DefaultArtifact.java
+360,360 06979601c0d890d3d074c6a45e212f5af1e8e6b4^ maven-artifact/src/main/java/org/apache/maven/artifact/DefaultArtifact.java
+373,373 06979601c0d890d3d074c6a45e212f5af1e8e6b4^ maven-artifact/src/main/java/org/apache/maven/artifact/DefaultArtifact.java
+491,491 06979601c0d890d3d074c6a45e212f5af1e8e6b4^ maven-artifact/src/main/java/org/apache/maven/artifact/DefaultArtifact.java
+506,506 06979601c0d890d3d074c6a45e212f5af1e8e6b4^ maven-artifact/src/main/java/org/apache/maven/artifact/DefaultArtifact.java
+509,509 06979601c0d890d3d074c6a45e212f5af1e8e6b4^ maven-artifact/src/main/java/org/apache/maven/artifact/DefaultArtifact.java
+510,510 06979601c0d890d3d074c6a45e212f5af1e8e6b4^ maven-artifact/src/main/java/org/apache/maven/artifact/DefaultArtifact.java
+511,511 06979601c0d890d3d074c6a45e212f5af1e8e6b4^ maven-artifact/src/main/java/org/apache/maven/artifact/DefaultArtifact.java
+512,512 06979601c0d890d3d074c6a45e212f5af1e8e6b4^ maven-artifact/src/main/java/org/apache/maven/artifact/DefaultArtifact.java
+513,513 06979601c0d890d3d074c6a45e212f5af1e8e6b4^ maven-artifact/src/main/java/org/apache/maven/artifact/DefaultArtifact.java
+514,514 06979601c0d890d3d074c6a45e212f5af1e8e6b4^ maven-artifact/src/main/java/org/apache/maven/artifact/DefaultArtifact.java
+515,515 06979601c0d890d3d074c6a45e212f5af1e8e6b4^ maven-artifact/src/main/java/org/apache/maven/artifact/DefaultArtifact.java
+516,516 06979601c0d890d3d074c6a45e212f5af1e8e6b4^ maven-artifact/src/main/java/org/apache/maven/artifact/DefaultArtifact.java
+517,517 06979601c0d890d3d074c6a45e212f5af1e8e6b4^ maven-artifact/src/main/java/org/apache/maven/artifact/DefaultArtifact.java
+518,518 06979601c0d890d3d074c6a45e212f5af1e8e6b4^ maven-artifact/src/main/java/org/apache/maven/artifact/DefaultArtifact.java
+22,22 06979601c0d890d3d074c6a45e212f5af1e8e6b4^ maven-artifact/src/test/java/org/apache/maven/artifact/DefaultArtifactTest.java

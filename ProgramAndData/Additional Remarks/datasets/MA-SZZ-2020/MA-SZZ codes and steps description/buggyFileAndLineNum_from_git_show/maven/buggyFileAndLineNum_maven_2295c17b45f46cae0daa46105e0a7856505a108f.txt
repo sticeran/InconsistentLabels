@@ -1,0 +1,9 @@
+871,871 2295c17b45f46cae0daa46105e0a7856505a108f^ maven-model-builder/src/main/java/org/apache/maven/model/validation/DefaultModelValidator.java
+872,872 2295c17b45f46cae0daa46105e0a7856505a108f^ maven-model-builder/src/main/java/org/apache/maven/model/validation/DefaultModelValidator.java
+873,873 2295c17b45f46cae0daa46105e0a7856505a108f^ maven-model-builder/src/main/java/org/apache/maven/model/validation/DefaultModelValidator.java
+874,874 2295c17b45f46cae0daa46105e0a7856505a108f^ maven-model-builder/src/main/java/org/apache/maven/model/validation/DefaultModelValidator.java
+878,878 2295c17b45f46cae0daa46105e0a7856505a108f^ maven-model-builder/src/main/java/org/apache/maven/model/validation/DefaultModelValidator.java
+879,879 2295c17b45f46cae0daa46105e0a7856505a108f^ maven-model-builder/src/main/java/org/apache/maven/model/validation/DefaultModelValidator.java
+885,885 2295c17b45f46cae0daa46105e0a7856505a108f^ maven-model-builder/src/main/java/org/apache/maven/model/validation/DefaultModelValidator.java
+886,886 2295c17b45f46cae0daa46105e0a7856505a108f^ maven-model-builder/src/main/java/org/apache/maven/model/validation/DefaultModelValidator.java
+891,891 2295c17b45f46cae0daa46105e0a7856505a108f^ maven-model-builder/src/main/java/org/apache/maven/model/validation/DefaultModelValidator.java

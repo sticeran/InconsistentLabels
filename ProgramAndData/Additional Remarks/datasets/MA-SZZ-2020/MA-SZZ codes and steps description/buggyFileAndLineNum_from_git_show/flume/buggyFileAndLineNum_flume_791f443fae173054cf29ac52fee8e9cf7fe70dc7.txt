@@ -1,0 +1,6 @@
+27,27 791f443fae173054cf29ac52fee8e9cf7fe70dc7^ flume-ng-sinks/flume-ng-hbase-sink/src/main/java/org/apache/flume/sink/hbase/HBaseSink.java
+91,91 791f443fae173054cf29ac52fee8e9cf7fe70dc7^ flume-ng-sinks/flume-ng-hbase-sink/src/main/java/org/apache/flume/sink/hbase/HBaseSink.java
+227,227 791f443fae173054cf29ac52fee8e9cf7fe70dc7^ flume-ng-sinks/flume-ng-hbase-sink/src/main/java/org/apache/flume/sink/hbase/HBaseSink.java
+233,233 791f443fae173054cf29ac52fee8e9cf7fe70dc7^ flume-ng-sinks/flume-ng-hbase-sink/src/main/java/org/apache/flume/sink/hbase/HBaseSink.java
+275,275 791f443fae173054cf29ac52fee8e9cf7fe70dc7^ flume-ng-sinks/flume-ng-hbase-sink/src/main/java/org/apache/flume/sink/hbase/HBaseSink.java
+283,283 791f443fae173054cf29ac52fee8e9cf7fe70dc7^ flume-ng-sinks/flume-ng-hbase-sink/src/main/java/org/apache/flume/sink/hbase/HBaseSink.java

@@ -1,0 +1,2 @@
+370,370 598cd29727f85fb33ec35288ef2f29adb31a3957^ maven-project/src/main/java/org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler.java
+371,371 598cd29727f85fb33ec35288ef2f29adb31a3957^ maven-project/src/main/java/org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler.java

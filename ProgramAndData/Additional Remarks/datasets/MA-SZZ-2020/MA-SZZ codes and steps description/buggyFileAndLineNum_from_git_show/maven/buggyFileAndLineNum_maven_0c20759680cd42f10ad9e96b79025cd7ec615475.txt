@@ -1,0 +1,2 @@
+1456,1456 0c20759680cd42f10ad9e96b79025cd7ec615475^ maven-core/src/test/java/org/apache/maven/project/PomConstructionTest.java
+69,69 0c20759680cd42f10ad9e96b79025cd7ec615475^ maven-model-builder/src/main/java/org/apache/maven/model/plugin/DefaultReportingConverter.java

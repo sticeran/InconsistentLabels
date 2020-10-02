@@ -1,0 +1,17 @@
+39,39 237bcbdcd40b27c1bae2d191d8b7c60bd20da72e^ core/src/main/java/org/apache/mahout/clustering/GaussianAccumulator.java
+52,52 237bcbdcd40b27c1bae2d191d8b7c60bd20da72e^ core/src/main/java/org/apache/mahout/clustering/OnlineGaussianAccumulator.java
+53,53 237bcbdcd40b27c1bae2d191d8b7c60bd20da72e^ core/src/main/java/org/apache/mahout/clustering/OnlineGaussianAccumulator.java
+54,54 237bcbdcd40b27c1bae2d191d8b7c60bd20da72e^ core/src/main/java/org/apache/mahout/clustering/OnlineGaussianAccumulator.java
+59,59 237bcbdcd40b27c1bae2d191d8b7c60bd20da72e^ core/src/main/java/org/apache/mahout/clustering/OnlineGaussianAccumulator.java
+63,63 237bcbdcd40b27c1bae2d191d8b7c60bd20da72e^ core/src/main/java/org/apache/mahout/clustering/OnlineGaussianAccumulator.java
+68,68 237bcbdcd40b27c1bae2d191d8b7c60bd20da72e^ core/src/main/java/org/apache/mahout/clustering/OnlineGaussianAccumulator.java
+71,71 237bcbdcd40b27c1bae2d191d8b7c60bd20da72e^ core/src/main/java/org/apache/mahout/clustering/OnlineGaussianAccumulator.java
+68,68 237bcbdcd40b27c1bae2d191d8b7c60bd20da72e^ core/src/main/java/org/apache/mahout/clustering/RunningSumsGaussianAccumulator.java
+69,69 237bcbdcd40b27c1bae2d191d8b7c60bd20da72e^ core/src/main/java/org/apache/mahout/clustering/RunningSumsGaussianAccumulator.java
+70,70 237bcbdcd40b27c1bae2d191d8b7c60bd20da72e^ core/src/main/java/org/apache/mahout/clustering/RunningSumsGaussianAccumulator.java
+74,74 237bcbdcd40b27c1bae2d191d8b7c60bd20da72e^ core/src/main/java/org/apache/mahout/clustering/RunningSumsGaussianAccumulator.java
+77,77 237bcbdcd40b27c1bae2d191d8b7c60bd20da72e^ core/src/main/java/org/apache/mahout/clustering/RunningSumsGaussianAccumulator.java
+80,80 237bcbdcd40b27c1bae2d191d8b7c60bd20da72e^ core/src/main/java/org/apache/mahout/clustering/RunningSumsGaussianAccumulator.java
+107,107 237bcbdcd40b27c1bae2d191d8b7c60bd20da72e^ core/src/test/java/org/apache/mahout/clustering/TestGaussianAccumulators.java
+108,108 237bcbdcd40b27c1bae2d191d8b7c60bd20da72e^ core/src/test/java/org/apache/mahout/clustering/TestGaussianAccumulators.java
+139,139 237bcbdcd40b27c1bae2d191d8b7c60bd20da72e^ utils/src/main/java/org/apache/mahout/clustering/cdbw/CDbwEvaluator.java

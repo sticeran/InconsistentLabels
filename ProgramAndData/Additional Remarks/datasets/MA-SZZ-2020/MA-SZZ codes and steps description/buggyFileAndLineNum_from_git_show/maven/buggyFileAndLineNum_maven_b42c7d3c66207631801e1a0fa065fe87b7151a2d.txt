@@ -1,0 +1,4 @@
+194,194 b42c7d3c66207631801e1a0fa065fe87b7151a2d^ maven-project/src/main/java/org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler.java
+198,198 b42c7d3c66207631801e1a0fa065fe87b7151a2d^ maven-project/src/main/java/org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler.java
+201,201 b42c7d3c66207631801e1a0fa065fe87b7151a2d^ maven-project/src/main/java/org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler.java
+266,266 b42c7d3c66207631801e1a0fa065fe87b7151a2d^ maven-project/src/test/java/org/apache/maven/project/inheritance/DefaultModelInheritanceAssemblerTest.java

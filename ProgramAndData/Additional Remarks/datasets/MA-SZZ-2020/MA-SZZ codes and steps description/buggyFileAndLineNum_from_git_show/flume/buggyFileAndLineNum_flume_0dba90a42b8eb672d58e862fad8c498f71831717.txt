@@ -1,0 +1,1 @@
+501,501 0dba90a42b8eb672d58e862fad8c498f71831717^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Log.java

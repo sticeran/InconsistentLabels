@@ -1,0 +1,6 @@
+29,29 cdb8ad6dd1ee5e24abede7ec22dce7a8197dbd1a^ maven-model-builder/src/main/java/org/apache/maven/model/interpolation/MavenBuildTimestamp.java
+87,87 cdb8ad6dd1ee5e24abede7ec22dce7a8197dbd1a^ maven-model-builder/src/test/java/org/apache/maven/model/interpolation/AbstractModelInterpolatorTest.java
+122,122 cdb8ad6dd1ee5e24abede7ec22dce7a8197dbd1a^ maven-model-builder/src/test/java/org/apache/maven/model/interpolation/AbstractModelInterpolatorTest.java
+123,123 cdb8ad6dd1ee5e24abede7ec22dce7a8197dbd1a^ maven-model-builder/src/test/java/org/apache/maven/model/interpolation/AbstractModelInterpolatorTest.java
+33,33 cdb8ad6dd1ee5e24abede7ec22dce7a8197dbd1a^ maven-model-builder/src/test/java/org/apache/maven/model/interpolation/MavenBuildTimestampTest.java
+37,37 cdb8ad6dd1ee5e24abede7ec22dce7a8197dbd1a^ maven-model-builder/src/test/java/org/apache/maven/model/interpolation/MavenBuildTimestampTest.java

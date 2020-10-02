@@ -1,0 +1,11 @@
+231,231 0a0d6e6eeda7e6c7f82dd06e80b7ee56404e55a7^ maven-plugin-tools/maven-plugin-tools-api/src/main/java/org/apache/maven/tools/plugin/generator/PluginXdocGenerator.java
+234,234 0a0d6e6eeda7e6c7f82dd06e80b7ee56404e55a7^ maven-plugin-tools/maven-plugin-tools-api/src/main/java/org/apache/maven/tools/plugin/generator/PluginXdocGenerator.java
+235,235 0a0d6e6eeda7e6c7f82dd06e80b7ee56404e55a7^ maven-plugin-tools/maven-plugin-tools-api/src/main/java/org/apache/maven/tools/plugin/generator/PluginXdocGenerator.java
+236,236 0a0d6e6eeda7e6c7f82dd06e80b7ee56404e55a7^ maven-plugin-tools/maven-plugin-tools-api/src/main/java/org/apache/maven/tools/plugin/generator/PluginXdocGenerator.java
+239,239 0a0d6e6eeda7e6c7f82dd06e80b7ee56404e55a7^ maven-plugin-tools/maven-plugin-tools-api/src/main/java/org/apache/maven/tools/plugin/generator/PluginXdocGenerator.java
+240,240 0a0d6e6eeda7e6c7f82dd06e80b7ee56404e55a7^ maven-plugin-tools/maven-plugin-tools-api/src/main/java/org/apache/maven/tools/plugin/generator/PluginXdocGenerator.java
+241,241 0a0d6e6eeda7e6c7f82dd06e80b7ee56404e55a7^ maven-plugin-tools/maven-plugin-tools-api/src/main/java/org/apache/maven/tools/plugin/generator/PluginXdocGenerator.java
+242,242 0a0d6e6eeda7e6c7f82dd06e80b7ee56404e55a7^ maven-plugin-tools/maven-plugin-tools-api/src/main/java/org/apache/maven/tools/plugin/generator/PluginXdocGenerator.java
+243,243 0a0d6e6eeda7e6c7f82dd06e80b7ee56404e55a7^ maven-plugin-tools/maven-plugin-tools-api/src/main/java/org/apache/maven/tools/plugin/generator/PluginXdocGenerator.java
+244,244 0a0d6e6eeda7e6c7f82dd06e80b7ee56404e55a7^ maven-plugin-tools/maven-plugin-tools-api/src/main/java/org/apache/maven/tools/plugin/generator/PluginXdocGenerator.java
+258,258 0a0d6e6eeda7e6c7f82dd06e80b7ee56404e55a7^ maven-plugin-tools/maven-plugin-tools-api/src/main/java/org/apache/maven/tools/plugin/generator/PluginXdocGenerator.java

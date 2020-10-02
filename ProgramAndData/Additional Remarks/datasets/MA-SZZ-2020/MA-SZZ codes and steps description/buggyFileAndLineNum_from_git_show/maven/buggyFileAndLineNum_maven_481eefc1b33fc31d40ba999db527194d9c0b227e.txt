@@ -1,0 +1,3 @@
+106,106 481eefc1b33fc31d40ba999db527194d9c0b227e^ maven-core/src/main/java/org/apache/maven/DefaultProjectDependenciesResolver.java
+307,307 481eefc1b33fc31d40ba999db527194d9c0b227e^ maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycleExecutor.java
+308,308 481eefc1b33fc31d40ba999db527194d9c0b227e^ maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycleExecutor.java

@@ -1,0 +1,4 @@
+36,36 583ecfa15fdcceebdedf1310f5b70b78f1ac2aaf^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSFormatterFactory.java
+39,39 583ecfa15fdcceebdedf1310f5b70b78f1ac2aaf^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSFormatterFactory.java
+42,42 583ecfa15fdcceebdedf1310f5b70b78f1ac2aaf^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSFormatterFactory.java
+43,43 583ecfa15fdcceebdedf1310f5b70b78f1ac2aaf^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSFormatterFactory.java

@@ -1,0 +1,4 @@
+328,328 ffb52b9e656df51e5e6881cfc8ed851a89cdc2f1^ flume-ng-core/src/main/java/org/apache/flume/source/SyslogParser.java
+332,332 ffb52b9e656df51e5e6881cfc8ed851a89cdc2f1^ flume-ng-core/src/main/java/org/apache/flume/source/SyslogParser.java
+193,193 ffb52b9e656df51e5e6881cfc8ed851a89cdc2f1^ flume-ng-core/src/test/java/org/apache/flume/serialization/SyslogAvroEventSerializer.java
+197,197 ffb52b9e656df51e5e6881cfc8ed851a89cdc2f1^ flume-ng-core/src/test/java/org/apache/flume/serialization/SyslogAvroEventSerializer.java

@@ -1,0 +1,1001 @@
+issueKey,type,resolution,status,createdDateEpoch,resolvedDateEpoch
+ZEPPELIN-2007,Sub-task,Fixed,Resolved,2017/1/24 17:56,2017/1/25 2:29
+ZEPPELIN-2008,Improvement,Fixed,Resolved,2017/1/25 8:34,2017/2/2 7:34
+ZEPPELIN-2009,Bug,Fixed,Closed,2017/1/25 9:17,2017/1/26 13:07
+ZEPPELIN-2010,Sub-task,Unresolved,Open,2017/1/25 13:34,
+ZEPPELIN-2011,Bug,Fixed,Closed,2017/1/25 13:53,2017/1/26 13:06
+ZEPPELIN-2012,Bug,Unresolved,Open,2017/1/25 15:23,
+ZEPPELIN-2013,Sub-task,Fixed,Resolved,2017/1/26 0:21,2017/1/26 15:34
+ZEPPELIN-2014,Bug,Fixed,Resolved,2017/1/26 7:30,2017/2/4 8:17
+ZEPPELIN-2015,Sub-task,Fixed,Resolved,2017/1/26 16:02,2017/1/28 14:43
+ZEPPELIN-2016,Test,Fixed,Closed,2017/1/26 17:17,2017/1/28 18:29
+ZEPPELIN-2017,Bug,Unresolved,Open,2017/1/26 20:58,
+ZEPPELIN-2018,Bug,Unresolved,Open,2017/1/27 1:15,
+ZEPPELIN-2019,New Feature,Unresolved,Open,2017/1/27 2:59,
+ZEPPELIN-2020,Sub-task,Fixed,Resolved,2017/1/27 3:08,2017/1/31 4:43
+ZEPPELIN-2021,Sub-task,Unresolved,Open,2017/1/27 4:13,
+ZEPPELIN-2022,Sub-task,Unresolved,Open,2017/1/27 12:21,
+ZEPPELIN-2023,Bug,Fixed,Closed,2017/1/27 16:34,2017/2/1 11:01
+ZEPPELIN-2024,Bug,Fixed,Resolved,2017/1/27 17:59,2017/1/28 4:42
+ZEPPELIN-2025,Improvement,Fixed,Resolved,2017/1/28 11:29,2017/1/31 14:58
+ZEPPELIN-2026,Sub-task,Fixed,Resolved,2017/1/30 5:52,2017/2/1 9:12
+ZEPPELIN-2027,Sub-task,Fixed,Resolved,2017/1/30 6:56,2017/2/22 7:36
+ZEPPELIN-2028,Wish,Unresolved,Open,2017/1/30 9:59,
+ZEPPELIN-2029,Sub-task,Unresolved,Open,2017/1/30 11:41,
+ZEPPELIN-2030,Bug,Fixed,Resolved,2017/1/30 12:38,2017/2/2 14:50
+ZEPPELIN-2031,Improvement,Unresolved,Open,2017/1/30 16:14,
+ZEPPELIN-2032,Bug,Unresolved,Open,2017/1/30 21:48,
+ZEPPELIN-2033,Bug,Fixed,Resolved,2017/1/31 17:56,2017/2/2 9:50
+ZEPPELIN-2034,Improvement,Unresolved,Open,2017/2/1 4:41,
+ZEPPELIN-2035,Improvement,Fixed,Resolved,2017/2/1 8:16,2018/6/15 9:10
+ZEPPELIN-2036,Improvement,Fixed,Resolved,2017/2/1 11:11,2017/2/3 20:15
+ZEPPELIN-2037,Bug,Fixed,Resolved,2017/2/1 13:27,2017/3/16 22:55
+ZEPPELIN-2038,Task,Not A Problem,Closed,2017/2/1 15:43,2017/2/1 16:44
+ZEPPELIN-2039,Improvement,Won't Fix,Closed,2017/2/1 17:45,2017/2/1 19:45
+ZEPPELIN-2040,New Feature,Unresolved,In Progress,2017/2/1 22:25,
+ZEPPELIN-2041,Sub-task,Unresolved,Open,2017/2/1 22:44,
+ZEPPELIN-2042,Task,Fixed,Resolved,2017/2/2 13:15,2017/2/7 13:02
+ZEPPELIN-2043,Bug,Unresolved,Open,2017/2/2 19:35,
+ZEPPELIN-2044,Bug,Unresolved,Open,2017/2/2 23:06,
+ZEPPELIN-2045,Bug,Fixed,Resolved,2017/2/3 9:00,2017/2/8 13:49
+ZEPPELIN-2046,Bug,Fixed,Resolved,2017/2/3 10:28,2017/2/8 8:39
+ZEPPELIN-2047,Improvement,Fixed,Resolved,2017/2/3 16:27,2017/2/8 15:23
+ZEPPELIN-2048,Bug,Fixed,Resolved,2017/2/3 17:01,2017/2/23 10:21
+ZEPPELIN-2049,Bug,Fixed,Resolved,2017/2/3 17:08,2017/2/19 22:31
+ZEPPELIN-2050,Improvement,Duplicate,Closed,2017/2/3 18:17,2017/2/3 18:28
+ZEPPELIN-2051,Bug,Unresolved,Open,2017/2/4 4:22,
+ZEPPELIN-2052,Bug,Invalid,Resolved,2017/2/4 4:23,2017/2/4 8:39
+ZEPPELIN-2053,Bug,Unresolved,Open,2017/2/4 4:25,
+ZEPPELIN-2054,Task,Unresolved,Open,2017/2/4 21:10,
+ZEPPELIN-2055,Improvement,Unresolved,Open,2017/2/4 21:53,
+ZEPPELIN-2056,Improvement,Unresolved,Open,2017/2/4 22:51,
+ZEPPELIN-2057,Sub-task,Fixed,Resolved,2017/2/4 22:52,2017/2/16 22:44
+ZEPPELIN-2058,Bug,Unresolved,Open,2017/2/5 7:48,
+ZEPPELIN-2059,Bug,Not A Problem,Resolved,2017/2/5 17:36,2017/2/9 19:37
+ZEPPELIN-2060,Improvement,Fixed,Resolved,2017/2/6 13:25,2017/3/18 18:47
+ZEPPELIN-2061,Sub-task,Fixed,Resolved,2017/2/6 13:31,2017/2/28 11:47
+ZEPPELIN-2062,Bug,Fixed,Resolved,2017/2/6 17:05,2017/2/13 15:37
+ZEPPELIN-2063,Bug,Fixed,Resolved,2017/2/6 17:36,2017/2/15 16:41
+ZEPPELIN-2064,Bug,Unresolved,Open,2017/2/6 21:01,
+ZEPPELIN-2065,Sub-task,Fixed,Resolved,2017/2/6 22:35,2017/2/17 19:32
+ZEPPELIN-2066,Sub-task,Unresolved,Open,2017/2/7 0:45,
+ZEPPELIN-2067,Bug,Fixed,Resolved,2017/2/7 9:27,2017/2/8 16:26
+ZEPPELIN-2068,Improvement,Fixed,Resolved,2017/2/7 10:01,2017/2/12 17:46
+ZEPPELIN-2069,New Feature,Fixed,Resolved,2017/2/7 12:57,2017/3/2 12:07
+ZEPPELIN-2070,Improvement,Fixed,Resolved,2017/2/7 17:01,2017/2/16 9:26
+ZEPPELIN-2071,Bug,Unresolved,Open,2017/2/7 17:51,
+ZEPPELIN-2072,Bug,Fixed,Resolved,2017/2/7 18:37,2017/2/11 15:11
+ZEPPELIN-2073,Improvement,Unresolved,Open,2017/2/7 19:18,
+ZEPPELIN-2074,Sub-task,Unresolved,Open,2017/2/7 19:25,
+ZEPPELIN-2075,Bug,Fixed,Resolved,2017/2/7 22:15,2017/3/14 14:33
+ZEPPELIN-2076,Bug,Unresolved,Open,2017/2/8 1:02,
+ZEPPELIN-2077,Improvement,Unresolved,Open,2017/2/8 11:17,
+ZEPPELIN-2078,Bug,Fixed,Resolved,2017/2/8 11:45,2017/2/11 15:10
+ZEPPELIN-2079,Improvement,Fixed,Resolved,2017/2/8 15:58,2017/2/20 2:20
+ZEPPELIN-2080,Bug,Fixed,Resolved,2017/2/8 16:13,2017/2/19 14:24
+ZEPPELIN-2081,Improvement,Fixed,Resolved,2017/2/8 17:33,2017/2/13 20:41
+ZEPPELIN-2082,Bug,Unresolved,Open,2017/2/8 21:02,
+ZEPPELIN-2083,Bug,Fixed,Resolved,2017/2/8 21:43,2017/2/10 13:11
+ZEPPELIN-2084,Bug,Fixed,Resolved,2017/2/9 8:20,2017/2/12 16:31
+ZEPPELIN-2085,Bug,Fixed,Resolved,2017/2/9 9:03,2017/12/28 8:05
+ZEPPELIN-2086,Test,Fixed,Resolved,2017/2/9 10:35,2017/2/25 22:43
+ZEPPELIN-2087,Improvement,Fixed,Resolved,2017/2/9 12:01,2017/2/11 20:31
+ZEPPELIN-2088,Improvement,Fixed,Resolved,2017/2/9 13:06,2017/4/9 6:49
+ZEPPELIN-2089,Test,Unresolved,Open,2017/2/9 14:55,
+ZEPPELIN-2090,Improvement,Fixed,Resolved,2017/2/9 15:35,2017/2/11 20:30
+ZEPPELIN-2091,Bug,Fixed,Resolved,2017/2/9 18:43,2017/2/21 8:24
+ZEPPELIN-2092,Sub-task,Unresolved,Open,2017/2/10 1:02,
+ZEPPELIN-2093,Bug,Unresolved,Open,2017/2/10 10:43,
+ZEPPELIN-2094,Bug,Fixed,Resolved,2017/2/10 11:40,2017/3/7 14:18
+ZEPPELIN-2095,Bug,Unresolved,Open,2017/2/10 12:23,
+ZEPPELIN-2096,Bug,Fixed,Resolved,2017/2/10 13:07,2017/4/20 15:09
+ZEPPELIN-2097,Bug,Unresolved,Open,2017/2/10 14:08,
+ZEPPELIN-2098,Bug,Unresolved,Open,2017/2/10 14:15,
+ZEPPELIN-2099,Improvement,Fixed,Resolved,2017/2/12 12:12,2017/2/16 9:24
+ZEPPELIN-2100,Improvement,Fixed,Resolved,2017/2/12 15:31,2017/2/16 9:22
+ZEPPELIN-2101,Task,Fixed,Resolved,2017/2/12 17:20,2017/2/21 8:30
+ZEPPELIN-2102,Improvement,Unresolved,Open,2017/2/12 22:37,
+ZEPPELIN-2103,Bug,Fixed,Resolved,2017/2/13 18:58,2017/2/23 10:31
+ZEPPELIN-2104,Sub-task,Unresolved,Open,2017/2/13 23:18,
+ZEPPELIN-2105,Bug,Fixed,Resolved,2017/2/14 0:45,2017/2/21 8:26
+ZEPPELIN-2106,Bug,Fixed,Resolved,2017/2/14 3:19,2017/3/22 2:15
+ZEPPELIN-2107,Bug,Unresolved,Open,2017/2/14 5:18,
+ZEPPELIN-2108,Bug,Fixed,Resolved,2017/2/14 5:57,2017/2/20 2:22
+ZEPPELIN-2109,Sub-task,Fixed,Resolved,2017/2/14 10:34,2017/3/7 20:03
+ZEPPELIN-2110,Sub-task,Fixed,Resolved,2017/2/14 11:02,2017/3/7 20:03
+ZEPPELIN-2111,Bug,Cannot Reproduce,Closed,2017/2/14 11:33,2017/4/19 12:52
+ZEPPELIN-2112,Bug,Fixed,Resolved,2017/2/14 12:45,2017/3/5 16:35
+ZEPPELIN-2113,Improvement,Fixed,Resolved,2017/2/14 13:11,2017/3/3 20:04
+ZEPPELIN-2114,Improvement,Fixed,Resolved,2017/2/14 21:09,2017/2/28 16:45
+ZEPPELIN-2115,Bug,Unresolved,Open,2017/2/14 23:31,
+ZEPPELIN-2116,Bug,Fixed,Resolved,2017/2/15 9:50,2017/2/21 2:45
+ZEPPELIN-2117,Bug,Won't Fix,Closed,2017/2/15 15:31,2018/7/24 0:46
+ZEPPELIN-2118,Bug,Unresolved,Open,2017/2/15 19:14,
+ZEPPELIN-2119,Bug,Fixed,Resolved,2017/2/15 19:19,2017/3/19 0:30
+ZEPPELIN-2120,Sub-task,Fixed,Resolved,2017/2/15 23:21,2017/2/19 11:02
+ZEPPELIN-2121,Wish,Unresolved,Open,2017/2/16 9:45,
+ZEPPELIN-2122,Bug,Fixed,Resolved,2017/2/16 11:43,2017/5/25 14:54
+ZEPPELIN-2123,Improvement,Fixed,Resolved,2017/2/16 18:19,2017/2/19 17:30
+ZEPPELIN-2124,Bug,Fixed,Resolved,2017/2/16 22:49,2017/3/16 23:00
+ZEPPELIN-2125,Improvement,Duplicate,Closed,2017/2/16 23:48,2017/2/21 21:24
+ZEPPELIN-2126,Bug,Unresolved,Open,2017/2/17 14:05,
+ZEPPELIN-2127,Bug,Unresolved,Open,2017/2/17 15:47,
+ZEPPELIN-2128,Improvement,Unresolved,Open,2017/2/17 18:12,
+ZEPPELIN-2129,Sub-task,Fixed,Resolved,2017/2/17 20:22,2017/2/17 23:54
+ZEPPELIN-2130,Bug,Fixed,Resolved,2017/2/17 21:50,2017/3/5 15:15
+ZEPPELIN-2131,Bug,Fixed,Resolved,2017/2/17 23:25,2017/5/25 14:37
+ZEPPELIN-2132,Bug,Unresolved,Open,2017/2/17 23:34,
+ZEPPELIN-2133,Bug,Invalid,Closed,2017/2/18 11:25,2017/4/4 2:07
+ZEPPELIN-2134,Task,Done,Closed,2017/2/18 12:13,2017/4/1 9:54
+ZEPPELIN-2135,Bug,Fixed,Resolved,2017/2/19 16:53,2017/2/23 10:23
+ZEPPELIN-2136,Bug,Unresolved,Open,2017/2/20 15:21,
+ZEPPELIN-2137,Improvement,Fixed,Resolved,2017/2/20 19:16,2017/2/24 3:35
+ZEPPELIN-2138,Bug,Unresolved,Open,2017/2/20 20:42,
+ZEPPELIN-2139,Bug,Fixed,Resolved,2017/2/21 4:52,2017/3/7 13:31
+ZEPPELIN-2140,Improvement,Fixed,Resolved,2017/2/21 11:45,2017/2/28 12:03
+ZEPPELIN-2141,Bug,Unresolved,Open,2017/2/21 13:41,
+ZEPPELIN-2142,Improvement,Abandoned,Closed,2017/2/21 16:32,2017/2/23 3:16
+ZEPPELIN-2143,Bug,Invalid,Closed,2017/2/21 18:57,2017/2/21 19:22
+ZEPPELIN-2144,Bug,Unresolved,Open,2017/2/22 1:57,
+ZEPPELIN-2145,New Feature,Unresolved,Open,2017/2/22 8:20,
+ZEPPELIN-2146,Bug,Unresolved,Open,2017/2/22 8:26,
+ZEPPELIN-2147,Bug,Fixed,Resolved,2017/2/22 8:32,2017/2/27 15:00
+ZEPPELIN-2148,Bug,Fixed,Resolved,2017/2/22 8:38,2017/3/4 12:04
+ZEPPELIN-2149,Bug,Fixed,Resolved,2017/2/22 8:46,2017/3/15 16:49
+ZEPPELIN-2150,Bug,Fixed,Closed,2017/2/22 11:57,2017/4/8 18:16
+ZEPPELIN-2151,Test,Fixed,Resolved,2017/2/22 19:39,2017/3/13 2:07
+ZEPPELIN-2152,Improvement,Fixed,Resolved,2017/2/23 2:22,2017/6/1 2:22
+ZEPPELIN-2153,Bug,Unresolved,Open,2017/2/23 6:06,
+ZEPPELIN-2154,Bug,Unresolved,Open,2017/2/23 14:50,
+ZEPPELIN-2155,Bug,Fixed,Resolved,2017/2/23 15:08,2017/3/1 10:19
+ZEPPELIN-2156,Bug,Unresolved,Open,2017/2/23 19:18,
+ZEPPELIN-2157,Bug,Unresolved,Open,2017/2/23 22:21,
+ZEPPELIN-2158,Bug,Unresolved,Open,2017/2/24 0:00,
+ZEPPELIN-2159,Bug,Unresolved,Open,2017/2/24 0:00,
+ZEPPELIN-2160,Bug,Unresolved,Open,2017/2/24 0:11,
+ZEPPELIN-2161,Improvement,Fixed,Resolved,2017/2/24 5:40,2017/3/5 9:42
+ZEPPELIN-2162,Improvement,Fixed,Resolved,2017/2/24 9:39,2017/3/7 10:54
+ZEPPELIN-2163,Bug,Unresolved,Open,2017/2/24 10:37,
+ZEPPELIN-2164,Bug,Fixed,Resolved,2017/2/24 13:09,2017/2/27 15:06
+ZEPPELIN-2165,Bug,Unresolved,Open,2017/2/24 13:52,
+ZEPPELIN-2166,Improvement,Fixed,Resolved,2017/2/24 14:09,2017/3/6 11:06
+ZEPPELIN-2167,Bug,Fixed,Resolved,2017/2/24 15:40,2017/3/4 12:08
+ZEPPELIN-2168,Bug,Fixed,Resolved,2017/2/24 17:59,2017/2/28 16:45
+ZEPPELIN-2169,Task,Not A Problem,Resolved,2017/2/24 18:56,2017/2/28 17:03
+ZEPPELIN-2170,Bug,Unresolved,Open,2017/2/25 0:12,
+ZEPPELIN-2171,Bug,Unresolved,Open,2017/2/25 0:25,
+ZEPPELIN-2172,Bug,Fixed,Resolved,2017/2/25 6:15,2017/3/7 14:45
+ZEPPELIN-2173,Bug,Fixed,Resolved,2017/2/25 6:18,2017/3/2 13:35
+ZEPPELIN-2174,Bug,Unresolved,Open,2017/2/25 6:32,
+ZEPPELIN-2175,Bug,Fixed,Resolved,2017/2/26 3:48,2017/3/16 18:19
+ZEPPELIN-2176,New Feature,Fixed,Resolved,2017/2/26 5:53,2017/4/5 12:48
+ZEPPELIN-2177,Improvement,Not A Problem,Closed,2017/2/26 14:03,2017/2/27 2:45
+ZEPPELIN-2178,Bug,Fixed,Resolved,2017/2/26 21:16,2017/3/7 15:34
+ZEPPELIN-2179,Bug,Fixed,Resolved,2017/2/27 0:16,2017/4/20 0:40
+ZEPPELIN-2180,New Feature,Unresolved,Open,2017/2/27 0:40,
+ZEPPELIN-2181,New Feature,Unresolved,Open,2017/2/27 1:47,
+ZEPPELIN-2182,New Feature,Unresolved,Open,2017/2/27 2:00,
+ZEPPELIN-2183,New Feature,Unresolved,Open,2017/2/27 2:08,
+ZEPPELIN-2184,Bug,Invalid,Resolved,2017/2/27 11:31,2017/2/27 21:41
+ZEPPELIN-2185,Improvement,Unresolved,Open,2017/2/27 11:38,
+ZEPPELIN-2186,Improvement,Unresolved,Open,2017/2/27 11:43,
+ZEPPELIN-2187,Bug,Won't Fix,Closed,2017/2/27 12:42,2017/6/13 0:41
+ZEPPELIN-2188,Improvement,Unresolved,Open,2017/2/27 12:52,
+ZEPPELIN-2189,Improvement,Fixed,Resolved,2017/2/27 13:10,2017/4/4 14:09
+ZEPPELIN-2190,Improvement,Fixed,Resolved,2017/2/27 16:15,2017/4/1 4:11
+ZEPPELIN-2191,Bug,Fixed,Resolved,2017/2/27 22:32,2017/3/6 20:16
+ZEPPELIN-2192,Improvement,Unresolved,Open,2017/2/27 22:42,
+ZEPPELIN-2193,Bug,Unresolved,Open,2017/2/28 12:45,
+ZEPPELIN-2194,Improvement,Duplicate,Closed,2017/2/28 13:16,2017/4/28 18:16
+ZEPPELIN-2195,Improvement,Fixed,Resolved,2017/2/28 13:55,2017/3/3 14:53
+ZEPPELIN-2196,Improvement,Unresolved,Open,2017/2/28 18:01,
+ZEPPELIN-2197,Bug,Fixed,Resolved,2017/3/1 12:23,2017/10/28 8:09
+ZEPPELIN-2198,Bug,Unresolved,Open,2017/3/1 13:22,
+ZEPPELIN-2199,Bug,Fixed,Resolved,2017/3/1 14:44,2017/3/8 15:27
+ZEPPELIN-2200,Improvement,Unresolved,Open,2017/3/1 16:17,
+ZEPPELIN-2201,Bug,Unresolved,Open,2017/3/1 16:23,
+ZEPPELIN-2202,Task,Fixed,Resolved,2017/3/1 17:23,2017/3/14 10:45
+ZEPPELIN-2203,Bug,Not A Problem,Resolved,2017/3/2 9:34,2017/3/2 13:18
+ZEPPELIN-2204,Bug,Unresolved,Open,2017/3/2 21:54,
+ZEPPELIN-2205,Bug,Not A Problem,Closed,2017/3/3 3:18,2017/3/28 0:34
+ZEPPELIN-2206,Bug,Unresolved,Open,2017/3/3 13:56,
+ZEPPELIN-2207,Task,Unresolved,Open,2017/3/3 16:38,
+ZEPPELIN-2208,Bug,Unresolved,Open,2017/3/4 6:47,
+ZEPPELIN-2209,Sub-task,Fixed,Resolved,2017/3/4 19:49,2017/3/31 9:54
+ZEPPELIN-2210,Improvement,Unresolved,Open,2017/3/5 10:10,
+ZEPPELIN-2211,Improvement,Fixed,Resolved,2017/3/5 11:46,2017/3/27 3:34
+ZEPPELIN-2212,Improvement,Unresolved,Open,2017/3/5 11:57,
+ZEPPELIN-2213,Bug,Unresolved,Open,2017/3/5 15:11,
+ZEPPELIN-2214,Bug,Unresolved,Open,2017/3/6 10:27,
+ZEPPELIN-2215,Bug,Fixed,Resolved,2017/3/6 10:57,2017/3/17 12:23
+ZEPPELIN-2216,New Feature,Fixed,Resolved,2017/3/6 13:19,2017/4/28 18:03
+ZEPPELIN-2217,New Feature,Fixed,Resolved,2017/3/6 13:31,2017/4/15 6:35
+ZEPPELIN-2218,Improvement,Unresolved,Open,2017/3/6 19:39,
+ZEPPELIN-2219,Improvement,Fixed,Resolved,2017/3/6 22:45,2017/3/13 22:46
+ZEPPELIN-2220,Bug,Invalid,Resolved,2017/3/7 2:47,2017/3/7 22:47
+ZEPPELIN-2221,Bug,Fixed,Resolved,2017/3/7 3:48,2018/5/30 12:05
+ZEPPELIN-2222,New Feature,Fixed,Resolved,2017/3/7 7:27,2017/6/9 14:38
+ZEPPELIN-2223,New Feature,Unresolved,Open,2017/3/7 13:17,
+ZEPPELIN-2224,Improvement,Fixed,Resolved,2017/3/7 14:52,2017/4/6 15:09
+ZEPPELIN-2225,Improvement,Fixed,Resolved,2017/3/7 18:25,2017/3/19 0:33
+ZEPPELIN-2226,New Feature,Invalid,Closed,2017/3/7 18:30,2017/3/7 18:43
+ZEPPELIN-2227,Improvement,Fixed,Resolved,2017/3/7 18:37,2017/6/9 10:06
+ZEPPELIN-2228,New Feature,Duplicate,Closed,2017/3/7 18:44,2017/4/28 18:15
+ZEPPELIN-2229,Bug,Fixed,Resolved,2017/3/7 19:12,2017/3/28 16:28
+ZEPPELIN-2230,Improvement,Fixed,Resolved,2017/3/7 21:19,2017/3/23 7:21
+ZEPPELIN-2231,Improvement,Fixed,Resolved,2017/3/8 3:19,2017/3/13 22:46
+ZEPPELIN-2232,Bug,Unresolved,Open,2017/3/8 8:00,
+ZEPPELIN-2233,Bug,Unresolved,Open,2017/3/8 8:00,
+ZEPPELIN-2234,Bug,Fixed,Resolved,2017/3/8 14:54,2017/3/16 23:52
+ZEPPELIN-2235,Improvement,Won't Fix,Closed,2017/3/8 18:15,2017/4/9 14:45
+ZEPPELIN-2236,Improvement,Unresolved,Open,2017/3/9 2:56,
+ZEPPELIN-2237,Bug,Fixed,Resolved,2017/3/9 12:38,2017/3/15 23:43
+ZEPPELIN-2238,Bug,Won't Fix,Closed,2017/3/9 23:32,2017/6/24 20:55
+ZEPPELIN-2239,Bug,Unresolved,Open,2017/3/9 23:36,
+ZEPPELIN-2240,Bug,Unresolved,Open,2017/3/10 7:56,
+ZEPPELIN-2241,Bug,Fixed,Resolved,2017/3/10 12:58,2017/3/15 23:23
+ZEPPELIN-2242,Improvement,Fixed,Resolved,2017/3/10 14:58,2017/3/11 20:53
+ZEPPELIN-2243,Improvement,Fixed,Resolved,2017/3/10 15:20,2017/3/24 12:31
+ZEPPELIN-2244,Bug,Not A Problem,Resolved,2017/3/10 23:37,2017/3/13 17:52
+ZEPPELIN-2245,Improvement,Fixed,Resolved,2017/3/10 23:51,2017/3/15 11:05
+ZEPPELIN-2246,Bug,Unresolved,Open,2017/3/11 12:10,
+ZEPPELIN-2247,Bug,Unresolved,Open,2017/3/12 17:09,
+ZEPPELIN-2248,Bug,Duplicate,Closed,2017/3/12 17:33,2017/6/5 13:55
+ZEPPELIN-2249,Bug,Unresolved,Open,2017/3/13 4:58,
+ZEPPELIN-2250,Sub-task,Unresolved,Open,2017/3/13 11:16,
+ZEPPELIN-2251,Improvement,Fixed,Resolved,2017/3/13 14:13,2017/3/23 14:54
+ZEPPELIN-2252,Improvement,Fixed,Resolved,2017/3/13 15:56,2017/3/15 11:06
+ZEPPELIN-2253,Bug,Fixed,Resolved,2017/3/13 21:06,2017/3/15 23:38
+ZEPPELIN-2254,Bug,Unresolved,Open,2017/3/14 2:00,
+ZEPPELIN-2255,Bug,Unresolved,Open,2017/3/14 10:11,
+ZEPPELIN-2256,Improvement,Fixed,Resolved,2017/3/14 10:51,2017/3/19 4:28
+ZEPPELIN-2257,Improvement,Fixed,Resolved,2017/3/14 18:49,2017/4/6 7:05
+ZEPPELIN-2258,Bug,Fixed,Resolved,2017/3/14 21:41,2017/3/23 0:39
+ZEPPELIN-2259,Bug,Unresolved,Open,2017/3/15 2:18,
+ZEPPELIN-2260,Improvement,Fixed,Resolved,2017/3/15 8:39,2017/3/17 15:25
+ZEPPELIN-2261,Improvement,Fixed,Resolved,2017/3/15 14:50,2017/3/23 14:58
+ZEPPELIN-2262,New Feature,Unresolved,Open,2017/3/15 22:39,
+ZEPPELIN-2263,Improvement,Unresolved,Open,2017/3/15 23:56,
+ZEPPELIN-2264,Task,Unresolved,Open,2017/3/16 4:39,
+ZEPPELIN-2265,Wish,Unresolved,Open,2017/3/16 8:44,
+ZEPPELIN-2266,Improvement,Fixed,Resolved,2017/3/16 9:56,2017/3/19 4:29
+ZEPPELIN-2267,Improvement,Fixed,Resolved,2017/3/16 9:57,2017/3/24 12:33
+ZEPPELIN-2268,Improvement,Fixed,Resolved,2017/3/16 10:00,2017/5/7 3:05
+ZEPPELIN-2269,Improvement,Unresolved,Open,2017/3/16 10:05,
+ZEPPELIN-2270,Improvement,Unresolved,Open,2017/3/16 12:17,
+ZEPPELIN-2271,Improvement,Unresolved,In Progress,2017/3/16 14:35,
+ZEPPELIN-2272,Improvement,Unresolved,Open,2017/3/16 16:48,
+ZEPPELIN-2273,Bug,Fixed,Resolved,2017/3/16 17:23,2017/3/28 16:29
+ZEPPELIN-2274,Improvement,Unresolved,Open,2017/3/16 17:38,
+ZEPPELIN-2275,Improvement,Unresolved,Open,2017/3/16 17:46,
+ZEPPELIN-2276,Task,Done,Resolved,2017/3/16 23:33,2017/6/13 0:39
+ZEPPELIN-2277,Improvement,Fixed,Resolved,2017/3/17 15:36,2017/3/17 23:59
+ZEPPELIN-2278,Improvement,Fixed,Resolved,2017/3/17 17:54,2017/3/23 7:22
+ZEPPELIN-2279,Bug,Fixed,Resolved,2017/3/17 19:41,2017/4/9 6:50
+ZEPPELIN-2280,Bug,Unresolved,Open,2017/3/18 0:37,
+ZEPPELIN-2281,Bug,Fixed,Resolved,2017/3/18 2:28,2017/8/20 2:00
+ZEPPELIN-2282,Bug,Fixed,Resolved,2017/3/18 5:40,2017/3/18 13:26
+ZEPPELIN-2283,New Feature,Unresolved,Open,2017/3/18 14:06,
+ZEPPELIN-2284,Bug,Unresolved,Open,2017/3/19 12:07,
+ZEPPELIN-2285,Improvement,Fixed,Closed,2017/3/19 23:26,2017/3/20 13:24
+ZEPPELIN-2286,Improvement,Fixed,Resolved,2017/3/20 11:30,2017/3/21 0:38
+ZEPPELIN-2287,Sub-task,Fixed,Resolved,2017/3/20 14:42,2017/3/28 21:28
+ZEPPELIN-2288,Bug,Fixed,Resolved,2017/3/20 22:22,2017/3/22 4:02
+ZEPPELIN-2289,Improvement,Unresolved,Open,2017/3/21 18:49,
+ZEPPELIN-2290,Bug,Unresolved,Open,2017/3/21 21:35,
+ZEPPELIN-2291,Bug,Fixed,Resolved,2017/3/21 22:03,2017/3/25 5:09
+ZEPPELIN-2292,Bug,Unresolved,Open,2017/3/21 23:54,
+ZEPPELIN-2293,Bug,Invalid,Closed,2017/3/22 12:36,2017/3/24 13:00
+ZEPPELIN-2294,Bug,Fixed,Resolved,2017/3/22 12:50,2017/3/23 21:57
+ZEPPELIN-2295,Improvement,Unresolved,Open,2017/3/22 13:42,
+ZEPPELIN-2296,Bug,Unresolved,Open,2017/3/22 17:16,
+ZEPPELIN-2297,Improvement,Fixed,Resolved,2017/3/22 21:57,2017/4/17 13:19
+ZEPPELIN-2298,Improvement,Fixed,Resolved,2017/3/22 23:14,2017/4/4 14:11
+ZEPPELIN-2299,Bug,Unresolved,Open,2017/3/23 0:58,
+ZEPPELIN-2300,Bug,Unresolved,Open,2017/3/23 2:24,
+ZEPPELIN-2301,Bug,Fixed,Resolved,2017/3/23 2:27,2017/4/21 17:16
+ZEPPELIN-2302,Bug,Fixed,Resolved,2017/3/23 14:04,2017/3/31 16:51
+ZEPPELIN-2303,Bug,Fixed,Resolved,2017/3/23 15:04,2017/3/25 10:54
+ZEPPELIN-2304,Bug,Fixed,Resolved,2017/3/23 16:12,2017/5/2 17:09
+ZEPPELIN-2305,Improvement,Unresolved,Open,2017/3/23 17:00,
+ZEPPELIN-2306,Improvement,Fixed,Resolved,2017/3/23 18:01,2017/3/25 10:52
+ZEPPELIN-2307,Bug,Unresolved,Open,2017/3/23 23:02,
+ZEPPELIN-2308,Improvement,Fixed,Closed,2017/3/23 23:17,2018/6/9 15:52
+ZEPPELIN-2309,Bug,Fixed,Resolved,2017/3/23 23:36,2017/3/25 5:15
+ZEPPELIN-2310,Bug,Unresolved,Open,2017/3/23 23:43,
+ZEPPELIN-2311,Bug,Unresolved,Open,2017/3/24 2:42,
+ZEPPELIN-2312,Improvement,Unresolved,Open,2017/3/24 13:19,
+ZEPPELIN-2313,Bug,Unresolved,Open,2017/3/24 13:22,
+ZEPPELIN-2314,Bug,Fixed,Resolved,2017/3/24 17:48,2017/3/27 17:23
+ZEPPELIN-2315,Bug,Fixed,Resolved,2017/3/24 21:29,2017/4/18 14:57
+ZEPPELIN-2316,Bug,Unresolved,Open,2017/3/24 23:52,
+ZEPPELIN-2317,Improvement,Unresolved,Open,2017/3/26 13:26,
+ZEPPELIN-2318,Bug,Fixed,Resolved,2017/3/26 15:28,2017/4/20 15:31
+ZEPPELIN-2319,Improvement,Unresolved,Open,2017/3/26 22:29,
+ZEPPELIN-2320,Bug,Unresolved,Open,2017/3/27 16:37,
+ZEPPELIN-2321,Bug,Unresolved,Open,2017/3/27 18:05,
+ZEPPELIN-2322,Bug,Unresolved,Open,2017/3/27 23:35,
+ZEPPELIN-2323,Bug,Fixed,Resolved,2017/3/28 0:01,2017/4/13 7:31
+ZEPPELIN-2324,Improvement,Fixed,Resolved,2017/3/28 13:20,2017/4/3 16:55
+ZEPPELIN-2325,Bug,Unresolved,Open,2017/3/29 0:03,
+ZEPPELIN-2326,Improvement,Fixed,Resolved,2017/3/29 3:49,2017/4/17 14:53
+ZEPPELIN-2327,New Feature,Duplicate,Closed,2017/3/29 10:16,2017/3/29 10:50
+ZEPPELIN-2328,Improvement,Fixed,Resolved,2017/3/29 15:00,2017/4/1 17:59
+ZEPPELIN-2329,Bug,Not A Bug,Closed,2017/3/29 16:08,2017/4/18 23:07
+ZEPPELIN-2330,Bug,Fixed,Resolved,2017/3/30 15:09,2017/4/3 10:00
+ZEPPELIN-2331,Improvement,Fixed,Closed,2017/3/30 16:49,2017/4/3 18:10
+ZEPPELIN-2332,Bug,Unresolved,Open,2017/3/30 18:43,
+ZEPPELIN-2333,Bug,Unresolved,Open,2017/3/30 19:45,
+ZEPPELIN-2334,Bug,Unresolved,Open,2017/3/30 23:45,
+ZEPPELIN-2335,Bug,Unresolved,Open,2017/3/31 10:39,
+ZEPPELIN-2336,Bug,Fixed,Resolved,2017/3/31 12:42,2017/4/5 3:35
+ZEPPELIN-2337,Bug,Unresolved,Open,2017/3/31 16:56,
+ZEPPELIN-2338,Bug,Unresolved,Open,2017/3/31 20:54,
+ZEPPELIN-2339,Improvement,Fixed,Resolved,2017/4/1 17:28,2017/4/5 12:37
+ZEPPELIN-2340,Improvement,Unresolved,Open,2017/4/3 13:35,
+ZEPPELIN-2341,Improvement,Fixed,Resolved,2017/4/3 13:53,2017/4/6 23:56
+ZEPPELIN-2342,Sub-task,Fixed,Resolved,2017/4/3 18:45,2017/7/14 9:52
+ZEPPELIN-2343,Bug,Not A Problem,Closed,2017/4/3 19:40,2017/4/4 6:34
+ZEPPELIN-2344,Bug,Not A Bug,Closed,2017/4/4 1:19,2017/4/4 3:01
+ZEPPELIN-2345,Bug,Unresolved,Open,2017/4/4 2:17,
+ZEPPELIN-2346,Bug,Not A Problem,Closed,2017/4/4 6:22,2017/4/4 6:34
+ZEPPELIN-2347,Bug,Fixed,Closed,2017/4/4 8:58,2017/4/5 6:25
+ZEPPELIN-2348,Bug,Fixed,Resolved,2017/4/4 13:00,2017/4/5 3:41
+ZEPPELIN-2349,Bug,Unresolved,Open,2017/4/4 16:43,
+ZEPPELIN-2350,Improvement,Unresolved,Open,2017/4/4 17:05,
+ZEPPELIN-2351,Bug,Not A Problem,Resolved,2017/4/4 17:16,2017/4/13 1:06
+ZEPPELIN-2352,Bug,Unresolved,Open,2017/4/4 17:35,
+ZEPPELIN-2353,Improvement,Unresolved,Open,2017/4/4 21:08,
+ZEPPELIN-2354,Improvement,Unresolved,Open,2017/4/4 23:57,
+ZEPPELIN-2355,Bug,Fixed,Resolved,2017/4/5 11:12,2017/4/17 9:17
+ZEPPELIN-2356,Improvement,Unresolved,Open,2017/4/5 14:31,
+ZEPPELIN-2357,Bug,Fixed,Resolved,2017/4/5 16:14,2017/4/11 17:20
+ZEPPELIN-2358,Bug,Invalid,Closed,2017/4/5 19:26,2017/6/19 10:02
+ZEPPELIN-2359,Improvement,Unresolved,Open,2017/4/6 0:22,
+ZEPPELIN-2360,Improvement,Unresolved,Open,2017/4/6 1:16,
+ZEPPELIN-2361,Sub-task,Unresolved,Open,2017/4/6 6:53,
+ZEPPELIN-2362,Sub-task,Duplicate,Closed,2017/4/6 10:05,2018/6/9 15:53
+ZEPPELIN-2363,Sub-task,Duplicate,Closed,2017/4/6 10:06,2018/6/9 16:05
+ZEPPELIN-2364,Sub-task,Incomplete,Closed,2017/4/6 10:06,2018/6/9 16:06
+ZEPPELIN-2365,New Feature,Fixed,Resolved,2017/4/6 13:35,2017/4/15 7:52
+ZEPPELIN-2366,Bug,Fixed,Resolved,2017/4/6 17:16,2017/4/12 17:29
+ZEPPELIN-2367,Bug,Fixed,Resolved,2017/4/6 19:16,2017/5/3 23:48
+ZEPPELIN-2368,Improvement,Fixed,Resolved,2017/4/7 1:02,2017/10/28 17:08
+ZEPPELIN-2369,Bug,Unresolved,Open,2017/4/7 1:07,
+ZEPPELIN-2370,Bug,Invalid,Resolved,2017/4/7 5:53,2017/4/7 18:44
+ZEPPELIN-2371,Test,Unresolved,Open,2017/4/7 12:05,
+ZEPPELIN-2372,Bug,Unresolved,Open,2017/4/7 17:05,
+ZEPPELIN-2373,Improvement,Fixed,Closed,2017/4/7 17:55,2018/6/9 16:03
+ZEPPELIN-2374,Improvement,Fixed,Resolved,2017/4/7 20:12,2017/4/22 8:26
+ZEPPELIN-2375,Bug,Fixed,Resolved,2017/4/8 2:24,2017/4/23 10:22
+ZEPPELIN-2376,Improvement,Unresolved,Open,2017/4/9 7:04,
+ZEPPELIN-2377,Bug,Fixed,Resolved,2017/4/9 15:45,2017/4/17 9:22
+ZEPPELIN-2378,Bug,Unresolved,Open,2017/4/10 11:49,
+ZEPPELIN-2379,New Feature,Unresolved,Open,2017/4/10 17:30,
+ZEPPELIN-2380,Bug,Unresolved,Open,2017/4/10 18:15,
+ZEPPELIN-2381,Bug,Not A Problem,Closed,2017/4/10 18:21,2017/4/10 19:56
+ZEPPELIN-2382,Bug,Fixed,Resolved,2017/4/10 23:52,2017/5/7 3:01
+ZEPPELIN-2383,Bug,Not A Problem,Closed,2017/4/11 9:46,2017/4/17 11:07
+ZEPPELIN-2384,New Feature,Unresolved,Open,2017/4/11 11:08,
+ZEPPELIN-2385,Task,Fixed,Resolved,2017/4/11 13:32,2018/7/5 18:06
+ZEPPELIN-2386,Improvement,Fixed,Resolved,2017/4/11 14:12,2017/4/18 17:57
+ZEPPELIN-2387,Improvement,Unresolved,Open,2017/4/11 15:41,
+ZEPPELIN-2388,Improvement,Fixed,Resolved,2017/4/11 15:43,2017/5/14 19:29
+ZEPPELIN-2389,Improvement,Unresolved,Open,2017/4/11 15:43,
+ZEPPELIN-2390,Improvement,Fixed,Resolved,2017/4/11 17:59,2017/4/18 17:55
+ZEPPELIN-2391,Bug,Unresolved,Open,2017/4/11 18:02,
+ZEPPELIN-2392,Improvement,Unresolved,Open,2017/4/11 23:25,
+ZEPPELIN-2393,Bug,Cannot Reproduce,Closed,2017/4/12 0:08,2017/5/4 10:51
+ZEPPELIN-2394,Bug,Fixed,Resolved,2017/4/12 5:10,2017/4/13 7:33
+ZEPPELIN-2395,Improvement,Fixed,Resolved,2017/4/12 10:49,2017/4/20 10:59
+ZEPPELIN-2396,Improvement,Fixed,Resolved,2017/4/12 14:23,2017/4/17 13:17
+ZEPPELIN-2397,Improvement,Fixed,Resolved,2017/4/12 18:10,2017/7/4 18:26
+ZEPPELIN-2398,Bug,Unresolved,Open,2017/4/12 20:05,
+ZEPPELIN-2399,Improvement,Unresolved,Open,2017/4/13 14:07,
+ZEPPELIN-2400,Improvement,Unresolved,Open,2017/4/13 16:58,
+ZEPPELIN-2401,Bug,Unresolved,Open,2017/4/13 21:32,
+ZEPPELIN-2402,Bug,Unresolved,Open,2017/4/14 2:32,
+ZEPPELIN-2403,New Feature,Fixed,Resolved,2017/4/14 14:59,2017/7/6 14:55
+ZEPPELIN-2404,Improvement,Unresolved,Open,2017/4/15 12:17,
+ZEPPELIN-2405,Bug,Fixed,Closed,2017/4/15 17:40,2017/4/19 21:04
+ZEPPELIN-2406,Bug,Unresolved,Open,2017/4/16 8:15,
+ZEPPELIN-2407,Bug,Fixed,Resolved,2017/4/16 14:58,2017/4/17 9:20
+ZEPPELIN-2408,Bug,Fixed,Resolved,2017/4/16 16:04,2017/5/2 17:11
+ZEPPELIN-2409,Bug,Fixed,Resolved,2017/4/16 16:07,2017/4/24 12:48
+ZEPPELIN-2410,Bug,Fixed,Resolved,2017/4/17 6:36,2017/4/23 10:15
+ZEPPELIN-2411,Improvement,Fixed,Resolved,2017/4/17 12:09,2017/5/21 3:11
+ZEPPELIN-2412,Bug,Unresolved,Open,2017/4/17 13:23,
+ZEPPELIN-2413,New Feature,Unresolved,Open,2017/4/17 16:57,
+ZEPPELIN-2414,Bug,Unresolved,In Progress,2017/4/17 20:04,
+ZEPPELIN-2415,Improvement,Unresolved,Open,2017/4/17 22:55,
+ZEPPELIN-2416,Improvement,Unresolved,Open,2017/4/18 5:53,
+ZEPPELIN-2417,Improvement,Unresolved,Open,2017/4/18 9:54,
+ZEPPELIN-2418,Improvement,Unresolved,Open,2017/4/18 11:45,
+ZEPPELIN-2419,Task,Unresolved,Open,2017/4/18 12:17,
+ZEPPELIN-2420,Bug,Fixed,Resolved,2017/4/19 8:50,2017/4/21 2:16
+ZEPPELIN-2421,Bug,Fixed,Resolved,2017/4/19 17:23,2017/4/21 11:07
+ZEPPELIN-2422,Bug,Fixed,Resolved,2017/4/19 20:19,2017/4/19 22:26
+ZEPPELIN-2423,Improvement,Unresolved,Open,2017/4/19 20:38,
+ZEPPELIN-2424,Improvement,Unresolved,Open,2017/4/19 20:47,
+ZEPPELIN-2425,New Feature,Unresolved,Open,2017/4/20 7:13,
+ZEPPELIN-2426,Improvement,Fixed,Resolved,2017/4/20 7:15,2017/5/21 16:06
+ZEPPELIN-2427,Improvement,Fixed,Resolved,2017/4/20 12:32,2017/4/28 17:54
+ZEPPELIN-2428,Improvement,Fixed,Resolved,2017/4/20 12:50,2017/5/25 14:46
+ZEPPELIN-2429,Improvement,Fixed,Resolved,2017/4/20 12:56,2017/5/25 14:47
+ZEPPELIN-2430,Improvement,Fixed,Resolved,2017/4/20 17:32,2017/5/16 22:43
+ZEPPELIN-2431,Bug,Unresolved,Open,2017/4/20 18:02,
+ZEPPELIN-2432,Bug,Fixed,Closed,2017/4/20 21:18,2017/12/12 13:56
+ZEPPELIN-2433,Bug,Fixed,Resolved,2017/4/21 0:08,2017/6/2 22:18
+ZEPPELIN-2434,Bug,Fixed,Resolved,2017/4/21 7:38,2017/4/23 10:21
+ZEPPELIN-2435,Improvement,Won't Fix,Resolved,2017/4/21 11:46,2017/5/9 0:05
+ZEPPELIN-2436,Bug,Unresolved,Open,2017/4/21 11:48,
+ZEPPELIN-2437,Bug,Fixed,Resolved,2017/4/21 14:04,2017/5/16 9:11
+ZEPPELIN-2438,Bug,Unresolved,Open,2017/4/21 14:35,
+ZEPPELIN-2439,Improvement,Fixed,Resolved,2017/4/21 15:48,2017/4/23 10:20
+ZEPPELIN-2440,Task,Unresolved,Open,2017/4/21 16:26,
+ZEPPELIN-2441,Bug,Not A Bug,Closed,2017/4/21 18:38,2017/6/9 22:24
+ZEPPELIN-2442,New Feature,Fixed,Resolved,2017/4/21 18:40,2017/4/28 17:58
+ZEPPELIN-2443,New Feature,Unresolved,Closed,2017/4/21 18:54,
+ZEPPELIN-2444,Improvement,Unresolved,Open,2017/4/24 11:48,
+ZEPPELIN-2445,Improvement,Fixed,Resolved,2017/4/24 15:35,2017/4/27 13:12
+ZEPPELIN-2446,Improvement,Unresolved,Open,2017/4/24 21:45,
+ZEPPELIN-2447,Bug,Won't Fix,Closed,2017/4/25 0:12,2017/6/23 17:45
+ZEPPELIN-2448,Bug,Fixed,Resolved,2017/4/25 9:43,2017/4/28 18:01
+ZEPPELIN-2449,Bug,Unresolved,Open,2017/4/25 15:45,
+ZEPPELIN-2450,Bug,Later,Closed,2017/4/25 20:38,2018/6/9 16:07
+ZEPPELIN-2451,Bug,Unresolved,Open,2017/4/26 10:50,
+ZEPPELIN-2452,Sub-task,Fixed,Resolved,2017/4/26 15:16,2017/5/4 19:57
+ZEPPELIN-2453,Sub-task,Fixed,Resolved,2017/4/26 15:18,2017/5/16 10:28
+ZEPPELIN-2454,Sub-task,Fixed,Resolved,2017/4/26 15:19,2017/5/16 10:27
+ZEPPELIN-2455,Bug,Unresolved,Open,2017/4/26 17:31,
+ZEPPELIN-2456,Bug,Unresolved,Open,2017/4/26 20:34,
+ZEPPELIN-2457,Bug,Fixed,Resolved,2017/4/26 23:51,2017/4/27 17:03
+ZEPPELIN-2458,Bug,Unresolved,Open,2017/4/27 0:21,
+ZEPPELIN-2459,Improvement,Fixed,Resolved,2017/4/27 0:53,2017/5/3 23:44
+ZEPPELIN-2460,Improvement,Fixed,Resolved,2017/4/27 14:26,2017/5/28 8:34
+ZEPPELIN-2461,Bug,Fixed,Resolved,2017/4/27 16:35,2017/5/3 23:45
+ZEPPELIN-2462,Bug,Unresolved,In Progress,2017/4/27 16:58,
+ZEPPELIN-2463,Bug,Fixed,Resolved,2017/4/28 13:52,2017/5/15 23:10
+ZEPPELIN-2464,Bug,Unresolved,Open,2017/4/28 14:18,
+ZEPPELIN-2465,Improvement,Fixed,Resolved,2017/4/28 14:51,2017/5/2 9:13
+ZEPPELIN-2466,Bug,Unresolved,Open,2017/4/28 15:08,
+ZEPPELIN-2467,Bug,Fixed,Resolved,2017/4/28 16:11,2017/4/29 0:05
+ZEPPELIN-2468,Bug,Fixed,Resolved,2017/4/28 20:44,2017/5/3 22:59
+ZEPPELIN-2469,Bug,Fixed,Resolved,2017/4/28 23:20,2017/5/25 14:40
+ZEPPELIN-2470,Bug,Duplicate,Closed,2017/4/28 23:29,2017/5/10 22:37
+ZEPPELIN-2471,Bug,Fixed,Resolved,2017/4/28 23:32,2017/6/2 3:45
+ZEPPELIN-2472,Bug,Unresolved,Open,2017/4/28 23:37,
+ZEPPELIN-2473,Bug,Fixed,Resolved,2017/4/28 23:41,2017/6/9 9:57
+ZEPPELIN-2474,Bug,Unresolved,Open,2017/4/29 1:07,
+ZEPPELIN-2475,Bug,Unresolved,Open,2017/4/29 1:52,
+ZEPPELIN-2476,Bug,Duplicate,Resolved,2017/4/29 2:27,2017/5/15 4:58
+ZEPPELIN-2477,Bug,Unresolved,Open,2017/4/29 20:45,
+ZEPPELIN-2478,New Feature,Unresolved,Open,2017/5/1 1:32,
+ZEPPELIN-2479,Improvement,Fixed,Resolved,2017/5/1 15:08,2017/5/6 2:27
+ZEPPELIN-2480,Bug,Unresolved,Open,2017/5/2 3:32,
+ZEPPELIN-2481,Improvement,Fixed,Resolved,2017/5/2 14:22,2017/6/2 8:27
+ZEPPELIN-2482,New Feature,Fixed,Resolved,2017/5/2 19:15,2017/6/24 23:31
+ZEPPELIN-2483,Bug,Duplicate,Closed,2017/5/2 23:48,2017/5/3 16:08
+ZEPPELIN-2484,Bug,Fixed,Resolved,2017/5/3 6:10,2017/5/6 1:36
+ZEPPELIN-2485,Bug,Invalid,Closed,2017/5/3 16:32,2017/5/4 8:10
+ZEPPELIN-2486,Bug,Fixed,Resolved,2017/5/3 20:41,2017/5/4 12:03
+ZEPPELIN-2487,Improvement,Unresolved,Open,2017/5/4 4:06,
+ZEPPELIN-2488,Bug,Unresolved,Open,2017/5/4 5:29,
+ZEPPELIN-2489,Bug,Unresolved,Open,2017/5/4 11:54,
+ZEPPELIN-2490,Improvement,Unresolved,Open,2017/5/4 11:58,
+ZEPPELIN-2491,Improvement,Fixed,Resolved,2017/5/4 12:27,2017/5/15 23:14
+ZEPPELIN-2492,Improvement,Fixed,Resolved,2017/5/4 12:51,2017/5/7 2:59
+ZEPPELIN-2493,Improvement,Fixed,Resolved,2017/5/4 13:32,2017/5/23 9:26
+ZEPPELIN-2494,New Feature,Unresolved,Open,2017/5/4 15:50,
+ZEPPELIN-2495,Improvement,Unresolved,Open,2017/5/4 17:21,
+ZEPPELIN-2496,Bug,Unresolved,Open,2017/5/4 18:08,
+ZEPPELIN-2497,Task,Unresolved,Open,2017/5/4 18:47,
+ZEPPELIN-2498,Sub-task,Unresolved,Open,2017/5/4 18:52,
+ZEPPELIN-2499,Sub-task,Unresolved,Open,2017/5/4 18:56,
+ZEPPELIN-2500,Sub-task,Unresolved,Open,2017/5/4 19:07,
+ZEPPELIN-2501,Improvement,Fixed,Resolved,2017/5/4 21:53,2017/6/22 10:20
+ZEPPELIN-2502,Bug,Fixed,Resolved,2017/5/4 23:45,2017/5/21 3:08
+ZEPPELIN-2503,Bug,Resolved,Resolved,2017/5/5 11:52,2017/5/15 23:13
+ZEPPELIN-2504,Bug,Unresolved,Open,2017/5/5 13:26,
+ZEPPELIN-2505,Bug,Fixed,Resolved,2017/5/5 13:28,2017/7/5 22:01
+ZEPPELIN-2506,Bug,Unresolved,Open,2017/5/5 13:32,
+ZEPPELIN-2507,Bug,Unresolved,Open,2017/5/5 13:33,
+ZEPPELIN-2508,Bug,Unresolved,Open,2017/5/5 13:45,
+ZEPPELIN-2509,Bug,Unresolved,Open,2017/5/6 2:58,
+ZEPPELIN-2510,Bug,Unresolved,Open,2017/5/6 18:34,
+ZEPPELIN-2511,Bug,Feedback Received,Resolved,2017/5/7 22:47,2017/5/9 2:42
+ZEPPELIN-2512,Improvement,Fixed,Resolved,2017/5/9 0:17,2017/5/15 23:15
+ZEPPELIN-2513,Bug,Unresolved,Open,2017/5/9 5:09,
+ZEPPELIN-2514,Bug,Unresolved,Open,2017/5/9 6:33,
+ZEPPELIN-2515,Bug,Fixed,Resolved,2017/5/9 7:41,2018/3/14 20:55
+ZEPPELIN-2516,Improvement,Fixed,Resolved,2017/5/9 14:46,2017/5/15 23:11
+ZEPPELIN-2517,Improvement,Unresolved,Open,2017/5/9 16:12,
+ZEPPELIN-2518,Bug,Not A Bug,Closed,2017/5/9 16:59,2017/5/11 20:15
+ZEPPELIN-2519,Improvement,Fixed,Closed,2017/5/9 23:23,2018/5/15 3:31
+ZEPPELIN-2520,Bug,Fixed,Resolved,2017/5/10 4:41,2017/5/14 19:31
+ZEPPELIN-2521,Bug,Fixed,Resolved,2017/5/10 4:41,2017/5/15 23:17
+ZEPPELIN-2522,Bug,Unresolved,Open,2017/5/10 5:06,
+ZEPPELIN-2523,Bug,Unresolved,Open,2017/5/10 13:02,
+ZEPPELIN-2524,Test,Invalid,Resolved,2017/5/10 14:07,2017/5/10 23:26
+ZEPPELIN-2525,Test,Unresolved,Open,2017/5/10 17:51,
+ZEPPELIN-2526,Bug,Unresolved,Open,2017/5/10 20:55,
+ZEPPELIN-2527,Improvement,Fixed,Resolved,2017/5/11 0:34,2017/8/11 10:16
+ZEPPELIN-2528,New Feature,Fixed,Resolved,2017/5/11 0:43,2018/6/28 9:57
+ZEPPELIN-2529,Improvement,Unresolved,Open,2017/5/11 3:49,
+ZEPPELIN-2530,Bug,Fixed,Resolved,2017/5/11 21:10,2017/5/16 15:34
+ZEPPELIN-2531,Bug,Not A Problem,Resolved,2017/5/12 1:05,2017/5/24 6:08
+ZEPPELIN-2532,Improvement,Fixed,Closed,2017/5/12 1:27,2018/7/5 18:44
+ZEPPELIN-2533,Bug,Unresolved,Open,2017/5/12 3:30,
+ZEPPELIN-2534,Bug,Unresolved,Open,2017/5/12 5:26,
+ZEPPELIN-2535,Improvement,Unresolved,Open,2017/5/12 5:41,
+ZEPPELIN-2536,Bug,Unresolved,Open,2017/5/12 7:39,
+ZEPPELIN-2537,Bug,Unresolved,Open,2017/5/12 16:07,
+ZEPPELIN-2538,Improvement,Fixed,Resolved,2017/5/12 20:16,2017/6/5 0:42
+ZEPPELIN-2539,Improvement,Fixed,Resolved,2017/5/12 23:17,2017/6/8 2:02
+ZEPPELIN-2540,Bug,Unresolved,Open,2017/5/13 1:18,
+ZEPPELIN-2541,Improvement,Unresolved,Open,2017/5/13 1:54,
+ZEPPELIN-2542,Bug,Unresolved,Open,2017/5/14 2:41,
+ZEPPELIN-2543,Improvement,Fixed,Resolved,2017/5/14 18:01,2017/5/25 14:57
+ZEPPELIN-2544,Bug,Fixed,Resolved,2017/5/15 3:44,2017/5/28 8:32
+ZEPPELIN-2545,Bug,Unresolved,Open,2017/5/15 6:01,
+ZEPPELIN-2546,Bug,Unresolved,Open,2017/5/15 6:04,
+ZEPPELIN-2547,Bug,Unresolved,Reopened,2017/5/15 21:42,
+ZEPPELIN-2548,Bug,Unresolved,Open,2017/5/15 23:42,
+ZEPPELIN-2549,Improvement,Unresolved,Open,2017/5/16 1:06,
+ZEPPELIN-2550,Bug,Unresolved,Open,2017/5/16 8:27,
+ZEPPELIN-2551,Bug,Unresolved,Open,2017/5/16 9:01,
+ZEPPELIN-2552,Improvement,Unresolved,Open,2017/5/16 12:14,
+ZEPPELIN-2553,Bug,Unresolved,Open,2017/5/16 12:48,
+ZEPPELIN-2554,Bug,Fixed,Resolved,2017/5/16 15:21,2017/6/6 22:57
+ZEPPELIN-2555,Bug,Fixed,Resolved,2017/5/17 1:29,2017/5/22 14:45
+ZEPPELIN-2556,Bug,Unresolved,Open,2017/5/17 1:36,
+ZEPPELIN-2557,Bug,Unresolved,Open,2017/5/17 15:55,
+ZEPPELIN-2558,Bug,Invalid,Closed,2017/5/17 16:15,2017/5/17 17:17
+ZEPPELIN-2559,Bug,Duplicate,Closed,2017/5/17 16:58,2017/5/22 14:22
+ZEPPELIN-2560,Bug,Unresolved,Open,2017/5/17 20:35,
+ZEPPELIN-2561,New Feature,Unresolved,Open,2017/5/17 20:48,
+ZEPPELIN-2562,Improvement,Fixed,Resolved,2017/5/17 21:51,2017/9/29 13:25
+ZEPPELIN-2563,Bug,Unresolved,Open,2017/5/17 23:13,
+ZEPPELIN-2564,Bug,Fixed,Resolved,2017/5/17 23:55,2017/5/18 22:37
+ZEPPELIN-2565,Bug,Unresolved,Open,2017/5/18 16:37,
+ZEPPELIN-2566,Bug,Unresolved,Open,2017/5/18 19:42,
+ZEPPELIN-2567,Bug,Unresolved,Open,2017/5/18 22:32,
+ZEPPELIN-2568,Bug,Unresolved,Open,2017/5/19 9:15,
+ZEPPELIN-2569,Bug,Unresolved,Open,2017/5/19 9:58,
+ZEPPELIN-2570,Improvement,Fixed,Resolved,2017/5/19 11:37,2017/5/21 3:13
+ZEPPELIN-2571,Improvement,Fixed,Resolved,2017/5/19 17:56,2017/12/2 3:54
+ZEPPELIN-2572,Improvement,Unresolved,Open,2017/5/19 18:17,
+ZEPPELIN-2573,Improvement,Fixed,Resolved,2017/5/20 2:55,2017/5/28 8:31
+ZEPPELIN-2574,Improvement,Fixed,Resolved,2017/5/21 15:22,2017/5/25 14:42
+ZEPPELIN-2575,Improvement,Fixed,Resolved,2017/5/21 15:22,2017/5/25 14:44
+ZEPPELIN-2576,Bug,Unresolved,Open,2017/5/22 18:56,
+ZEPPELIN-2577,Bug,Fixed,Resolved,2017/5/23 4:03,2017/6/4 1:37
+ZEPPELIN-2578,Bug,Unresolved,Open,2017/5/24 6:10,
+ZEPPELIN-2579,Improvement,Unresolved,Open,2017/5/24 12:58,
+ZEPPELIN-2580,Bug,Unresolved,Open,2017/5/24 17:16,
+ZEPPELIN-2581,Improvement,Fixed,Resolved,2017/5/24 18:08,2017/5/30 16:47
+ZEPPELIN-2582,Improvement,Fixed,Closed,2017/5/24 18:29,2017/7/7 15:24
+ZEPPELIN-2583,Improvement,Fixed,Resolved,2017/5/24 20:33,2017/7/5 21:59
+ZEPPELIN-2584,Bug,Fixed,Resolved,2017/5/25 11:20,2017/6/1 16:04
+ZEPPELIN-2585,Bug,Unresolved,Open,2017/5/25 17:32,
+ZEPPELIN-2586,Improvement,Unresolved,Open,2017/5/26 6:25,
+ZEPPELIN-2587,Bug,Unresolved,Open,2017/5/26 15:39,
+ZEPPELIN-2588,Improvement,Unresolved,Open,2017/5/26 15:59,
+ZEPPELIN-2589,Improvement,Fixed,Resolved,2017/5/26 17:28,2017/6/10 9:49
+ZEPPELIN-2590,Bug,Fixed,Resolved,2017/5/27 13:36,2017/6/17 22:02
+ZEPPELIN-2591,Improvement,Fixed,Resolved,2017/5/27 18:02,2017/6/8 1:19
+ZEPPELIN-2592,Improvement,Fixed,Closed,2017/5/28 20:45,2017/6/23 4:56
+ZEPPELIN-2593,Improvement,Unresolved,In Progress,2017/5/29 10:38,
+ZEPPELIN-2594,Bug,Unresolved,Open,2017/5/29 13:48,
+ZEPPELIN-2595,Bug,Unresolved,Open,2017/5/29 13:50,
+ZEPPELIN-2596,Sub-task,Fixed,Resolved,2017/5/29 16:07,2017/7/5 21:59
+ZEPPELIN-2597,Sub-task,Fixed,Resolved,2017/5/29 17:23,2017/6/28 8:53
+ZEPPELIN-2598,Improvement,Fixed,Resolved,2017/5/29 22:27,2017/6/29 11:02
+ZEPPELIN-2599,Improvement,Unresolved,Open,2017/5/30 6:50,
+ZEPPELIN-2600,Improvement,Unresolved,Open,2017/5/30 7:33,
+ZEPPELIN-2601,Bug,Fixed,Resolved,2017/5/30 15:09,2017/6/6 23:01
+ZEPPELIN-2602,Bug,Fixed,Resolved,2017/5/30 16:40,2017/6/2 3:47
+ZEPPELIN-2603,Bug,Unresolved,Open,2017/5/30 17:48,
+ZEPPELIN-2604,Improvement,Unresolved,Open,2017/5/30 19:04,
+ZEPPELIN-2605,Bug,Fixed,Resolved,2017/5/31 10:40,2018/7/20 7:08
+ZEPPELIN-2606,Bug,Unresolved,Open,2017/5/31 23:35,
+ZEPPELIN-2607,Bug,Unresolved,Open,2017/6/1 8:42,
+ZEPPELIN-2608,Bug,Unresolved,Open,2017/6/1 20:23,
+ZEPPELIN-2609,Improvement,Later,Closed,2017/6/2 8:13,2018/6/9 15:53
+ZEPPELIN-2610,Bug,Fixed,Closed,2017/6/2 10:27,2017/6/15 11:53
+ZEPPELIN-2611,Improvement,Unresolved,Open,2017/6/2 10:28,
+ZEPPELIN-2612,Improvement,Unresolved,Open,2017/6/2 18:09,
+ZEPPELIN-2613,Bug,Unresolved,Open,2017/6/3 0:05,
+ZEPPELIN-2614,Improvement,Duplicate,Resolved,2017/6/3 11:42,2017/8/24 15:27
+ZEPPELIN-2615,Improvement,Fixed,Resolved,2017/6/3 17:24,2017/6/29 14:36
+ZEPPELIN-2616,Sub-task,Unresolved,Open,2017/6/5 1:59,
+ZEPPELIN-2617,Improvement,Won't Fix,Closed,2017/6/5 14:58,2017/6/14 16:32
+ZEPPELIN-2618,Bug,Unresolved,Open,2017/6/5 20:49,
+ZEPPELIN-2619,Improvement,Fixed,Resolved,2017/6/6 4:07,2018/9/20 10:43
+ZEPPELIN-2620,Bug,Unresolved,Open,2017/6/6 15:14,
+ZEPPELIN-2621,Bug,Unresolved,Open,2017/6/6 19:40,
+ZEPPELIN-2622,Improvement,Fixed,Closed,2017/6/6 23:44,2017/6/22 2:30
+ZEPPELIN-2623,Bug,Unresolved,Open,2017/6/7 4:58,
+ZEPPELIN-2624,Bug,Unresolved,Open,2017/6/7 14:56,
+ZEPPELIN-2625,Bug,Unresolved,Open,2017/6/7 15:02,
+ZEPPELIN-2626,Bug,Unresolved,Open,2017/6/7 22:04,
+ZEPPELIN-2627,Improvement,Unresolved,Open,2017/6/8 10:20,
+ZEPPELIN-2628,Bug,Unresolved,Open,2017/6/8 15:24,
+ZEPPELIN-2629,Bug,Unresolved,Open,2017/6/8 18:09,
+ZEPPELIN-2630,Bug,Unresolved,Open,2017/6/8 21:36,
+ZEPPELIN-2631,New Feature,Unresolved,Open,2017/6/10 0:37,
+ZEPPELIN-2632,New Feature,Unresolved,Open,2017/6/10 0:42,
+ZEPPELIN-2633,New Feature,Unresolved,Open,2017/6/10 0:46,
+ZEPPELIN-2634,New Feature,Unresolved,Open,2017/6/10 0:52,
+ZEPPELIN-2635,New Feature,Unresolved,Open,2017/6/10 0:54,
+ZEPPELIN-2636,Improvement,Unresolved,Open,2017/6/10 3:36,
+ZEPPELIN-2637,Improvement,Fixed,Resolved,2017/6/10 20:10,2017/7/2 21:25
+ZEPPELIN-2638,Bug,Unresolved,Open,2017/6/11 16:12,
+ZEPPELIN-2639,Improvement,Later,Closed,2017/6/12 22:39,2017/6/27 23:26
+ZEPPELIN-2640,Bug,Fixed,Resolved,2017/6/13 14:18,2017/6/15 13:21
+ZEPPELIN-2641,Bug,Fixed,Resolved,2017/6/13 16:52,2017/9/28 13:06
+ZEPPELIN-2642,Bug,Won't Fix,Closed,2017/6/13 17:12,2017/6/20 1:00
+ZEPPELIN-2643,Improvement,Unresolved,Open,2017/6/13 18:33,
+ZEPPELIN-2644,Bug,Unresolved,Open,2017/6/13 21:39,
+ZEPPELIN-2645,Bug,Fixed,Resolved,2017/6/13 23:12,2017/9/7 6:30
+ZEPPELIN-2646,Improvement,Unresolved,Open,2017/6/14 15:38,
+ZEPPELIN-2647,Improvement,Fixed,Resolved,2017/6/14 15:46,2017/11/15 15:50
+ZEPPELIN-2648,Bug,Fixed,Resolved,2017/6/14 18:10,2017/7/13 13:25
+ZEPPELIN-2649,Bug,Unresolved,Open,2017/6/15 2:08,
+ZEPPELIN-2650,Bug,Fixed,Resolved,2017/6/15 4:22,2017/6/22 10:20
+ZEPPELIN-2651,New Feature,Unresolved,Open,2017/6/15 9:14,
+ZEPPELIN-2652,Bug,Fixed,Resolved,2017/6/15 11:35,2017/12/28 8:07
+ZEPPELIN-2653,Improvement,Unresolved,Open,2017/6/15 13:15,
+ZEPPELIN-2654,Improvement,Fixed,Resolved,2017/6/15 14:14,2017/6/23 4:29
+ZEPPELIN-2655,Bug,Unresolved,Open,2017/6/15 16:53,
+ZEPPELIN-2656,Bug,Unresolved,Open,2017/6/15 22:32,
+ZEPPELIN-2657,Bug,Fixed,Resolved,2017/6/16 2:30,2017/6/22 13:15
+ZEPPELIN-2658,Improvement,Unresolved,Open,2017/6/16 4:15,
+ZEPPELIN-2659,Bug,Fixed,Resolved,2017/6/16 4:25,2017/7/2 19:06
+ZEPPELIN-2660,Improvement,Won't Fix,Closed,2017/6/16 13:08,2018/7/13 20:18
+ZEPPELIN-2661,Test,Fixed,Resolved,2017/6/16 13:49,2017/7/6 9:11
+ZEPPELIN-2662,Bug,Unresolved,Open,2017/6/16 19:40,
+ZEPPELIN-2663,Bug,Fixed,Resolved,2017/6/16 23:42,2017/6/22 2:13
+ZEPPELIN-2664,Bug,Unresolved,Open,2017/6/18 15:51,
+ZEPPELIN-2665,New Feature,Unresolved,Open,2017/6/19 0:06,
+ZEPPELIN-2666,Improvement,Fixed,Resolved,2017/6/19 15:22,2017/7/5 21:58
+ZEPPELIN-2667,Improvement,Unresolved,Open,2017/6/19 15:24,
+ZEPPELIN-2668,Improvement,Unresolved,Open,2017/6/19 15:25,
+ZEPPELIN-2669,Improvement,Unresolved,Open,2017/6/19 15:27,
+ZEPPELIN-2670,Improvement,Fixed,Resolved,2017/6/19 17:15,2017/6/27 17:18
+ZEPPELIN-2671,Bug,Unresolved,Open,2017/6/19 18:06,
+ZEPPELIN-2672,Bug,Fixed,Closed,2017/6/21 15:38,2017/6/29 9:16
+ZEPPELIN-2673,Bug,Invalid,Closed,2017/6/21 23:32,2017/7/5 14:51
+ZEPPELIN-2674,Improvement,Fixed,Resolved,2017/6/22 0:20,2017/8/20 19:21
+ZEPPELIN-2675,Improvement,Fixed,Resolved,2017/6/22 16:03,2017/7/10 9:18
+ZEPPELIN-2676,New Feature,Unresolved,In Progress,2017/6/22 17:09,
+ZEPPELIN-2677,Bug,Unresolved,Open,2017/6/22 19:38,
+ZEPPELIN-2678,Bug,Unresolved,Open,2017/6/22 22:23,
+ZEPPELIN-2679,New Feature,Fixed,Resolved,2017/6/23 11:21,2018/4/16 16:51
+ZEPPELIN-2680,Bug,Fixed,Resolved,2017/6/24 1:36,2019/9/28 18:35
+ZEPPELIN-2681,Improvement,Unresolved,Open,2017/6/24 1:41,
+ZEPPELIN-2682,Improvement,Unresolved,Open,2017/6/24 9:51,
+ZEPPELIN-2683,Improvement,Fixed,Resolved,2017/6/24 9:52,2017/6/30 9:30
+ZEPPELIN-2684,Bug,Fixed,Resolved,2017/6/24 12:47,2017/6/28 15:32
+ZEPPELIN-2685,Sub-task,Fixed,Resolved,2017/6/24 13:15,2017/10/14 13:47
+ZEPPELIN-2686,Sub-task,Unresolved,Open,2017/6/24 13:33,
+ZEPPELIN-2687,Improvement,Unresolved,Open,2017/6/24 14:59,
+ZEPPELIN-2688,Improvement,Fixed,Resolved,2017/6/25 15:30,2017/6/29 14:18
+ZEPPELIN-2689,Improvement,Unresolved,Open,2017/6/26 12:02,
+ZEPPELIN-2690,Improvement,Fixed,Resolved,2017/6/26 12:29,2017/6/28 11:06
+ZEPPELIN-2691,Improvement,Fixed,Resolved,2017/6/26 16:00,2017/6/29 12:21
+ZEPPELIN-2692,Bug,Unresolved,Open,2017/6/26 16:35,
+ZEPPELIN-2693,Test,Fixed,Resolved,2017/6/26 16:49,2017/7/6 9:12
+ZEPPELIN-2694,Bug,Abandoned,Closed,2017/6/27 0:17,2018/5/15 3:42
+ZEPPELIN-2695,Bug,Unresolved,Open,2017/6/27 15:59,
+ZEPPELIN-2696,Bug,Unresolved,Open,2017/6/27 16:23,
+ZEPPELIN-2697,Improvement,Unresolved,Open,2017/6/27 16:49,
+ZEPPELIN-2698,Bug,Fixed,Resolved,2017/6/27 16:53,2017/7/7 14:20
+ZEPPELIN-2699,Bug,Fixed,Resolved,2017/6/28 4:11,2017/7/21 23:24
+ZEPPELIN-2700,Improvement,Fixed,Resolved,2017/6/28 10:27,2017/7/3 20:56
+ZEPPELIN-2701,Improvement,Fixed,Resolved,2017/6/28 16:06,2017/7/20 11:26
+ZEPPELIN-2702,Sub-task,Unresolved,Open,2017/6/29 2:14,
+ZEPPELIN-2703,Improvement,Unresolved,Open,2017/6/29 3:00,
+ZEPPELIN-2704,Bug,Unresolved,Open,2017/6/29 8:13,
+ZEPPELIN-2705,Sub-task,Unresolved,Open,2017/6/29 10:44,
+ZEPPELIN-2706,Bug,Fixed,Resolved,2017/6/29 17:49,2017/7/2 19:02
+ZEPPELIN-2707,Bug,Fixed,Resolved,2017/6/29 18:17,2017/6/30 9:33
+ZEPPELIN-2708,Bug,Fixed,Resolved,2017/6/29 18:30,2017/7/3 20:54
+ZEPPELIN-2709,Bug,Unresolved,Open,2017/6/30 0:14,
+ZEPPELIN-2710,Improvement,Fixed,Resolved,2017/6/30 5:55,2017/7/2 19:04
+ZEPPELIN-2711,New Feature,Unresolved,Open,2017/6/30 8:33,
+ZEPPELIN-2712,Improvement,Unresolved,Open,2017/6/30 14:19,
+ZEPPELIN-2713,Bug,Fixed,Resolved,2017/6/30 16:39,2017/7/2 18:48
+ZEPPELIN-2714,Improvement,Fixed,Resolved,2017/6/30 17:13,2017/7/9 15:44
+ZEPPELIN-2715,Bug,Won't Fix,Closed,2017/7/1 16:58,2017/7/27 12:50
+ZEPPELIN-2716,Improvement,Fixed,Resolved,2017/7/3 14:05,2017/7/11 16:43
+ZEPPELIN-2717,Bug,Unresolved,Open,2017/7/3 17:54,
+ZEPPELIN-2718,New Feature,Fixed,Resolved,2017/7/4 14:34,2017/8/8 10:20
+ZEPPELIN-2719,Bug,Fixed,Resolved,2017/7/4 17:50,2017/12/28 7:33
+ZEPPELIN-2720,Bug,Fixed,Closed,2017/7/5 15:33,2017/9/15 10:28
+ZEPPELIN-2721,New Feature,Unresolved,Open,2017/7/5 16:05,
+ZEPPELIN-2722,Bug,Fixed,Resolved,2017/7/5 17:17,2017/7/7 12:51
+ZEPPELIN-2723,Bug,Fixed,Resolved,2017/7/5 18:04,2017/7/12 13:07
+ZEPPELIN-2724,Bug,Unresolved,Open,2017/7/5 22:01,
+ZEPPELIN-2725,Improvement,Unresolved,Open,2017/7/5 22:56,
+ZEPPELIN-2726,Sub-task,Unresolved,In Progress,2017/7/5 22:58,
+ZEPPELIN-2727,Sub-task,Unresolved,Open,2017/7/5 23:00,
+ZEPPELIN-2728,Sub-task,Unresolved,Open,2017/7/5 23:10,
+ZEPPELIN-2729,Improvement,Unresolved,Open,2017/7/6 0:52,
+ZEPPELIN-2730,Bug,Fixed,Resolved,2017/7/6 10:09,2017/7/13 13:20
+ZEPPELIN-2731,Bug,Fixed,Resolved,2017/7/6 10:53,2017/7/10 12:01
+ZEPPELIN-2732,Sub-task,Unresolved,Open,2017/7/6 13:15,
+ZEPPELIN-2733,Improvement,Fixed,Resolved,2017/7/6 14:30,2017/7/10 12:05
+ZEPPELIN-2734,Sub-task,Unresolved,Open,2017/7/6 14:31,
+ZEPPELIN-2735,Sub-task,Unresolved,Open,2017/7/6 14:39,
+ZEPPELIN-2736,Improvement,Fixed,Resolved,2017/7/6 15:43,2017/10/18 17:14
+ZEPPELIN-2737,Bug,Unresolved,Open,2017/7/6 16:55,
+ZEPPELIN-2738,Bug,Unresolved,Open,2017/7/6 16:57,
+ZEPPELIN-2739,Sub-task,Unresolved,In Progress,2017/7/6 17:25,
+ZEPPELIN-2740,Bug,Unresolved,Open,2017/7/6 18:20,
+ZEPPELIN-2741,Sub-task,Unresolved,Open,2017/7/6 20:23,
+ZEPPELIN-2742,New Feature,Fixed,Resolved,2017/7/7 9:00,2018/1/18 16:08
+ZEPPELIN-2743,Bug,Unresolved,Open,2017/7/7 13:40,
+ZEPPELIN-2744,Improvement,Not A Problem,Resolved,2017/7/7 14:17,2017/7/13 16:11
+ZEPPELIN-2745,Bug,Duplicate,Closed,2017/7/7 16:58,2017/8/3 18:07
+ZEPPELIN-2746,Bug,Unresolved,Open,2017/7/7 19:46,
+ZEPPELIN-2747,Sub-task,Unresolved,Open,2017/7/9 10:05,
+ZEPPELIN-2748,Sub-task,Unresolved,Open,2017/7/9 10:09,
+ZEPPELIN-2749,Sub-task,Fixed,Resolved,2017/7/9 10:13,2017/7/15 0:08
+ZEPPELIN-2750,Sub-task,Unresolved,Open,2017/7/9 10:14,
+ZEPPELIN-2751,Sub-task,Unresolved,Open,2017/7/9 11:22,
+ZEPPELIN-2752,New Feature,Fixed,Closed,2017/7/9 14:51,2019/3/8 15:37
+ZEPPELIN-2753,Sub-task,Fixed,Resolved,2017/7/10 9:24,2017/8/28 8:12
+ZEPPELIN-2754,Sub-task,Duplicate,Resolved,2017/7/10 9:24,2017/9/13 10:56
+ZEPPELIN-2755,Sub-task,Duplicate,Resolved,2017/7/10 9:24,2017/9/13 10:55
+ZEPPELIN-2756,Sub-task,Fixed,Resolved,2017/7/10 9:25,2017/9/2 11:21
+ZEPPELIN-2757,Bug,Fixed,Resolved,2017/7/10 13:49,2017/7/24 13:16
+ZEPPELIN-2758,Bug,Fixed,Resolved,2017/7/10 19:58,2017/7/19 15:28
+ZEPPELIN-2759,Sub-task,Unresolved,In Progress,2017/7/11 0:42,
+ZEPPELIN-2760,Bug,Fixed,Resolved,2017/7/11 2:31,2017/7/13 16:13
+ZEPPELIN-2761,New Feature,Fixed,Resolved,2017/7/11 5:40,2017/10/11 14:45
+ZEPPELIN-2762,Bug,Unresolved,Open,2017/7/11 7:46,
+ZEPPELIN-2763,Bug,Unresolved,Open,2017/7/11 12:57,
+ZEPPELIN-2764,Task,Unresolved,Open,2017/7/11 15:28,
+ZEPPELIN-2765,Improvement,Fixed,Resolved,2017/7/11 20:08,2017/7/14 14:35
+ZEPPELIN-2766,Improvement,Fixed,Resolved,2017/7/11 22:04,2017/8/8 10:23
+ZEPPELIN-2767,Bug,Unresolved,Open,2017/7/12 2:45,
+ZEPPELIN-2768,Improvement,Fixed,Resolved,2017/7/12 11:45,2017/7/14 15:14
+ZEPPELIN-2769,Improvement,Fixed,Resolved,2017/7/12 15:23,2017/7/17 12:46
+ZEPPELIN-2770,Bug,Fixed,Resolved,2017/7/12 19:49,2017/8/20 19:19
+ZEPPELIN-2771,Task,Unresolved,Open,2017/7/12 19:59,
+ZEPPELIN-2772,Bug,Unresolved,Open,2017/7/12 21:17,
+ZEPPELIN-2773,Bug,Unresolved,Open,2017/7/13 0:10,
+ZEPPELIN-2774,Sub-task,Duplicate,Resolved,2017/7/14 16:06,2017/9/13 10:55
+ZEPPELIN-2775,Bug,Fixed,Resolved,2017/7/14 19:30,2017/8/4 5:57
+ZEPPELIN-2776,Test,Unresolved,In Progress,2017/7/14 19:47,
+ZEPPELIN-2777,Sub-task,Fixed,Resolved,2017/7/14 19:47,2017/7/21 16:22
+ZEPPELIN-2778,Sub-task,Fixed,Resolved,2017/7/14 19:48,2017/7/23 11:45
+ZEPPELIN-2779,Sub-task,Fixed,Resolved,2017/7/14 19:56,2017/7/25 10:00
+ZEPPELIN-2780,Sub-task,Unresolved,In Progress,2017/7/14 19:56,
+ZEPPELIN-2781,Sub-task,Unresolved,In Progress,2017/7/14 19:57,
+ZEPPELIN-2782,Bug,Unresolved,Open,2017/7/14 21:34,
+ZEPPELIN-2783,Bug,Fixed,Resolved,2017/7/14 23:43,2017/7/16 5:00
+ZEPPELIN-2784,Sub-task,Unresolved,In Progress,2017/7/15 3:39,
+ZEPPELIN-2785,Bug,Unresolved,Open,2017/7/16 6:12,
+ZEPPELIN-2786,Improvement,Unresolved,Open,2017/7/17 15:10,
+ZEPPELIN-2787,Improvement,Unresolved,Open,2017/7/17 15:25,
+ZEPPELIN-2788,Sub-task,Unresolved,Open,2017/7/17 19:41,
+ZEPPELIN-2789,Bug,Unresolved,Open,2017/7/18 2:19,
+ZEPPELIN-2790,New Feature,Unresolved,Open,2017/7/18 5:38,
+ZEPPELIN-2791,New Feature,Unresolved,Open,2017/7/18 8:18,
+ZEPPELIN-2792,New Feature,Unresolved,Open,2017/7/18 8:23,
+ZEPPELIN-2793,Bug,Unresolved,Open,2017/7/18 14:17,
+ZEPPELIN-2794,New Feature,Unresolved,Open,2017/7/18 18:58,
+ZEPPELIN-2795,Improvement,Unresolved,Open,2017/7/19 3:33,
+ZEPPELIN-2796,Bug,Fixed,Resolved,2017/7/19 3:55,2017/10/2 2:49
+ZEPPELIN-2797,Bug,Unresolved,Open,2017/7/19 13:36,
+ZEPPELIN-2798,Bug,Unresolved,Open,2017/7/19 16:46,
+ZEPPELIN-2799,Bug,Unresolved,Open,2017/7/20 7:56,
+ZEPPELIN-2800,Task,Unresolved,Open,2017/7/20 20:00,
+ZEPPELIN-2801,Bug,Fixed,Resolved,2017/7/21 1:01,2017/8/9 12:44
+ZEPPELIN-2802,Improvement,Unresolved,Open,2017/7/21 5:50,
+ZEPPELIN-2803,Bug,Unresolved,Open,2017/7/21 9:35,
+ZEPPELIN-2804,Bug,Fixed,Resolved,2017/7/21 16:13,2017/7/24 12:56
+ZEPPELIN-2805,Bug,Unresolved,Open,2017/7/23 5:05,
+ZEPPELIN-2806,Bug,Fixed,Resolved,2017/7/24 16:41,2017/7/28 2:56
+ZEPPELIN-2807,New Feature,Won't Do,Closed,2017/7/24 18:57,2018/3/27 9:57
+ZEPPELIN-2808,Improvement,Unresolved,Open,2017/7/25 4:43,
+ZEPPELIN-2809,Bug,Not A Bug,Closed,2017/7/26 4:43,2017/7/28 0:21
+ZEPPELIN-2810,Bug,Duplicate,Closed,2017/7/26 8:28,2017/7/27 2:36
+ZEPPELIN-2811,Improvement,Fixed,Resolved,2017/7/26 11:37,2017/7/26 17:40
+ZEPPELIN-2812,Improvement,Unresolved,Open,2017/7/26 22:56,
+ZEPPELIN-2813,New Feature,Fixed,Resolved,2017/7/27 20:01,2017/11/17 7:52
+ZEPPELIN-2814,Improvement,Unresolved,Open,2017/7/28 2:42,
+ZEPPELIN-2815,Improvement,Fixed,Resolved,2017/7/28 4:48,2017/8/25 0:15
+ZEPPELIN-2816,Bug,Fixed,Closed,2017/7/28 11:02,2017/7/28 11:26
+ZEPPELIN-2817,Improvement,Unresolved,Open,2017/7/28 11:30,
+ZEPPELIN-2818,Improvement,Fixed,Resolved,2017/7/28 20:26,2017/8/9 12:45
+ZEPPELIN-2819,Sub-task,Duplicate,Resolved,2017/7/29 15:27,2017/9/13 10:55
+ZEPPELIN-2820,Bug,Duplicate,Closed,2017/7/31 21:24,2017/8/1 16:56
+ZEPPELIN-2821,Bug,Fixed,Resolved,2017/8/1 4:26,2017/8/11 0:34
+ZEPPELIN-2822,Bug,Unresolved,Open,2017/8/1 16:48,
+ZEPPELIN-2823,Bug,Fixed,Resolved,2017/8/2 8:33,2017/8/15 6:36
+ZEPPELIN-2824,Bug,Fixed,Resolved,2017/8/2 11:51,2017/8/11 0:33
+ZEPPELIN-2825,Bug,Fixed,Resolved,2017/8/3 6:22,2017/8/8 1:39
+ZEPPELIN-2826,Sub-task,Fixed,Resolved,2017/8/3 15:09,2018/1/16 15:13
+ZEPPELIN-2827,Bug,Fixed,Resolved,2017/8/4 6:14,2017/8/9 2:38
+ZEPPELIN-2828,Bug,Unresolved,Open,2017/8/4 8:29,
+ZEPPELIN-2829,Improvement,Unresolved,Open,2017/8/4 13:58,
+ZEPPELIN-2830,Improvement,Unresolved,Open,2017/8/4 14:21,
+ZEPPELIN-2831,Bug,Unresolved,Open,2017/8/4 20:30,
+ZEPPELIN-2832,Bug,Unresolved,Open,2017/8/4 20:59,
+ZEPPELIN-2833,Bug,Fixed,Resolved,2017/8/5 4:22,2017/9/26 14:48
+ZEPPELIN-2834,New Feature,Unresolved,In Progress,2017/8/5 6:23,
+ZEPPELIN-2835,Improvement,Fixed,Resolved,2017/8/5 22:28,2017/8/8 10:19
+ZEPPELIN-2836,Wish,Unresolved,Open,2017/8/8 18:51,
+ZEPPELIN-2837,Bug,Unresolved,Open,2017/8/8 19:01,
+ZEPPELIN-2838,Bug,Duplicate,Closed,2017/8/8 19:11,2017/8/8 19:13
+ZEPPELIN-2839,New Feature,Unresolved,Open,2017/8/8 19:14,
+ZEPPELIN-2840,Improvement,Unresolved,Open,2017/8/8 21:09,
+ZEPPELIN-2841,Bug,Fixed,Resolved,2017/8/9 0:18,2017/8/12 0:51
+ZEPPELIN-2842,Wish,Unresolved,Open,2017/8/9 2:36,
+ZEPPELIN-2843,Bug,Duplicate,Closed,2017/8/10 12:26,2017/8/15 0:29
+ZEPPELIN-2844,Bug,Unresolved,Open,2017/8/10 12:27,
+ZEPPELIN-2845,Bug,Unresolved,Open,2017/8/10 16:13,
+ZEPPELIN-2846,Bug,Fixed,Resolved,2017/8/11 7:26,2017/8/17 3:12
+ZEPPELIN-2847,Bug,Invalid,Resolved,2017/8/11 21:50,2018/3/26 1:29
+ZEPPELIN-2848,Improvement,Fixed,Resolved,2017/8/12 1:33,2017/9/1 1:21
+ZEPPELIN-2849,New Feature,Won't Do,Closed,2017/8/14 11:06,2018/3/29 11:31
+ZEPPELIN-2850,Improvement,Fixed,Resolved,2017/8/15 13:30,2017/8/23 6:19
+ZEPPELIN-2851,Improvement,Unresolved,Open,2017/8/15 13:30,
+ZEPPELIN-2852,Improvement,Unresolved,Open,2017/8/15 13:33,
+ZEPPELIN-2853,Improvement,Fixed,Resolved,2017/8/15 13:37,2017/8/17 12:59
+ZEPPELIN-2854,Improvement,Fixed,Resolved,2017/8/15 14:19,2017/8/17 13:04
+ZEPPELIN-2855,Bug,Fixed,Resolved,2017/8/15 14:33,2017/8/31 18:10
+ZEPPELIN-2856,Improvement,Fixed,Resolved,2017/8/15 14:37,2017/8/17 13:06
+ZEPPELIN-2857,Bug,Unresolved,Open,2017/8/15 14:50,
+ZEPPELIN-2858,Bug,Incomplete,Closed,2017/8/15 14:55,2018/6/9 15:56
+ZEPPELIN-2859,Sub-task,Fixed,Resolved,2017/8/15 15:03,2017/8/17 12:57
+ZEPPELIN-2860,Bug,Fixed,Resolved,2017/8/15 15:40,2017/8/24 17:39
+ZEPPELIN-2861,Bug,Fixed,Resolved,2017/8/15 15:43,2017/8/18 5:03
+ZEPPELIN-2862,Improvement,Fixed,Resolved,2017/8/15 16:08,2017/8/20 19:18
+ZEPPELIN-2863,Improvement,Unresolved,Open,2017/8/15 21:38,
+ZEPPELIN-2864,Task,Done,Resolved,2017/8/15 22:31,2017/9/22 4:03
+ZEPPELIN-2865,Improvement,Fixed,Resolved,2017/8/16 1:06,2017/8/20 19:17
+ZEPPELIN-2866,Bug,Unresolved,Open,2017/8/16 14:42,
+ZEPPELIN-2867,Bug,Unresolved,Open,2017/8/16 17:58,
+ZEPPELIN-2868,New Feature,Unresolved,Open,2017/8/17 2:00,
+ZEPPELIN-2869,Bug,Unresolved,Open,2017/8/18 10:02,
+ZEPPELIN-2870,Bug,Unresolved,Open,2017/8/18 11:00,
+ZEPPELIN-2871,Bug,Unresolved,Open,2017/8/21 16:45,
+ZEPPELIN-2872,Improvement,Fixed,Resolved,2017/8/21 18:22,2017/8/24 3:06
+ZEPPELIN-2873,Bug,Fixed,Resolved,2017/8/22 8:41,2017/8/24 14:11
+ZEPPELIN-2874,Sub-task,Unresolved,Open,2017/8/23 1:30,
+ZEPPELIN-2875,Improvement,Unresolved,Open,2017/8/23 11:03,
+ZEPPELIN-2876,Improvement,Fixed,Resolved,2017/8/23 14:52,2017/9/6 11:27
+ZEPPELIN-2877,Bug,Workaround,Closed,2017/8/24 10:32,2018/6/9 16:08
+ZEPPELIN-2878,Bug,Unresolved,Open,2017/8/24 17:02,
+ZEPPELIN-2879,Bug,Unresolved,Open,2017/8/25 8:39,
+ZEPPELIN-2880,Bug,Unresolved,Open,2017/8/25 15:04,
+ZEPPELIN-2881,Bug,Unresolved,Open,2017/8/25 21:58,
+ZEPPELIN-2882,Bug,Unresolved,Open,2017/8/25 23:28,
+ZEPPELIN-2883,Bug,Unresolved,Open,2017/8/27 13:24,
+ZEPPELIN-2884,Sub-task,Unresolved,Open,2017/8/28 12:05,
+ZEPPELIN-2885,Bug,Unresolved,Open,2017/8/29 2:30,
+ZEPPELIN-2886,Bug,Duplicate,Closed,2017/8/29 4:30,2018/4/21 1:11
+ZEPPELIN-2887,Bug,Unresolved,Open,2017/8/30 19:30,
+ZEPPELIN-2888,Bug,Unresolved,Open,2017/8/31 7:27,
+ZEPPELIN-2889,Bug,Fixed,Resolved,2017/8/31 10:07,2018/2/28 9:57
+ZEPPELIN-2890,Bug,Fixed,Resolved,2017/8/31 10:50,2018/2/28 9:56
+ZEPPELIN-2891,Bug,Unresolved,Open,2017/8/31 17:42,
+ZEPPELIN-2892,Bug,Unresolved,Open,2017/8/31 20:37,
+ZEPPELIN-2893,Bug,Fixed,Resolved,2017/9/1 17:49,2017/9/7 6:36
+ZEPPELIN-2894,Bug,Fixed,Resolved,2017/9/1 20:49,2017/9/8 10:32
+ZEPPELIN-2895,Bug,Unresolved,Open,2017/9/1 23:50,
+ZEPPELIN-2896,Bug,Fixed,Resolved,2017/9/4 14:11,2017/9/6 18:50
+ZEPPELIN-2897,Task,Unresolved,Open,2017/9/4 15:48,
+ZEPPELIN-2898,Sub-task,Fixed,Resolved,2017/9/4 22:48,2017/9/19 6:42
+ZEPPELIN-2899,Improvement,Unresolved,Open,2017/9/4 22:55,
+ZEPPELIN-2900,Bug,Fixed,Resolved,2017/9/5 0:48,2017/9/6 23:37
+ZEPPELIN-2901,New Feature,Unresolved,Open,2017/9/5 10:31,
+ZEPPELIN-2902,Task,Unresolved,Open,2017/9/5 12:43,
+ZEPPELIN-2903,Bug,Fixed,Resolved,2017/9/5 16:38,2017/9/6 19:10
+ZEPPELIN-2904,Bug,Unresolved,In Progress,2017/9/5 20:59,
+ZEPPELIN-2905,Bug,Unresolved,Open,2017/9/5 23:29,
+ZEPPELIN-2906,Bug,Unresolved,Open,2017/9/6 5:46,
+ZEPPELIN-2907,Improvement,Unresolved,Open,2017/9/6 6:53,
+ZEPPELIN-2908,Wish,Invalid,Closed,2017/9/6 14:42,2017/9/6 14:58
+ZEPPELIN-2909,New Feature,Fixed,Resolved,2017/9/6 15:03,2018/2/8 21:38
+ZEPPELIN-2910,Bug,Unresolved,Open,2017/9/6 18:39,
+ZEPPELIN-2911,Bug,Unresolved,Open,2017/9/6 21:15,
+ZEPPELIN-2912,Improvement,Unresolved,Open,2017/9/7 2:46,
+ZEPPELIN-2913,Improvement,Fixed,Resolved,2017/9/7 11:33,2018/6/7 17:45
+ZEPPELIN-2914,New Feature,Unresolved,Open,2017/9/7 14:34,
+ZEPPELIN-2915,Bug,Duplicate,Resolved,2017/9/7 14:56,2017/9/8 13:54
+ZEPPELIN-2916,Bug,Unresolved,Open,2017/9/7 21:46,
+ZEPPELIN-2917,Test,Fixed,Closed,2017/9/8 2:41,2017/9/9 1:41
+ZEPPELIN-2918,Bug,Duplicate,Resolved,2017/9/8 10:13,2017/9/8 12:01
+ZEPPELIN-2919,Bug,Fixed,Resolved,2017/9/8 12:22,2017/9/11 10:18
+ZEPPELIN-2920,Improvement,Unresolved,Open,2017/9/8 14:13,
+ZEPPELIN-2921,Bug,Unresolved,Open,2017/9/8 14:27,
+ZEPPELIN-2922,Improvement,Fixed,Resolved,2017/9/10 1:08,2017/9/29 9:13
+ZEPPELIN-2923,Bug,Duplicate,Closed,2017/9/11 12:59,2018/6/9 15:34
+ZEPPELIN-2924,Bug,Fixed,Resolved,2017/9/11 14:08,2017/10/11 18:41
+ZEPPELIN-2925,Improvement,Unresolved,Open,2017/9/12 16:49,
+ZEPPELIN-2926,Improvement,Unresolved,Open,2017/9/13 10:52,
+ZEPPELIN-2927,Test,Fixed,Resolved,2017/9/13 15:04,2017/9/29 19:25
+ZEPPELIN-2928,Bug,Fixed,Resolved,2017/9/13 16:00,2017/9/15 14:09
+ZEPPELIN-2929,Bug,Unresolved,Open,2017/9/13 18:02,
+ZEPPELIN-2930,Bug,Fixed,Resolved,2017/9/13 21:03,2017/9/22 9:22
+ZEPPELIN-2931,Bug,Unresolved,Open,2017/9/14 0:37,
+ZEPPELIN-2932,Bug,Unresolved,Open,2017/9/14 2:48,
+ZEPPELIN-2933,Improvement,Fixed,Resolved,2017/9/14 10:14,2017/9/15 9:04
+ZEPPELIN-2934,Improvement,Unresolved,Open,2017/9/14 10:43,
+ZEPPELIN-2935,Bug,Unresolved,Open,2017/9/14 11:39,
+ZEPPELIN-2936,Test,Unresolved,Open,2017/9/15 20:00,
+ZEPPELIN-2937,Test,Unresolved,Open,2017/9/15 20:26,
+ZEPPELIN-2938,Test,Fixed,Resolved,2017/9/15 20:44,2017/9/16 22:31
+ZEPPELIN-2939,Bug,Unresolved,Open,2017/9/15 22:34,
+ZEPPELIN-2940,Wish,Unresolved,Open,2017/9/16 0:56,
+ZEPPELIN-2941,Bug,Unresolved,Open,2017/9/18 16:15,
+ZEPPELIN-2942,Improvement,Fixed,Resolved,2017/9/19 15:45,2017/10/10 6:32
+ZEPPELIN-2943,Bug,Fixed,Resolved,2017/9/19 18:47,2017/9/20 8:12
+ZEPPELIN-2944,Bug,Fixed,Resolved,2017/9/20 21:19,2017/9/26 13:38
+ZEPPELIN-2945,Bug,Unresolved,Open,2017/9/21 9:48,
+ZEPPELIN-2946,New Feature,Unresolved,Open,2017/9/21 19:27,
+ZEPPELIN-2947,Improvement,Fixed,Resolved,2017/9/21 21:52,2017/10/2 2:50
+ZEPPELIN-2948,Bug,Unresolved,Open,2017/9/23 16:07,
+ZEPPELIN-2949,Improvement,Fixed,Resolved,2017/9/25 4:53,2017/10/24 14:26
+ZEPPELIN-2950,Improvement,Fixed,Resolved,2017/9/25 15:40,2017/10/15 6:43
+ZEPPELIN-2951,Bug,Unresolved,Open,2017/9/25 21:05,
+ZEPPELIN-2952,Improvement,Fixed,Resolved,2017/9/26 3:34,2017/10/6 6:01
+ZEPPELIN-2953,New Feature,Fixed,Resolved,2017/9/26 9:21,2017/10/13 9:29
+ZEPPELIN-2954,Bug,Unresolved,Open,2017/9/26 19:44,
+ZEPPELIN-2955,Improvement,Unresolved,Open,2017/9/27 9:32,
+ZEPPELIN-2956,Bug,Unresolved,Open,2017/9/27 17:47,
+ZEPPELIN-2957,Bug,Unresolved,Open,2017/9/28 13:16,
+ZEPPELIN-2958,Bug,Unresolved,Open,2017/9/28 14:45,
+ZEPPELIN-2959,Bug,Unresolved,Open,2017/9/28 16:24,
+ZEPPELIN-2960,Bug,Unresolved,Open,2017/9/29 2:31,
+ZEPPELIN-2961,Improvement,Fixed,Resolved,2017/9/29 11:12,2018/1/12 11:49
+ZEPPELIN-2962,Test,Fixed,Resolved,2017/9/29 17:30,2017/9/29 19:24
+ZEPPELIN-2963,Bug,Unresolved,Open,2017/9/29 18:10,
+ZEPPELIN-2964,Bug,Fixed,Resolved,2017/9/29 21:07,2017/12/28 16:42
+ZEPPELIN-2965,Improvement,Fixed,Resolved,2017/10/1 23:04,2017/11/2 15:48
+ZEPPELIN-2966,Bug,Unresolved,Open,2017/10/2 0:23,
+ZEPPELIN-2967,Bug,Unresolved,Open,2017/10/2 9:26,
+ZEPPELIN-2968,Bug,Invalid,Closed,2017/10/3 8:10,2017/10/4 12:33
+ZEPPELIN-2969,Bug,Duplicate,Resolved,2017/10/4 4:09,2017/10/5 1:13
+ZEPPELIN-2970,Bug,Fixed,Resolved,2017/10/4 17:09,2017/10/8 14:17
+ZEPPELIN-2971,Improvement,Unresolved,Open,2017/10/4 17:22,
+ZEPPELIN-2972,Bug,Not A Bug,Closed,2017/10/4 23:51,2017/10/17 0:39
+ZEPPELIN-2973,Bug,Unresolved,Open,2017/10/5 5:21,
+ZEPPELIN-2974,Improvement,Unresolved,Open,2017/10/6 4:17,
+ZEPPELIN-2975,Bug,Fixed,Resolved,2017/10/6 5:41,2017/10/7 1:54
+ZEPPELIN-2976,New Feature,Unresolved,Open,2017/10/6 18:14,
+ZEPPELIN-2977,Bug,Unresolved,Open,2017/10/6 18:41,
+ZEPPELIN-2978,Bug,Duplicate,Closed,2017/10/6 22:10,2017/11/10 17:20
+ZEPPELIN-2979,Bug,Fixed,Resolved,2017/10/6 22:14,2017/10/10 0:45
+ZEPPELIN-2980,Bug,Unresolved,Open,2017/10/7 20:42,
+ZEPPELIN-2981,Improvement,Unresolved,Open,2017/10/9 23:20,
+ZEPPELIN-2982,New Feature,Fixed,Resolved,2017/10/10 6:51,2017/10/13 13:52
+ZEPPELIN-2983,Bug,Unresolved,Open,2017/10/10 21:59,
+ZEPPELIN-2984,Improvement,Fixed,Resolved,2017/10/11 6:57,2017/12/1 1:02
+ZEPPELIN-2985,Bug,Fixed,Resolved,2017/10/11 8:19,2017/10/17 0:22
+ZEPPELIN-2986,Improvement,Unresolved,Open,2017/10/11 12:59,
+ZEPPELIN-2987,Bug,Unresolved,Open,2017/10/13 9:53,
+ZEPPELIN-2988,Bug,Fixed,Resolved,2017/10/13 12:30,2017/10/18 11:29
+ZEPPELIN-2989,Bug,Unresolved,Open,2017/10/13 14:47,
+ZEPPELIN-2990,Bug,Fixed,Resolved,2017/10/13 15:39,2017/10/16 13:15
+ZEPPELIN-2991,Improvement,Unresolved,Open,2017/10/13 16:33,
+ZEPPELIN-2992,Improvement,Unresolved,Open,2017/10/13 16:46,
+ZEPPELIN-2993,Improvement,Unresolved,Open,2017/10/13 21:08,
+ZEPPELIN-2994,New Feature,Unresolved,Open,2017/10/13 23:10,
+ZEPPELIN-2995,Bug,Fixed,Resolved,2017/10/14 2:01,2017/11/22 12:38
+ZEPPELIN-2996,Task,Unresolved,Open,2017/10/14 4:44,
+ZEPPELIN-2997,Improvement,Unresolved,Open,2017/10/16 13:30,
+ZEPPELIN-2998,Bug,Fixed,Resolved,2017/10/16 20:48,2017/10/18 8:31
+ZEPPELIN-2999,Bug,Fixed,Resolved,2017/10/16 21:47,2017/10/29 12:00
+ZEPPELIN-3000,Bug,Unresolved,Open,2017/10/17 1:06,
+ZEPPELIN-3001,Improvement,Fixed,Resolved,2017/10/17 11:33,2018/4/2 17:01
+ZEPPELIN-3002,Bug,Unresolved,Open,2017/10/19 15:30,
+ZEPPELIN-3003,Bug,Unresolved,Open,2017/10/20 0:22,
+ZEPPELIN-3004,Wish,Unresolved,Open,2017/10/20 4:45,
+ZEPPELIN-3005,Improvement,Fixed,Resolved,2017/10/23 19:12,2017/10/29 8:14
+ZEPPELIN-3006,Wish,Invalid,Resolved,2017/10/24 13:18,2017/10/24 13:44

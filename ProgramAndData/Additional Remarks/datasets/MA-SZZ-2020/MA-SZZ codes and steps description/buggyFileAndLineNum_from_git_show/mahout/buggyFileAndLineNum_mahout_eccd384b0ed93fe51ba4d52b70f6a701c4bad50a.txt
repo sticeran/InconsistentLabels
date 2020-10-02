@@ -1,0 +1,2 @@
+287,287 eccd384b0ed93fe51ba4d52b70f6a701c4bad50a^ core/src/main/java/org/apache/mahout/vectorizer/SparseVectorsFromSequenceFiles.java
+288,288 eccd384b0ed93fe51ba4d52b70f6a701c4bad50a^ core/src/main/java/org/apache/mahout/vectorizer/SparseVectorsFromSequenceFiles.java

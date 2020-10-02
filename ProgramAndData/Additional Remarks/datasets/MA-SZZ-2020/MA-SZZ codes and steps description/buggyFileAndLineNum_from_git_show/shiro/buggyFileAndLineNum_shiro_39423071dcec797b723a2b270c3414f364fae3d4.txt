@@ -1,0 +1,5 @@
+200,200 39423071dcec797b723a2b270c3414f364fae3d4^ web/src/main/java/org/apache/shiro/web/filter/authc/BasicHttpAuthenticationFilter.java
+201,201 39423071dcec797b723a2b270c3414f364fae3d4^ web/src/main/java/org/apache/shiro/web/filter/authc/BasicHttpAuthenticationFilter.java
+206,206 39423071dcec797b723a2b270c3414f364fae3d4^ web/src/main/java/org/apache/shiro/web/filter/authc/BasicHttpAuthenticationFilter.java
+180,180 39423071dcec797b723a2b270c3414f364fae3d4^ web/src/test/java/org/apache/shiro/web/filter/authc/BasicHttpFilterAuthenticationTest.java
+188,188 39423071dcec797b723a2b270c3414f364fae3d4^ web/src/test/java/org/apache/shiro/web/filter/authc/BasicHttpFilterAuthenticationTest.java

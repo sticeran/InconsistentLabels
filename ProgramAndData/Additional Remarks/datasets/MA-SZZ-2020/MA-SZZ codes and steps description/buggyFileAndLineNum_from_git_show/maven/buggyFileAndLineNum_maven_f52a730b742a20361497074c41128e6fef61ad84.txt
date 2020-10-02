@@ -1,0 +1,2 @@
+20,20 f52a730b742a20361497074c41128e6fef61ad84^ maven-core-it/it0088/src/test/java/org/apache/maven/it0088/PomInterpolationTest.java
+83,83 f52a730b742a20361497074c41128e6fef61ad84^ maven-project/src/main/java/org/apache/maven/project/path/DefaultPathTranslator.java

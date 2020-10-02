@@ -1,0 +1,2 @@
+147,147 a81ff6450b1d365d49115a1079d40eede8d5cbef^ src/java/com/cloudera/flume/master/logical/LogicalConfigurationManager.java
+40,40 a81ff6450b1d365d49115a1079d40eede8d5cbef^ src/javatest/com/cloudera/flume/master/logical/TestLogicalConfigManager.java

@@ -1,0 +1,5 @@
+121,121 4d5a89d0d6255d8989c299b197984a44eec15bb3^ maven-model-builder/src/main/java/org/apache/maven/model/inheritance/DefaultInheritanceAssembler.java
+134,134 4d5a89d0d6255d8989c299b197984a44eec15bb3^ maven-model-builder/src/main/java/org/apache/maven/model/inheritance/DefaultInheritanceAssembler.java
+144,144 4d5a89d0d6255d8989c299b197984a44eec15bb3^ maven-model-builder/src/main/java/org/apache/maven/model/inheritance/DefaultInheritanceAssembler.java
+158,158 4d5a89d0d6255d8989c299b197984a44eec15bb3^ maven-model-builder/src/main/java/org/apache/maven/model/inheritance/DefaultInheritanceAssembler.java
+177,177 4d5a89d0d6255d8989c299b197984a44eec15bb3^ maven-model-builder/src/main/java/org/apache/maven/model/inheritance/DefaultInheritanceAssembler.java

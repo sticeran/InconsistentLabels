@@ -1,0 +1,13 @@
+59,59 e9f55ae5f42f0d924ed2f7adb63bc7a5c074972d^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java
+61,61 e9f55ae5f42f0d924ed2f7adb63bc7a5c074972d^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java
+65,65 e9f55ae5f42f0d924ed2f7adb63bc7a5c074972d^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java
+75,75 e9f55ae5f42f0d924ed2f7adb63bc7a5c074972d^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java
+76,76 e9f55ae5f42f0d924ed2f7adb63bc7a5c074972d^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java
+77,77 e9f55ae5f42f0d924ed2f7adb63bc7a5c074972d^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java
+78,78 e9f55ae5f42f0d924ed2f7adb63bc7a5c074972d^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java
+79,79 e9f55ae5f42f0d924ed2f7adb63bc7a5c074972d^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java
+80,80 e9f55ae5f42f0d924ed2f7adb63bc7a5c074972d^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java
+81,81 e9f55ae5f42f0d924ed2f7adb63bc7a5c074972d^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java
+82,82 e9f55ae5f42f0d924ed2f7adb63bc7a5c074972d^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java
+120,120 e9f55ae5f42f0d924ed2f7adb63bc7a5c074972d^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java
+118,118 e9f55ae5f42f0d924ed2f7adb63bc7a5c074972d^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java

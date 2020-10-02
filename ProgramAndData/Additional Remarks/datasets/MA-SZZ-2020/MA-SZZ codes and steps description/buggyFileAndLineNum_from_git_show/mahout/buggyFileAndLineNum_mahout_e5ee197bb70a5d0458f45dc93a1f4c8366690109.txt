@@ -1,0 +1,4 @@
+68,68 e5ee197bb70a5d0458f45dc93a1f4c8366690109^ core/src/main/java/org/apache/mahout/common/distance/CosineDistanceMeasure.java
+92,92 e5ee197bb70a5d0458f45dc93a1f4c8366690109^ core/src/main/java/org/apache/mahout/common/distance/CosineDistanceMeasure.java
+113,113 e5ee197bb70a5d0458f45dc93a1f4c8366690109^ core/src/main/java/org/apache/mahout/common/distance/CosineDistanceMeasure.java
+290,290 e5ee197bb70a5d0458f45dc93a1f4c8366690109^ core/src/test/java/org/apache/mahout/clustering/iterator/TestClusterClassifier.java

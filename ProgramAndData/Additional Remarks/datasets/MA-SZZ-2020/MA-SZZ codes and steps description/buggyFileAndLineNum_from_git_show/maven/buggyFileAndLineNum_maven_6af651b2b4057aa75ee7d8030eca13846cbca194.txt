@@ -1,0 +1,8 @@
+267,267 6af651b2b4057aa75ee7d8030eca13846cbca194^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReader.java
+425,425 6af651b2b4057aa75ee7d8030eca13846cbca194^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReader.java
+431,431 6af651b2b4057aa75ee7d8030eca13846cbca194^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReader.java
+440,440 6af651b2b4057aa75ee7d8030eca13846cbca194^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReader.java
+244,244 6af651b2b4057aa75ee7d8030eca13846cbca194^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/DefaultVersionRangeResolver.java
+334,334 6af651b2b4057aa75ee7d8030eca13846cbca194^ maven-aether-provider/src/main/java/org/apache/maven/repository/internal/DefaultVersionResolver.java
+279,279 6af651b2b4057aa75ee7d8030eca13846cbca194^ maven-core/src/main/java/org/apache/maven/plugin/prefix/internal/DefaultPluginPrefixResolver.java
+181,181 6af651b2b4057aa75ee7d8030eca13846cbca194^ maven-core/src/main/java/org/apache/maven/plugin/version/internal/DefaultPluginVersionResolver.java
