@@ -8,7 +8,7 @@ Our work is to study the existence and influence of inconsistent labels in multi
 
 Dataset              | Project     | Versions            | #Instances (#IL-instances)     | %Defective | #Metrics
 -------              | :------     | :------:            | :------------------------:     | :--------: | :-------
-ECLIPSE-2007 (AV)    | Eclipse     | 2.0, 2.1, 3.0       |  6,727~10,590 (99~182)         | 11%~15%    | 198
+ECLIPSE-2007 (AV)    | Eclipse     | 2.0, 2.1, 3.0       |  6,727-10,590 (99-182)         | 11%~15%    | 198
 
 # Quick Start
 In our work, in addition to using existing publicly available multi-version-project defect data sets, we collected a file-level multi-version-project defect data set (MA-SZZ-2020) using our replicated MA-SZZ defect collection approach [1].
