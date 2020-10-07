@@ -1,4 +1,6 @@
-# An in-depth understanding of inconsistent labels in multi-version-project defect data sets
+# The replication package of inconsistent labels
+
+## Titile: An in-depth understanding of inconsistent labels in multi-version-project defect data sets
 
 Our work is to study the existence and influence of inconsistent labels in multi-version-project defect data sets.	The “inconsistent label” phenomenon denotes that a module in multiple versions has the same source code (non-blank, non-comment) but the corresponding instances in these versions have different labels.
 
