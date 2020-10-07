@@ -40,11 +40,11 @@ MA-SZZ-2020	| Mahout	| 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 0.10.0, 0.11.0, 0.12.0, 0.1
 # Quick Start
 In our work, in addition to using existing publicly available multi-version-project defect data sets, we collected a file-level multi-version-project defect data set (MA-SZZ-2020) using our replicated MA-SZZ defect collection approach [1].
 
-The "/ProgramAndData/data_csv/TSILI/original/MA-SZZ-2020/" folder contains the MA-SZZ-2020 defect data set we collected.
+### (1) [`/ProgramAndData/data_csv/TSILI/original/MA-SZZ-2020/`](https://github.com/sticeran/InconsistentLabels/tree/master/ProgramAndData/data_csv/TSILI/original/MA-SZZ-2020) This folder stores the MA-SZZ-2020 defect data set we collected.
 
-The "/ProgramAndData/Additional Remarks/datasets/MA-SZZ-2020/MA-SZZ codes and steps description/" folder contains the code of the MA-SZZ defect collection approach we implemented based on JIRA and GitHub.
+### (2) [`/ProgramAndData/Additional Remarks/datasets/MA-SZZ-2020/MA-SZZ codes and steps description/`](https://github.com/sticeran/InconsistentLabels/tree/master/ProgramAndData/Additional%20Remarks/datasets/MA-SZZ-2020/MA-SZZ%20codes%20and%20steps%20description) This folder stores the code of the MA-SZZ defect collection approach we implemented based on JIRA and GitHub.
 
-For our proposed TSILI algorithm, we expose our code (which contains comments) and place it in the "/ProgramAndData/TSILI code/" folder.
+### (3) [`/ProgramAndData/TSILI code/`](https://github.com/sticeran/InconsistentLabels/tree/master/ProgramAndData/TSILI%20code) This folder stores the code of our TSILI algorithm.
 
 
 If you use the MA-SZZ-2020 defect data set or the method code that this work implements, please cite the inconsistent labels paper.
