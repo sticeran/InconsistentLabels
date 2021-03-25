@@ -1,6 +1,0 @@
-"Dataset","Contrast","F1_cliff_delta_p","AUC_cliff_delta_p","MAP_cliff_delta_p","MRR_cliff_delta_p","ER_cliff_delta_p","RI_cliff_delta_p","Popt_cliff_delta_p","ACC_cliff_delta_p"
-"ECLIPSE-2007","NC vs CC","(-M)","(-L)","(-M)","(N)","(-M)","(-M)","(-M)","(-M)"
-"Metrics-Repo-2010","NC vs CC","(-N)","(N)","(N)*","(N)","(-N)","(-N)","(N)*","(N)*"
-"JIRA-HA-2019","NC vs CC","(-N)","(-N)","(-N)","(N)","(-N)","(-N)*","(-N)","(-N)"
-"JIRA-RA-2019","NC vs CC","(-N)**","(-N)","(-N)**","(-N)","(-N)**","(-N)***","(N)","(-N)"
-"MA-SZZ-2020","NC vs CC","(N)**","(N)***","(N)*","(N)*","(N)*","(N)","(N)***","(N)"
