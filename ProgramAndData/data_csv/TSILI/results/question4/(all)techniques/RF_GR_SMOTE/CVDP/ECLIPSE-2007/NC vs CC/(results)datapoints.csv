@@ -1,0 +1,4 @@
+fileName,Ranked1,Ranked2,Ranked3,Top1_overlap,Top3_overlap
+eclipse-2.1(2.0).csv,0.0,-1.0,-200.0,1.0,0.5
+eclipse-3.0(2.1).csv,-3.0,0.0,-200.0,0.0,0.2
+"eclipse-3.0(2.1,2.0).csv",-1.0,1.0,0.0,0.0,1.0

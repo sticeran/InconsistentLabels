@@ -1,0 +1,2 @@
+157,157 159b48c4e7503332913835675c78cc187d2319a6^ maven-project/src/main/java/org/apache/maven/project/injection/DefaultProfileInjector.java
+18,18 159b48c4e7503332913835675c78cc187d2319a6^ maven-project/src/test/java/org/apache/maven/project/injection/DefaultProfileInjectorTest.java

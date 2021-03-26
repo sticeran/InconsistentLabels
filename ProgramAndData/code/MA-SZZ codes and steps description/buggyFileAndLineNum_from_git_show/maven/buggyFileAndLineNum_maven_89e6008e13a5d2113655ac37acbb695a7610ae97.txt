@@ -1,0 +1,11 @@
+19,19 89e6008e13a5d2113655ac37acbb695a7610ae97^ maven-core-it/it0094/mojo/src/main/java/org/codehaus/mojo/kodo/Enhance.java
+20,20 89e6008e13a5d2113655ac37acbb695a7610ae97^ maven-core-it/it0094/mojo/src/main/java/org/codehaus/mojo/kodo/Enhance.java
+21,21 89e6008e13a5d2113655ac37acbb695a7610ae97^ maven-core-it/it0094/mojo/src/main/java/org/codehaus/mojo/kodo/Enhance.java
+23,23 89e6008e13a5d2113655ac37acbb695a7610ae97^ maven-core-it/it0094/mojo/src/main/java/org/codehaus/mojo/kodo/Enhance.java
+82,82 89e6008e13a5d2113655ac37acbb695a7610ae97^ maven-core-it/it0094/mojo/src/main/java/org/codehaus/mojo/kodo/Enhance.java
+89,89 89e6008e13a5d2113655ac37acbb695a7610ae97^ maven-core-it/it0094/mojo/src/main/java/org/codehaus/mojo/kodo/Enhance.java
+96,96 89e6008e13a5d2113655ac37acbb695a7610ae97^ maven-core-it/it0094/mojo/src/main/java/org/codehaus/mojo/kodo/Enhance.java
+101,101 89e6008e13a5d2113655ac37acbb695a7610ae97^ maven-core-it/it0094/mojo/src/main/java/org/codehaus/mojo/kodo/Enhance.java
+103,103 89e6008e13a5d2113655ac37acbb695a7610ae97^ maven-core-it/it0094/mojo/src/main/java/org/codehaus/mojo/kodo/Enhance.java
+104,104 89e6008e13a5d2113655ac37acbb695a7610ae97^ maven-core-it/it0094/mojo/src/main/java/org/codehaus/mojo/kodo/Enhance.java
+130,130 89e6008e13a5d2113655ac37acbb695a7610ae97^ maven-core-it/it0094/mojo/src/main/java/org/codehaus/mojo/kodo/Enhance.java

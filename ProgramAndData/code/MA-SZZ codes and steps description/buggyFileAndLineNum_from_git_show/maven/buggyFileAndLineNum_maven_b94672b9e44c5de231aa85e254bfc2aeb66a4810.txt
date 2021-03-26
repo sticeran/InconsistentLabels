@@ -1,0 +1,4 @@
+65,65 b94672b9e44c5de231aa85e254bfc2aeb66a4810^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/transform/AbstractVersionTransformation.java
+68,68 b94672b9e44c5de231aa85e254bfc2aeb66a4810^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/transform/AbstractVersionTransformation.java
+73,73 b94672b9e44c5de231aa85e254bfc2aeb66a4810^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/transform/AbstractVersionTransformation.java
+50,50 b94672b9e44c5de231aa85e254bfc2aeb66a4810^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/transform/SnapshotTransformation.java

@@ -1,0 +1,1 @@
+116,116 19dec1eff690aa152832b57244ebe436ba82d14b^ maven-compat/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java

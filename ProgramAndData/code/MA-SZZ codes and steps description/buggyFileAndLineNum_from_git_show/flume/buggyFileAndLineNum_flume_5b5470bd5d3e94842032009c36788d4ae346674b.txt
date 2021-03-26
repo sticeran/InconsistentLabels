@@ -1,0 +1,3 @@
+150,150 5b5470bd5d3e94842032009c36788d4ae346674b^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSCompressedDataStream.java
+126,126 5b5470bd5d3e94842032009c36788d4ae346674b^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSDataStream.java
+113,113 5b5470bd5d3e94842032009c36788d4ae346674b^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSSequenceFile.java

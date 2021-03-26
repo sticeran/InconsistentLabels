@@ -1,0 +1,516 @@
+issueKey,type,resolution,status,createdDateEpoch,resolvedDateEpoch
+MNG-6234,Bug,Fixed,Closed,2017/5/17 2:29,2017/9/16 18:24
+MNG-6235,Bug,Invalid,Closed,2017/5/18 15:30,2017/5/19 0:03
+MNG-6236,Bug,Not A Problem,Closed,2017/5/18 19:36,2019/2/18 3:33
+MNG-6237,Bug,Unresolved,Open,2017/5/19 22:29,
+MNG-6238,Bug,Not A Problem,Closed,2017/5/30 18:34,2017/5/31 5:05
+MNG-6239,Bug,Unresolved,Open,2017/6/7 19:02,
+MNG-6240,Bug,Fixed,Closed,2017/6/10 5:17,2017/6/15 2:00
+MNG-6241,Bug,Unresolved,Open,2017/6/20 21:34,
+MNG-6242,Bug,Fixed,Closed,2017/6/23 18:21,2017/10/15 16:55
+MNG-6243,Bug,Duplicate,Closed,2017/6/24 4:45,2017/6/24 18:17
+MNG-6244,Bug,Not A Problem,Closed,2017/6/26 17:43,2017/6/27 1:54
+MNG-6246,Bug,Duplicate,Closed,2017/6/30 20:16,2018/1/29 18:24
+MNG-6247,Bug,Invalid,Closed,2017/7/2 7:18,2017/7/2 7:44
+MNG-6248,Bug,Invalid,Closed,2017/7/2 7:30,2017/7/2 7:38
+MNG-6249,Bug,Not A Problem,Closed,2017/7/2 7:52,2017/7/2 17:16
+MNG-6250,Bug,Invalid,Closed,2017/7/4 22:31,2017/7/8 2:59
+MNG-6251,Bug,Invalid,Closed,2017/7/7 18:23,2017/7/7 19:19
+MNG-6252,Bug,Invalid,Closed,2017/7/7 23:55,2017/7/8 3:25
+MNG-6253,Improvement,Unresolved,Open,2017/7/10 22:07,
+MNG-6254,Improvement,Unresolved,Open,2017/7/11 13:58,
+MNG-6255,Bug,Fixed,Closed,2017/7/11 21:48,2018/2/10 20:01
+MNG-6256,Bug,Fixed,Closed,2017/7/12 21:25,2019/1/9 8:38
+MNG-6258,Task,Fixed,Closed,2017/7/13 1:49,2017/7/14 23:25
+MNG-6259,Bug,Incomplete,Closed,2017/7/13 8:30,2018/6/18 4:25
+MNG-6260,Bug,Unresolved,Open,2017/7/14 3:42,
+MNG-6261,Bug,Fixed,Closed,2017/7/14 18:52,2018/12/30 6:14
+MNG-6262,Bug,Duplicate,Closed,2017/7/19 5:45,2019/2/18 6:35
+MNG-6263,Bug,Cannot Reproduce,Closed,2017/7/26 19:23,2017/7/26 20:44
+MNG-6264,Bug,Cannot Reproduce,Closed,2017/7/27 0:50,2018/6/18 5:44
+MNG-6265,New Feature,Unresolved,Open,2017/7/28 11:13,
+MNG-6266,Task,Not A Problem,Closed,2017/7/29 19:34,2017/8/2 3:23
+MNG-6267,Improvement,Won't Fix,Closed,2017/8/2 23:00,2017/8/3 15:24
+MNG-6268,Improvement,Unresolved,Open,2017/8/3 17:23,
+MNG-6269,Bug,Invalid,Closed,2017/8/8 2:26,2017/8/8 2:36
+MNG-6270,New Feature,Unresolved,Open,2017/8/8 13:45,
+MNG-6271,New Feature,Unresolved,Open,2017/8/9 15:47,
+MNG-6272,Bug,Not A Problem,Closed,2017/8/14 13:29,2018/1/7 6:29
+MNG-6274,Bug,Unresolved,Open,2017/8/23 22:29,
+MNG-6275,Bug,Unresolved,Reopened,2017/8/24 16:27,
+MNG-6276,New Feature,Unresolved,Open,2017/8/26 5:29,
+MNG-6278,Bug,Not A Problem,Closed,2017/8/31 7:36,2017/9/1 19:42
+MNG-6279,Bug,Incomplete,Closed,2017/9/6 11:20,2018/6/25 3:52
+MNG-6280,Sub-task,Fixed,Closed,2017/9/9 17:49,2017/9/9 17:55
+MNG-6281,Sub-task,Unresolved,Open,2017/9/9 17:53,
+MNG-6282,Bug,Fixed,Closed,2017/9/11 19:08,2018/2/10 19:57
+MNG-6283,Bug,Unresolved,Open,2017/9/12 21:01,
+MNG-6284,Bug,Not A Problem,Closed,2017/9/15 14:38,2018/1/29 18:14
+MNG-6286,Bug,Duplicate,Closed,2017/9/22 0:17,2018/2/20 4:57
+MNG-6288,New Feature,Unresolved,Open,2017/9/26 16:28,
+MNG-6289,Improvement,Incomplete,Closed,2017/9/28 19:52,2018/3/25 5:08
+MNG-6290,Bug,Incomplete,Closed,2017/10/1 5:49,2018/3/25 5:14
+MNG-6291,Bug,Duplicate,Closed,2017/10/4 21:06,2017/10/8 22:01
+MNG-6292,Improvement,Incomplete,Closed,2017/10/13 20:41,2018/3/25 5:09
+MNG-6293,Improvement,Unresolved,Open,2017/10/17 21:36,
+MNG-6294,Improvement,Unresolved,Open,2017/10/25 3:09,
+MNG-6295,Bug,Unresolved,Open,2017/10/25 22:52,
+MNG-6296,Bug,Fixed,Closed,2017/10/26 15:54,2017/11/22 6:36
+MNG-6297,Bug,Not A Bug,Closed,2017/11/2 4:11,2017/11/3 17:41
+MNG-6298,Bug,Fixed,Closed,2017/11/2 4:58,2018/1/20 6:25
+MNG-6299,New Feature,Unresolved,Open,2017/11/3 18:37,
+MNG-6300,Bug,Fixed,Closed,2017/11/4 16:50,2017/12/22 21:29
+MNG-6302,New Feature,Fixed,Closed,2017/11/6 16:51,2017/11/20 3:59
+MNG-6303,Bug,Unresolved,Open,2017/11/7 0:14,
+MNG-6304,Bug,Invalid,Closed,2017/11/14 2:09,2017/11/14 2:30
+MNG-6305,Bug,Fixed,Closed,2017/11/15 1:37,2017/12/31 4:45
+MNG-6306,Improvement,Fixed,Closed,2017/11/16 2:36,2017/11/25 6:56
+MNG-6307,Bug,Incomplete,Closed,2017/11/19 16:11,2018/6/25 4:00
+MNG-6308,Improvement,Fixed,Closed,2017/11/20 3:42,2018/1/7 6:40
+MNG-6310,New Feature,Unresolved,Reopened,2017/11/22 6:34,
+MNG-6311,Bug,Fixed,Closed,2017/11/24 9:04,2018/9/15 1:53
+MNG-6312,Dependency upgrade,Fixed,Closed,2017/11/25 2:27,2018/1/19 2:56
+MNG-6313,Dependency upgrade,Won't Fix,Closed,2017/11/25 3:21,2019/1/14 5:12
+MNG-6315,Bug,Incomplete,Closed,2017/11/28 7:51,2018/6/18 6:27
+MNG-6316,Bug,Won't Fix,Closed,2017/11/29 17:00,2017/11/29 19:57
+MNG-6317,Bug,Cannot Reproduce,Closed,2017/11/30 21:23,2017/12/16 19:42
+MNG-6318,Improvement,Not A Problem,Closed,2017/12/6 3:58,2017/12/7 4:00
+MNG-6319,Sub-task,Unresolved,Open,2017/12/8 23:47,
+MNG-6320,Bug,Fixed,Closed,2017/12/14 18:31,2018/2/10 19:55
+MNG-6321,Bug,Invalid,Closed,2017/12/18 23:39,2019/4/4 4:16
+MNG-6322,Bug,Not A Problem,Closed,2017/12/18 23:41,2017/12/20 3:37
+MNG-6323,Bug,Fixed,Closed,2017/12/19 3:18,2018/2/21 1:24
+MNG-6324,Bug,Duplicate,Closed,2017/12/20 0:49,2017/12/20 3:06
+MNG-6326,Bug,Unresolved,Open,2017/12/21 16:00,
+MNG-6327,Improvement,Unresolved,Open,2017/12/21 16:05,
+MNG-6328,Bug,Invalid,Closed,2017/12/21 18:13,2018/2/11 4:21
+MNG-6329,Bug,Incomplete,Closed,2017/12/26 18:50,2019/2/17 4:42
+MNG-6330,Bug,Fixed,Closed,2017/12/26 23:39,2017/12/29 17:50
+MNG-6331,Task,Fixed,Closed,2017/12/31 3:13,2017/12/31 21:07
+MNG-6332,Improvement,Fixed,Closed,2017/12/31 4:13,2018/1/7 3:53
+MNG-6333,Bug,Not A Problem,Closed,2018/1/1 15:16,2018/1/1 20:42
+MNG-6334,Bug,Incomplete,Closed,2018/1/4 14:51,2019/4/4 4:16
+MNG-6335,Dependency upgrade,Fixed,Closed,2018/1/7 8:21,2018/2/10 20:00
+MNG-6336,Improvement,Unresolved,Open,2018/1/10 4:09,
+MNG-6337,Bug,Not A Problem,Closed,2018/1/10 5:51,2018/1/25 3:59
+MNG-6338,Bug,Duplicate,Closed,2018/1/12 17:56,2018/1/12 18:36
+MNG-6339,Bug,Not A Problem,Closed,2018/1/13 14:22,2018/1/14 1:46
+MNG-6340,Improvement,Fixed,Closed,2018/1/17 4:02,2018/2/5 1:33
+MNG-6342,Improvement,Fixed,Closed,2018/1/18 21:55,2018/1/20 8:01
+MNG-6343,Wish,Not A Problem,Closed,2018/1/18 23:14,2018/4/23 5:51
+MNG-6344,Dependency upgrade,Fixed,Closed,2018/1/19 5:05,2018/6/10 17:30
+MNG-6345,New Feature,Unresolved,Open,2018/1/20 1:09,
+MNG-6346,Bug,Duplicate,Closed,2018/1/22 16:10,2019/1/9 8:37
+MNG-6347,New Feature,Unresolved,Open,2018/1/24 21:38,
+MNG-6348,Improvement,Unresolved,Open,2018/1/25 1:52,
+MNG-6350,Bug,Duplicate,Closed,2018/1/30 0:12,2018/1/30 1:41
+MNG-6351,New Feature,Unresolved,Open,2018/1/30 17:12,
+MNG-6352,Improvement,Fixed,Closed,2018/2/4 19:25,2018/2/18 22:04
+MNG-6353,Dependency upgrade,Fixed,Closed,2018/2/6 5:15,2018/2/12 1:34
+MNG-6354,Improvement,Unresolved,Open,2018/2/6 14:27,
+MNG-6355,Bug,Incomplete,Closed,2018/2/7 5:30,2019/6/12 5:27
+MNG-6356,Bug,Unresolved,Open,2018/2/7 8:38,
+MNG-6357,Improvement,Unresolved,Open,2018/2/8 4:00,
+MNG-6358,Bug,Fixed,Closed,2018/2/13 20:45,2018/9/17 0:09
+MNG-6359,Bug,Cannot Reproduce,Closed,2018/2/13 23:59,2019/1/20 4:54
+MNG-6360,Task,Cannot Reproduce,Closed,2018/2/14 22:42,2018/5/2 16:54
+MNG-6361,Bug,Duplicate,Closed,2018/2/16 15:58,2018/2/16 18:41
+MNG-6362,Improvement,Fixed,Closed,2018/2/17 20:46,2018/3/21 6:14
+MNG-6363,Improvement,Done,Closed,2018/2/17 21:40,2018/4/24 3:17
+MNG-6364,Improvement,Fixed,Closed,2018/2/18 22:15,2018/6/10 17:34
+MNG-6366,Bug,Not A Problem,Closed,2018/2/20 23:19,2018/4/23 5:36
+MNG-6368,Bug,Unresolved,Open,2018/3/1 6:00,
+MNG-6369,Bug,Not A Problem,Closed,2018/3/6 0:15,2018/6/20 0:21
+MNG-6370,Bug,Fixed,Closed,2018/3/6 5:19,2018/3/8 6:59
+MNG-6371,Improvement,Unresolved,Open,2018/3/6 21:36,
+MNG-6372,Bug,Fixed,Closed,2018/3/8 8:25,2018/5/15 17:36
+MNG-6373,Bug,Unresolved,Open,2018/3/9 23:09,
+MNG-6374,Bug,Fixed,Closed,2018/3/11 7:32,2019/3/12 14:42
+MNG-6375,Bug,Fixed,Closed,2018/3/12 8:21,2019/7/25 5:26
+MNG-6377,Task,Fixed,Closed,2018/3/18 21:51,2018/3/18 22:01
+MNG-6378,Improvement,Unresolved,Open,2018/3/20 3:34,
+MNG-6379,Improvement,Won't Fix,Closed,2018/3/20 3:38,2019/8/15 5:38
+MNG-6380,Improvement,Unresolved,Open,2018/3/20 18:33,
+MNG-6382,Bug,Fixed,Closed,2018/3/22 0:14,2018/5/15 17:36
+MNG-6383,Bug,Fixed,Closed,2018/3/23 20:42,2018/8/1 4:15
+MNG-6384,Bug,Unresolved,Open,2018/3/29 6:32,
+MNG-6385,Bug,Unresolved,Open,2018/3/29 16:13,
+MNG-6386,Bug,Fixed,Closed,2018/3/30 9:24,2018/5/8 4:39
+MNG-6387,Wish,Unresolved,Open,2018/3/30 18:10,
+MNG-6388,Bug,Fixed,Closed,2018/4/3 0:14,2018/6/9 19:17
+MNG-6389,Improvement,Unresolved,Open,2018/4/4 19:01,
+MNG-6390,Improvement,Not A Problem,Closed,2018/4/9 19:35,2018/11/22 3:10
+MNG-6391,Improvement,Done,Closed,2018/4/11 1:08,2018/10/20 17:36
+MNG-6392,New Feature,Unresolved,Open,2018/4/12 9:45,
+MNG-6394,Bug,Won't Fix,Closed,2018/4/13 16:55,2018/8/2 2:49
+MNG-6395,Improvement,Unresolved,Open,2018/4/15 1:07,
+MNG-6396,Bug,Not A Problem,Closed,2018/4/15 16:37,2018/4/15 18:08
+MNG-6397,Bug,Unresolved,Open,2018/4/20 5:42,
+MNG-6398,Bug,Incomplete,Closed,2018/4/22 0:07,2019/4/4 4:13
+MNG-6399,Task,Done,Closed,2018/4/24 4:53,2019/11/27 14:02
+MNG-6400,Bug,Incomplete,Closed,2018/4/25 1:44,2018/9/30 22:46
+MNG-6401,Bug,Unresolved,Open,2018/5/2 10:59,
+MNG-6402,Bug,Unresolved,Open,2018/5/3 23:18,
+MNG-6403,Bug,Fixed,Closed,2018/5/6 6:33,2018/5/10 16:47
+MNG-6404,Bug,Invalid,Closed,2018/5/10 7:01,2018/5/10 16:00
+MNG-6405,Bug,Fixed,Resolved,2018/5/10 22:45,2019/4/16 19:28
+MNG-6406,Bug,Not A Problem,Closed,2018/5/7 15:47,2018/5/11 1:06
+MNG-6407,New Feature,Not A Problem,Closed,2018/5/11 13:04,2018/5/11 17:10
+MNG-6408,New Feature,Invalid,Closed,2018/5/11 14:13,2018/5/11 17:07
+MNG-6409,New Feature,Invalid,Closed,2018/5/11 14:35,2018/5/11 17:06
+MNG-6410,Bug,Fixed,Closed,2018/5/11 21:08,2018/5/21 3:51
+MNG-6411,Improvement,Fixed,Closed,2018/5/11 21:34,2018/5/19 4:48
+MNG-6412,Bug,Fixed,Closed,2018/5/17 0:08,2018/10/29 15:05
+MNG-6413,Task,Unresolved,Open,2018/5/22 5:39,
+MNG-6414,Improvement,Fixed,Closed,2018/5/22 14:01,2018/9/16 21:56
+MNG-6415,Bug,Fixed,Closed,2018/5/22 18:37,2018/9/25 2:45
+MNG-6416,Bug,Cannot Reproduce,Closed,2018/5/25 2:51,2018/10/7 1:47
+MNG-6417,Bug,Workaround,Closed,2018/5/27 2:55,2018/12/31 21:10
+MNG-6418,Bug,Duplicate,Closed,2018/5/30 15:55,2018/5/31 1:18
+MNG-6419,Bug,Duplicate,Closed,2018/5/30 17:18,2018/5/31 1:15
+MNG-6420,Bug,Unresolved,Open,2018/5/31 22:17,
+MNG-6421,Bug,Cannot Reproduce,Closed,2018/6/1 1:48,2018/6/1 19:25
+MNG-6422,Bug,Duplicate,Closed,2018/6/6 20:13,2018/6/19 4:47
+MNG-6423,Dependency upgrade,Fixed,Closed,2018/6/9 1:32,2018/6/9 19:17
+MNG-6424,Dependency upgrade,Done,Closed,2018/6/9 19:42,2018/8/1 2:44
+MNG-6425,Bug,Incomplete,Closed,2018/6/11 23:21,2019/2/17 4:46
+MNG-6426,Bug,Fixed,Closed,2018/6/16 5:22,2018/6/16 6:32
+MNG-6427,Bug,Fixed,Closed,2018/6/16 6:55,2018/6/16 6:57
+MNG-6428,Bug,Fixed,Closed,2018/6/16 7:17,2018/6/16 7:40
+MNG-6429,Bug,Fixed,Closed,2018/6/18 7:18,2019/1/4 7:53
+MNG-6430,Bug,Not A Problem,Closed,2018/6/19 18:49,2019/6/11 5:59
+MNG-6431,Bug,Not A Problem,Closed,2018/6/21 15:41,2018/6/22 3:55
+MNG-6432,Bug,Later,Closed,2018/6/21 22:28,2019/8/15 5:33
+MNG-6433,Bug,Incomplete,Closed,2018/6/25 22:37,2019/2/17 4:35
+MNG-6434,Bug,Unresolved,Open,2018/6/27 7:38,
+MNG-6435,Improvement,Unresolved,Open,2018/6/28 6:04,
+MNG-6436,Bug,Unresolved,Open,2018/6/29 4:12,
+MNG-6437,Improvement,Unresolved,Open,2018/6/29 19:46,
+MNG-6438,Bug,Unresolved,Open,2018/7/2 20:02,
+MNG-6441,Improvement,Duplicate,Closed,2018/7/8 20:58,2018/10/10 18:54
+MNG-6442,Wish,Unresolved,Open,2018/7/10 17:33,
+MNG-6443,Bug,Incomplete,Closed,2018/7/12 4:25,2019/6/13 4:04
+MNG-6444,Task,Unresolved,Open,2018/7/15 17:14,
+MNG-6445,Bug,Incomplete,Closed,2018/7/16 4:36,2019/4/4 4:12
+MNG-6446,Bug,Unresolved,Open,2018/7/17 4:08,
+MNG-6449,Dependency upgrade,Done,Closed,2018/7/20 4:21,2018/7/29 19:21
+MNG-6450,Improvement,Unresolved,Open,2018/7/25 4:40,
+MNG-6452,Bug,Invalid,Closed,2018/8/1 20:01,2018/8/2 0:38
+MNG-6453,Bug,Duplicate,Closed,2018/8/5 3:16,2018/8/5 7:07
+MNG-6454,New Feature,Unresolved,Open,2018/8/5 17:45,
+MNG-6455,Bug,Cannot Reproduce,Closed,2018/8/7 4:01,2018/11/3 3:06
+MNG-6456,Improvement,Unresolved,Open,2018/8/14 16:32,
+MNG-6457,Bug,Unresolved,Open,2018/8/14 19:12,
+MNG-6458,Bug,Not A Problem,Closed,2018/8/14 22:17,2018/8/14 22:24
+MNG-6459,Bug,Duplicate,Closed,2018/8/16 23:38,2018/8/17 0:02
+MNG-6460,Bug,Unresolved,Open,2018/8/17 8:38,
+MNG-6461,Bug,Invalid,Closed,2018/8/22 11:30,2018/8/25 4:03
+MNG-6467,Improvement,Done,Closed,2018/8/28 3:51,2018/8/29 1:08
+MNG-6468,Bug,Invalid,Closed,2018/8/28 23:37,2018/8/28 23:55
+MNG-6469,Bug,Cannot Reproduce,Closed,2018/8/30 9:29,2019/8/15 5:31
+MNG-6470,Bug,Invalid,Closed,2018/8/30 21:06,2018/8/31 6:51
+MNG-6471,Improvement,Unresolved,Open,2018/9/6 17:08,
+MNG-6472,Bug,Fixed,Closed,2018/9/9 18:08,2018/9/15 4:57
+MNG-6473,Dependency upgrade,Fixed,Closed,2018/9/9 22:54,2018/9/15 1:07
+MNG-6474,Bug,Incomplete,Closed,2018/9/11 23:10,2019/6/11 6:00
+MNG-6475,Task,Done,Closed,2018/9/12 7:56,2018/9/14 3:29
+MNG-6477,Improvement,Incomplete,Closed,2018/9/15 1:25,2019/2/17 3:59
+MNG-6478,Dependency upgrade,Fixed,Closed,2018/9/16 3:58,2018/9/16 4:44
+MNG-6479,Dependency upgrade,Fixed,Closed,2018/9/16 22:04,2018/10/2 6:33
+MNG-6480,Improvement,Fixed,Closed,2016/9/7 20:29,2018/9/18 4:01
+MNG-6481,Improvement,Fixed,Closed,2018/9/17 5:47,2018/11/13 6:38
+MNG-6482,Bug,Cannot Reproduce,Closed,2018/9/26 18:43,2019/2/5 5:04
+MNG-6483,Improvement,Unresolved,Open,2018/9/27 19:45,
+MNG-6484,Bug,Incomplete,Closed,2018/9/28 3:42,2018/11/4 18:51
+MNG-6485,Bug,Invalid,Closed,2018/9/28 14:34,2018/9/28 16:40
+MNG-6486,Dependency upgrade,Fixed,Closed,2018/10/3 4:47,2018/10/7 2:59
+MNG-6487,Improvement,Unresolved,Open,2018/10/6 17:21,
+MNG-6488,Bug,Invalid,Closed,2018/10/6 23:35,2018/10/7 2:38
+MNG-6489,Dependency upgrade,Fixed,Closed,2018/10/10 5:20,2018/10/10 14:31
+MNG-6490,Bug,Done,Closed,2018/10/12 7:54,2018/10/24 23:21
+MNG-6491,Dependency upgrade,Fixed,Closed,2018/10/12 10:08,2018/10/15 0:09
+MNG-6492,Improvement,Done,Closed,2018/10/15 22:11,2018/10/25 1:09
+MNG-6494,Bug,Not A Problem,Closed,2018/10/16 15:56,2019/2/23 22:41
+MNG-6495,Bug,Fixed,Closed,2018/10/17 1:52,2019/2/17 5:45
+MNG-6496,Dependency upgrade,Fixed,Closed,2018/10/18 6:11,2018/10/18 7:46
+MNG-6497,Dependency upgrade,Done,Closed,2018/10/22 2:01,2018/10/25 1:44
+MNG-6498,Bug,Not A Problem,Closed,2018/10/25 1:40,2018/10/25 20:18
+MNG-6499,New Feature,Incomplete,Closed,2018/10/26 9:48,2019/4/4 4:11
+MNG-6500,Bug,Not A Problem,Closed,2018/10/31 1:02,2019/2/5 5:00
+MNG-6501,Bug,Not A Problem,Closed,2018/10/31 20:50,2019/2/17 4:09
+MNG-6502,Improvement,Won't Fix,Closed,2018/10/31 23:26,2019/2/5 4:51
+MNG-6503,Bug,Duplicate,Closed,2018/11/2 1:17,2018/11/27 3:44
+MNG-6504,Bug,Invalid,Closed,2018/11/4 20:14,2018/11/7 2:22
+MNG-6505,Bug,Fixed,Closed,2018/11/4 20:29,2018/11/12 3:21
+MNG-6506,Bug,Fixed,Closed,2018/11/4 23:00,2019/3/29 14:42
+MNG-6507,New Feature,Unresolved,Open,2018/11/6 4:00,
+MNG-6508,Bug,Not A Problem,Closed,2018/11/8 5:57,2019/2/5 3:44
+MNG-6509,Dependency upgrade,Fixed,Closed,2018/11/9 5:31,2018/11/9 6:17
+MNG-6510,Bug,Duplicate,Closed,2018/11/9 17:39,2018/11/9 17:46
+MNG-6511,Improvement,Unresolved,Open,2018/11/10 6:17,
+MNG-6512,Task,Unresolved,Open,2018/11/10 20:21,
+MNG-6513,Improvement,Fixed,Closed,2018/11/11 3:24,2019/1/4 7:52
+MNG-6515,Improvement,Fixed,Closed,2018/11/12 22:27,2018/11/13 0:26
+MNG-6516,Bug,Not A Problem,Closed,2018/11/16 2:57,2018/11/23 16:48
+MNG-6518,Bug,Not A Problem,Closed,2018/11/18 18:50,2018/11/18 20:19
+MNG-6519,Task,Not A Problem,Closed,2018/11/18 22:20,2018/11/18 22:34
+MNG-6520,Improvement,Fixed,Closed,2018/11/19 6:12,2019/1/7 20:30
+MNG-6522,Improvement,Fixed,Closed,2018/11/20 5:12,2019/1/20 7:00
+MNG-6523,Wish,Unresolved,Open,2018/11/20 15:46,
+MNG-6524,Bug,Invalid,Closed,2018/11/26 19:29,2018/11/27 3:48
+MNG-6525,Wish,Won't Fix,Closed,2018/11/27 10:07,2019/2/18 7:41
+MNG-6526,Dependency upgrade,Fixed,Closed,2018/11/27 17:32,2019/1/7 2:31
+MNG-6527,Test,Incomplete,Closed,2018/11/27 18:50,2019/2/5 4:20
+MNG-6528,Test,Won't Fix,Closed,2018/11/27 19:09,2019/2/5 5:27
+MNG-6529,Bug,Fixed,Closed,2018/11/27 22:52,2018/12/26 18:51
+MNG-6530,Bug,Fixed,Closed,2018/11/28 16:02,2019/1/9 4:29
+MNG-6532,Bug,Incomplete,Closed,2018/11/29 18:34,2018/12/3 18:47
+MNG-6533,Bug,Fixed,Closed,2018/11/30 1:24,2019/1/15 17:55
+MNG-6535,Test,Fixed,Closed,2018/12/4 17:38,2019/7/10 17:59
+MNG-6536,Bug,Invalid,Closed,2018/12/5 0:57,2019/2/17 4:25
+MNG-6537,Bug,Not A Problem,Closed,2018/12/7 14:53,2018/12/7 19:05
+MNG-6538,Task,Done,Closed,2018/12/10 2:46,2019/3/25 5:48
+MNG-6539,Bug,Invalid,Closed,2018/12/18 13:02,2018/12/18 18:24
+MNG-6541,Wish,Duplicate,Closed,2018/12/20 21:52,2019/1/7 7:06
+MNG-6542,Bug,Incomplete,Closed,2018/12/25 4:55,2019/2/17 4:23
+MNG-6543,Bug,Fixed,Closed,2018/12/27 18:14,2019/3/29 14:42
+MNG-6544,Task,Fixed,Closed,2018/12/28 4:32,2018/12/28 7:13
+MNG-6545,Improvement,Unresolved,Open,2018/12/29 18:39,
+MNG-6547,Bug,Not A Problem,Closed,2019/1/2 18:13,2019/1/3 17:42
+MNG-6548,Improvement,Unresolved,Reopened,2019/1/7 7:27,
+MNG-6549,Dependency upgrade,Fixed,Closed,2019/1/7 21:23,2019/7/20 17:40
+MNG-6550,Sub-task,Unresolved,Open,2019/1/7 21:44,
+MNG-6551,Sub-task,Unresolved,Open,2019/1/7 22:50,
+MNG-6552,Sub-task,Unresolved,Open,2019/1/8 17:11,
+MNG-6553,Sub-task,Unresolved,Open,2019/1/8 21:27,
+MNG-6554,Sub-task,Unresolved,Open,2019/1/8 23:50,
+MNG-6555,Sub-task,Unresolved,Open,2019/1/9 0:12,
+MNG-6556,Sub-task,Unresolved,Open,2019/1/9 4:38,
+MNG-6557,Improvement,Duplicate,Closed,2019/1/10 14:39,2019/1/11 1:07
+MNG-6558,Bug,Fixed,Closed,2019/1/10 15:46,2019/1/27 21:39
+MNG-6559,Bug,Fixed,Resolved,2019/1/10 16:10,2019/1/13 17:37
+MNG-6560,Bug,Not A Problem,Closed,2019/1/11 0:05,2019/1/11 0:56
+MNG-6561,Improvement,Unresolved,Open,2019/1/11 17:32,
+MNG-6562,Improvement,Unresolved,Open,2019/1/14 2:04,
+MNG-6563,Bug,Unresolved,Open,2019/1/14 17:26,
+MNG-6564,New Feature,Unresolved,Open,2019/1/14 20:37,
+MNG-6565,Task,Unresolved,Open,2019/1/16 0:34,
+MNG-6566,Improvement,Unresolved,Open,2019/1/19 5:39,
+MNG-6567,Bug,Unresolved,Open,2019/1/19 6:13,
+MNG-6568,Bug,Unresolved,Open,2019/1/19 7:14,
+MNG-6569,Improvement,Unresolved,Open,2019/1/22 6:49,
+MNG-6571,Wish,Fixed,Closed,2019/1/23 17:47,2019/2/12 14:38
+MNG-6572,Improvement,Fixed,Closed,2019/1/24 0:40,2019/3/24 1:38
+MNG-6573,Task,Fixed,Closed,2019/1/24 7:08,2019/1/27 19:38
+MNG-6574,Bug,Duplicate,Closed,2019/1/24 13:25,2019/1/24 14:54
+MNG-6575,Improvement,Unresolved,Open,2019/1/24 20:08,
+MNG-6577,Bug,Fixed,Closed,2019/1/25 8:51,2019/4/1 3:54
+MNG-6578,New Feature,Unresolved,Open,2019/1/25 23:40,
+MNG-6579,New Feature,Unresolved,Open,2018/7/24 1:30,
+MNG-6580,Bug,Unresolved,Open,2019/1/28 6:42,
+MNG-6581,Bug,Unresolved,Open,2019/1/28 21:34,
+MNG-6582,Bug,Not A Problem,Closed,2019/1/29 23:24,2019/2/1 18:03
+MNG-6583,Bug,Duplicate,Closed,2019/1/31 18:24,2019/2/1 1:59
+MNG-6584,Bug,Fixed,Closed,2019/2/1 5:15,2019/11/13 14:30
+MNG-6585,Bug,Incomplete,Closed,2019/2/6 1:19,2019/4/4 4:09
+MNG-6586,Bug,Unresolved,Open,2019/2/7 0:32,
+MNG-6587,Improvement,Won't Fix,Closed,2019/2/7 21:37,2019/8/15 5:41
+MNG-6589,Improvement,Won't Fix,Closed,2019/2/13 5:24,2019/4/2 4:00
+MNG-6590,Bug,Fixed,Closed,2019/2/13 14:33,2019/2/14 14:37
+MNG-6591,Dependency upgrade,Fixed,Closed,2019/2/14 2:45,2019/2/14 4:21
+MNG-6592,Improvement,Not A Problem,Closed,2019/2/14 15:11,2019/2/18 18:51
+MNG-6593,Improvement,Fixed,Closed,2019/2/15 20:36,2019/2/17 23:29
+MNG-6595,Bug,Invalid,Closed,2019/2/19 15:01,2019/4/1 3:52
+MNG-6596,Bug,Cannot Reproduce,Closed,2019/2/20 19:04,2019/5/28 3:19
+MNG-6597,Improvement,Fixed,Closed,2019/2/22 6:33,2019/3/12 14:37
+MNG-6598,Task,Unresolved,Open,2019/2/22 16:29,
+MNG-6599,Bug,Fixed,Closed,2019/2/22 20:29,2019/3/12 14:39
+MNG-6600,Improvement,Fixed,Closed,2019/2/23 6:29,2019/3/12 14:38
+MNG-6601,Improvement,Fixed,Closed,2019/2/23 19:54,2019/3/12 14:38
+MNG-6602,Bug,Not A Problem,Closed,2019/2/24 0:56,2019/4/6 6:35
+MNG-6603,Improvement,Unresolved,Open,2019/2/26 21:40,
+MNG-6604,Bug,Unresolved,Open,2019/2/27 0:54,
+MNG-6605,Improvement,Fixed,Closed,2019/3/5 19:32,2019/4/1 15:56
+MNG-6606,Improvement,Unresolved,Open,2019/3/12 23:38,
+MNG-6607,Bug,Unresolved,Open,2019/3/14 0:50,
+MNG-6608,New Feature,Unresolved,Open,2019/3/14 9:57,
+MNG-6609,Improvement,Unresolved,Open,2019/3/15 15:27,
+MNG-6610,Bug,Unresolved,Open,2019/3/15 20:16,
+MNG-6611,Improvement,Fixed,Closed,2019/3/17 15:47,2019/3/30 0:03
+MNG-6612,New Feature,Unresolved,Open,2019/3/18 4:12,
+MNG-6613,Bug,Unresolved,Open,2019/3/18 6:09,
+MNG-6614,Bug,Incomplete,Closed,2019/3/19 8:06,2019/5/11 5:41
+MNG-6615,Bug,Unresolved,Open,2019/3/23 1:01,
+MNG-6616,Wish,Unresolved,Open,2019/3/25 16:49,
+MNG-6618,Task,Fixed,Closed,2019/3/27 18:08,2019/4/1 18:02
+MNG-6619,Bug,Unresolved,Open,2019/3/27 18:56,
+MNG-6623,Improvement,Unresolved,Open,2019/4/4 3:02,
+MNG-6624,Bug,Duplicate,Closed,2019/4/4 4:43,2019/4/4 5:10
+MNG-6625,Bug,Invalid,Closed,2019/4/4 17:41,2019/4/4 23:34
+MNG-6626,Bug,Fixed,Closed,2019/4/5 18:07,2019/5/13 15:48
+MNG-6627,Dependency upgrade,Fixed,Closed,2019/4/7 22:07,2019/4/8 1:42
+MNG-6628,Bug,Not A Problem,Closed,2019/4/10 18:43,2019/4/11 0:24
+MNG-6629,Bug,Fixed,Closed,2019/4/11 17:07,2019/4/28 1:11
+MNG-6630,Bug,Fixed,Closed,2019/4/11 17:11,2019/4/28 1:12
+MNG-6631,Bug,Fixed,Closed,2019/4/11 17:12,2019/4/28 1:12
+MNG-6632,Bug,Fixed,Closed,2019/4/11 17:14,2019/4/28 1:13
+MNG-6633,Bug,Fixed,Closed,2019/4/12 0:16,2019/5/25 22:56
+MNG-6634,Bug,Invalid,Closed,2019/4/11 18:26,2019/4/12 1:10
+MNG-6635,Bug,Not A Problem,Closed,2019/4/12 19:57,2019/4/12 20:40
+MNG-6636,Bug,Fixed,Closed,2019/4/13 1:03,2019/4/29 4:28
+MNG-6637,Bug,Duplicate,Closed,2019/4/13 1:03,2019/4/13 1:13
+MNG-6638,Improvement,Fixed,Closed,2019/4/14 20:35,2019/5/28 5:35
+MNG-6639,Bug,Fixed,Closed,2019/4/15 1:31,2019/4/19 4:44
+MNG-6640,Dependency upgrade,Not A Problem,Closed,2019/4/15 21:09,2019/4/27 17:33
+MNG-6641,Bug,Unresolved,Open,2019/4/16 5:43,
+MNG-6642,Bug,Fixed,Closed,2019/4/16 15:29,2019/4/22 13:44
+MNG-6643,Bug,Done,Closed,2019/4/16 20:38,2019/4/27 17:32
+MNG-6644,Bug,Fixed,Closed,2019/4/17 2:18,2019/4/29 4:29
+MNG-6645,Wish,Not A Problem,Closed,2019/4/17 22:58,2019/4/18 1:02
+MNG-6646,Dependency upgrade,Fixed,Closed,2019/4/20 5:40,2019/4/22 13:43
+MNG-6647,Bug,Fixed,Closed,2019/4/25 15:59,2019/4/29 4:29
+MNG-6648,Improvement,Unresolved,Open,2019/4/25 23:07,
+MNG-6649,Bug,Duplicate,Closed,2019/4/30 11:15,2019/7/7 0:38
+MNG-6650,Bug,Unresolved,Open,2019/4/30 22:56,
+MNG-6652,Bug,Not A Problem,Closed,2019/5/2 22:37,2019/5/3 14:41
+MNG-6653,Bug,Fixed,Closed,2019/5/7 21:21,2019/7/27 4:19
+MNG-6654,New Feature,Unresolved,Open,2019/5/10 19:32,
+MNG-6655,Improvement,Fixed,Closed,2019/5/12 23:25,2019/5/13 4:47
+MNG-6656,New Feature,Unresolved,Open,2019/5/15 2:42,
+MNG-6657,Bug,Invalid,Closed,2019/5/15 15:56,2019/5/15 21:26
+MNG-6658,Bug,Not A Problem,Closed,2019/5/21 17:47,2019/5/22 22:48
+MNG-6659,Bug,Unresolved,Open,2019/5/22 22:31,
+MNG-6660,Bug,Duplicate,Closed,2019/5/27 22:25,2019/7/7 6:27
+MNG-6661,Improvement,Won't Fix,Closed,2019/5/28 5:14,2019/5/28 5:36
+MNG-6662,Improvement,Unresolved,Open,2019/5/28 17:47,
+MNG-6663,Bug,Unresolved,Open,2019/5/28 21:35,
+MNG-6665,Improvement,Fixed,Closed,2016/7/6 22:59,2019/6/8 16:45
+MNG-6666,Bug,Unresolved,Open,2019/5/31 14:37,
+MNG-6667,Improvement,Fixed,Closed,2019/6/1 19:56,2019/6/4 4:35
+MNG-6668,Bug,Fixed,Closed,2019/6/3 17:33,2019/6/10 18:23
+MNG-6669,Bug,Fixed,Closed,2019/6/4 0:43,2019/7/25 23:23
+MNG-6670,Improvement,Cannot Reproduce,Closed,2019/6/5 15:18,2019/11/28 6:41
+MNG-6671,Dependency upgrade,Fixed,Closed,2019/6/10 17:09,2019/6/10 21:19
+MNG-6672,Dependency upgrade,Unresolved,Reopened,2019/6/10 19:22,
+MNG-6673,Improvement,Unresolved,Open,2019/6/10 21:39,
+MNG-6674,Dependency upgrade,Fixed,Closed,2019/6/11 1:14,2019/6/18 4:20
+MNG-6675,Improvement,Fixed,Closed,2019/6/11 5:27,2019/6/16 2:14
+MNG-6676,Improvement,Unresolved,Open,2019/6/11 16:05,
+MNG-6677,Improvement,Unresolved,Open,2019/6/12 1:10,
+MNG-6678,Bug,Unresolved,Open,2019/6/13 22:34,
+MNG-6680,Sub-task,Fixed,Closed,2019/6/16 2:35,2019/6/16 4:48
+MNG-6681,Task,Fixed,Closed,2019/6/16 16:03,2019/6/16 23:10
+MNG-6682,Improvement,Unresolved,Open,2019/6/16 17:59,
+MNG-6683,Bug,Invalid,Closed,2019/6/18 4:18,2019/6/18 4:21
+MNG-6685,Sub-task,Fixed,Closed,2019/6/20 20:44,2019/6/23 6:20
+MNG-6686,Sub-task,Fixed,Closed,2019/6/20 20:47,2019/6/23 6:22
+MNG-6687,Sub-task,Unresolved,Open,2019/6/20 20:48,
+MNG-6688,Bug,Not A Problem,Closed,2019/6/22 3:13,2019/7/7 1:42
+MNG-6689,Bug,Unresolved,Open,2019/6/25 17:01,
+MNG-6690,Bug,Unresolved,Open,2019/6/25 18:51,
+MNG-6691,Wish,Unresolved,Open,2019/6/26 2:14,
+MNG-6692,Bug,Invalid,Closed,2019/6/27 21:05,2019/6/28 20:29
+MNG-6693,Improvement,Abandoned,Closed,2019/6/28 17:46,2019/7/25 4:19
+MNG-6694,Bug,Unresolved,Open,2019/6/28 21:45,
+MNG-6695,Improvement,Fixed,Closed,2019/6/30 0:05,2019/8/25 3:14
+MNG-6696,Improvement,Fixed,Closed,2019/6/30 0:07,2019/8/25 3:15
+MNG-6697,Improvement,Fixed,Closed,2019/6/30 0:08,2019/7/24 10:30
+MNG-6698,Improvement,Fixed,Closed,2019/6/30 0:10,2019/7/7 6:30
+MNG-6699,Improvement,Unresolved,Open,2019/7/1 18:23,
+MNG-6700,Bug,Fixed,Closed,2019/7/6 9:59,2019/7/7 6:29
+MNG-6701,Improvement,Fixed,Closed,2018/9/14 2:48,2019/7/7 0:17
+MNG-6702,Improvement,Fixed,Closed,2019/7/8 2:44,2019/7/11 3:29
+MNG-6703,Bug,Fixed,Closed,2019/7/8 20:50,2019/7/10 17:59
+MNG-6704,Bug,Fixed,Closed,2019/7/10 14:32,2019/7/26 3:59
+MNG-6705,Improvement,Fixed,Closed,2019/7/10 22:45,2019/7/11 6:04
+MNG-6706,Improvement,Unresolved,Open,2019/7/11 15:14,
+MNG-6707,Bug,Fixed,Closed,2019/7/11 21:37,2019/7/25 2:23
+MNG-6708,Improvement,Unresolved,Open,2019/7/12 14:37,
+MNG-6709,Dependency upgrade,Duplicate,Closed,2019/7/12 15:06,2019/7/25 2:22
+MNG-6711,Bug,Not A Problem,Closed,2019/7/17 11:55,2019/7/18 18:10
+MNG-6712,Bug,Done,Closed,2019/7/18 1:46,2019/7/18 20:13
+MNG-6713,Bug,Fixed,Closed,2019/7/18 23:25,2019/8/7 0:20
+MNG-6714,Test,Not A Problem,Closed,2019/7/19 6:55,2019/9/7 23:57
+MNG-6716,Bug,Fixed,Closed,2019/7/22 19:52,2019/8/20 5:47
+MNG-6717,Bug,Unresolved,Open,2019/7/23 13:58,
+MNG-6718,Dependency upgrade,Fixed,Closed,2019/7/23 16:06,2019/7/24 5:00
+MNG-6719,Bug,Unresolved,Open,2019/7/23 16:23,
+MNG-6720,Bug,Fixed,Closed,2019/7/23 18:16,2019/7/30 16:07
+MNG-6721,Bug,Unresolved,Open,2019/1/8 23:51,
+MNG-6722,Bug,Won't Fix,Closed,2019/7/24 18:11,2019/7/26 21:06
+MNG-6723,Bug,Fixed,Closed,2019/7/25 0:19,2019/7/27 4:17
+MNG-6724,New Feature,Unresolved,Open,2019/7/25 2:15,
+MNG-6725,Task,Done,Closed,2019/7/30 17:45,2019/7/30 17:54
+MNG-6726,Task,Unresolved,In Progress,2019/7/30 18:57,
+MNG-6727,Bug,Unresolved,Open,2019/8/6 0:04,
+MNG-6728,Improvement,Unresolved,Open,2019/8/6 18:56,
+MNG-6729,Improvement,Fixed,Closed,2019/8/7 22:49,2019/8/9 22:07
+MNG-6730,Bug,Unresolved,Open,2019/8/8 18:31,
+MNG-6731,Bug,Fixed,Closed,2019/8/10 16:38,2019/8/15 4:39
+MNG-6732,Improvement,Unresolved,Open,2019/8/13 2:02,
+MNG-6733,Bug,Duplicate,Closed,2019/8/13 16:19,2019/8/14 2:22
+MNG-6734,New Feature,Unresolved,Open,2019/8/16 0:16,
+MNG-6735,Bug,Unresolved,Open,2019/8/16 11:38,
+MNG-6736,New Feature,Unresolved,Open,2019/8/16 14:50,
+MNG-6737,Bug,Unresolved,Open,2019/8/17 0:59,
+MNG-6738,Dependency upgrade,Fixed,Closed,2019/8/18 21:48,2019/8/19 0:29
+MNG-6739,Bug,Unresolved,Open,2019/8/19 1:29,
+MNG-6740,New Feature,Unresolved,Open,2019/8/20 18:33,
+MNG-6741,Bug,Unresolved,Open,2019/8/20 19:36,
+MNG-6742,Bug,Invalid,Closed,2019/8/20 19:58,2019/8/20 21:57
+MNG-6743,Bug,Invalid,Closed,2019/8/23 3:28,2019/8/23 4:23
+MNG-6744,Bug,Unresolved,Open,2019/8/25 23:48,
+MNG-6745,Bug,Unresolved,Open,2019/8/26 15:21,
+MNG-6746,Bug,Unresolved,Open,2019/8/26 23:23,
+MNG-6747,Improvement,Fixed,Closed,2019/8/27 15:07,2019/8/27 21:05
+MNG-6748,New Feature,Unresolved,Open,2019/8/29 3:59,
+MNG-6749,Bug,Unresolved,Open,2019/8/29 7:37,
+MNG-6751,Task,Unresolved,Open,2019/8/29 19:40,
+MNG-6752,Bug,Unresolved,Open,2019/8/29 23:27,
+MNG-6753,Improvement,Unresolved,Open,2019/8/30 22:44,
+MNG-6754,Improvement,Unresolved,Open,2019/8/31 2:08,
+MNG-6755,Bug,Unresolved,Open,2019/9/2 19:10,
+MNG-6756,Bug,Fixed,Closed,2019/9/3 17:33,2019/9/4 0:30
+MNG-6757,Bug,Unresolved,Open,2019/9/4 16:04,
+MNG-6758,Bug,Cannot Reproduce,Closed,2019/9/5 15:36,2019/10/19 1:57
+MNG-6759,Bug,Fixed,Closed,2019/9/7 19:21,2019/11/18 5:11
+MNG-6760,Bug,Fixed,Closed,2019/9/7 19:58,2019/9/7 23:48
+MNG-6761,Bug,Fixed,Resolved,2019/9/10 14:37,2019/9/11 14:48
+MNG-6762,Improvement,Unresolved,Open,2019/9/11 22:13,
+MNG-6763,New Feature,Unresolved,Open,2019/9/12 2:53,
+MNG-6764,Bug,Invalid,Closed,2019/9/12 19:54,2019/9/13 0:06
+MNG-6765,Bug,Fixed,Closed,2019/9/14 16:05,2019/10/20 0:25
+MNG-6766,Bug,Not A Problem,Closed,2019/9/16 14:46,2019/11/28 5:25
+MNG-6767,Bug,Unresolved,Open,2019/9/16 20:00,
+MNG-6768,Improvement,Unresolved,Open,2019/9/16 20:01,
+MNG-6770,Wish,Unresolved,Open,2019/9/27 20:28,
+MNG-6771,Bug,Fixed,Resolved,2019/10/1 21:34,2019/11/18 18:41
+MNG-6772,Bug,Unresolved,Open,2019/10/2 3:55,
+MNG-6773,Improvement,Unresolved,Open,2019/10/3 11:32,
+MNG-6774,Improvement,Unresolved,Open,2019/10/3 13:09,
+MNG-6776,Bug,Unresolved,Open,2019/10/6 21:33,
+MNG-6777,Task,Done,Closed,2019/10/10 8:05,2019/10/12 16:55
+MNG-6778,Improvement,Fixed,Closed,2019/10/12 23:48,2019/11/9 20:13
+MNG-6779,Sub-task,Fixed,Closed,2019/10/13 22:18,2019/10/13 23:32
+MNG-6780,Sub-task,Fixed,Closed,2019/10/13 22:21,2019/11/19 6:44
+MNG-6781,Sub-task,Fixed,Closed,2019/10/13 22:29,2019/11/19 6:44
+MNG-6782,Sub-task,Fixed,Closed,2019/10/13 22:38,2019/11/19 6:45
+MNG-6783,Sub-task,Fixed,Closed,2019/10/13 22:38,2019/11/19 6:46
+MNG-6784,Improvement,Unresolved,Open,2019/10/14 4:58,
+MNG-6787,Bug,Unresolved,Open,2019/10/18 1:51,
+MNG-6788,Bug,Duplicate,Closed,2019/10/18 9:08,2019/10/18 14:04
+MNG-6789,Task,Fixed,Closed,2019/10/20 18:15,2019/11/7 21:09
+MNG-6790,Task,Won't Fix,Closed,2019/10/20 21:17,2019/11/29 22:17
+MNG-6791,Improvement,Fixed,Closed,2019/10/22 18:26,2019/11/21 13:34
+MNG-6793,Wish,Unresolved,Open,2019/10/24 10:07,
+MNG-6794,Wish,Unresolved,Open,2019/10/26 14:02,
+MNG-6795,Task,Unresolved,Open,2019/10/28 1:32,
+MNG-6797,Improvement,Unresolved,Open,2019/11/2 17:52,
+MNG-6798,Bug,Unresolved,Open,2019/11/5 0:20,
+MNG-6799,Improvement,Fixed,Closed,2019/11/6 18:40,2019/11/7 21:08
+MNG-6800,Improvement,Unresolved,Open,2019/11/7 21:27,
+MNG-6801,Bug,Unresolved,Open,2019/11/12 20:19,
+MNG-6802,Bug,Unresolved,Open,2019/11/13 18:42,
+MNG-6803,Bug,Unresolved,Open,2019/11/20 20:03,
+MNG-6805,Bug,Not A Problem,Resolved,2019/11/26 18:37,2019/11/26 18:56
+MNG-6806,Improvement,Unresolved,Open,2019/11/28 6:01,

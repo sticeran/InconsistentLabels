@@ -1,0 +1,3 @@
+33,33 2b41fd3214f6fc0709b129e64ee2e6c34b0fdf35^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSWriterFactory.java
+36,36 2b41fd3214f6fc0709b129e64ee2e6c34b0fdf35^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSWriterFactory.java
+39,39 2b41fd3214f6fc0709b129e64ee2e6c34b0fdf35^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSWriterFactory.java

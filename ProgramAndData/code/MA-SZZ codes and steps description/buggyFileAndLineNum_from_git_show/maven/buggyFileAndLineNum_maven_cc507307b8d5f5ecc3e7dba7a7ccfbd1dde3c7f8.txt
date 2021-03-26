@@ -1,0 +1,2 @@
+258,258 cc507307b8d5f5ecc3e7dba7a7ccfbd1dde3c7f8^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/manager/DefaultWagonManager.java
+155,155 cc507307b8d5f5ecc3e7dba7a7ccfbd1dde3c7f8^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java

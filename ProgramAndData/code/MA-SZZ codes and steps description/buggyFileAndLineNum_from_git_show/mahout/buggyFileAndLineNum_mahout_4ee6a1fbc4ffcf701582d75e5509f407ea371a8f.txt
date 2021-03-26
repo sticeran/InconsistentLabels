@@ -1,0 +1,7 @@
+265,265 4ee6a1fbc4ffcf701582d75e5509f407ea371a8f^ core/src/main/java/org/apache/mahout/math/hadoop/similarity/RowSimilarityJob.java
+144,144 4ee6a1fbc4ffcf701582d75e5509f407ea371a8f^ core/src/test/java/org/apache/mahout/math/hadoop/similarity/TestRowSimilarityJob.java
+152,152 4ee6a1fbc4ffcf701582d75e5509f407ea371a8f^ core/src/test/java/org/apache/mahout/math/hadoop/similarity/TestRowSimilarityJob.java
+195,195 4ee6a1fbc4ffcf701582d75e5509f407ea371a8f^ core/src/test/java/org/apache/mahout/math/hadoop/similarity/TestRowSimilarityJob.java
+173,173 4ee6a1fbc4ffcf701582d75e5509f407ea371a8f^ core/src/test/java/org/apache/mahout/math/hadoop/similarity/TestRowSimilarityJob.java
+191,191 4ee6a1fbc4ffcf701582d75e5509f407ea371a8f^ core/src/test/java/org/apache/mahout/math/hadoop/similarity/TestRowSimilarityJob.java
+196,196 4ee6a1fbc4ffcf701582d75e5509f407ea371a8f^ core/src/test/java/org/apache/mahout/math/hadoop/similarity/TestRowSimilarityJob.java

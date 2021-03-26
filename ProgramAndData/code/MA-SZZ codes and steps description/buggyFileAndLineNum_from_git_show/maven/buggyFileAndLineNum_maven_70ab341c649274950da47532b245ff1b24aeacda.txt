@@ -1,0 +1,11 @@
+234,234 70ab341c649274950da47532b245ff1b24aeacda^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+656,656 70ab341c649274950da47532b245ff1b24aeacda^ maven-core/src/main/java/org/apache/maven/plugin/version/DefaultPluginVersionManager.java
+364,364 70ab341c649274950da47532b245ff1b24aeacda^ maven-plugins/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/DependenciesReport.java
+365,365 70ab341c649274950da47532b245ff1b24aeacda^ maven-plugins/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/DependenciesReport.java
+316,316 70ab341c649274950da47532b245ff1b24aeacda^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+324,324 70ab341c649274950da47532b245ff1b24aeacda^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+411,411 70ab341c649274950da47532b245ff1b24aeacda^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+422,422 70ab341c649274950da47532b245ff1b24aeacda^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+857,857 70ab341c649274950da47532b245ff1b24aeacda^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+109,109 70ab341c649274950da47532b245ff1b24aeacda^ maven-project/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java
+110,110 70ab341c649274950da47532b245ff1b24aeacda^ maven-project/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java

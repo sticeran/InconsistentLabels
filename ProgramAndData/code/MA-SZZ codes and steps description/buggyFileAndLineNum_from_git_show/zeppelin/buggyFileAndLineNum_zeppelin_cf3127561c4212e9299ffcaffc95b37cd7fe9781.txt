@@ -1,0 +1,2 @@
+40,40 cf3127561c4212e9299ffcaffc95b37cd7fe9781^ python/src/main/java/org/apache/zeppelin/python/PythonInterpreterPandasSql.java
+89,89 cf3127561c4212e9299ffcaffc95b37cd7fe9781^ python/src/test/java/org/apache/zeppelin/python/PythonInterpreterPandasSqlTest.java

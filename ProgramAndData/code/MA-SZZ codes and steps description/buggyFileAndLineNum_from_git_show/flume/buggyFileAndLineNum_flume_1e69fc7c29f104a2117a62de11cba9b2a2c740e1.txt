@@ -1,0 +1,10 @@
+85,85 1e69fc7c29f104a2117a62de11cba9b2a2c740e1^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Put.java
+86,86 1e69fc7c29f104a2117a62de11cba9b2a2c740e1^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Put.java
+7049,7049 1e69fc7c29f104a2117a62de11cba9b2a2c740e1^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/proto/ProtosFactory.java
+7050,7050 1e69fc7c29f104a2117a62de11cba9b2a2c740e1^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/proto/ProtosFactory.java
+7051,7051 1e69fc7c29f104a2117a62de11cba9b2a2c740e1^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/proto/ProtosFactory.java
+7052,7052 1e69fc7c29f104a2117a62de11cba9b2a2c740e1^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/proto/ProtosFactory.java
+7274,7274 1e69fc7c29f104a2117a62de11cba9b2a2c740e1^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/proto/ProtosFactory.java
+7276,7276 1e69fc7c29f104a2117a62de11cba9b2a2c740e1^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/proto/ProtosFactory.java
+7277,7277 1e69fc7c29f104a2117a62de11cba9b2a2c740e1^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/proto/ProtosFactory.java
+7549,7549 1e69fc7c29f104a2117a62de11cba9b2a2c740e1^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/proto/ProtosFactory.java

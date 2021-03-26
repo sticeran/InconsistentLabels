@@ -1,0 +1,3 @@
+47,47 fc77014cfeccbb2e74b67616a7b5049ee29d8813^ maven-core-it/it0088/src/test/java/org/apache/maven/it0088/PomInterpolationTest.java
+49,49 fc77014cfeccbb2e74b67616a7b5049ee29d8813^ maven-core-it/it0088/src/test/java/org/apache/maven/it0088/PomInterpolationTest.java
+139,139 fc77014cfeccbb2e74b67616a7b5049ee29d8813^ maven-project/src/main/java/org/apache/maven/project/interpolation/RegexBasedModelInterpolator.java

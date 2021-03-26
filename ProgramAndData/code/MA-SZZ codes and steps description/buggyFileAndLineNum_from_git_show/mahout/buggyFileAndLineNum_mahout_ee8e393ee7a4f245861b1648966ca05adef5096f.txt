@@ -1,0 +1,7 @@
+95,95 ee8e393ee7a4f245861b1648966ca05adef5096f^ examples/src/main/java/org/apache/mahout/classifier/sgd/LogisticModelParameters.java
+96,96 ee8e393ee7a4f245861b1648966ca05adef5096f^ examples/src/main/java/org/apache/mahout/classifier/sgd/LogisticModelParameters.java
+97,97 ee8e393ee7a4f245861b1648966ca05adef5096f^ examples/src/main/java/org/apache/mahout/classifier/sgd/LogisticModelParameters.java
+98,98 ee8e393ee7a4f245861b1648966ca05adef5096f^ examples/src/main/java/org/apache/mahout/classifier/sgd/LogisticModelParameters.java
+136,136 ee8e393ee7a4f245861b1648966ca05adef5096f^ examples/src/main/java/org/apache/mahout/classifier/sgd/LogisticModelParameters.java
+137,137 ee8e393ee7a4f245861b1648966ca05adef5096f^ examples/src/main/java/org/apache/mahout/classifier/sgd/LogisticModelParameters.java
+138,138 ee8e393ee7a4f245861b1648966ca05adef5096f^ examples/src/main/java/org/apache/mahout/classifier/sgd/LogisticModelParameters.java

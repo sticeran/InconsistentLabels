@@ -1,0 +1,7 @@
+61,61 862c83187a1ea443142b49df8e86671e55d927d6^ flume-ng-core/src/main/java/org/apache/flume/source/SpoolDirectorySource.java
+71,71 862c83187a1ea443142b49df8e86671e55d927d6^ flume-ng-core/src/main/java/org/apache/flume/source/SpoolDirectorySource.java
+92,92 862c83187a1ea443142b49df8e86671e55d927d6^ flume-ng-core/src/main/java/org/apache/flume/source/SpoolDirectorySource.java
+145,145 862c83187a1ea443142b49df8e86671e55d927d6^ flume-ng-core/src/main/java/org/apache/flume/source/SpoolDirectorySource.java
+149,149 862c83187a1ea443142b49df8e86671e55d927d6^ flume-ng-core/src/main/java/org/apache/flume/source/SpoolDirectorySource.java
+152,152 862c83187a1ea443142b49df8e86671e55d927d6^ flume-ng-core/src/main/java/org/apache/flume/source/SpoolDirectorySource.java
+158,158 862c83187a1ea443142b49df8e86671e55d927d6^ flume-ng-core/src/main/java/org/apache/flume/source/SpoolDirectorySource.java

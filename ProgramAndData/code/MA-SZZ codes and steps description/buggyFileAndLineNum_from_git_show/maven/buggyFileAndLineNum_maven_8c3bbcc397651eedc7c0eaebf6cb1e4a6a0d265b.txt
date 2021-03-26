@@ -1,0 +1,6 @@
+221,221 8c3bbcc397651eedc7c0eaebf6cb1e4a6a0d265b^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+224,224 8c3bbcc397651eedc7c0eaebf6cb1e4a6a0d265b^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+168,168 8c3bbcc397651eedc7c0eaebf6cb1e4a6a0d265b^ maven-project/src/main/java/org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler.java
+169,169 8c3bbcc397651eedc7c0eaebf6cb1e4a6a0d265b^ maven-project/src/main/java/org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler.java
+170,170 8c3bbcc397651eedc7c0eaebf6cb1e4a6a0d265b^ maven-project/src/main/java/org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler.java
+173,173 8c3bbcc397651eedc7c0eaebf6cb1e4a6a0d265b^ maven-project/src/main/java/org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler.java

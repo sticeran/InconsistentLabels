@@ -1,0 +1,5 @@
+128,128 37a0e64aa0c5b6af4155c8fef015cf952c7e9354^ maven-core/src/main/java/org/apache/maven/execution/MavenSession.java
+132,132 37a0e64aa0c5b6af4155c8fef015cf952c7e9354^ maven-core/src/main/java/org/apache/maven/execution/MavenSession.java
+454,454 37a0e64aa0c5b6af4155c8fef015cf952c7e9354^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+456,456 37a0e64aa0c5b6af4155c8fef015cf952c7e9354^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+458,458 37a0e64aa0c5b6af4155c8fef015cf952c7e9354^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java

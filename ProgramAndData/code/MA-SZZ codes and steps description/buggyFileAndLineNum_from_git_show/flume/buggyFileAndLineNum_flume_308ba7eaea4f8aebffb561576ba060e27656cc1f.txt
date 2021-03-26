@@ -1,0 +1,5 @@
+24,24 308ba7eaea4f8aebffb561576ba060e27656cc1f^ flume-core/src/main/java/com/cloudera/flume/handlers/hdfs/SeqfileEventSink.java
+70,70 308ba7eaea4f8aebffb561576ba060e27656cc1f^ flume-core/src/main/java/com/cloudera/flume/handlers/hdfs/SeqfileEventSink.java
+75,75 308ba7eaea4f8aebffb561576ba060e27656cc1f^ flume-core/src/main/java/com/cloudera/flume/handlers/hdfs/SeqfileEventSink.java
+76,76 308ba7eaea4f8aebffb561576ba060e27656cc1f^ flume-core/src/main/java/com/cloudera/flume/handlers/hdfs/SeqfileEventSink.java
+85,85 308ba7eaea4f8aebffb561576ba060e27656cc1f^ flume-core/src/main/java/com/cloudera/flume/handlers/hdfs/SeqfileEventSource.java

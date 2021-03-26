@@ -1,0 +1,4 @@
+235,235 d1dc63844f413ebce65162f1262c52d0bf15e06f^ maven-compat/src/main/java/org/apache/maven/repository/MetadataResolutionResult.java
+236,236 d1dc63844f413ebce65162f1262c52d0bf15e06f^ maven-compat/src/main/java/org/apache/maven/repository/MetadataResolutionResult.java
+237,237 d1dc63844f413ebce65162f1262c52d0bf15e06f^ maven-compat/src/main/java/org/apache/maven/repository/MetadataResolutionResult.java
+238,238 d1dc63844f413ebce65162f1262c52d0bf15e06f^ maven-compat/src/main/java/org/apache/maven/repository/MetadataResolutionResult.java

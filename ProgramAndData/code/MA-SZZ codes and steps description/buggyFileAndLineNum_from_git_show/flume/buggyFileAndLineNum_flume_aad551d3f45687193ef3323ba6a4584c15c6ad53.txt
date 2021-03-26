@@ -1,0 +1,2 @@
+126,126 aad551d3f45687193ef3323ba6a4584c15c6ad53^ flume-ng-core/src/main/java/org/apache/flume/source/AvroSource.java
+127,127 aad551d3f45687193ef3323ba6a4584c15c6ad53^ flume-ng-core/src/main/java/org/apache/flume/source/AvroSource.java

@@ -1,0 +1,3 @@
+218,218 4ff4c02fd52a966720b931512354efb137e7676b^ maven-artifact/src/main/java/org/apache/maven/artifact/DefaultArtifact.java
+224,224 4ff4c02fd52a966720b931512354efb137e7676b^ maven-artifact/src/main/java/org/apache/maven/artifact/DefaultArtifact.java
+255,255 4ff4c02fd52a966720b931512354efb137e7676b^ maven-artifact/src/main/java/org/apache/maven/artifact/DefaultArtifact.java

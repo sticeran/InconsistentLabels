@@ -1,0 +1,2 @@
+195,195 c23448fc959844eece5a8ab2dbf091c2c4973a26^ flume-ng-core/src/main/java/org/apache/flume/source/SpoolDirectorySource.java
+196,196 c23448fc959844eece5a8ab2dbf091c2c4973a26^ flume-ng-core/src/main/java/org/apache/flume/source/SpoolDirectorySource.java

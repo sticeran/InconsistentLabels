@@ -1,0 +1,3 @@
+97,97 3a52d331415a2a114b5bf1989ac2ccf8a6dfa2c7^ maven-project/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java
+148,148 3a52d331415a2a114b5bf1989ac2ccf8a6dfa2c7^ maven-project/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java
+229,229 3a52d331415a2a114b5bf1989ac2ccf8a6dfa2c7^ maven-project/src/test/java/org/apache/maven/project/TestArtifactResolver.java

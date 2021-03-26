@@ -1,0 +1,8 @@
+53,53 85ad173dbaa3e76a23cf386b1da955ea1cbb6a60^ maven-core/src/test/java/org/apache/maven/settings/PomConstructionWithSettingsTest.java
+63,63 85ad173dbaa3e76a23cf386b1da955ea1cbb6a60^ maven-project-builder/src/main/java/org/apache/maven/project/processor/DependencyProcessor.java
+89,89 85ad173dbaa3e76a23cf386b1da955ea1cbb6a60^ maven-project-builder/src/main/java/org/apache/maven/project/processor/DependencyProcessor.java
+91,91 85ad173dbaa3e76a23cf386b1da955ea1cbb6a60^ maven-project-builder/src/main/java/org/apache/maven/project/processor/DependencyProcessor.java
+92,92 85ad173dbaa3e76a23cf386b1da955ea1cbb6a60^ maven-project-builder/src/main/java/org/apache/maven/project/processor/DependencyProcessor.java
+148,148 85ad173dbaa3e76a23cf386b1da955ea1cbb6a60^ maven-project-builder/src/main/java/org/apache/maven/project/processor/ModelProcessor.java
+155,155 85ad173dbaa3e76a23cf386b1da955ea1cbb6a60^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+163,163 85ad173dbaa3e76a23cf386b1da955ea1cbb6a60^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java

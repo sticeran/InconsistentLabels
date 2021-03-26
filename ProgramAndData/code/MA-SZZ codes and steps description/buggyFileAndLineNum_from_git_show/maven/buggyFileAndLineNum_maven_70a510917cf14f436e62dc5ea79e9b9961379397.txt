@@ -1,0 +1,2 @@
+59,59 70a510917cf14f436e62dc5ea79e9b9961379397^ maven-artifact/src/main/java/org/apache/maven/artifact/metadata/SnapshotArtifactMetadata.java
+56,56 70a510917cf14f436e62dc5ea79e9b9961379397^ maven-artifact/src/main/java/org/apache/maven/artifact/transform/SnapshotTransformation.java

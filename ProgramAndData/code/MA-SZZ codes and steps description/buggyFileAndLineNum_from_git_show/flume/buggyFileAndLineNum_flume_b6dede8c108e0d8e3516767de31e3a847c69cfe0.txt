@@ -1,0 +1,8 @@
+311,311 b6dede8c108e0d8e3516767de31e3a847c69cfe0^ flume-ng-core/src/main/java/org/apache/flume/client/avro/ReliableSpoolingFileEventReader.java
+312,312 b6dede8c108e0d8e3516767de31e3a847c69cfe0^ flume-ng-core/src/main/java/org/apache/flume/client/avro/ReliableSpoolingFileEventReader.java
+325,325 b6dede8c108e0d8e3516767de31e3a847c69cfe0^ flume-ng-core/src/main/java/org/apache/flume/client/avro/ReliableSpoolingFileEventReader.java
+342,342 b6dede8c108e0d8e3516767de31e3a847c69cfe0^ flume-ng-core/src/main/java/org/apache/flume/client/avro/ReliableSpoolingFileEventReader.java
+343,343 b6dede8c108e0d8e3516767de31e3a847c69cfe0^ flume-ng-core/src/main/java/org/apache/flume/client/avro/ReliableSpoolingFileEventReader.java
+344,344 b6dede8c108e0d8e3516767de31e3a847c69cfe0^ flume-ng-core/src/main/java/org/apache/flume/client/avro/ReliableSpoolingFileEventReader.java
+437,437 b6dede8c108e0d8e3516767de31e3a847c69cfe0^ flume-ng-core/src/test/java/org/apache/flume/source/TestSpoolDirectorySource.java
+438,438 b6dede8c108e0d8e3516767de31e3a847c69cfe0^ flume-ng-core/src/test/java/org/apache/flume/source/TestSpoolDirectorySource.java

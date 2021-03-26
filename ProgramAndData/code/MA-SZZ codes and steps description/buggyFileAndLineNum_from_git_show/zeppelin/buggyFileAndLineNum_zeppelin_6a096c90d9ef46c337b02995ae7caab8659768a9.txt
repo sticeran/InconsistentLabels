@@ -1,0 +1,3 @@
+118,118 6a096c90d9ef46c337b02995ae7caab8659768a9^ zeppelin-server/src/main/java/org/apache/zeppelin/rest/InterpreterRestApi.java
+122,122 6a096c90d9ef46c337b02995ae7caab8659768a9^ zeppelin-server/src/main/java/org/apache/zeppelin/rest/InterpreterRestApi.java
+149,149 6a096c90d9ef46c337b02995ae7caab8659768a9^ zeppelin-server/src/main/java/org/apache/zeppelin/rest/InterpreterRestApi.java

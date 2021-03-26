@@ -1,0 +1,10 @@
+33,33 209c1e2548080525919fe78a1a61cc8fc7ab306f^ flume-ng-sources/flume-kafka-source/src/test/java/org/apache/flume/source/kafka/KafkaSourceEmbeddedKafka.java
+40,40 209c1e2548080525919fe78a1a61cc8fc7ab306f^ flume-ng-sources/flume-kafka-source/src/test/java/org/apache/flume/source/kafka/KafkaSourceEmbeddedKafka.java
+42,42 209c1e2548080525919fe78a1a61cc8fc7ab306f^ flume-ng-sources/flume-kafka-source/src/test/java/org/apache/flume/source/kafka/KafkaSourceEmbeddedKafka.java
+43,43 209c1e2548080525919fe78a1a61cc8fc7ab306f^ flume-ng-sources/flume-kafka-source/src/test/java/org/apache/flume/source/kafka/KafkaSourceEmbeddedKafka.java
+44,44 209c1e2548080525919fe78a1a61cc8fc7ab306f^ flume-ng-sources/flume-kafka-source/src/test/java/org/apache/flume/source/kafka/KafkaSourceEmbeddedKafka.java
+45,45 209c1e2548080525919fe78a1a61cc8fc7ab306f^ flume-ng-sources/flume-kafka-source/src/test/java/org/apache/flume/source/kafka/KafkaSourceEmbeddedKafka.java
+46,46 209c1e2548080525919fe78a1a61cc8fc7ab306f^ flume-ng-sources/flume-kafka-source/src/test/java/org/apache/flume/source/kafka/KafkaSourceEmbeddedKafka.java
+47,47 209c1e2548080525919fe78a1a61cc8fc7ab306f^ flume-ng-sources/flume-kafka-source/src/test/java/org/apache/flume/source/kafka/KafkaSourceEmbeddedKafka.java
+48,48 209c1e2548080525919fe78a1a61cc8fc7ab306f^ flume-ng-sources/flume-kafka-source/src/test/java/org/apache/flume/source/kafka/KafkaSourceEmbeddedKafka.java
+74,74 209c1e2548080525919fe78a1a61cc8fc7ab306f^ flume-ng-sources/flume-kafka-source/src/test/java/org/apache/flume/source/kafka/KafkaSourceEmbeddedKafka.java

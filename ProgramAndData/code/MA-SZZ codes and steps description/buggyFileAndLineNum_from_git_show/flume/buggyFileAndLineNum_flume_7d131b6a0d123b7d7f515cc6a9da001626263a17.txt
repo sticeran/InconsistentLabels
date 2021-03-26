@@ -1,0 +1,6 @@
+26,26 7d131b6a0d123b7d7f515cc6a9da001626263a17^ flume-ng-core/src/main/java/org/apache/flume/source/SequenceGeneratorSource.java
+43,43 7d131b6a0d123b7d7f515cc6a9da001626263a17^ flume-ng-core/src/main/java/org/apache/flume/source/SequenceGeneratorSource.java
+51,51 7d131b6a0d123b7d7f515cc6a9da001626263a17^ flume-ng-core/src/main/java/org/apache/flume/source/SequenceGeneratorSource.java
+97,97 7d131b6a0d123b7d7f515cc6a9da001626263a17^ flume-ng-core/src/main/java/org/apache/flume/source/SequenceGeneratorSource.java
+100,100 7d131b6a0d123b7d7f515cc6a9da001626263a17^ flume-ng-core/src/main/java/org/apache/flume/source/SequenceGeneratorSource.java
+121,121 7d131b6a0d123b7d7f515cc6a9da001626263a17^ flume-ng-core/src/main/java/org/apache/flume/source/SequenceGeneratorSource.java

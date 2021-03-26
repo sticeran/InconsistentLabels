@@ -1,0 +1,5 @@
+42,42 f696d3635f390a514bd708ffa762486850f55ed1^ examples/src/main/java/org/apache/mahout/classifier/bayes/XmlInputFormat.java
+55,55 f696d3635f390a514bd708ffa762486850f55ed1^ examples/src/main/java/org/apache/mahout/classifier/bayes/XmlInputFormat.java
+60,60 f696d3635f390a514bd708ffa762486850f55ed1^ examples/src/main/java/org/apache/mahout/classifier/bayes/XmlInputFormat.java
+78,78 f696d3635f390a514bd708ffa762486850f55ed1^ examples/src/main/java/org/apache/mahout/classifier/bayes/XmlInputFormat.java
+79,79 f696d3635f390a514bd708ffa762486850f55ed1^ examples/src/main/java/org/apache/mahout/classifier/bayes/XmlInputFormat.java

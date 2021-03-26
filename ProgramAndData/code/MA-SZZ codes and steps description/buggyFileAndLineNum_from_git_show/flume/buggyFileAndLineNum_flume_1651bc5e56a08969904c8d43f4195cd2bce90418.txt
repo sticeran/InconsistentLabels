@@ -1,0 +1,2 @@
+77,77 1651bc5e56a08969904c8d43f4195cd2bce90418^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSCompressedDataStream.java
+26,26 1651bc5e56a08969904c8d43f4195cd2bce90418^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSEventSinkOnMiniCluster.java

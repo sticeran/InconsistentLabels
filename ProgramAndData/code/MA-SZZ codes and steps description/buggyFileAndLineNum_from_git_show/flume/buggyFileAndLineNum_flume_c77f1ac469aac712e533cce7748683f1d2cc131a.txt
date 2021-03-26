@@ -1,0 +1,14 @@
+58,58 c77f1ac469aac712e533cce7748683f1d2cc131a^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/main/java/org/apache/flume/sink/elasticsearch/ContentBuilderUtil.java
+65,65 c77f1ac469aac712e533cce7748683f1d2cc131a^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/main/java/org/apache/flume/sink/elasticsearch/ContentBuilderUtil.java
+66,66 c77f1ac469aac712e533cce7748683f1d2cc131a^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/main/java/org/apache/flume/sink/elasticsearch/ContentBuilderUtil.java
+67,67 c77f1ac469aac712e533cce7748683f1d2cc131a^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/main/java/org/apache/flume/sink/elasticsearch/ContentBuilderUtil.java
+68,68 c77f1ac469aac712e533cce7748683f1d2cc131a^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/main/java/org/apache/flume/sink/elasticsearch/ContentBuilderUtil.java
+69,69 c77f1ac469aac712e533cce7748683f1d2cc131a^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/main/java/org/apache/flume/sink/elasticsearch/ContentBuilderUtil.java
+76,76 c77f1ac469aac712e533cce7748683f1d2cc131a^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/main/java/org/apache/flume/sink/elasticsearch/ContentBuilderUtil.java
+124,124 c77f1ac469aac712e533cce7748683f1d2cc131a^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/test/java/org/apache/flume/sink/elasticsearch/AbstractElasticSearchSinkTest.java
+131,131 c77f1ac469aac712e533cce7748683f1d2cc131a^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/test/java/org/apache/flume/sink/elasticsearch/AbstractElasticSearchSinkTest.java
+138,138 c77f1ac469aac712e533cce7748683f1d2cc131a^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/test/java/org/apache/flume/sink/elasticsearch/AbstractElasticSearchSinkTest.java
+154,154 c77f1ac469aac712e533cce7748683f1d2cc131a^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/test/java/org/apache/flume/sink/elasticsearch/AbstractElasticSearchSinkTest.java
+103,103 c77f1ac469aac712e533cce7748683f1d2cc131a^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/test/java/org/apache/flume/sink/elasticsearch/TestElasticSearchSink.java
+113,113 c77f1ac469aac712e533cce7748683f1d2cc131a^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/test/java/org/apache/flume/sink/elasticsearch/TestElasticSearchSink.java
+114,114 c77f1ac469aac712e533cce7748683f1d2cc131a^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/test/java/org/apache/flume/sink/elasticsearch/TestElasticSearchSink.java

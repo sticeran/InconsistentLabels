@@ -1,0 +1,3 @@
+1197,1197 7d4a6c3ca75de33b1edb235b4b9d4f393b843659^ maven-project/src/test/java/org/apache/maven/project/PomConstructionTest.java
+1208,1208 7d4a6c3ca75de33b1edb235b4b9d4f393b843659^ maven-project/src/test/java/org/apache/maven/project/PomConstructionTest.java
+1211,1211 7d4a6c3ca75de33b1edb235b4b9d4f393b843659^ maven-project/src/test/java/org/apache/maven/project/PomConstructionTest.java

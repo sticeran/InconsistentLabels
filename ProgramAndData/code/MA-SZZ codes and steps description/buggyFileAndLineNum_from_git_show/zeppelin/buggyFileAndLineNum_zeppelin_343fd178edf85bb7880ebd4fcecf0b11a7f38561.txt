@@ -1,0 +1,17 @@
+47,47 343fd178edf85bb7880ebd4fcecf0b11a7f38561^ spark/interpreter/src/test/java/org/apache/zeppelin/spark/NewSparkInterpreterTest.java
+111,111 343fd178edf85bb7880ebd4fcecf0b11a7f38561^ spark/interpreter/src/test/java/org/apache/zeppelin/spark/SparkShimsTest.java
+107,107 343fd178edf85bb7880ebd4fcecf0b11a7f38561^ spark/spark-shims/src/main/scala/org/apache/zeppelin/spark/SparkShims.java
+109,109 343fd178edf85bb7880ebd4fcecf0b11a7f38561^ spark/spark-shims/src/main/scala/org/apache/zeppelin/spark/SparkShims.java
+112,112 343fd178edf85bb7880ebd4fcecf0b11a7f38561^ spark/spark-shims/src/main/scala/org/apache/zeppelin/spark/SparkShims.java
+113,113 343fd178edf85bb7880ebd4fcecf0b11a7f38561^ spark/spark-shims/src/main/scala/org/apache/zeppelin/spark/SparkShims.java
+118,118 343fd178edf85bb7880ebd4fcecf0b11a7f38561^ spark/spark-shims/src/main/scala/org/apache/zeppelin/spark/SparkShims.java
+119,119 343fd178edf85bb7880ebd4fcecf0b11a7f38561^ spark/spark-shims/src/main/scala/org/apache/zeppelin/spark/SparkShims.java
+120,120 343fd178edf85bb7880ebd4fcecf0b11a7f38561^ spark/spark-shims/src/main/scala/org/apache/zeppelin/spark/SparkShims.java
+121,121 343fd178edf85bb7880ebd4fcecf0b11a7f38561^ spark/spark-shims/src/main/scala/org/apache/zeppelin/spark/SparkShims.java
+122,122 343fd178edf85bb7880ebd4fcecf0b11a7f38561^ spark/spark-shims/src/main/scala/org/apache/zeppelin/spark/SparkShims.java
+123,123 343fd178edf85bb7880ebd4fcecf0b11a7f38561^ spark/spark-shims/src/main/scala/org/apache/zeppelin/spark/SparkShims.java
+124,124 343fd178edf85bb7880ebd4fcecf0b11a7f38561^ spark/spark-shims/src/main/scala/org/apache/zeppelin/spark/SparkShims.java
+125,125 343fd178edf85bb7880ebd4fcecf0b11a7f38561^ spark/spark-shims/src/main/scala/org/apache/zeppelin/spark/SparkShims.java
+126,126 343fd178edf85bb7880ebd4fcecf0b11a7f38561^ spark/spark-shims/src/main/scala/org/apache/zeppelin/spark/SparkShims.java
+41,41 343fd178edf85bb7880ebd4fcecf0b11a7f38561^ spark/spark1-shims/src/main/scala/org/apache/zeppelin/spark/Spark1Shims.java
+42,42 343fd178edf85bb7880ebd4fcecf0b11a7f38561^ spark/spark2-shims/src/main/scala/org/apache/zeppelin/spark/Spark2Shims.java

@@ -1,0 +1,4 @@
+67,67 2a0ce92502756b377ae4103f08370a8a65b946fe^ flume-core/src/main/java/com/cloudera/flume/core/EventSinkDecorator.java
+68,68 2a0ce92502756b377ae4103f08370a8a65b946fe^ flume-core/src/main/java/com/cloudera/flume/core/EventSinkDecorator.java
+85,85 2a0ce92502756b377ae4103f08370a8a65b946fe^ flume-core/src/main/java/com/cloudera/flume/handlers/debug/StubbornAppendSink.java
+332,332 2a0ce92502756b377ae4103f08370a8a65b946fe^ flume-core/src/main/java/com/cloudera/flume/handlers/rolling/RollSink.java

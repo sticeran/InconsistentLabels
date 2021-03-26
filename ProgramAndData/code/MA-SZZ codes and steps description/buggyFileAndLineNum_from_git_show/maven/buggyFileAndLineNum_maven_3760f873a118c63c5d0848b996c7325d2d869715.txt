@@ -1,0 +1,14 @@
+407,407 3760f873a118c63c5d0848b996c7325d2d869715^ maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycleExecutor.java
+458,458 3760f873a118c63c5d0848b996c7325d2d869715^ maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycleExecutor.java
+474,474 3760f873a118c63c5d0848b996c7325d2d869715^ maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycleExecutor.java
+321,321 3760f873a118c63c5d0848b996c7325d2d869715^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+322,322 3760f873a118c63c5d0848b996c7325d2d869715^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+326,326 3760f873a118c63c5d0848b996c7325d2d869715^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+330,330 3760f873a118c63c5d0848b996c7325d2d869715^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+331,331 3760f873a118c63c5d0848b996c7325d2d869715^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+332,332 3760f873a118c63c5d0848b996c7325d2d869715^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+333,333 3760f873a118c63c5d0848b996c7325d2d869715^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+334,334 3760f873a118c63c5d0848b996c7325d2d869715^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+33,33 3760f873a118c63c5d0848b996c7325d2d869715^ maven-core/src/main/java/org/apache/maven/plugin/PluginManager.java
+34,34 3760f873a118c63c5d0848b996c7325d2d869715^ maven-core/src/main/java/org/apache/maven/plugin/PluginManager.java
+65,65 3760f873a118c63c5d0848b996c7325d2d869715^ maven-plugin-tools/maven-plugin-tools-java/src/main/java/org/apache/maven/tools/plugin/extractor/java/JavaMojoDescriptorExtractor.java

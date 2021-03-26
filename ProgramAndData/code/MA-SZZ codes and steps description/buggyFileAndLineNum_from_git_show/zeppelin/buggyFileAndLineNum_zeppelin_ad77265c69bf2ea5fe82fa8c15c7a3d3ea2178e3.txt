@@ -1,0 +1,8 @@
+60,60 ad77265c69bf2ea5fe82fa8c15c7a3d3ea2178e3^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/user/AuthenticationInfo.java
+61,61 ad77265c69bf2ea5fe82fa8c15c7a3d3ea2178e3^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/user/AuthenticationInfo.java
+62,62 ad77265c69bf2ea5fe82fa8c15c7a3d3ea2178e3^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/user/AuthenticationInfo.java
+63,63 ad77265c69bf2ea5fe82fa8c15c7a3d3ea2178e3^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/user/AuthenticationInfo.java
+64,64 ad77265c69bf2ea5fe82fa8c15c7a3d3ea2178e3^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/user/AuthenticationInfo.java
+65,65 ad77265c69bf2ea5fe82fa8c15c7a3d3ea2178e3^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/user/AuthenticationInfo.java
+66,66 ad77265c69bf2ea5fe82fa8c15c7a3d3ea2178e3^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/user/AuthenticationInfo.java
+31,31 ad77265c69bf2ea5fe82fa8c15c7a3d3ea2178e3^ zeppelin-interpreter/src/test/java/org/apache/zeppelin/user/AuthenticationInfoTest.java

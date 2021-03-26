@@ -1,0 +1,17 @@
+136,136 30f6e39aa66cbf2e3a7c3c77aa4ea68228b7e257^ flume-ng-sources/flume-jms-source/src/main/java/org/apache/flume/source/jms/JMSSource.java
+70,70 30f6e39aa66cbf2e3a7c3c77aa4ea68228b7e257^ flume-ng-sources/flume-jms-source/src/test/java/org/apache/flume/source/jms/TestIntegrationActiveMQ.java
+71,71 30f6e39aa66cbf2e3a7c3c77aa4ea68228b7e257^ flume-ng-sources/flume-jms-source/src/test/java/org/apache/flume/source/jms/TestIntegrationActiveMQ.java
+83,83 30f6e39aa66cbf2e3a7c3c77aa4ea68228b7e257^ flume-ng-sources/flume-jms-source/src/test/java/org/apache/flume/source/jms/TestIntegrationActiveMQ.java
+86,86 30f6e39aa66cbf2e3a7c3c77aa4ea68228b7e257^ flume-ng-sources/flume-jms-source/src/test/java/org/apache/flume/source/jms/TestIntegrationActiveMQ.java
+87,87 30f6e39aa66cbf2e3a7c3c77aa4ea68228b7e257^ flume-ng-sources/flume-jms-source/src/test/java/org/apache/flume/source/jms/TestIntegrationActiveMQ.java
+94,94 30f6e39aa66cbf2e3a7c3c77aa4ea68228b7e257^ flume-ng-sources/flume-jms-source/src/test/java/org/apache/flume/source/jms/TestIntegrationActiveMQ.java
+95,95 30f6e39aa66cbf2e3a7c3c77aa4ea68228b7e257^ flume-ng-sources/flume-jms-source/src/test/java/org/apache/flume/source/jms/TestIntegrationActiveMQ.java
+96,96 30f6e39aa66cbf2e3a7c3c77aa4ea68228b7e257^ flume-ng-sources/flume-jms-source/src/test/java/org/apache/flume/source/jms/TestIntegrationActiveMQ.java
+97,97 30f6e39aa66cbf2e3a7c3c77aa4ea68228b7e257^ flume-ng-sources/flume-jms-source/src/test/java/org/apache/flume/source/jms/TestIntegrationActiveMQ.java
+98,98 30f6e39aa66cbf2e3a7c3c77aa4ea68228b7e257^ flume-ng-sources/flume-jms-source/src/test/java/org/apache/flume/source/jms/TestIntegrationActiveMQ.java
+104,104 30f6e39aa66cbf2e3a7c3c77aa4ea68228b7e257^ flume-ng-sources/flume-jms-source/src/test/java/org/apache/flume/source/jms/TestIntegrationActiveMQ.java
+105,105 30f6e39aa66cbf2e3a7c3c77aa4ea68228b7e257^ flume-ng-sources/flume-jms-source/src/test/java/org/apache/flume/source/jms/TestIntegrationActiveMQ.java
+133,133 30f6e39aa66cbf2e3a7c3c77aa4ea68228b7e257^ flume-ng-sources/flume-jms-source/src/test/java/org/apache/flume/source/jms/TestIntegrationActiveMQ.java
+134,134 30f6e39aa66cbf2e3a7c3c77aa4ea68228b7e257^ flume-ng-sources/flume-jms-source/src/test/java/org/apache/flume/source/jms/TestIntegrationActiveMQ.java
+154,154 30f6e39aa66cbf2e3a7c3c77aa4ea68228b7e257^ flume-ng-sources/flume-jms-source/src/test/java/org/apache/flume/source/jms/TestIntegrationActiveMQ.java
+155,155 30f6e39aa66cbf2e3a7c3c77aa4ea68228b7e257^ flume-ng-sources/flume-jms-source/src/test/java/org/apache/flume/source/jms/TestIntegrationActiveMQ.java

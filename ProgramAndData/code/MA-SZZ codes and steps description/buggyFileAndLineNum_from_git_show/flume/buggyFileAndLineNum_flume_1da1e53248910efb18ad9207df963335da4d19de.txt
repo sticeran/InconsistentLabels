@@ -1,0 +1,3 @@
+21,21 1da1e53248910efb18ad9207df963335da4d19de^ flume-ng-core/src/test/java/org/apache/flume/serialization/TestFlumeEventAvroEventSerializer.java
+21,21 1da1e53248910efb18ad9207df963335da4d19de^ flume-ng-core/src/test/java/org/apache/flume/serialization/TestSyslogAvroEventSerializer.java
+22,22 1da1e53248910efb18ad9207df963335da4d19de^ flume-ng-core/src/test/java/org/apache/flume/serialization/TestSyslogAvroEventSerializer.java

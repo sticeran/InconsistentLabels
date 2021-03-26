@@ -1,0 +1,12 @@
+659,659 b9d2f40bd737163be55681970b1f467f668c8fab^ livy/src/main/java/org/apache/zeppelin/livy/BaseLivyInterpreter.java
+662,662 b9d2f40bd737163be55681970b1f467f668c8fab^ livy/src/main/java/org/apache/zeppelin/livy/BaseLivyInterpreter.java
+667,667 b9d2f40bd737163be55681970b1f467f668c8fab^ livy/src/main/java/org/apache/zeppelin/livy/BaseLivyInterpreter.java
+670,670 b9d2f40bd737163be55681970b1f467f668c8fab^ livy/src/main/java/org/apache/zeppelin/livy/BaseLivyInterpreter.java
+374,374 b9d2f40bd737163be55681970b1f467f668c8fab^ livy/src/test/java/org/apache/zeppelin/livy/LivyInterpreterIT.java
+375,375 b9d2f40bd737163be55681970b1f467f668c8fab^ livy/src/test/java/org/apache/zeppelin/livy/LivyInterpreterIT.java
+376,376 b9d2f40bd737163be55681970b1f467f668c8fab^ livy/src/test/java/org/apache/zeppelin/livy/LivyInterpreterIT.java
+377,377 b9d2f40bd737163be55681970b1f467f668c8fab^ livy/src/test/java/org/apache/zeppelin/livy/LivyInterpreterIT.java
+378,378 b9d2f40bd737163be55681970b1f467f668c8fab^ livy/src/test/java/org/apache/zeppelin/livy/LivyInterpreterIT.java
+379,379 b9d2f40bd737163be55681970b1f467f668c8fab^ livy/src/test/java/org/apache/zeppelin/livy/LivyInterpreterIT.java
+380,380 b9d2f40bd737163be55681970b1f467f668c8fab^ livy/src/test/java/org/apache/zeppelin/livy/LivyInterpreterIT.java
+381,381 b9d2f40bd737163be55681970b1f467f668c8fab^ livy/src/test/java/org/apache/zeppelin/livy/LivyInterpreterIT.java

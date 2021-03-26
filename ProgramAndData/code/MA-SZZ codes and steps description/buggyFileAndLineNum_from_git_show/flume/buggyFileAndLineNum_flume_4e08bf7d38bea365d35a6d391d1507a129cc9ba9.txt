@@ -1,0 +1,4 @@
+498,498 4e08bf7d38bea365d35a6d391d1507a129cc9ba9^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSEventSink.java
+499,499 4e08bf7d38bea365d35a6d391d1507a129cc9ba9^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSEventSink.java
+529,529 4e08bf7d38bea365d35a6d391d1507a129cc9ba9^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSEventSink.java
+530,530 4e08bf7d38bea365d35a6d391d1507a129cc9ba9^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSEventSink.java

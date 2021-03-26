@@ -1,0 +1,10 @@
+43,43 ea2fcdaa5132bd4fe01bc00a7da2dddb29756b02^ flume-ng-core/src/main/java/org/apache/flume/source/http/HTTPSource.java
+44,44 ea2fcdaa5132bd4fe01bc00a7da2dddb29756b02^ flume-ng-core/src/main/java/org/apache/flume/source/http/HTTPSource.java
+45,45 ea2fcdaa5132bd4fe01bc00a7da2dddb29756b02^ flume-ng-core/src/main/java/org/apache/flume/source/http/HTTPSource.java
+175,175 ea2fcdaa5132bd4fe01bc00a7da2dddb29756b02^ flume-ng-core/src/main/java/org/apache/flume/source/http/HTTPSource.java
+48,48 ea2fcdaa5132bd4fe01bc00a7da2dddb29756b02^ flume-ng-core/src/test/java/org/apache/flume/source/http/TestHTTPSource.java
+49,49 ea2fcdaa5132bd4fe01bc00a7da2dddb29756b02^ flume-ng-core/src/test/java/org/apache/flume/source/http/TestHTTPSource.java
+50,50 ea2fcdaa5132bd4fe01bc00a7da2dddb29756b02^ flume-ng-core/src/test/java/org/apache/flume/source/http/TestHTTPSource.java
+370,370 ea2fcdaa5132bd4fe01bc00a7da2dddb29756b02^ flume-ng-core/src/test/java/org/apache/flume/source/http/TestHTTPSource.java
+393,393 ea2fcdaa5132bd4fe01bc00a7da2dddb29756b02^ flume-ng-core/src/test/java/org/apache/flume/source/http/TestHTTPSource.java
+394,394 ea2fcdaa5132bd4fe01bc00a7da2dddb29756b02^ flume-ng-core/src/test/java/org/apache/flume/source/http/TestHTTPSource.java

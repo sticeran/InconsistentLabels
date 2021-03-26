@@ -1,0 +1,4 @@
+179,179 2d5cb58fe9a6c9ecef3cf0ef69c3b54dfa194123^ maven-project-builder/src/main/java/org/apache/maven/project/builder/PomTransformer.java
+271,271 2d5cb58fe9a6c9ecef3cf0ef69c3b54dfa194123^ maven-project-builder/src/main/java/org/apache/maven/project/builder/PomTransformer.java
+272,272 2d5cb58fe9a6c9ecef3cf0ef69c3b54dfa194123^ maven-project-builder/src/main/java/org/apache/maven/project/builder/PomTransformer.java
+366,366 2d5cb58fe9a6c9ecef3cf0ef69c3b54dfa194123^ maven-project-builder/src/main/java/org/apache/maven/project/builder/PomTransformer.java

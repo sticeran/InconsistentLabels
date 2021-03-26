@@ -1,0 +1,2 @@
+765,765 ff898bffd37b97b6cf3d4edbbe88df40cf99ef00^ maven-project/src/test/java/org/apache/maven/project/PomConstructionTest.java
+770,770 ff898bffd37b97b6cf3d4edbbe88df40cf99ef00^ maven-project/src/test/java/org/apache/maven/project/PomConstructionTest.java

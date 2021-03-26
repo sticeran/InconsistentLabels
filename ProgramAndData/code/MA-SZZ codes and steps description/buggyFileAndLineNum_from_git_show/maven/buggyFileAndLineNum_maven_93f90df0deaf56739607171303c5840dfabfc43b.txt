@@ -1,0 +1,5 @@
+142,142 93f90df0deaf56739607171303c5840dfabfc43b^ maven-core/src/test/java/org/apache/maven/AbstractCoreMavenComponentTestCase.java
+130,130 93f90df0deaf56739607171303c5840dfabfc43b^ maven-core/src/test/java/org/apache/maven/plugin/PluginManagerTest.java
+210,210 93f90df0deaf56739607171303c5840dfabfc43b^ maven-core/src/test/java/org/apache/maven/plugin/PluginManagerTest.java
+223,223 93f90df0deaf56739607171303c5840dfabfc43b^ maven-core/src/test/java/org/apache/maven/plugin/PluginManagerTest.java
+229,229 93f90df0deaf56739607171303c5840dfabfc43b^ maven-core/src/test/java/org/apache/maven/plugin/PluginManagerTest.java

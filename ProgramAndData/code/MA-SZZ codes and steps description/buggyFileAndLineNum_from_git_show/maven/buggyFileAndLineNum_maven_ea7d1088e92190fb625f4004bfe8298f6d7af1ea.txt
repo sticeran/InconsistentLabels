@@ -1,0 +1,12 @@
+252,252 ea7d1088e92190fb625f4004bfe8298f6d7af1ea^ maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycleExecutor.java
+405,405 ea7d1088e92190fb625f4004bfe8298f6d7af1ea^ maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycleExecutor.java
+676,676 ea7d1088e92190fb625f4004bfe8298f6d7af1ea^ maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycleExecutor.java
+736,736 ea7d1088e92190fb625f4004bfe8298f6d7af1ea^ maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycleExecutor.java
+1002,1002 ea7d1088e92190fb625f4004bfe8298f6d7af1ea^ maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycleExecutor.java
+1035,1035 ea7d1088e92190fb625f4004bfe8298f6d7af1ea^ maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycleExecutor.java
+127,127 ea7d1088e92190fb625f4004bfe8298f6d7af1ea^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+254,254 ea7d1088e92190fb625f4004bfe8298f6d7af1ea^ maven-core/src/main/java/org/apache/maven/project/MavenProject.java
+393,393 ea7d1088e92190fb625f4004bfe8298f6d7af1ea^ maven-core/src/main/java/org/apache/maven/project/MavenProject.java
+1361,1361 ea7d1088e92190fb625f4004bfe8298f6d7af1ea^ maven-core/src/main/java/org/apache/maven/project/MavenProject.java
+50,50 ea7d1088e92190fb625f4004bfe8298f6d7af1ea^ maven-core/src/test/java/org/apache/maven/plugin/PluginManagerTest.java
+64,64 ea7d1088e92190fb625f4004bfe8298f6d7af1ea^ maven-core/src/test/java/org/apache/maven/plugin/PluginManagerTest.java

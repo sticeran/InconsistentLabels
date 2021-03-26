@@ -1,0 +1,4 @@
+160,160 c31a625a813efe311f4c345f364db91db365daae^ core/src/main/java/org/apache/mahout/classifier/evaluation/Auc.java
+164,164 c31a625a813efe311f4c345f364db91db365daae^ core/src/main/java/org/apache/mahout/classifier/evaluation/Auc.java
+169,169 c31a625a813efe311f4c345f364db91db365daae^ core/src/main/java/org/apache/mahout/classifier/evaluation/Auc.java
+173,173 c31a625a813efe311f4c345f364db91db365daae^ core/src/main/java/org/apache/mahout/classifier/evaluation/Auc.java

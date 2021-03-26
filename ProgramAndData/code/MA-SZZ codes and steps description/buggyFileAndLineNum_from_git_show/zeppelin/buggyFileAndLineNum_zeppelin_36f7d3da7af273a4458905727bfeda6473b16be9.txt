@@ -1,0 +1,10 @@
+241,241 36f7d3da7af273a4458905727bfeda6473b16be9^ zeppelin-server/src/main/java/org/apache/zeppelin/realm/ActiveDirectoryGroupRealm.java
+94,94 36f7d3da7af273a4458905727bfeda6473b16be9^ zeppelin-server/src/main/java/org/apache/zeppelin/rest/GetUserList.java
+126,126 36f7d3da7af273a4458905727bfeda6473b16be9^ zeppelin-server/src/main/java/org/apache/zeppelin/rest/GetUserList.java
+144,144 36f7d3da7af273a4458905727bfeda6473b16be9^ zeppelin-server/src/main/java/org/apache/zeppelin/rest/GetUserList.java
+190,190 36f7d3da7af273a4458905727bfeda6473b16be9^ zeppelin-server/src/main/java/org/apache/zeppelin/rest/GetUserList.java
+196,196 36f7d3da7af273a4458905727bfeda6473b16be9^ zeppelin-server/src/main/java/org/apache/zeppelin/rest/GetUserList.java
+128,128 36f7d3da7af273a4458905727bfeda6473b16be9^ zeppelin-server/src/main/java/org/apache/zeppelin/rest/SecurityRestApi.java
+132,132 36f7d3da7af273a4458905727bfeda6473b16be9^ zeppelin-server/src/main/java/org/apache/zeppelin/rest/SecurityRestApi.java
+138,138 36f7d3da7af273a4458905727bfeda6473b16be9^ zeppelin-server/src/main/java/org/apache/zeppelin/rest/SecurityRestApi.java
+164,164 36f7d3da7af273a4458905727bfeda6473b16be9^ zeppelin-server/src/main/java/org/apache/zeppelin/rest/SecurityRestApi.java

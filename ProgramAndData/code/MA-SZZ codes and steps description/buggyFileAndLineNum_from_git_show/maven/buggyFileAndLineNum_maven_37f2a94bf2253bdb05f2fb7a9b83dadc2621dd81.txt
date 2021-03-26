@@ -1,0 +1,2 @@
+271,271 37f2a94bf2253bdb05f2fb7a9b83dadc2621dd81^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+262,262 37f2a94bf2253bdb05f2fb7a9b83dadc2621dd81^ maven-project/src/main/java/org/apache/maven/project/artifact/ActiveProjectArtifact.java

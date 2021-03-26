@@ -1,0 +1,13 @@
+106,106 e60c22a318f7c4fe3868a3ad762e3998f61b49d7^ flume-ng-core/src/main/java/org/apache/flume/source/ThriftSource.java
+123,123 e60c22a318f7c4fe3868a3ad762e3998f61b49d7^ flume-ng-core/src/main/java/org/apache/flume/source/ThriftSource.java
+168,168 e60c22a318f7c4fe3868a3ad762e3998f61b49d7^ flume-ng-core/src/main/java/org/apache/flume/source/ThriftSource.java
+268,268 e60c22a318f7c4fe3868a3ad762e3998f61b49d7^ flume-ng-core/src/main/java/org/apache/flume/source/ThriftSource.java
+94,94 e60c22a318f7c4fe3868a3ad762e3998f61b49d7^ flume-ng-sdk/src/main/java/org/apache/flume/api/ThriftRpcClient.java
+95,95 e60c22a318f7c4fe3868a3ad762e3998f61b49d7^ flume-ng-sdk/src/main/java/org/apache/flume/api/ThriftRpcClient.java
+341,341 e60c22a318f7c4fe3868a3ad762e3998f61b49d7^ flume-ng-sdk/src/main/java/org/apache/flume/api/ThriftRpcClient.java
+342,342 e60c22a318f7c4fe3868a3ad762e3998f61b49d7^ flume-ng-sdk/src/main/java/org/apache/flume/api/ThriftRpcClient.java
+395,395 e60c22a318f7c4fe3868a3ad762e3998f61b49d7^ flume-ng-sdk/src/main/java/org/apache/flume/api/ThriftRpcClient.java
+534,534 e60c22a318f7c4fe3868a3ad762e3998f61b49d7^ flume-ng-sdk/src/main/java/org/apache/flume/api/ThriftRpcClient.java
+535,535 e60c22a318f7c4fe3868a3ad762e3998f61b49d7^ flume-ng-sdk/src/main/java/org/apache/flume/api/ThriftRpcClient.java
+540,540 e60c22a318f7c4fe3868a3ad762e3998f61b49d7^ flume-ng-sdk/src/main/java/org/apache/flume/api/ThriftRpcClient.java
+541,541 e60c22a318f7c4fe3868a3ad762e3998f61b49d7^ flume-ng-sdk/src/main/java/org/apache/flume/api/ThriftRpcClient.java

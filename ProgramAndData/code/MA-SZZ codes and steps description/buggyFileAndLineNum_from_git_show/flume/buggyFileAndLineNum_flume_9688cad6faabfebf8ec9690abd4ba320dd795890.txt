@@ -1,0 +1,2 @@
+142,142 9688cad6faabfebf8ec9690abd4ba320dd795890^ flume-ng-configuration/src/main/java/org/apache/flume/conf/sink/SinkConfiguration.java
+95,95 9688cad6faabfebf8ec9690abd4ba320dd795890^ flume-ng-configuration/src/main/java/org/apache/flume/conf/sink/SinkType.java

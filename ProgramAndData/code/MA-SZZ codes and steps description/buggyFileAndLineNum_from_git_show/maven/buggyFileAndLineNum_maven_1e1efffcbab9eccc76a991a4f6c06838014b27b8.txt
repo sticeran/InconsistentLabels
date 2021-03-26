@@ -1,0 +1,5 @@
+50,50 1e1efffcbab9eccc76a991a4f6c06838014b27b8^ maven-plugins/maven-plugin-plugin/src/main/java/org/apache/maven/plugin/plugin/metadata/PluginMappingDeployMojo.java
+53,53 1e1efffcbab9eccc76a991a4f6c06838014b27b8^ maven-plugins/maven-plugin-plugin/src/main/java/org/apache/maven/plugin/plugin/metadata/PluginMappingDeployMojo.java
+54,54 1e1efffcbab9eccc76a991a4f6c06838014b27b8^ maven-plugins/maven-plugin-plugin/src/main/java/org/apache/maven/plugin/plugin/metadata/PluginMappingDeployMojo.java
+55,55 1e1efffcbab9eccc76a991a4f6c06838014b27b8^ maven-plugins/maven-plugin-plugin/src/main/java/org/apache/maven/plugin/plugin/metadata/PluginMappingDeployMojo.java
+56,56 1e1efffcbab9eccc76a991a4f6c06838014b27b8^ maven-plugins/maven-plugin-plugin/src/main/java/org/apache/maven/plugin/plugin/metadata/PluginMappingDeployMojo.java

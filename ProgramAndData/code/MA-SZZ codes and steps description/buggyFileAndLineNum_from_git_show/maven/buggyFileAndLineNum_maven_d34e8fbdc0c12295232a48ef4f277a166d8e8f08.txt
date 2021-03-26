@@ -1,0 +1,4 @@
+232,232 d34e8fbdc0c12295232a48ef4f277a166d8e8f08^ maven-artifact/src/main/java/org/apache/maven/artifact/versioning/DefaultArtifactVersion.java
+233,233 d34e8fbdc0c12295232a48ef4f277a166d8e8f08^ maven-artifact/src/main/java/org/apache/maven/artifact/versioning/DefaultArtifactVersion.java
+234,234 d34e8fbdc0c12295232a48ef4f277a166d8e8f08^ maven-artifact/src/main/java/org/apache/maven/artifact/versioning/DefaultArtifactVersion.java
+235,235 d34e8fbdc0c12295232a48ef4f277a166d8e8f08^ maven-artifact/src/main/java/org/apache/maven/artifact/versioning/DefaultArtifactVersion.java

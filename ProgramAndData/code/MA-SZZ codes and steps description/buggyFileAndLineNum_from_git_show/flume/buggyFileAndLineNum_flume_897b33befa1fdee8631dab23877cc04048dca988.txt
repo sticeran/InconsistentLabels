@@ -1,0 +1,4 @@
+62,62 897b33befa1fdee8631dab23877cc04048dca988^ flume-ng-channels/flume-recoverable-memory-channel/src/main/java/org/apache/flume/channel/recoverable/memory/RecoverableMemoryChannel.java
+104,104 897b33befa1fdee8631dab23877cc04048dca988^ flume-ng-channels/flume-recoverable-memory-channel/src/main/java/org/apache/flume/channel/recoverable/memory/RecoverableMemoryChannel.java
+108,108 897b33befa1fdee8631dab23877cc04048dca988^ flume-ng-channels/flume-recoverable-memory-channel/src/main/java/org/apache/flume/channel/recoverable/memory/wal/WAL.java
+117,117 897b33befa1fdee8631dab23877cc04048dca988^ flume-ng-channels/flume-recoverable-memory-channel/src/main/java/org/apache/flume/channel/recoverable/memory/wal/WAL.java

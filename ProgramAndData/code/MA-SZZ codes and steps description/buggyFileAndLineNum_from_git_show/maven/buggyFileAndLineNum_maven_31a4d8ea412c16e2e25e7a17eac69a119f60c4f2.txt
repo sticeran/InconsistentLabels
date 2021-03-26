@@ -1,0 +1,11 @@
+108,108 31a4d8ea412c16e2e25e7a17eac69a119f60c4f2^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java
+137,137 31a4d8ea412c16e2e25e7a17eac69a119f60c4f2^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java
+143,143 31a4d8ea412c16e2e25e7a17eac69a119f60c4f2^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager.java
+36,36 31a4d8ea412c16e2e25e7a17eac69a119f60c4f2^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/repository/metadata/SnapshotArtifactRepositoryMetadata.java
+117,117 31a4d8ea412c16e2e25e7a17eac69a119f60c4f2^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/transform/AbstractVersionTransformation.java
+118,118 31a4d8ea412c16e2e25e7a17eac69a119f60c4f2^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/transform/AbstractVersionTransformation.java
+121,121 31a4d8ea412c16e2e25e7a17eac69a119f60c4f2^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/transform/AbstractVersionTransformation.java
+122,122 31a4d8ea412c16e2e25e7a17eac69a119f60c4f2^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/transform/AbstractVersionTransformation.java
+210,210 31a4d8ea412c16e2e25e7a17eac69a119f60c4f2^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/transform/AbstractVersionTransformation.java
+62,62 31a4d8ea412c16e2e25e7a17eac69a119f60c4f2^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/transform/SnapshotTransformation.java
+63,63 31a4d8ea412c16e2e25e7a17eac69a119f60c4f2^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/transform/SnapshotTransformation.java

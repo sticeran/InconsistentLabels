@@ -1,0 +1,2 @@
+60,60 5ab998fa4e240118f4e7c7545b56b1de212785ee^ maven-embedder/src/main/java/org/apache/maven/cli/ConsoleMavenTransferListener.java
+62,62 5ab998fa4e240118f4e7c7545b56b1de212785ee^ maven-embedder/src/main/java/org/apache/maven/cli/ConsoleMavenTransferListener.java

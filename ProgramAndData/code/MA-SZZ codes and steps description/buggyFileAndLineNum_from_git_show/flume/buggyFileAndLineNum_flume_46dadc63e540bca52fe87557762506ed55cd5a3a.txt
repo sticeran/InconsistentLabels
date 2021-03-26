@@ -1,0 +1,2 @@
+144,144 46dadc63e540bca52fe87557762506ed55cd5a3a^ flume-ng-sources/flume-scribe-source/src/main/java/org/apache/flume/source/scribe/ScribeSource.java
+158,158 46dadc63e540bca52fe87557762506ed55cd5a3a^ flume-ng-sources/flume-scribe-source/src/main/java/org/apache/flume/source/scribe/ScribeSource.java

@@ -1,0 +1,9 @@
+17,17 967c2533b98da571fb1e9e860196f7f7e7fa07f1^ maven-embedder/src/test/java/org/apache/maven/embedder/AbstractEmbedderExecutionTestCase.java
+18,18 967c2533b98da571fb1e9e860196f7f7e7fa07f1^ maven-embedder/src/test/java/org/apache/maven/embedder/AbstractEmbedderExecutionTestCase.java
+22,22 967c2533b98da571fb1e9e860196f7f7e7fa07f1^ maven-embedder/src/test/java/org/apache/maven/embedder/AbstractEmbedderExecutionTestCase.java
+23,23 967c2533b98da571fb1e9e860196f7f7e7fa07f1^ maven-embedder/src/test/java/org/apache/maven/embedder/AbstractEmbedderExecutionTestCase.java
+24,24 967c2533b98da571fb1e9e860196f7f7e7fa07f1^ maven-embedder/src/test/java/org/apache/maven/embedder/AbstractEmbedderExecutionTestCase.java
+28,28 967c2533b98da571fb1e9e860196f7f7e7fa07f1^ maven-embedder/src/test/java/org/apache/maven/embedder/AbstractEmbedderExecutionTestCase.java
+33,33 967c2533b98da571fb1e9e860196f7f7e7fa07f1^ maven-embedder/src/test/java/org/apache/maven/embedder/AbstractEmbedderExecutionTestCase.java
+40,40 967c2533b98da571fb1e9e860196f7f7e7fa07f1^ maven-embedder/src/test/java/org/apache/maven/embedder/AbstractEmbedderExecutionTestCase.java
+52,52 967c2533b98da571fb1e9e860196f7f7e7fa07f1^ maven-embedder/src/test/java/org/apache/maven/embedder/AbstractEmbedderExecutionTestCase.java

@@ -1,0 +1,5 @@
+41,41 fd5683b9369759d4b3e755ea4d903a814e4e5b45^ maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultMavenPluginManager.java
+342,342 fd5683b9369759d4b3e755ea4d903a814e4e5b45^ maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultMavenPluginManager.java
+406,406 fd5683b9369759d4b3e755ea4d903a814e4e5b45^ maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultMavenPluginManager.java
+438,438 fd5683b9369759d4b3e755ea4d903a814e4e5b45^ maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultMavenPluginManager.java
+458,458 fd5683b9369759d4b3e755ea4d903a814e4e5b45^ maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultMavenPluginManager.java

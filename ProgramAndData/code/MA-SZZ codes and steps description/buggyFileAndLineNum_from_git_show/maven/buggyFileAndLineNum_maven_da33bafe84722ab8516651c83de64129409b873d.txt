@@ -1,0 +1,9 @@
+227,227 da33bafe84722ab8516651c83de64129409b873d^ maven-core/src/main/java/org/apache/maven/plugin/PluginParameterExpressionEvaluator.java
+235,235 da33bafe84722ab8516651c83de64129409b873d^ maven-core/src/main/java/org/apache/maven/plugin/PluginParameterExpressionEvaluator.java
+248,248 da33bafe84722ab8516651c83de64129409b873d^ maven-core/src/main/java/org/apache/maven/plugin/PluginParameterExpressionEvaluator.java
+30,30 da33bafe84722ab8516651c83de64129409b873d^ maven-project/src/main/java/org/apache/maven/project/interpolation/ModelInterpolationException.java
+49,49 da33bafe84722ab8516651c83de64129409b873d^ maven-project/src/main/java/org/apache/maven/project/interpolation/ModelInterpolationException.java
+113,113 da33bafe84722ab8516651c83de64129409b873d^ maven-project/src/main/java/org/apache/maven/project/interpolation/RegexBasedModelInterpolator.java
+114,114 da33bafe84722ab8516651c83de64129409b873d^ maven-project/src/main/java/org/apache/maven/project/interpolation/RegexBasedModelInterpolator.java
+115,115 da33bafe84722ab8516651c83de64129409b873d^ maven-project/src/main/java/org/apache/maven/project/interpolation/RegexBasedModelInterpolator.java
+116,116 da33bafe84722ab8516651c83de64129409b873d^ maven-project/src/main/java/org/apache/maven/project/interpolation/RegexBasedModelInterpolator.java

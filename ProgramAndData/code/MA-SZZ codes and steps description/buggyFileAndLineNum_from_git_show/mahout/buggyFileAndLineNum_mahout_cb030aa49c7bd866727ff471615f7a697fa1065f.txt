@@ -1,0 +1,3 @@
+45,45 cb030aa49c7bd866727ff471615f7a697fa1065f^ utils/src/main/java/org/apache/mahout/utils/vectors/io/SequenceFileVectorWriter.java
+36,36 cb030aa49c7bd866727ff471615f7a697fa1065f^ utils/src/main/java/org/apache/mahout/utils/vectors/lucene/TFDFMapper.java
+46,46 cb030aa49c7bd866727ff471615f7a697fa1065f^ utils/src/main/java/org/apache/mahout/utils/vectors/lucene/TFDFMapper.java

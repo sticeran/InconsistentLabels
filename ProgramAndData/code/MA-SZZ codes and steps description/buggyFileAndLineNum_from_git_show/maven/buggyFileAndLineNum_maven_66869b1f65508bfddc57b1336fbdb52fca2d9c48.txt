@@ -1,0 +1,4 @@
+38,38 66869b1f65508bfddc57b1336fbdb52fca2d9c48^ maven-plugins/maven-resources-plugin/src/main/java/org/apache/maven/plugin/resources/ResourcesMojo.java
+40,40 66869b1f65508bfddc57b1336fbdb52fca2d9c48^ maven-plugins/maven-resources-plugin/src/main/java/org/apache/maven/plugin/resources/ResourcesMojo.java
+108,108 66869b1f65508bfddc57b1336fbdb52fca2d9c48^ maven-plugins/maven-resources-plugin/src/main/java/org/apache/maven/plugin/resources/ResourcesMojo.java
+124,124 66869b1f65508bfddc57b1336fbdb52fca2d9c48^ maven-plugins/maven-resources-plugin/src/main/java/org/apache/maven/plugin/resources/ResourcesMojo.java

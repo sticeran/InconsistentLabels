@@ -1,0 +1,3 @@
+105,105 b614de42531d9efa76c717056431de95eeca6374^ maven-core/src/main/java/org/apache/maven/model/plugin/DefaultLifecycleBindingsInjector.java
+137,137 b614de42531d9efa76c717056431de95eeca6374^ maven-core/src/main/java/org/apache/maven/model/plugin/DefaultLifecycleBindingsInjector.java
+149,149 b614de42531d9efa76c717056431de95eeca6374^ maven-core/src/main/java/org/apache/maven/model/plugin/DefaultLifecycleBindingsInjector.java

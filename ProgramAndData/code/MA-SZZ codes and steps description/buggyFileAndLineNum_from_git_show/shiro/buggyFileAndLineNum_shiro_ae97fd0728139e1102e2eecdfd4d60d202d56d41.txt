@@ -1,0 +1,10 @@
+95,95 ae97fd0728139e1102e2eecdfd4d60d202d56d41^ core/src/main/java/org/apache/shiro/realm/AuthorizingRealm.java
+96,96 ae97fd0728139e1102e2eecdfd4d60d202d56d41^ core/src/main/java/org/apache/shiro/realm/AuthorizingRealm.java
+98,98 ae97fd0728139e1102e2eecdfd4d60d202d56d41^ core/src/main/java/org/apache/shiro/realm/AuthorizingRealm.java
+99,99 ae97fd0728139e1102e2eecdfd4d60d202d56d41^ core/src/main/java/org/apache/shiro/realm/AuthorizingRealm.java
+100,100 ae97fd0728139e1102e2eecdfd4d60d202d56d41^ core/src/main/java/org/apache/shiro/realm/AuthorizingRealm.java
+101,101 ae97fd0728139e1102e2eecdfd4d60d202d56d41^ core/src/main/java/org/apache/shiro/realm/AuthorizingRealm.java
+102,102 ae97fd0728139e1102e2eecdfd4d60d202d56d41^ core/src/main/java/org/apache/shiro/realm/AuthorizingRealm.java
+107,107 ae97fd0728139e1102e2eecdfd4d60d202d56d41^ core/src/main/java/org/apache/shiro/realm/AuthorizingRealm.java
+112,112 ae97fd0728139e1102e2eecdfd4d60d202d56d41^ core/src/main/java/org/apache/shiro/realm/AuthorizingRealm.java
+117,117 ae97fd0728139e1102e2eecdfd4d60d202d56d41^ core/src/main/java/org/apache/shiro/realm/AuthorizingRealm.java

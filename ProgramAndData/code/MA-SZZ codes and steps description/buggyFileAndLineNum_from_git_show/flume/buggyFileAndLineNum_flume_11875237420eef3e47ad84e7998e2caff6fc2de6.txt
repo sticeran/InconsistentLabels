@@ -1,0 +1,5 @@
+131,131 11875237420eef3e47ad84e7998e2caff6fc2de6^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/BucketWriter.java
+37,37 11875237420eef3e47ad84e7998e2caff6fc2de6^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSDataStream.java
+115,115 11875237420eef3e47ad84e7998e2caff6fc2de6^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSEventSink.java
+116,116 11875237420eef3e47ad84e7998e2caff6fc2de6^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSEventSink.java
+157,157 11875237420eef3e47ad84e7998e2caff6fc2de6^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSEventSink.java

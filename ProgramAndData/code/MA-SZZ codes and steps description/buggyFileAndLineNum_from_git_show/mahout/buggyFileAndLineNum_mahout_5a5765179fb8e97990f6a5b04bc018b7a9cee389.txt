@@ -1,0 +1,16 @@
+23,23 5a5765179fb8e97990f6a5b04bc018b7a9cee389^ core/src/main/java/org/apache/mahout/clustering/kmeans/KMeansClusterer.java
+47,47 5a5765179fb8e97990f6a5b04bc018b7a9cee389^ core/src/main/java/org/apache/mahout/clustering/kmeans/KMeansClusterer.java
+58,58 5a5765179fb8e97990f6a5b04bc018b7a9cee389^ core/src/main/java/org/apache/mahout/clustering/kmeans/KMeansClusterer.java
+59,59 5a5765179fb8e97990f6a5b04bc018b7a9cee389^ core/src/main/java/org/apache/mahout/clustering/kmeans/KMeansClusterer.java
+61,61 5a5765179fb8e97990f6a5b04bc018b7a9cee389^ core/src/main/java/org/apache/mahout/clustering/kmeans/KMeansClusterer.java
+62,62 5a5765179fb8e97990f6a5b04bc018b7a9cee389^ core/src/main/java/org/apache/mahout/clustering/kmeans/KMeansClusterer.java
+63,63 5a5765179fb8e97990f6a5b04bc018b7a9cee389^ core/src/main/java/org/apache/mahout/clustering/kmeans/KMeansClusterer.java
+64,64 5a5765179fb8e97990f6a5b04bc018b7a9cee389^ core/src/main/java/org/apache/mahout/clustering/kmeans/KMeansClusterer.java
+65,65 5a5765179fb8e97990f6a5b04bc018b7a9cee389^ core/src/main/java/org/apache/mahout/clustering/kmeans/KMeansClusterer.java
+66,66 5a5765179fb8e97990f6a5b04bc018b7a9cee389^ core/src/main/java/org/apache/mahout/clustering/kmeans/KMeansClusterer.java
+68,68 5a5765179fb8e97990f6a5b04bc018b7a9cee389^ core/src/main/java/org/apache/mahout/clustering/kmeans/KMeansClusterer.java
+124,124 5a5765179fb8e97990f6a5b04bc018b7a9cee389^ core/src/main/java/org/apache/mahout/clustering/kmeans/KMeansClusterer.java
+235,235 5a5765179fb8e97990f6a5b04bc018b7a9cee389^ core/src/main/java/org/apache/mahout/clustering/kmeans/KMeansClusterer.java
+236,236 5a5765179fb8e97990f6a5b04bc018b7a9cee389^ core/src/main/java/org/apache/mahout/clustering/kmeans/KMeansClusterer.java
+48,48 5a5765179fb8e97990f6a5b04bc018b7a9cee389^ core/src/main/java/org/apache/mahout/clustering/kmeans/KMeansReducer.java
+58,58 5a5765179fb8e97990f6a5b04bc018b7a9cee389^ core/src/main/java/org/apache/mahout/clustering/kmeans/KMeansReducer.java

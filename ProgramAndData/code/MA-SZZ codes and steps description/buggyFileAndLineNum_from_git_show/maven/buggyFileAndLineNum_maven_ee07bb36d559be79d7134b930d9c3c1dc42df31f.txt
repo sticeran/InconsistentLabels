@@ -1,0 +1,7 @@
+83,83 ee07bb36d559be79d7134b930d9c3c1dc42df31f^ maven-compat/src/main/java/org/apache/maven/artifact/deployer/DefaultArtifactDeployer.java
+84,84 ee07bb36d559be79d7134b930d9c3c1dc42df31f^ maven-compat/src/main/java/org/apache/maven/artifact/deployer/DefaultArtifactDeployer.java
+76,76 ee07bb36d559be79d7134b930d9c3c1dc42df31f^ maven-compat/src/main/java/org/apache/maven/artifact/installer/DefaultArtifactInstaller.java
+77,77 ee07bb36d559be79d7134b930d9c3c1dc42df31f^ maven-compat/src/main/java/org/apache/maven/artifact/installer/DefaultArtifactInstaller.java
+140,140 ee07bb36d559be79d7134b930d9c3c1dc42df31f^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+141,141 ee07bb36d559be79d7134b930d9c3c1dc42df31f^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+22,22 ee07bb36d559be79d7134b930d9c3c1dc42df31f^ maven-core/src/main/java/org/apache/maven/RepositoryUtils.java

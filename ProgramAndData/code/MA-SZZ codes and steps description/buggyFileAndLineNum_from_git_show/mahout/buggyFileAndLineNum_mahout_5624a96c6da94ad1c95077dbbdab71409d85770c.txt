@@ -1,0 +1,11 @@
+20,20 5624a96c6da94ad1c95077dbbdab71409d85770c^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/HighDFWordsPruner.java
+39,39 5624a96c6da94ad1c95077dbbdab71409d85770c^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/HighDFWordsPruner.java
+59,59 5624a96c6da94ad1c95077dbbdab71409d85770c^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/HighDFWordsPruner.java
+82,82 5624a96c6da94ad1c95077dbbdab71409d85770c^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/HighDFWordsPruner.java
+83,83 5624a96c6da94ad1c95077dbbdab71409d85770c^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/HighDFWordsPruner.java
+20,20 5624a96c6da94ad1c95077dbbdab71409d85770c^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/collocations/llr/CollocMapper.java
+93,93 5624a96c6da94ad1c95077dbbdab71409d85770c^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/collocations/llr/CollocMapper.java
+94,94 5624a96c6da94ad1c95077dbbdab71409d85770c^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/collocations/llr/CollocMapper.java
+95,95 5624a96c6da94ad1c95077dbbdab71409d85770c^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/collocations/llr/CollocMapper.java
+163,163 5624a96c6da94ad1c95077dbbdab71409d85770c^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/collocations/llr/CollocMapper.java
+164,164 5624a96c6da94ad1c95077dbbdab71409d85770c^ mrlegacy/src/main/java/org/apache/mahout/vectorizer/collocations/llr/CollocMapper.java

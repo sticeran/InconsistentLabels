@@ -1,0 +1,3 @@
+32,32 6a36ae3b72cdc70c0ea58e7f174a0d0dbf223da1^ maven-core/src/main/java/org/apache/maven/extension/DefaultExtensionManager.java
+76,76 6a36ae3b72cdc70c0ea58e7f174a0d0dbf223da1^ maven-core/src/main/java/org/apache/maven/extension/DefaultExtensionManager.java
+77,77 6a36ae3b72cdc70c0ea58e7f174a0d0dbf223da1^ maven-core/src/main/java/org/apache/maven/extension/DefaultExtensionManager.java

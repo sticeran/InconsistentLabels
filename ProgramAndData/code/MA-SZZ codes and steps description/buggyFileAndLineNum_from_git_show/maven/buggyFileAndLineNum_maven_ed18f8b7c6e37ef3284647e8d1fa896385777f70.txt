@@ -1,0 +1,2 @@
+87,87 ed18f8b7c6e37ef3284647e8d1fa896385777f70^ maven-compat/src/main/java/org/apache/maven/artifact/repository/metadata/ArtifactRepositoryMetadata.java
+93,93 ed18f8b7c6e37ef3284647e8d1fa896385777f70^ maven-compat/src/main/java/org/apache/maven/artifact/repository/metadata/ArtifactRepositoryMetadata.java

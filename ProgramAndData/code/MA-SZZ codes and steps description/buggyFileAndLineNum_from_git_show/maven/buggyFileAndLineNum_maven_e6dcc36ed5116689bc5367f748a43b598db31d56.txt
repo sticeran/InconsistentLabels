@@ -1,0 +1,7 @@
+569,569 e6dcc36ed5116689bc5367f748a43b598db31d56^ maven-core/src/main/java/org/apache/maven/plugin/version/DefaultPluginVersionManager.java
+587,587 e6dcc36ed5116689bc5367f748a43b598db31d56^ maven-core/src/main/java/org/apache/maven/plugin/version/DefaultPluginVersionManager.java
+593,593 e6dcc36ed5116689bc5367f748a43b598db31d56^ maven-core/src/main/java/org/apache/maven/plugin/version/DefaultPluginVersionManager.java
+594,594 e6dcc36ed5116689bc5367f748a43b598db31d56^ maven-core/src/main/java/org/apache/maven/plugin/version/DefaultPluginVersionManager.java
+595,595 e6dcc36ed5116689bc5367f748a43b598db31d56^ maven-core/src/main/java/org/apache/maven/plugin/version/DefaultPluginVersionManager.java
+669,669 e6dcc36ed5116689bc5367f748a43b598db31d56^ maven-core/src/main/java/org/apache/maven/plugin/version/DefaultPluginVersionManager.java
+674,674 e6dcc36ed5116689bc5367f748a43b598db31d56^ maven-core/src/main/java/org/apache/maven/plugin/version/DefaultPluginVersionManager.java

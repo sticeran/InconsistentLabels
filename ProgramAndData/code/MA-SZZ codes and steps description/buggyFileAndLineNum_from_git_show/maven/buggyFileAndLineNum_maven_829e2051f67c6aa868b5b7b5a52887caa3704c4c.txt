@@ -1,0 +1,5 @@
+631,631 829e2051f67c6aa868b5b7b5a52887caa3704c4c^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+201,201 829e2051f67c6aa868b5b7b5a52887caa3704c4c^ maven-core/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+75,75 829e2051f67c6aa868b5b7b5a52887caa3704c4c^ maven-core/src/test/java/org/apache/maven/project/ProjectClasspathTest.java
+80,80 829e2051f67c6aa868b5b7b5a52887caa3704c4c^ maven-core/src/test/java/org/apache/maven/project/ProjectClasspathTest.java
+92,92 829e2051f67c6aa868b5b7b5a52887caa3704c4c^ maven-core/src/test/java/org/apache/maven/project/ProjectClasspathTest.java

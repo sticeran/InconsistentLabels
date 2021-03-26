@@ -1,0 +1,75 @@
+issueKey,type,resolution,status,createdDateEpoch,resolvedDateEpoch
+MAHOUT-2004,New Feature,Unresolved,Open,2017/7/15 5:04,
+MAHOUT-2005,Bug,Unresolved,Open,2017/7/15 6:23,
+MAHOUT-2006,Bug,Unresolved,Open,2017/7/15 13:48,
+MAHOUT-2007,Bug,Fixed,Resolved,2017/7/16 6:27,2017/11/29 6:06
+MAHOUT-2008,New Feature,Unresolved,Open,2017/7/16 8:46,
+MAHOUT-2009,Bug,Unresolved,Open,2017/8/22 2:53,
+MAHOUT-2010,Bug,Unresolved,Open,2017/8/22 2:56,
+MAHOUT-2011,Bug,Unresolved,Open,2017/9/1 22:10,
+MAHOUT-2012,Bug,Fixed,Resolved,2017/9/6 5:05,2017/9/25 20:38
+MAHOUT-2013,Bug,Unresolved,Open,2017/9/18 2:12,
+MAHOUT-2014,Improvement,Unresolved,Open,2017/9/22 4:27,
+MAHOUT-2015,Sub-task,Unresolved,Open,2017/9/22 4:28,
+MAHOUT-2016,Sub-task,Unresolved,Open,2017/9/22 4:28,
+MAHOUT-2017,Sub-task,Unresolved,Open,2017/9/22 4:30,
+MAHOUT-2018,Bug,Fixed,Resolved,2017/9/24 8:50,2017/10/1 3:38
+MAHOUT-2019,Bug,Unresolved,Open,2017/10/3 9:25,
+MAHOUT-2020,Bug,Fixed,Resolved,2017/10/4 4:16,2017/11/28 1:42
+MAHOUT-2021,Wish,Unresolved,Open,2017/10/4 6:09,
+MAHOUT-2022,Wish,Fixed,Resolved,2017/10/4 6:10,2017/11/29 6:05
+MAHOUT-2023,Bug,Unresolved,Patch Available,2017/10/6 2:44,
+MAHOUT-2024,Bug,Unresolved,Open,2017/10/6 10:13,
+MAHOUT-2025,Task,Unresolved,In Progress,2017/10/6 14:49,
+MAHOUT-2026,New Feature,Unresolved,Open,2017/10/9 0:08,
+MAHOUT-2027,New Feature,Unresolved,Open,2017/11/3 2:43,
+MAHOUT-2028,Proposal,Unresolved,Open,2017/11/18 17:32,
+MAHOUT-2029,Bug,Unresolved,Patch Available,2018/2/9 6:50,
+MAHOUT-2030,New Feature,Unresolved,Open,2018/2/28 4:16,
+MAHOUT-2031,Epic,Unresolved,Open,2018/6/4 22:32,
+MAHOUT-2032,Improvement,Fixed,Resolved,2018/6/4 22:33,2018/6/5 0:38
+MAHOUT-2033,Bug,Fixed,Resolved,2018/6/4 22:34,2018/6/30 0:10
+MAHOUT-2034,Improvement,Fixed,Resolved,2018/6/4 22:35,2018/6/27 21:14
+MAHOUT-2035,Bug,Unresolved,Open,2018/6/4 22:35,
+MAHOUT-2036,Improvement,Fixed,Resolved,2018/6/4 22:36,2018/6/6 22:37
+MAHOUT-2037,Bug,Fixed,Resolved,2018/6/4 22:37,2018/6/6 0:13
+MAHOUT-2038,Bug,Fixed,Resolved,2018/6/4 22:37,2018/6/20 22:25
+MAHOUT-2039,Bug,Fixed,Resolved,2018/6/4 22:38,2018/6/19 23:44
+MAHOUT-2040,Bug,Fixed,Resolved,2018/6/4 22:38,2018/6/20 22:25
+MAHOUT-2041,Bug,Fixed,Resolved,2018/6/4 22:38,2018/6/18 23:28
+MAHOUT-2042,Bug,Fixed,Resolved,2018/6/4 22:39,2018/6/27 22:51
+MAHOUT-2043,Bug,Fixed,Resolved,2018/6/4 22:39,2018/6/27 22:28
+MAHOUT-2044,Bug,Unresolved,Open,2018/6/4 22:40,
+MAHOUT-2045,Bug,Fixed,Resolved,2018/6/4 22:41,2018/6/27 22:51
+MAHOUT-2046,Bug,Unresolved,Open,2018/6/7 6:57,
+MAHOUT-2047,Improvement,Fixed,Resolved,2018/6/19 0:23,2018/6/19 23:44
+MAHOUT-2048,Planned Work,Unresolved,Open,2018/6/28 3:56,
+MAHOUT-2049,Improvement,Unresolved,Open,2018/6/29 11:02,
+MAHOUT-2050,Wish,Unresolved,Open,2018/6/29 22:10,
+MAHOUT-2051,Bug,Unresolved,Open,2018/7/18 19:10,
+MAHOUT-2052,Bug,Unresolved,Open,2018/7/19 10:17,
+MAHOUT-2053,New Feature,Unresolved,Open,2018/7/30 9:07,
+MAHOUT-2054,Improvement,Unresolved,Open,2018/8/8 22:01,
+MAHOUT-2055,New Feature,Unresolved,Open,2018/10/16 14:03,
+MAHOUT-2056,Bug,Fixed,Resolved,2019/1/24 22:00,2019/1/25 2:18
+MAHOUT-2057,Bug,Unresolved,Open,2019/3/6 12:28,
+MAHOUT-2058,Documentation,Unresolved,Open,2019/3/6 12:29,
+MAHOUT-2059,Documentation,Unresolved,Open,2019/3/6 12:38,
+MAHOUT-2060,Improvement,Unresolved,Open,2019/3/8 1:41,
+MAHOUT-2061,Improvement,Unresolved,Open,2019/3/8 6:26,
+MAHOUT-2062,Bug,Unresolved,Open,2019/3/21 17:13,
+MAHOUT-2063,Comment,Unresolved,Open,2019/3/25 20:12,
+MAHOUT-2064,Bug,Unresolved,Open,2019/3/27 3:09,
+MAHOUT-2065,Bug,Unresolved,Open,2019/4/1 9:48,
+MAHOUT-2066,Bug,Unresolved,Open,2019/4/29 19:49,
+MAHOUT-2067,Improvement,Fixed,Resolved,2019/5/10 5:14,2019/5/23 2:29
+MAHOUT-2068,Bug,Fixed,Resolved,2019/5/31 5:48,2019/5/31 6:54
+MAHOUT-2069,Task,Fixed,Resolved,2019/5/31 7:59,2019/5/31 8:42
+MAHOUT-2070,Task,Fixed,Resolved,2019/10/16 13:44,2019/10/16 15:41
+MAHOUT-2071,Task,Fixed,Resolved,2019/10/17 15:46,2019/11/12 15:58
+MAHOUT-2072,Task,Fixed,Resolved,2019/10/17 15:49,2019/10/17 16:35
+MAHOUT-2073,Task,Unresolved,In Progress,2019/10/17 17:46,
+MAHOUT-2074,New Feature,Unresolved,In Progress,2019/10/17 23:31,
+MAHOUT-2075,New Feature,Fixed,Resolved,2019/11/2 17:29,2019/11/12 16:01
+MAHOUT-2076,New Feature,Unresolved,Open,2019/11/22 15:40,
+MAHOUT-2077,New Feature,Unresolved,Open,2019/11/22 17:52,

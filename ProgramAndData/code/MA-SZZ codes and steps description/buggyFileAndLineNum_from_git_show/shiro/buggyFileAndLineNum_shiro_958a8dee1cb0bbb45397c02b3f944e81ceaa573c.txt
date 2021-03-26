@@ -1,0 +1,12 @@
+34,34 958a8dee1cb0bbb45397c02b3f944e81ceaa573c^ core/src/main/java/org/apache/shiro/config/IniSecurityManagerFactory.java
+141,141 958a8dee1cb0bbb45397c02b3f944e81ceaa573c^ core/src/main/java/org/apache/shiro/config/IniSecurityManagerFactory.java
+146,146 958a8dee1cb0bbb45397c02b3f944e81ceaa573c^ core/src/main/java/org/apache/shiro/config/IniSecurityManagerFactory.java
+147,147 958a8dee1cb0bbb45397c02b3f944e81ceaa573c^ core/src/main/java/org/apache/shiro/config/IniSecurityManagerFactory.java
+148,148 958a8dee1cb0bbb45397c02b3f944e81ceaa573c^ core/src/main/java/org/apache/shiro/config/IniSecurityManagerFactory.java
+149,149 958a8dee1cb0bbb45397c02b3f944e81ceaa573c^ core/src/main/java/org/apache/shiro/config/IniSecurityManagerFactory.java
+150,150 958a8dee1cb0bbb45397c02b3f944e81ceaa573c^ core/src/main/java/org/apache/shiro/config/IniSecurityManagerFactory.java
+151,151 958a8dee1cb0bbb45397c02b3f944e81ceaa573c^ core/src/main/java/org/apache/shiro/config/IniSecurityManagerFactory.java
+153,153 958a8dee1cb0bbb45397c02b3f944e81ceaa573c^ core/src/main/java/org/apache/shiro/config/IniSecurityManagerFactory.java
+154,154 958a8dee1cb0bbb45397c02b3f944e81ceaa573c^ core/src/main/java/org/apache/shiro/config/IniSecurityManagerFactory.java
+155,155 958a8dee1cb0bbb45397c02b3f944e81ceaa573c^ core/src/main/java/org/apache/shiro/config/IniSecurityManagerFactory.java
+156,156 958a8dee1cb0bbb45397c02b3f944e81ceaa573c^ core/src/main/java/org/apache/shiro/config/IniSecurityManagerFactory.java

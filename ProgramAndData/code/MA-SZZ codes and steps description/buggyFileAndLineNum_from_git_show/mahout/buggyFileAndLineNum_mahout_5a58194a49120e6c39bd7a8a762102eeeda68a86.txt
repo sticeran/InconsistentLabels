@@ -1,0 +1,15 @@
+23,23 5a58194a49120e6c39bd7a8a762102eeeda68a86^ core/src/main/java/org/apache/mahout/cf/taste/impl/similarity/GenericItemSimilarity.java
+24,24 5a58194a49120e6c39bd7a8a762102eeeda68a86^ core/src/main/java/org/apache/mahout/cf/taste/impl/similarity/GenericItemSimilarity.java
+23,23 5a58194a49120e6c39bd7a8a762102eeeda68a86^ core/src/main/java/org/apache/mahout/cf/taste/impl/similarity/GenericUserSimilarity.java
+24,24 5a58194a49120e6c39bd7a8a762102eeeda68a86^ core/src/main/java/org/apache/mahout/cf/taste/impl/similarity/GenericUserSimilarity.java
+18,18 5a58194a49120e6c39bd7a8a762102eeeda68a86^ core/src/main/java/org/apache/mahout/cf/taste/impl/common/ArrayIterator.java
+18,18 5a58194a49120e6c39bd7a8a762102eeeda68a86^ core/src/main/java/org/apache/mahout/cf/taste/impl/common/EmptyIterable.java
+18,18 5a58194a49120e6c39bd7a8a762102eeeda68a86^ core/src/main/java/org/apache/mahout/cf/taste/impl/common/EmptyIterator.java
+25,25 5a58194a49120e6c39bd7a8a762102eeeda68a86^ core/src/main/java/org/apache/mahout/cf/taste/impl/common/EmptyIterator.java
+18,18 5a58194a49120e6c39bd7a8a762102eeeda68a86^ core/src/main/java/org/apache/mahout/cf/taste/impl/common/IteratorIterable.java
+18,18 5a58194a49120e6c39bd7a8a762102eeeda68a86^ core/src/main/java/org/apache/mahout/cf/taste/impl/common/IteratorUtils.java
+18,18 5a58194a49120e6c39bd7a8a762102eeeda68a86^ core/src/main/java/org/apache/mahout/cf/taste/impl/common/PermutingIterator.java
+18,18 5a58194a49120e6c39bd7a8a762102eeeda68a86^ core/src/main/java/org/apache/mahout/cf/taste/impl/common/SamplingIterable.java
+18,18 5a58194a49120e6c39bd7a8a762102eeeda68a86^ core/src/main/java/org/apache/mahout/cf/taste/impl/common/SamplingIterator.java
+18,18 5a58194a49120e6c39bd7a8a762102eeeda68a86^ core/src/test/java/org/apache/mahout/cf/taste/impl/common/EmptyIteratorTest.java
+18,18 5a58194a49120e6c39bd7a8a762102eeeda68a86^ core/src/test/java/org/apache/mahout/cf/taste/impl/common/IteratorUtilsTest.java

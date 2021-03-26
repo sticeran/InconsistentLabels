@@ -1,0 +1,2 @@
+94,94 699fc5b81d789ce503b3324970df06e30a06968b^ maven-model-builder/src/main/java/org/apache/maven/model/management/DefaultDependencyManagementInjector.java
+95,95 699fc5b81d789ce503b3324970df06e30a06968b^ maven-model-builder/src/main/java/org/apache/maven/model/management/DefaultDependencyManagementInjector.java

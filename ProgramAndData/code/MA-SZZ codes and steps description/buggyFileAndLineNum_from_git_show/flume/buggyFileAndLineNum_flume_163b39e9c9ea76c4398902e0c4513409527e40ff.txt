@@ -1,0 +1,2 @@
+108,108 163b39e9c9ea76c4398902e0c4513409527e40ff^ flume-core/src/main/java/com/cloudera/flume/handlers/avro/AvroEventSink.java
+219,219 163b39e9c9ea76c4398902e0c4513409527e40ff^ flume-core/src/test/java/com/cloudera/flume/handlers/avro/TestAvroSinks.java

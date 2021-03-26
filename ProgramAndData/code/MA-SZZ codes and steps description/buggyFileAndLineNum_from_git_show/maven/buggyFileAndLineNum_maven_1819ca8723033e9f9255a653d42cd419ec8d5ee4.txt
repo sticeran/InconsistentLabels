@@ -1,0 +1,2 @@
+228,228 1819ca8723033e9f9255a653d42cd419ec8d5ee4^ maven-compat/src/main/java/org/apache/maven/artifact/repository/MavenArtifactRepository.java
+246,246 1819ca8723033e9f9255a653d42cd419ec8d5ee4^ maven-compat/src/main/java/org/apache/maven/artifact/repository/MavenArtifactRepository.java

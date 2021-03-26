@@ -1,0 +1,2 @@
+300,300 dddd69dac1ab36dc3bf99a8cf440bcddc3ff0a68^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/manager/DefaultWagonManager.java
+306,306 dddd69dac1ab36dc3bf99a8cf440bcddc3ff0a68^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/manager/DefaultWagonManager.java

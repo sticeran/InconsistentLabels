@@ -1,0 +1,3 @@
+23,23 3a53a3caf24fc041c27982120ea4b769d5923653^ maven-artifact/src/main/java/org/apache/maven/artifact/repository/Authentication.java
+575,575 3a53a3caf24fc041c27982120ea4b769d5923653^ maven-compat/src/main/java/org/apache/maven/repository/legacy/LegacyRepositorySystem.java
+224,224 3a53a3caf24fc041c27982120ea4b769d5923653^ maven-core/src/main/java/org/apache/maven/RepositoryUtils.java

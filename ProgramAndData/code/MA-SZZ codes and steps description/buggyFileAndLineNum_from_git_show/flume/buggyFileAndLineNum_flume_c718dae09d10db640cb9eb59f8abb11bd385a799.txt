@@ -1,0 +1,2 @@
+759,759 c718dae09d10db640cb9eb59f8abb11bd385a799^ flume-ng-channels/flume-kafka-channel/src/main/java/org/apache/flume/channel/kafka/KafkaChannel.java
+456,456 c718dae09d10db640cb9eb59f8abb11bd385a799^ flume-ng-sinks/flume-ng-kafka-sink/src/main/java/org/apache/flume/sink/kafka/KafkaSink.java

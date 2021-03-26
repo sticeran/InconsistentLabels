@@ -1,0 +1,12 @@
+29,29 1ec6e1265338976d2bb928a8450de5fd8cd0f56d^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreter.java
+75,75 1ec6e1265338976d2bb928a8450de5fd8cd0f56d^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreter.java
+188,188 1ec6e1265338976d2bb928a8450de5fd8cd0f56d^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreter.java
+57,57 1ec6e1265338976d2bb928a8450de5fd8cd0f56d^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreterManagedProcess.java
+72,72 1ec6e1265338976d2bb928a8450de5fd8cd0f56d^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreterManagedProcess.java
+47,47 1ec6e1265338976d2bb928a8450de5fd8cd0f56d^ zeppelin-interpreter/src/test/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreterProcessTest.java
+64,64 1ec6e1265338976d2bb928a8450de5fd8cd0f56d^ zeppelin-interpreter/src/test/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreterProcessTest.java
+107,107 1ec6e1265338976d2bb928a8450de5fd8cd0f56d^ zeppelin-interpreter/src/test/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreterProcessTest.java
+120,120 1ec6e1265338976d2bb928a8450de5fd8cd0f56d^ zeppelin-interpreter/src/test/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreterProcessTest.java
+320,320 1ec6e1265338976d2bb928a8450de5fd8cd0f56d^ zeppelin-zengine/src/main/java/org/apache/zeppelin/interpreter/InterpreterFactory.java
+476,476 1ec6e1265338976d2bb928a8450de5fd8cd0f56d^ zeppelin-zengine/src/test/java/org/apache/zeppelin/interpreter/InterpreterFactoryTest.java
+483,483 1ec6e1265338976d2bb928a8450de5fd8cd0f56d^ zeppelin-zengine/src/test/java/org/apache/zeppelin/interpreter/InterpreterFactoryTest.java

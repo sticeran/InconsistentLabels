@@ -1,0 +1,4 @@
+148,148 f0fcef7e670ad64e55f37edcb723311ef49d323b^ maven-artifact/src/main/java/org/apache/maven/artifact/versioning/ComparableVersion.java
+42,42 f0fcef7e670ad64e55f37edcb723311ef49d323b^ maven-artifact/src/test/java/org/apache/maven/artifact/versioning/ComparableVersionTest.java
+43,43 f0fcef7e670ad64e55f37edcb723311ef49d323b^ maven-artifact/src/test/java/org/apache/maven/artifact/versioning/ComparableVersionTest.java
+164,164 f0fcef7e670ad64e55f37edcb723311ef49d323b^ maven-artifact/src/test/java/org/apache/maven/artifact/versioning/ComparableVersionTest.java

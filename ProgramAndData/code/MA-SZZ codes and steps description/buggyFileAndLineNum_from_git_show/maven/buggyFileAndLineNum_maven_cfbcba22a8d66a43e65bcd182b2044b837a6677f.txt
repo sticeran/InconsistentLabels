@@ -1,0 +1,3 @@
+13,13 cfbcba22a8d66a43e65bcd182b2044b837a6677f^ maven-compat/src/main/java/org/apache/maven/artifact/ArtifactScopeEnum.java
+65,65 cfbcba22a8d66a43e65bcd182b2044b837a6677f^ maven-compat/src/main/java/org/apache/maven/artifact/ArtifactScopeEnum.java
+449,449 cfbcba22a8d66a43e65bcd182b2044b837a6677f^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java

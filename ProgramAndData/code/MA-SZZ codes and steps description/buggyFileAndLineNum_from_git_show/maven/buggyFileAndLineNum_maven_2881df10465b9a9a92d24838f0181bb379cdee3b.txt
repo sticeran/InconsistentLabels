@@ -1,0 +1,3 @@
+187,187 2881df10465b9a9a92d24838f0181bb379cdee3b^ maven-project/src/main/java/org/apache/maven/project/builder/PomClassicTransformer.java
+188,188 2881df10465b9a9a92d24838f0181bb379cdee3b^ maven-project/src/main/java/org/apache/maven/project/builder/PomClassicTransformer.java
+189,189 2881df10465b9a9a92d24838f0181bb379cdee3b^ maven-project/src/main/java/org/apache/maven/project/builder/PomClassicTransformer.java

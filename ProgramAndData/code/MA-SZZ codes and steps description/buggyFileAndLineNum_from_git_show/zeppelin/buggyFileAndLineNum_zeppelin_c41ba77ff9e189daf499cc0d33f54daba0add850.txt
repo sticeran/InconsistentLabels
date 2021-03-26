@@ -1,0 +1,9 @@
+124,124 c41ba77ff9e189daf499cc0d33f54daba0add850^ zeppelin-server/src/main/java/org/apache/zeppelin/realm/jwt/KnoxJwtRealm.java
+81,81 c41ba77ff9e189daf499cc0d33f54daba0add850^ zeppelin-server/src/main/java/org/apache/zeppelin/rest/LoginRestApi.java
+82,82 c41ba77ff9e189daf499cc0d33f54daba0add850^ zeppelin-server/src/main/java/org/apache/zeppelin/rest/LoginRestApi.java
+83,83 c41ba77ff9e189daf499cc0d33f54daba0add850^ zeppelin-server/src/main/java/org/apache/zeppelin/rest/LoginRestApi.java
+131,131 c41ba77ff9e189daf499cc0d33f54daba0add850^ zeppelin-server/src/main/java/org/apache/zeppelin/rest/LoginRestApi.java
+208,208 c41ba77ff9e189daf499cc0d33f54daba0add850^ zeppelin-server/src/main/java/org/apache/zeppelin/rest/LoginRestApi.java
+209,209 c41ba77ff9e189daf499cc0d33f54daba0add850^ zeppelin-server/src/main/java/org/apache/zeppelin/rest/LoginRestApi.java
+210,210 c41ba77ff9e189daf499cc0d33f54daba0add850^ zeppelin-server/src/main/java/org/apache/zeppelin/rest/LoginRestApi.java
+211,211 c41ba77ff9e189daf499cc0d33f54daba0add850^ zeppelin-server/src/main/java/org/apache/zeppelin/rest/LoginRestApi.java

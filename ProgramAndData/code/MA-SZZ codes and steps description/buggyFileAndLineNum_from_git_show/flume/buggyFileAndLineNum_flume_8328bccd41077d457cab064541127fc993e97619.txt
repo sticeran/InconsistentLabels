@@ -1,0 +1,1 @@
+64,64 8328bccd41077d457cab064541127fc993e97619^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/main/java/org/apache/flume/sink/elasticsearch/ContentBuilderUtil.java

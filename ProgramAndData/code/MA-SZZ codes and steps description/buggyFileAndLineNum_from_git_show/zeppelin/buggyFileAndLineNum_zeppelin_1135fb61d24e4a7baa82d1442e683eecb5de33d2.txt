@@ -1,0 +1,6 @@
+275,275 1135fb61d24e4a7baa82d1442e683eecb5de33d2^ livy/src/main/java/org/apache/zeppelin/livy/BaseLivyInterprereter.java
+49,49 1135fb61d24e4a7baa82d1442e683eecb5de33d2^ livy/src/main/java/org/apache/zeppelin/livy/LivySparkSQLInterpreter.java
+114,114 1135fb61d24e4a7baa82d1442e683eecb5de33d2^ livy/src/main/java/org/apache/zeppelin/livy/LivySparkSQLInterpreter.java
+118,118 1135fb61d24e4a7baa82d1442e683eecb5de33d2^ livy/src/main/java/org/apache/zeppelin/livy/LivySparkSQLInterpreter.java
+23,23 1135fb61d24e4a7baa82d1442e683eecb5de33d2^ livy/src/test/java/org/apache/zeppelin/livy/LivyInterpreterIT.java
+36,36 1135fb61d24e4a7baa82d1442e683eecb5de33d2^ livy/src/test/java/org/apache/zeppelin/livy/LivyInterpreterIT.java

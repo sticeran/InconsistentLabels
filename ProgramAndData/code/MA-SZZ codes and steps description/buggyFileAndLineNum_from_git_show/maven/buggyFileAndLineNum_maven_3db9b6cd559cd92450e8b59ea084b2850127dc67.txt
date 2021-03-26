@@ -1,0 +1,14 @@
+66,66 3db9b6cd559cd92450e8b59ea084b2850127dc67^ maven-artifact/src/main/java/org/apache/maven/artifact/transform/SnapshotTransformation.java
+67,67 3db9b6cd559cd92450e8b59ea084b2850127dc67^ maven-artifact/src/main/java/org/apache/maven/artifact/transform/SnapshotTransformation.java
+68,68 3db9b6cd559cd92450e8b59ea084b2850127dc67^ maven-artifact/src/main/java/org/apache/maven/artifact/transform/SnapshotTransformation.java
+69,69 3db9b6cd559cd92450e8b59ea084b2850127dc67^ maven-artifact/src/main/java/org/apache/maven/artifact/transform/SnapshotTransformation.java
+70,70 3db9b6cd559cd92450e8b59ea084b2850127dc67^ maven-artifact/src/main/java/org/apache/maven/artifact/transform/SnapshotTransformation.java
+72,72 3db9b6cd559cd92450e8b59ea084b2850127dc67^ maven-artifact/src/main/java/org/apache/maven/artifact/transform/SnapshotTransformation.java
+73,73 3db9b6cd559cd92450e8b59ea084b2850127dc67^ maven-artifact/src/main/java/org/apache/maven/artifact/transform/SnapshotTransformation.java
+74,74 3db9b6cd559cd92450e8b59ea084b2850127dc67^ maven-artifact/src/main/java/org/apache/maven/artifact/transform/SnapshotTransformation.java
+75,75 3db9b6cd559cd92450e8b59ea084b2850127dc67^ maven-artifact/src/main/java/org/apache/maven/artifact/transform/SnapshotTransformation.java
+76,76 3db9b6cd559cd92450e8b59ea084b2850127dc67^ maven-artifact/src/main/java/org/apache/maven/artifact/transform/SnapshotTransformation.java
+77,77 3db9b6cd559cd92450e8b59ea084b2850127dc67^ maven-artifact/src/main/java/org/apache/maven/artifact/transform/SnapshotTransformation.java
+78,78 3db9b6cd559cd92450e8b59ea084b2850127dc67^ maven-artifact/src/main/java/org/apache/maven/artifact/transform/SnapshotTransformation.java
+79,79 3db9b6cd559cd92450e8b59ea084b2850127dc67^ maven-artifact/src/main/java/org/apache/maven/artifact/transform/SnapshotTransformation.java
+82,82 3db9b6cd559cd92450e8b59ea084b2850127dc67^ maven-artifact/src/main/java/org/apache/maven/artifact/transform/SnapshotTransformation.java

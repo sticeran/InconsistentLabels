@@ -1,0 +1,6 @@
+48,48 9a33ad32cda37e0dc2f11cdf94e96049f2e4ec50^ flume-ng-core/src/main/java/org/apache/flume/source/SyslogTcpSource.java
+52,52 9a33ad32cda37e0dc2f11cdf94e96049f2e4ec50^ flume-ng-core/src/main/java/org/apache/flume/source/SyslogTcpSource.java
+134,134 9a33ad32cda37e0dc2f11cdf94e96049f2e4ec50^ flume-ng-core/src/main/java/org/apache/flume/source/SyslogTcpSource.java
+48,48 9a33ad32cda37e0dc2f11cdf94e96049f2e4ec50^ flume-ng-core/src/main/java/org/apache/flume/source/SyslogUDPSource.java
+50,50 9a33ad32cda37e0dc2f11cdf94e96049f2e4ec50^ flume-ng-core/src/main/java/org/apache/flume/source/SyslogUDPSource.java
+120,120 9a33ad32cda37e0dc2f11cdf94e96049f2e4ec50^ flume-ng-core/src/main/java/org/apache/flume/source/SyslogUDPSource.java

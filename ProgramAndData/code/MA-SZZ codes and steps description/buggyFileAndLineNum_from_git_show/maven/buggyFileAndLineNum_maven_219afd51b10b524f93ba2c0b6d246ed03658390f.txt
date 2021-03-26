@@ -1,0 +1,5 @@
+63,63 219afd51b10b524f93ba2c0b6d246ed03658390f^ maven-artifact/src/main/java/org/apache/maven/artifact/versioning/DefaultArtifactVersion.java
+64,64 219afd51b10b524f93ba2c0b6d246ed03658390f^ maven-artifact/src/main/java/org/apache/maven/artifact/versioning/DefaultArtifactVersion.java
+65,65 219afd51b10b524f93ba2c0b6d246ed03658390f^ maven-artifact/src/main/java/org/apache/maven/artifact/versioning/DefaultArtifactVersion.java
+66,66 219afd51b10b524f93ba2c0b6d246ed03658390f^ maven-artifact/src/main/java/org/apache/maven/artifact/versioning/DefaultArtifactVersion.java
+67,67 219afd51b10b524f93ba2c0b6d246ed03658390f^ maven-artifact/src/main/java/org/apache/maven/artifact/versioning/DefaultArtifactVersion.java

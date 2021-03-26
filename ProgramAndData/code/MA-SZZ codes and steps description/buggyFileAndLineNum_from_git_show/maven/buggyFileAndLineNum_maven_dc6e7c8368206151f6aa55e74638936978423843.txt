@@ -1,0 +1,11 @@
+50,50 dc6e7c8368206151f6aa55e74638936978423843^ maven-core/src/main/java/org/apache/maven/DefaultMaven.java
+224,224 dc6e7c8368206151f6aa55e74638936978423843^ maven-core/src/main/java/org/apache/maven/DefaultMaven.java
+227,227 dc6e7c8368206151f6aa55e74638936978423843^ maven-core/src/main/java/org/apache/maven/DefaultMaven.java
+228,228 dc6e7c8368206151f6aa55e74638936978423843^ maven-core/src/main/java/org/apache/maven/DefaultMaven.java
+229,229 dc6e7c8368206151f6aa55e74638936978423843^ maven-core/src/main/java/org/apache/maven/DefaultMaven.java
+230,230 dc6e7c8368206151f6aa55e74638936978423843^ maven-core/src/main/java/org/apache/maven/DefaultMaven.java
+337,337 dc6e7c8368206151f6aa55e74638936978423843^ maven-core/src/main/java/org/apache/maven/DefaultMaven.java
+349,349 dc6e7c8368206151f6aa55e74638936978423843^ maven-core/src/main/java/org/apache/maven/DefaultMaven.java
+547,547 dc6e7c8368206151f6aa55e74638936978423843^ maven-embedder/src/main/java/org/apache/maven/cli/MavenCli.java
+575,575 dc6e7c8368206151f6aa55e74638936978423843^ maven-embedder/src/main/java/org/apache/maven/cli/MavenCli.java
+642,642 dc6e7c8368206151f6aa55e74638936978423843^ maven-embedder/src/main/java/org/apache/maven/cli/MavenCli.java

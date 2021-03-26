@@ -1,0 +1,2 @@
+485,485 e554cdb54d0104ba861dd5f5113f834527f3bd75^ flume-core/src/test/java/com/cloudera/flume/collector/TestCollectorSink.java
+489,489 e554cdb54d0104ba861dd5f5113f834527f3bd75^ flume-core/src/test/java/com/cloudera/flume/collector/TestCollectorSink.java

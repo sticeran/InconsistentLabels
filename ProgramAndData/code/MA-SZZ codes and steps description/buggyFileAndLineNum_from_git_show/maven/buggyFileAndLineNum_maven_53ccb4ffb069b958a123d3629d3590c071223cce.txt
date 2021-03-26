@@ -1,0 +1,12 @@
+1,1 53ccb4ffb069b958a123d3629d3590c071223cce^ maven-core-it/it2003/src/main/java/org/apache/maven/it2003/Person.java
+3,3 53ccb4ffb069b958a123d3629d3590c071223cce^ maven-core-it/it2003/src/main/java/org/apache/maven/it2003/Person.java
+4,4 53ccb4ffb069b958a123d3629d3590c071223cce^ maven-core-it/it2003/src/main/java/org/apache/maven/it2003/Person.java
+5,5 53ccb4ffb069b958a123d3629d3590c071223cce^ maven-core-it/it2003/src/main/java/org/apache/maven/it2003/Person.java
+6,6 53ccb4ffb069b958a123d3629d3590c071223cce^ maven-core-it/it2003/src/main/java/org/apache/maven/it2003/Person.java
+20,20 53ccb4ffb069b958a123d3629d3590c071223cce^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectHelper.java
+30,30 53ccb4ffb069b958a123d3629d3590c071223cce^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectHelper.java
+34,34 53ccb4ffb069b958a123d3629d3590c071223cce^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectHelper.java
+35,35 53ccb4ffb069b958a123d3629d3590c071223cce^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectHelper.java
+36,36 53ccb4ffb069b958a123d3629d3590c071223cce^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectHelper.java
+37,37 53ccb4ffb069b958a123d3629d3590c071223cce^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectHelper.java
+38,38 53ccb4ffb069b958a123d3629d3590c071223cce^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectHelper.java

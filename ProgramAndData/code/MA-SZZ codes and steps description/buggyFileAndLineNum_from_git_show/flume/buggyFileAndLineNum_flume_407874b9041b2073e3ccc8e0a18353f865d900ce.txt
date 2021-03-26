@@ -1,0 +1,13 @@
+49,49 407874b9041b2073e3ccc8e0a18353f865d900ce^ flume-ng-sinks/flume-dataset-sink/src/main/java/org/apache/flume/sink/kite/DatasetSink.java
+308,308 407874b9041b2073e3ccc8e0a18353f865d900ce^ flume-ng-sinks/flume-dataset-sink/src/main/java/org/apache/flume/sink/kite/DatasetSink.java
+309,309 407874b9041b2073e3ccc8e0a18353f865d900ce^ flume-ng-sinks/flume-dataset-sink/src/main/java/org/apache/flume/sink/kite/DatasetSink.java
+310,310 407874b9041b2073e3ccc8e0a18353f865d900ce^ flume-ng-sinks/flume-dataset-sink/src/main/java/org/apache/flume/sink/kite/DatasetSink.java
+311,311 407874b9041b2073e3ccc8e0a18353f865d900ce^ flume-ng-sinks/flume-dataset-sink/src/main/java/org/apache/flume/sink/kite/DatasetSink.java
+487,487 407874b9041b2073e3ccc8e0a18353f865d900ce^ flume-ng-sinks/flume-dataset-sink/src/main/java/org/apache/flume/sink/kite/DatasetSink.java
+488,488 407874b9041b2073e3ccc8e0a18353f865d900ce^ flume-ng-sinks/flume-dataset-sink/src/main/java/org/apache/flume/sink/kite/DatasetSink.java
+25,25 407874b9041b2073e3ccc8e0a18353f865d900ce^ flume-ng-sinks/flume-dataset-sink/src/main/java/org/apache/flume/sink/kite/policy/FailurePolicy.java
+90,90 407874b9041b2073e3ccc8e0a18353f865d900ce^ flume-ng-sinks/flume-dataset-sink/src/main/java/org/apache/flume/sink/kite/policy/SavePolicy.java
+81,81 407874b9041b2073e3ccc8e0a18353f865d900ce^ flume-ng-sinks/flume-dataset-sink/src/test/java/org/apache/flume/sink/kite/TestDatasetSink.java
+85,85 407874b9041b2073e3ccc8e0a18353f865d900ce^ flume-ng-sinks/flume-dataset-sink/src/test/java/org/apache/flume/sink/kite/TestDatasetSink.java
+88,88 407874b9041b2073e3ccc8e0a18353f865d900ce^ flume-ng-sinks/flume-dataset-sink/src/test/java/org/apache/flume/sink/kite/TestDatasetSink.java
+257,257 407874b9041b2073e3ccc8e0a18353f865d900ce^ flume-ng-sinks/flume-dataset-sink/src/test/java/org/apache/flume/sink/kite/TestDatasetSink.java

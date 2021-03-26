@@ -1,0 +1,16 @@
+29,29 b9960ab5ff33086c9923abe6d03700cd11146ffc^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/FlumeEventQueue.java
+33,33 b9960ab5ff33086c9923abe6d03700cd11146ffc^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/FlumeEventQueue.java
+304,304 b9960ab5ff33086c9923abe6d03700cd11146ffc^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/FlumeEventQueue.java
+305,305 b9960ab5ff33086c9923abe6d03700cd11146ffc^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/FlumeEventQueue.java
+34,34 b9960ab5ff33086c9923abe6d03700cd11146ffc^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Log.java
+724,724 b9960ab5ff33086c9923abe6d03700cd11146ffc^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Log.java
+752,752 b9960ab5ff33086c9923abe6d03700cd11146ffc^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Log.java
+774,774 b9960ab5ff33086c9923abe6d03700cd11146ffc^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Log.java
+779,779 b9960ab5ff33086c9923abe6d03700cd11146ffc^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Log.java
+780,780 b9960ab5ff33086c9923abe6d03700cd11146ffc^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Log.java
+781,781 b9960ab5ff33086c9923abe6d03700cd11146ffc^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Log.java
+782,782 b9960ab5ff33086c9923abe6d03700cd11146ffc^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Log.java
+783,783 b9960ab5ff33086c9923abe6d03700cd11146ffc^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Log.java
+898,898 b9960ab5ff33086c9923abe6d03700cd11146ffc^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Log.java
+899,899 b9960ab5ff33086c9923abe6d03700cd11146ffc^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Log.java
+900,900 b9960ab5ff33086c9923abe6d03700cd11146ffc^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Log.java

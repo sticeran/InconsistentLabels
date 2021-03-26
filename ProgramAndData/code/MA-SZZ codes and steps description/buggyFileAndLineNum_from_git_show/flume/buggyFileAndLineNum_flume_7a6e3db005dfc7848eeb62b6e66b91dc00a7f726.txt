@@ -1,0 +1,5 @@
+106,106 7a6e3db005dfc7848eeb62b6e66b91dc00a7f726^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/EventQueueBackingStoreFile.java
+107,107 7a6e3db005dfc7848eeb62b6e66b91dc00a7f726^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/EventQueueBackingStoreFile.java
+113,113 7a6e3db005dfc7848eeb62b6e66b91dc00a7f726^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/EventQueueBackingStoreFile.java
+114,114 7a6e3db005dfc7848eeb62b6e66b91dc00a7f726^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/EventQueueBackingStoreFile.java
+115,115 7a6e3db005dfc7848eeb62b6e66b91dc00a7f726^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/EventQueueBackingStoreFile.java

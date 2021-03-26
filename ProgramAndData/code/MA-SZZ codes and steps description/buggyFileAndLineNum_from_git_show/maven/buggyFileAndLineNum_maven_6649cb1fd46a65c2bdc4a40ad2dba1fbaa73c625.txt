@@ -1,0 +1,1 @@
+35,35 6649cb1fd46a65c2bdc4a40ad2dba1fbaa73c625^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/transform/DefaultArtifactTransformationManager.java

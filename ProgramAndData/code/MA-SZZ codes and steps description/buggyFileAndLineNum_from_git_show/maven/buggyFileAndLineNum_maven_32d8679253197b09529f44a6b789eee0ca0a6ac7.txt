@@ -1,0 +1,3 @@
+33,33 32d8679253197b09529f44a6b789eee0ca0a6ac7^ maven-core-it/it0088/src/test/java/org/apache/maven/it0088/PomInterpolationTest.java
+37,37 32d8679253197b09529f44a6b789eee0ca0a6ac7^ maven-core-it/it0088/src/test/java/org/apache/maven/it0088/PomInterpolationTest.java
+50,50 32d8679253197b09529f44a6b789eee0ca0a6ac7^ maven-core-it/it0088/src/test/java/org/apache/maven/it0088/PomInterpolationTest.java

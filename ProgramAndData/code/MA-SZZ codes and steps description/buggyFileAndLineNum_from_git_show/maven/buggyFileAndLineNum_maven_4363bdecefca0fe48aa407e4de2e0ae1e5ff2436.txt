@@ -1,0 +1,5 @@
+31,31 4363bdecefca0fe48aa407e4de2e0ae1e5ff2436^ maven-compat/src/main/java/org/apache/maven/repository/DefaultMirrorBuilder.java
+56,56 4363bdecefca0fe48aa407e4de2e0ae1e5ff2436^ maven-compat/src/main/java/org/apache/maven/repository/DefaultMirrorBuilder.java
+64,64 4363bdecefca0fe48aa407e4de2e0ae1e5ff2436^ maven-compat/src/main/java/org/apache/maven/repository/DefaultMirrorBuilder.java
+330,330 4363bdecefca0fe48aa407e4de2e0ae1e5ff2436^ maven-compat/src/main/java/org/apache/maven/repository/LegacyRepositorySystem.java
+32,32 4363bdecefca0fe48aa407e4de2e0ae1e5ff2436^ maven-compat/src/main/java/org/apache/maven/repository/MirrorBuilder.java

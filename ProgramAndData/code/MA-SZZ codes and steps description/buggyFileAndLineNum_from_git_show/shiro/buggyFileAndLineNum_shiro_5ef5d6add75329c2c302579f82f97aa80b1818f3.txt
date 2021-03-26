@@ -1,0 +1,9 @@
+21,21 5ef5d6add75329c2c302579f82f97aa80b1818f3^ core/src/main/java/org/apache/shiro/realm/SimpleAccountRealm.java
+64,64 5ef5d6add75329c2c302579f82f97aa80b1818f3^ core/src/main/java/org/apache/shiro/realm/SimpleAccountRealm.java
+91,91 5ef5d6add75329c2c302579f82f97aa80b1818f3^ core/src/main/java/org/apache/shiro/realm/SimpleAccountRealm.java
+101,101 5ef5d6add75329c2c302579f82f97aa80b1818f3^ core/src/main/java/org/apache/shiro/realm/SimpleAccountRealm.java
+107,107 5ef5d6add75329c2c302579f82f97aa80b1818f3^ core/src/main/java/org/apache/shiro/realm/SimpleAccountRealm.java
+147,147 5ef5d6add75329c2c302579f82f97aa80b1818f3^ core/src/main/java/org/apache/shiro/realm/SimpleAccountRealm.java
+30,30 5ef5d6add75329c2c302579f82f97aa80b1818f3^ core/src/main/java/org/apache/shiro/realm/text/TextConfigurationRealm.java
+50,50 5ef5d6add75329c2c302579f82f97aa80b1818f3^ core/src/main/java/org/apache/shiro/realm/text/TextConfigurationRealm.java
+51,51 5ef5d6add75329c2c302579f82f97aa80b1818f3^ core/src/main/java/org/apache/shiro/realm/text/TextConfigurationRealm.java

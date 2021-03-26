@@ -1,0 +1,5 @@
+109,109 dfb1545e4df044d664064f302b13e8ebd9812b8c^ src/java/com/cloudera/flume/handlers/hdfs/WriteableEvent.java
+110,110 dfb1545e4df044d664064f302b13e8ebd9812b8c^ src/java/com/cloudera/flume/handlers/hdfs/WriteableEvent.java
+111,111 dfb1545e4df044d664064f302b13e8ebd9812b8c^ src/java/com/cloudera/flume/handlers/hdfs/WriteableEvent.java
+112,112 dfb1545e4df044d664064f302b13e8ebd9812b8c^ src/java/com/cloudera/flume/handlers/hdfs/WriteableEvent.java
+113,113 dfb1545e4df044d664064f302b13e8ebd9812b8c^ src/java/com/cloudera/flume/handlers/hdfs/WriteableEvent.java

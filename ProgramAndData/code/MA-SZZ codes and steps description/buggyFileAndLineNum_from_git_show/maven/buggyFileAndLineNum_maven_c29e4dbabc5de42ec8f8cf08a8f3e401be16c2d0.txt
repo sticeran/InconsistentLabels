@@ -1,0 +1,4 @@
+236,236 c29e4dbabc5de42ec8f8cf08a8f3e401be16c2d0^ maven-plugins/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/DependenciesReport.java
+237,237 c29e4dbabc5de42ec8f8cf08a8f3e401be16c2d0^ maven-plugins/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/DependenciesReport.java
+278,278 c29e4dbabc5de42ec8f8cf08a8f3e401be16c2d0^ maven-plugins/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/DependenciesReport.java
+279,279 c29e4dbabc5de42ec8f8cf08a8f3e401be16c2d0^ maven-plugins/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/DependenciesReport.java

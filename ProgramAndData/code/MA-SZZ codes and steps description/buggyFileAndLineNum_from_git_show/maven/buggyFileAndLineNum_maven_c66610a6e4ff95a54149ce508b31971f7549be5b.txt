@@ -1,0 +1,9 @@
+38,38 c66610a6e4ff95a54149ce508b31971f7549be5b^ maven-core/src/main/java/org/apache/maven/monitor/logging/DefaultLog.java
+56,56 c66610a6e4ff95a54149ce508b31971f7549be5b^ maven-core/src/main/java/org/apache/maven/monitor/logging/DefaultLog.java
+53,53 c66610a6e4ff95a54149ce508b31971f7549be5b^ maven-core/src/main/java/org/apache/maven/monitor/logging/DefaultLog.java
+59,59 c66610a6e4ff95a54149ce508b31971f7549be5b^ maven-core/src/main/java/org/apache/maven/monitor/logging/DefaultLog.java
+68,68 c66610a6e4ff95a54149ce508b31971f7549be5b^ maven-core/src/main/java/org/apache/maven/monitor/logging/DefaultLog.java
+74,74 c66610a6e4ff95a54149ce508b31971f7549be5b^ maven-core/src/main/java/org/apache/maven/monitor/logging/DefaultLog.java
+83,83 c66610a6e4ff95a54149ce508b31971f7549be5b^ maven-core/src/main/java/org/apache/maven/monitor/logging/DefaultLog.java
+89,89 c66610a6e4ff95a54149ce508b31971f7549be5b^ maven-core/src/main/java/org/apache/maven/monitor/logging/DefaultLog.java
+679,679 c66610a6e4ff95a54149ce508b31971f7549be5b^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java

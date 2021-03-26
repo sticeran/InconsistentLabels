@@ -1,0 +1,14 @@
+124,124 b447570ed990ef384c8940e1acc88742c55556ce^ flume-ng-clients/flume-ng-log4jappender/src/main/java/org/apache/flume/clients/log4jappender/Log4jAppender.java
+125,125 b447570ed990ef384c8940e1acc88742c55556ce^ flume-ng-clients/flume-ng-log4jappender/src/main/java/org/apache/flume/clients/log4jappender/Log4jAppender.java
+156,156 b447570ed990ef384c8940e1acc88742c55556ce^ flume-ng-clients/flume-ng-log4jappender/src/main/java/org/apache/flume/clients/log4jappender/Log4jAppender.java
+24,24 b447570ed990ef384c8940e1acc88742c55556ce^ flume-ng-clients/flume-ng-log4jappender/src/test/java/org/apache/flume/clients/log4jappender/TestLog4jAppender.java
+25,25 b447570ed990ef384c8940e1acc88742c55556ce^ flume-ng-clients/flume-ng-log4jappender/src/test/java/org/apache/flume/clients/log4jappender/TestLog4jAppender.java
+26,26 b447570ed990ef384c8940e1acc88742c55556ce^ flume-ng-clients/flume-ng-log4jappender/src/test/java/org/apache/flume/clients/log4jappender/TestLog4jAppender.java
+27,27 b447570ed990ef384c8940e1acc88742c55556ce^ flume-ng-clients/flume-ng-log4jappender/src/test/java/org/apache/flume/clients/log4jappender/TestLog4jAppender.java
+55,55 b447570ed990ef384c8940e1acc88742c55556ce^ flume-ng-clients/flume-ng-log4jappender/src/test/java/org/apache/flume/clients/log4jappender/TestLog4jAppender.java
+75,75 b447570ed990ef384c8940e1acc88742c55556ce^ flume-ng-clients/flume-ng-log4jappender/src/test/java/org/apache/flume/clients/log4jappender/TestLog4jAppender.java
+77,77 b447570ed990ef384c8940e1acc88742c55556ce^ flume-ng-clients/flume-ng-log4jappender/src/test/java/org/apache/flume/clients/log4jappender/TestLog4jAppender.java
+88,88 b447570ed990ef384c8940e1acc88742c55556ce^ flume-ng-clients/flume-ng-log4jappender/src/test/java/org/apache/flume/clients/log4jappender/TestLog4jAppender.java
+98,98 b447570ed990ef384c8940e1acc88742c55556ce^ flume-ng-clients/flume-ng-log4jappender/src/test/java/org/apache/flume/clients/log4jappender/TestLog4jAppender.java
+107,107 b447570ed990ef384c8940e1acc88742c55556ce^ flume-ng-clients/flume-ng-log4jappender/src/test/java/org/apache/flume/clients/log4jappender/TestLog4jAppender.java
+170,170 b447570ed990ef384c8940e1acc88742c55556ce^ flume-ng-clients/flume-ng-log4jappender/src/test/java/org/apache/flume/clients/log4jappender/TestLog4jAppender.java

@@ -1,0 +1,4 @@
+125,125 dc12c74199ca9f57e7f91d2563e8cb11ceed7dc1^ core/src/main/java/org/apache/shiro/authc/SimpleAuthenticationInfo.java
+126,126 dc12c74199ca9f57e7f91d2563e8cb11ceed7dc1^ core/src/main/java/org/apache/shiro/authc/SimpleAuthenticationInfo.java
+127,127 dc12c74199ca9f57e7f91d2563e8cb11ceed7dc1^ core/src/main/java/org/apache/shiro/authc/SimpleAuthenticationInfo.java
+131,131 dc12c74199ca9f57e7f91d2563e8cb11ceed7dc1^ core/src/main/java/org/apache/shiro/authc/SimpleAuthenticationInfo.java

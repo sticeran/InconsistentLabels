@@ -1,0 +1,2 @@
+27,27 24a5bf45258396c78d3f639ee6d56727fe24032e^ maven-project/src/main/java/org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler.java
+30,30 24a5bf45258396c78d3f639ee6d56727fe24032e^ maven-project/src/main/java/org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler.java

@@ -1,0 +1,5 @@
+1612,1612 77d2fb2068569091eaefc9917f738eeb8a6a1ccd^ maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycleExecutor.java
+1618,1618 77d2fb2068569091eaefc9917f738eeb8a6a1ccd^ maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycleExecutor.java
+1625,1625 77d2fb2068569091eaefc9917f738eeb8a6a1ccd^ maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycleExecutor.java
+169,169 77d2fb2068569091eaefc9917f738eeb8a6a1ccd^ maven-core/src/test/java/org/apache/maven/lifecycle/LifecycleExecutorTest.java
+170,170 77d2fb2068569091eaefc9917f738eeb8a6a1ccd^ maven-core/src/test/java/org/apache/maven/lifecycle/LifecycleExecutorTest.java

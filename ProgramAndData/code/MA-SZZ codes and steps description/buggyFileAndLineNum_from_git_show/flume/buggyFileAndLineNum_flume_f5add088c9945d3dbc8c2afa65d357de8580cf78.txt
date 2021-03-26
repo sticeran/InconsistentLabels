@@ -1,0 +1,1 @@
+358,358 f5add088c9945d3dbc8c2afa65d357de8580cf78^ src/javatest/com/cloudera/flume/handlers/hdfs/TestEscapedCustomOutputDfs.java

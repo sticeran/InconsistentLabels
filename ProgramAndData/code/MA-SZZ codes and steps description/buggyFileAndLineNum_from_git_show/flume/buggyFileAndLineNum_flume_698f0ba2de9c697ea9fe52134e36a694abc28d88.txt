@@ -1,0 +1,2 @@
+142,142 698f0ba2de9c697ea9fe52134e36a694abc28d88^ flume-ng-core/src/test/java/org/apache/flume/serialization/TestResettableFileInputStream.java
+143,143 698f0ba2de9c697ea9fe52134e36a694abc28d88^ flume-ng-core/src/test/java/org/apache/flume/serialization/TestResettableFileInputStream.java

@@ -1,0 +1,16 @@
+80,80 69f324d9ed6a70e4eb7f6190b2e1751ce9dfca10^ core/src/main/java/org/apache/mahout/classifier/sgd/AdaptiveLogisticRegression.java
+81,81 69f324d9ed6a70e4eb7f6190b2e1751ce9dfca10^ core/src/main/java/org/apache/mahout/classifier/sgd/AdaptiveLogisticRegression.java
+120,120 69f324d9ed6a70e4eb7f6190b2e1751ce9dfca10^ core/src/main/java/org/apache/mahout/classifier/sgd/AdaptiveLogisticRegression.java
+40,40 69f324d9ed6a70e4eb7f6190b2e1751ce9dfca10^ examples/src/main/java/org/apache/mahout/classifier/sgd/TrainASFEmail.java
+48,48 69f324d9ed6a70e4eb7f6190b2e1751ce9dfca10^ examples/src/main/java/org/apache/mahout/classifier/sgd/TrainASFEmail.java
+49,49 69f324d9ed6a70e4eb7f6190b2e1751ce9dfca10^ examples/src/main/java/org/apache/mahout/classifier/sgd/TrainASFEmail.java
+66,66 69f324d9ed6a70e4eb7f6190b2e1751ce9dfca10^ examples/src/main/java/org/apache/mahout/classifier/sgd/TrainASFEmail.java
+69,69 69f324d9ed6a70e4eb7f6190b2e1751ce9dfca10^ examples/src/main/java/org/apache/mahout/classifier/sgd/TrainASFEmail.java
+70,70 69f324d9ed6a70e4eb7f6190b2e1751ce9dfca10^ examples/src/main/java/org/apache/mahout/classifier/sgd/TrainASFEmail.java
+72,72 69f324d9ed6a70e4eb7f6190b2e1751ce9dfca10^ examples/src/main/java/org/apache/mahout/classifier/sgd/TrainASFEmail.java
+73,73 69f324d9ed6a70e4eb7f6190b2e1751ce9dfca10^ examples/src/main/java/org/apache/mahout/classifier/sgd/TrainASFEmail.java
+74,74 69f324d9ed6a70e4eb7f6190b2e1751ce9dfca10^ examples/src/main/java/org/apache/mahout/classifier/sgd/TrainASFEmail.java
+75,75 69f324d9ed6a70e4eb7f6190b2e1751ce9dfca10^ examples/src/main/java/org/apache/mahout/classifier/sgd/TrainASFEmail.java
+84,84 69f324d9ed6a70e4eb7f6190b2e1751ce9dfca10^ examples/src/main/java/org/apache/mahout/classifier/sgd/TrainASFEmail.java
+102,102 69f324d9ed6a70e4eb7f6190b2e1751ce9dfca10^ examples/src/main/java/org/apache/mahout/classifier/sgd/TrainASFEmail.java
+156,156 69f324d9ed6a70e4eb7f6190b2e1751ce9dfca10^ integration/src/main/java/org/apache/mahout/text/SequenceFilesFromMailArchives.java

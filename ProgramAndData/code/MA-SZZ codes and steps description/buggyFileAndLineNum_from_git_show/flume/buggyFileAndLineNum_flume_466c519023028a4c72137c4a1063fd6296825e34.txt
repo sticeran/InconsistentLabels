@@ -1,0 +1,10 @@
+54,54 466c519023028a4c72137c4a1063fd6296825e34^ flume-ng-core/src/main/java/org/apache/flume/source/StressSource.java
+118,118 466c519023028a4c72137c4a1063fd6296825e34^ flume-ng-core/src/main/java/org/apache/flume/source/StressSource.java
+119,119 466c519023028a4c72137c4a1063fd6296825e34^ flume-ng-core/src/main/java/org/apache/flume/source/StressSource.java
+120,120 466c519023028a4c72137c4a1063fd6296825e34^ flume-ng-core/src/main/java/org/apache/flume/source/StressSource.java
+127,127 466c519023028a4c72137c4a1063fd6296825e34^ flume-ng-core/src/main/java/org/apache/flume/source/StressSource.java
+60,60 466c519023028a4c72137c4a1063fd6296825e34^ flume-ng-core/src/test/java/org/apache/flume/source/TestStressSource.java
+61,61 466c519023028a4c72137c4a1063fd6296825e34^ flume-ng-core/src/test/java/org/apache/flume/source/TestStressSource.java
+107,107 466c519023028a4c72137c4a1063fd6296825e34^ flume-ng-core/src/test/java/org/apache/flume/source/TestStressSource.java
+108,108 466c519023028a4c72137c4a1063fd6296825e34^ flume-ng-core/src/test/java/org/apache/flume/source/TestStressSource.java
+109,109 466c519023028a4c72137c4a1063fd6296825e34^ flume-ng-core/src/test/java/org/apache/flume/source/TestStressSource.java

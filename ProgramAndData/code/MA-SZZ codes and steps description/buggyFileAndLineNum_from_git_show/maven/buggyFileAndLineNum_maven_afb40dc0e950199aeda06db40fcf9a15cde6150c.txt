@@ -1,0 +1,2 @@
+37,37 afb40dc0e950199aeda06db40fcf9a15cde6150c^ maven-core/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java
+565,565 afb40dc0e950199aeda06db40fcf9a15cde6150c^ maven-core/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java

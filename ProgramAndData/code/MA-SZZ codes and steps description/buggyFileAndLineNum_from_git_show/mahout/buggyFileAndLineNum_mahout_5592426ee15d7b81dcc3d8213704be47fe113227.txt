@@ -1,0 +1,3 @@
+41,41 5592426ee15d7b81dcc3d8213704be47fe113227^ integration/src/test/java/org/apache/mahout/text/LuceneSegmentInputFormatTest.java
+47,47 5592426ee15d7b81dcc3d8213704be47fe113227^ integration/src/test/java/org/apache/mahout/text/LuceneSegmentInputFormatTest.java
+61,61 5592426ee15d7b81dcc3d8213704be47fe113227^ integration/src/test/java/org/apache/mahout/text/LuceneSegmentRecordReaderTest.java

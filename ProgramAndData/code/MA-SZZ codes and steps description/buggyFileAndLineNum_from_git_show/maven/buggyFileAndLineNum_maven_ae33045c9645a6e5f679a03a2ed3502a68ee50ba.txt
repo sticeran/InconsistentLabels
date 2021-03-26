@@ -1,0 +1,2 @@
+462,462 ae33045c9645a6e5f679a03a2ed3502a68ee50ba^ maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/DefaultLegacyArtifactCollector.java
+509,509 ae33045c9645a6e5f679a03a2ed3502a68ee50ba^ maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/DefaultLegacyArtifactCollector.java

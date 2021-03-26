@@ -1,0 +1,6 @@
+77,77 1c35174120c73a0d1b8ae2ab213340f6d122e623^ maven-project/src/main/java/org/apache/maven/project/processor/ProcessorContext.java
+124,124 1c35174120c73a0d1b8ae2ab213340f6d122e623^ maven-project/src/test/java/org/apache/maven/project/PomConstructionTest.java
+421,421 1c35174120c73a0d1b8ae2ab213340f6d122e623^ maven-project/src/test/java/org/apache/maven/project/PomConstructionTest.java
+434,434 1c35174120c73a0d1b8ae2ab213340f6d122e623^ maven-project/src/test/java/org/apache/maven/project/PomConstructionTest.java
+457,457 1c35174120c73a0d1b8ae2ab213340f6d122e623^ maven-project/src/test/java/org/apache/maven/project/PomConstructionTest.java
+752,752 1c35174120c73a0d1b8ae2ab213340f6d122e623^ maven-project/src/test/java/org/apache/maven/project/PomConstructionTest.java

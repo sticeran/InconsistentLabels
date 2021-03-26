@@ -1,0 +1,2 @@
+363,363 2d0c3bc75b9fa191846ce5b43f6900701a1bf825^ maven-compat/src/test/java/org/apache/maven/artifact/AbstractArtifactComponentTestCase.java
+109,109 2d0c3bc75b9fa191846ce5b43f6900701a1bf825^ maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/MavenRepositorySystemUtils.java

@@ -1,0 +1,1 @@
+181,181 5239b618c2caf4c6351048c758ad84f0c67aaf86^ flume-ng-core/src/test/java/org/apache/flume/source/TestThriftSource.java

@@ -1,0 +1,7 @@
+25,25 ed0b3270bae5d09da162fa80351672c43d4c8bdb^ flume-ng-configuration/src/main/java/org/apache/flume/conf/sink/SinkConfiguration.java
+26,26 ed0b3270bae5d09da162fa80351672c43d4c8bdb^ flume-ng-configuration/src/main/java/org/apache/flume/conf/sink/SinkConfiguration.java
+35,35 ed0b3270bae5d09da162fa80351672c43d4c8bdb^ flume-ng-configuration/src/main/java/org/apache/flume/conf/source/SourceConfiguration.java
+175,175 ed0b3270bae5d09da162fa80351672c43d4c8bdb^ flume-ng-configuration/src/main/java/org/apache/flume/conf/source/SourceConfiguration.java
+186,186 ed0b3270bae5d09da162fa80351672c43d4c8bdb^ flume-ng-configuration/src/main/java/org/apache/flume/conf/source/SourceConfiguration.java
+187,187 ed0b3270bae5d09da162fa80351672c43d4c8bdb^ flume-ng-configuration/src/main/java/org/apache/flume/conf/source/SourceConfiguration.java
+188,188 ed0b3270bae5d09da162fa80351672c43d4c8bdb^ flume-ng-configuration/src/main/java/org/apache/flume/conf/source/SourceConfiguration.java

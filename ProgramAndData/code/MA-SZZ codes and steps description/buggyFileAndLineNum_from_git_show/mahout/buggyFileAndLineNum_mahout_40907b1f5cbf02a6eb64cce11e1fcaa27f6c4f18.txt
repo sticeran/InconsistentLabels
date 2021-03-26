@@ -1,0 +1,11 @@
+42,42 40907b1f5cbf02a6eb64cce11e1fcaa27f6c4f18^ core/src/main/java/org/apache/mahout/clustering/streaming/mapreduce/StreamingKMeansThread.java
+50,50 40907b1f5cbf02a6eb64cce11e1fcaa27f6c4f18^ core/src/main/java/org/apache/mahout/clustering/streaming/mapreduce/StreamingKMeansThread.java
+51,51 40907b1f5cbf02a6eb64cce11e1fcaa27f6c4f18^ core/src/main/java/org/apache/mahout/clustering/streaming/mapreduce/StreamingKMeansThread.java
+57,57 40907b1f5cbf02a6eb64cce11e1fcaa27f6c4f18^ core/src/main/java/org/apache/mahout/clustering/streaming/mapreduce/StreamingKMeansThread.java
+62,62 40907b1f5cbf02a6eb64cce11e1fcaa27f6c4f18^ core/src/main/java/org/apache/mahout/clustering/streaming/mapreduce/StreamingKMeansThread.java
+63,63 40907b1f5cbf02a6eb64cce11e1fcaa27f6c4f18^ core/src/main/java/org/apache/mahout/clustering/streaming/mapreduce/StreamingKMeansThread.java
+76,76 40907b1f5cbf02a6eb64cce11e1fcaa27f6c4f18^ core/src/main/java/org/apache/mahout/clustering/streaming/mapreduce/StreamingKMeansThread.java
+77,77 40907b1f5cbf02a6eb64cce11e1fcaa27f6c4f18^ core/src/main/java/org/apache/mahout/clustering/streaming/mapreduce/StreamingKMeansThread.java
+78,78 40907b1f5cbf02a6eb64cce11e1fcaa27f6c4f18^ core/src/main/java/org/apache/mahout/clustering/streaming/mapreduce/StreamingKMeansThread.java
+82,82 40907b1f5cbf02a6eb64cce11e1fcaa27f6c4f18^ core/src/main/java/org/apache/mahout/clustering/streaming/mapreduce/StreamingKMeansThread.java
+84,84 40907b1f5cbf02a6eb64cce11e1fcaa27f6c4f18^ core/src/main/java/org/apache/mahout/clustering/streaming/mapreduce/StreamingKMeansThread.java

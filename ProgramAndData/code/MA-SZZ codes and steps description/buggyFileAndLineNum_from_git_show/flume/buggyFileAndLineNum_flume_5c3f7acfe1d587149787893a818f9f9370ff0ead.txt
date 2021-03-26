@@ -1,0 +1,5 @@
+788,788 5c3f7acfe1d587149787893a818f9f9370ff0ead^ flume-core/src/main/java/com/cloudera/flume/agent/durability/NaiveFileWALManager.java
+789,789 5c3f7acfe1d587149787893a818f9f9370ff0ead^ flume-core/src/main/java/com/cloudera/flume/agent/durability/NaiveFileWALManager.java
+790,790 5c3f7acfe1d587149787893a818f9f9370ff0ead^ flume-core/src/main/java/com/cloudera/flume/agent/durability/NaiveFileWALManager.java
+837,837 5c3f7acfe1d587149787893a818f9f9370ff0ead^ flume-core/src/main/java/com/cloudera/flume/agent/durability/NaiveFileWALManager.java
+838,838 5c3f7acfe1d587149787893a818f9f9370ff0ead^ flume-core/src/main/java/com/cloudera/flume/agent/durability/NaiveFileWALManager.java

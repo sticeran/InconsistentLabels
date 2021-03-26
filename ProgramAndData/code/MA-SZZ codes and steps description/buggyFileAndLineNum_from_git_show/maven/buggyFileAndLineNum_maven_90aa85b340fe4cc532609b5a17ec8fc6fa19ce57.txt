@@ -1,0 +1,8 @@
+31,31 90aa85b340fe4cc532609b5a17ec8fc6fa19ce57^ maven-project/src/test/java/org/apache/maven/project/PomConstructionTest.java
+35,35 90aa85b340fe4cc532609b5a17ec8fc6fa19ce57^ maven-project/src/test/java/org/apache/maven/project/PomConstructionTest.java
+36,36 90aa85b340fe4cc532609b5a17ec8fc6fa19ce57^ maven-project/src/test/java/org/apache/maven/project/PomConstructionTest.java
+37,37 90aa85b340fe4cc532609b5a17ec8fc6fa19ce57^ maven-project/src/test/java/org/apache/maven/project/PomConstructionTest.java
+53,53 90aa85b340fe4cc532609b5a17ec8fc6fa19ce57^ maven-project/src/test/java/org/apache/maven/project/PomConstructionTest.java
+65,65 90aa85b340fe4cc532609b5a17ec8fc6fa19ce57^ maven-project/src/test/java/org/apache/maven/project/PomConstructionTest.java
+91,91 90aa85b340fe4cc532609b5a17ec8fc6fa19ce57^ maven-project/src/test/java/org/apache/maven/project/PomConstructionTest.java
+92,92 90aa85b340fe4cc532609b5a17ec8fc6fa19ce57^ maven-project/src/test/java/org/apache/maven/project/PomConstructionTest.java

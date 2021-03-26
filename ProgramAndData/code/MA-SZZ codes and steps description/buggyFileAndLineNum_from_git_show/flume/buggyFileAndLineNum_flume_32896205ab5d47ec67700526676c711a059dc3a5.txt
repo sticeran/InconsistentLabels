@@ -1,0 +1,1 @@
+27,27 32896205ab5d47ec67700526676c711a059dc3a5^ src/java/com/cloudera/flume/handlers/thrift/ThriftEventAdaptor.java

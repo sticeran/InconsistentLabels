@@ -1,0 +1,17 @@
+588,588 8238b711c7f6ff2c71ff807c6ee4ad52a29728a0^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCInterpreter.java
+589,589 8238b711c7f6ff2c71ff807c6ee4ad52a29728a0^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCInterpreter.java
+592,592 8238b711c7f6ff2c71ff807c6ee4ad52a29728a0^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCInterpreter.java
+593,593 8238b711c7f6ff2c71ff807c6ee4ad52a29728a0^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCInterpreter.java
+594,594 8238b711c7f6ff2c71ff807c6ee4ad52a29728a0^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCInterpreter.java
+595,595 8238b711c7f6ff2c71ff807c6ee4ad52a29728a0^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCInterpreter.java
+596,596 8238b711c7f6ff2c71ff807c6ee4ad52a29728a0^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCInterpreter.java
+599,599 8238b711c7f6ff2c71ff807c6ee4ad52a29728a0^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCInterpreter.java
+600,600 8238b711c7f6ff2c71ff807c6ee4ad52a29728a0^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCInterpreter.java
+622,622 8238b711c7f6ff2c71ff807c6ee4ad52a29728a0^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCInterpreter.java
+623,623 8238b711c7f6ff2c71ff807c6ee4ad52a29728a0^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCInterpreter.java
+625,625 8238b711c7f6ff2c71ff807c6ee4ad52a29728a0^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCInterpreter.java
+628,628 8238b711c7f6ff2c71ff807c6ee4ad52a29728a0^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCInterpreter.java
+632,632 8238b711c7f6ff2c71ff807c6ee4ad52a29728a0^ jdbc/src/main/java/org/apache/zeppelin/jdbc/JDBCInterpreter.java
+192,192 8238b711c7f6ff2c71ff807c6ee4ad52a29728a0^ jdbc/src/test/java/org/apache/zeppelin/jdbc/JDBCInterpreterTest.java
+202,202 8238b711c7f6ff2c71ff807c6ee4ad52a29728a0^ jdbc/src/test/java/org/apache/zeppelin/jdbc/JDBCInterpreterTest.java
+537,537 8238b711c7f6ff2c71ff807c6ee4ad52a29728a0^ jdbc/src/test/java/org/apache/zeppelin/jdbc/JDBCInterpreterTest.java

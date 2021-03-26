@@ -1,0 +1,2 @@
+93,93 96f6b6284c6e8a645b122111059ee954e9bad7b5^ flume-ng-sinks/flume-ng-hbase-sink/src/test/java/org/apache/flume/sink/hbase/TestHBaseSink.java
+492,492 96f6b6284c6e8a645b122111059ee954e9bad7b5^ flume-ng-sinks/flume-ng-hbase-sink/src/test/java/org/apache/flume/sink/hbase/TestHBaseSink.java

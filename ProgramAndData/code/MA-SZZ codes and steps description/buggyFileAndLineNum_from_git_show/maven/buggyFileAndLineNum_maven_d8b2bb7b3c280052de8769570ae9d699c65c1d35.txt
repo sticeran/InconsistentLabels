@@ -1,0 +1,2 @@
+45,45 d8b2bb7b3c280052de8769570ae9d699c65c1d35^ maven-repository/src/main/java/org/apache/maven/repository/DefaultMirrorBuilder.java
+82,82 d8b2bb7b3c280052de8769570ae9d699c65c1d35^ maven-repository/src/test/java/org/apache/maven/repository/MirrorProcessorTest.java
