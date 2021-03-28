@@ -1,6 +1,6 @@
 # The replication package of inconsistent labels
 
-## Titile: An extensive empirical study of inconsistent labels in multi-version-project defect data sets
+## Titile: An extensive investigation into inconsistent labels in multi-version-project defect data sets
 
 Our work is to study the existence and influence of inconsistent labels in multi-version-project defect data sets.	The “inconsistent label” phenomenon denotes that a module in multiple versions has the same source code (non-blank, non-comment) but the corresponding instances in these versions have different labels.
 
@@ -48,6 +48,8 @@ In our work, in addition to using existing publicly available multi-version-proj
 ### (3) [`/ProgramAndData/code/TSILI code/`](https://github.com/sticeran/InconsistentLabels/tree/master/ProgramAndData/code/TSILI%20code) This folder stores the code of our TSILI algorithm.
 
 ### (4) [`/ProgramAndData/code/Metric extractor/`](https://github.com/sticeran/InconsistentLabels/tree/master/ProgramAndData/code/Metric%20extractor) This folder stores the code of our metric extractor program.
+
+### (5) The raw experimental results (RQ2~4) are stored in Zenodo warehouse (https://zenodo.org/record/4642255#.YGAJhmgzaUk).
 
 
 If you use the MA-SZZ-2020 defect data set or the method code that this work implements, please cite our paper "An extensive empirical study of inconsistent labels in multi-version-project defect data sets", thanks.
