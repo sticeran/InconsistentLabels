@@ -1,3 +1,4 @@
+Sys.setenv(JAVA_HOME='C:\\Program Files\\programming language\\Java\\jre-10.0.2')
 
 library("DMwR")
 library("FSelector")
@@ -11,7 +12,7 @@ library(vip)
 
 #跨版本预测，用当前版本之前的版本（一个或多个）建模，预测下个版本（新版本）
 #跨项目预测，用其余项目所有版本建模，预测目标项目（的一个版本）
-# list_scenario_style = c("CVDP", "CPDP")
+# list_scenario_style = c("CVDP", "CPDP")#CPDP太慢了，不能要
 # list_list_datasetPath = list(c("ECLIPSE-2007","Metrics-Repo-2010","JIRA-HA-2019","JIRA-RA-2019","MA-SZZ-2020"),
 #                              c("Metrics-Repo-2010","JIRA-HA-2019","JIRA-RA-2019","MA-SZZ-2020"))
 list_scenario_style = c("CVDP")
@@ -42,9 +43,9 @@ list_data_style = list(c("cleanData","cleanData"),c("noiseData","cleanData"))
 list_savedResult_style = c("clean_clean","noise_clean")
 
 #===调试用===#
-# list_list_datasetPath = list(c("IND-JLMIV+R-2020"))
+# list_list_datasetPath = list(c("Metrics-Repo-2010"))
 # l1 = list(
-#           c('manifoldcf','nutch','systemml','tika'))
+#           c('poi'))
 # list_scenario_style = c("CVDP", "CPDP")
 # list_list_datasetPath = list(c("MA-SZZ-2020"),c("MA-SZZ-2020"))
 # l1 = list(c("zeppelin","shiro","maven","flume","mahout"))
@@ -73,10 +74,10 @@ featureSelectionName = "GR"
 rebalancingName = "SMOTE"
 
 # 要读取的数据集文件的公共路径
-path_common = "D:/workspace/DataFolder/data_csv/TSILI/experimentDataset"
+path_common = "D:/workspace/DataFolder/ThirdPaper/data_csv/TSILI/experimentDataset"
 
 #存储路径的公共路径
-saved_common_all = "D:/workspace/DataFolder/data_csv/TSILI/results/(all)techniques"
+saved_common_all = "D:/workspace/DataFolder/ThirdPaper/data_csv/TSILI/results/(all)techniques"
 
 # 计算Popt和ACC时，需要计算bug密度，已在数据集中添加了bug密度
 
@@ -98,6 +99,25 @@ doGetImportance <- function(classifier_classification,df_training_fs)
   cnames = c('metric','importance')
   colnames(df_metric_importance) = cnames
   return(df_metric_importance)
+  
+  # if(classifierName=="RF"){
+  #   metric_importance = importance(classifier_classification, type=2)#返回的结果类型是矩阵
+  #   df_metric_importance = as.data.frame(as.table(metric_importance))
+  #   df_metric_importance = subset(df_metric_importance, select = -Var2 )
+  # } else if(classifierName=="NB") {
+  #   metric_importance = varImp(classifier_classification)
+  #   metric_importance = metric_importance$importance[1]
+  #   rownames_importance = as.data.frame(rownames(metric_importance))
+  #   df_metric_importance = cbind(rownames_importance,metric_importance)
+  # } else if(classifierName=="LR") {
+  #   metric_importance = varImp(classifier_classification)
+  #   metric_importance = metric_importance$importance[1]
+  #   rownames_importance = as.data.frame(rownames(metric_importance))
+  #   df_metric_importance = cbind(rownames_importance,metric_importance)
+  # }
+  # cnames = c('metric','importance')
+  # colnames(df_metric_importance) = cnames
+  # return(df_metric_importance)
 }
 #===end===#
 
@@ -107,6 +127,9 @@ doClassificationEvaluation <- function(classifier_rf_classification,df_test)
   # df_test$bug = factor(df_test$bug)#记得分类标签因子化，不然做的是回归
   # 特征选择后
   pred1=predict(classifier_rf_classification,df_test)# type可以是"response","prob","vote",分别表示输出预测向量是预测类别、预测概率或投票矩阵
+  # 特征选择前
+  # len_columns = length(df_file_model)#数据集列数
+  # pred1=predict(classifier_rf_classification,df_test[,4:len_columns])
   
   # 计算accuracy,precision,recall,F1
   Freq1 = table(pred1,df_test$bug)#得到混淆矩阵
@@ -158,6 +181,9 @@ doRankingEvaluation <- function(classifier_rf_ranking,df_test_density)
   # 特征选择后
   pred1=predict(classifier_rf_ranking,df_test,type="prob")# type可以是"response","prob","vote",分别表示输出预测向量是预测类别、预测概率或投票矩阵
   pred1=pred1[,2]
+  # 特征选择前
+  # len_columns = length(df_file_model)#数据集列数
+  # pred1=predict(classifier_rf_classification,df_test[,4:len_columns])
   
   # 把预测结果和真实标签绑定
   # 这里要判断，如果已经有loc，则会有两个loc，留需要的，删掉不需要的
@@ -196,6 +222,16 @@ doPerformanceEvaluation <- function(classifier_classification,df_test_density)
 {
   len_columns = length(df_test_density)
   df_test = df_test_density[,1:(len_columns-2)]#后两列是缺陷密度和代码行，除工作量指标外，其余指标不需要
+  # 模型预测
+  # if(classifierName=="RF"){
+  #   pred=predict(classifier_classification,df_test,type="prob")# type可以是"raw"/"response","prob","vote",分别表示输出预测向量是预测类别、预测概率或投票矩阵
+  #   pred1 = data.frame(pred)
+  # } else if(classifierName=="NB" || classifierName=="LR") {
+  #   pred=predict(classifier_classification,df_test,type="response")#should be one of “link”, “response”, “terms”
+  #   pred1=data.frame(pred)
+  #   pred1$prob_0=1-pred1$pred
+  #   pred1 <- pred1[, c('prob_0','pred')]
+  # }
   pred=predict(classifier_classification,df_test,type="prob")# type可以是"raw"/"response","prob","vote",分别表示输出预测向量是预测类别、预测概率或投票矩阵
   pred1 = data.frame(pred)
   pred1$bug = vector(mode="numeric",length=nrow(pred1))
@@ -277,11 +313,20 @@ doPerformanceEvaluation <- function(classifier_classification,df_test_density)
   # 计算AP,RR
   AP = ComputeMAP(data)
   RR = ComputeMRR(data)
-  # Popt,ACC的计算，需要标签列是numeric
-  data$bug = as.numeric(data$bug)
+  # # Popt,ACC的计算，需要标签列是numeric
+  data$bug = as.numeric(as.character(data$bug))#as.numeric不能直接对factor转换，以下语句是错的# data$bug = as.numeric(data$bug)
   # 计算Popt,ACC
   Popt = ComputePopt(data,sorted <- TRUE)
   ACC = ComputeACC(data,sorted <- TRUE)
+  
+  # vector_result = c(auc1,AP,RR,Popt,ACC)
+  # 
+  # # 将预测结果和评价指标计算结果一起返回
+  # pre_indicator = list(pred1,vector_result)
+  # 
+  # # return(vector_result)
+  # return(pre_indicator)
+  
   
   vector_result = c(accuracy,precision,recall,F1,auc1,ER,RI,MCC,AP,RR,Popt,ACC)
   
@@ -308,6 +353,9 @@ doRandomForest_classification <- function(df_file_model)
 doNaiveBayes_classification <- function(df_file_model)
 {
   df_file_model$bug = factor(df_file_model$bug)#记得分类标签因子化，不然做的是回归
+  # 特征选择后
+  # classifier_nb_classification = NaiveBayes(bug~., data=df_file_model)#报错
+  # classifier_nb_classification = naiveBayes(bug~., data=df_file_model)#报错
   classifier_nb_classification =train(bug~.,data=df_file_model,method="naive_bayes")#metric = ifelse(is.factor(y_dat), "Accuracy", "RMSE")自动根据依赖变量来设置的
   return(classifier_nb_classification)
 }
@@ -317,6 +365,8 @@ doNaiveBayes_classification <- function(df_file_model)
 doLogisticRegression_classification <- function(df_file_model)
 {
   df_file_model$bug = factor(df_file_model$bug)#记得分类标签因子化，不然做的是回归
+  # 特征选择后
+  # classifier_lr_classification = glm(bug~.,family=binomial(link='logit'),data=df_file_model)#用glm有问题，特征会出现标签列vs
   classifier_lr_classification =train(bug~.,data=df_file_model,method="glm",family=binomial(link="logit"))#metric = ifelse(is.factor(y_dat), "Accuracy", "RMSE")自动根据依赖变量来设置的
   return(classifier_lr_classification)
 }
@@ -381,6 +431,8 @@ FUNCTION_selectRebalancingTechnique <- function(df_training,rebalancingName)
 #===CFS特征选择===#
 doCFS <- function(df_file_current)
 {
+  #不应该带上name,version,className
+  # len_columns = length(df_file_current)#数据集列数
   columns_subset = cfs(bug~., df_file_current)#特征选择返回子列名
   columns_subset = c(columns_subset,'bug')#增加类别标签列名
   df_temp = subset(df_file_current, select = c(columns_subset)) #根据列名选取子列
@@ -393,6 +445,8 @@ doReliefF <- function(df_file_current)
 {
   n_features = ncol(df_file_current)-1
   n_retained = log(n_features,2)
+  #不应该带上name,version,className
+  # len_columns = length(df_file_current)#数据集列数
   weights = relief(bug~., df_file_current)#特征选择返回子列名
   columns_subset <- cutoff.k(weights, n_retained)
   columns_subset = c(columns_subset,'bug')#增加类别标签列名
@@ -406,6 +460,8 @@ doGainRatio <- function(df_file_current)
 {
   n_features = ncol(df_file_current)-1
   n_retained = ceiling(log(n_features,2))
+  #不应该带上name,version,className
+  # len_columns = length(df_file_current)#数据集列数
   weights = gain.ratio(bug~., df_file_current)#特征选择返回子列名
   columns_subset <- cutoff.k(weights, n_retained)
   columns_subset = c(columns_subset,'bug')#增加类别标签列名
@@ -464,6 +520,9 @@ doPredicting <- function(df_file_model,df_file_prediction,classifierName,feature
   {
     # 设置随机种子为了重现实验结果
     set.seed(12345)
+    # set.seed(num_iteration)
+    # set.seed(10)#调试用，自己设置smote参数时，当seed等于17时，对于ant-1.6有问题。
+    # set.seed(10)#使用smote默认参数时，当seed等于10时，对于jedit-4.3.csv有问题。
     
     # 跨版本预测，不采用自助法，只进行一次建模和预测
     df_training = df_file_model#训练集
@@ -538,7 +597,7 @@ FUNCTION_generateTrainingSets <- function(path_common_model,train_list_projectNa
     fileList_model = list.files(folderName_project_model)#list.files命令得到"folderName_project_model"文件夹下所有文件夹的名称
     # 还需将fileList_model里面的文件排序
     #把工作路径设置到path
-    path = "D:/workspace/R-workspace/"
+    path = "D:/workspace/R-workspace/thirdPaper"
     setwd(path)
     source("fileNameSorting.r")
     fileList_model = sort_bubble_filename(fileList_model)
@@ -579,7 +638,7 @@ FUNCTION_generateTrainingSetAndTestSet <- function(scenario_style,dataset_style,
       fileList_model = list.files(folderName_project_model)#list.files命令得到"folderName_project_model"文件夹下所有文件夹的名称
       # 还需将fileList_model里面的文件排序
       #把工作路径设置到path
-      path = "D:/workspace/R-workspace/"
+      path = "D:/workspace/R-workspace/thirdPaper"
       setwd(path)
       source("fileNameSorting.r")
       fileList_model = sort_bubble_filename(fileList_model)
@@ -687,7 +746,7 @@ FUNCTION_generateTrainingSetAndTestSet <- function(scenario_style,dataset_style,
       fileList_test = list.files(folderName_project_prediction)#list.files命令得到"folderName_project_prediction"文件夹下所有文件夹的名称
       # 还需将fileList_test里面的文件排序
       #把工作路径设置到path
-      path = "D:/workspace/R-workspace/"
+      path = "D:/workspace/R-workspace/thirdPaper"
       setwd(path)
       source("fileNameSorting.r")
       fileList_test = sort_bubble_filename(fileList_test)
@@ -706,6 +765,7 @@ FUNCTION_generateTrainingSetAndTestSet <- function(scenario_style,dataset_style,
         print(i_file_test)
         
         # 获取文件路径名
+        # file_model = paste(folderName_project_model,i_file_model_name, sep = "/")#得到用作建模的文件路径
         file_prediction = paste(folderName_project_prediction,i_file_test, sep = "/")#得到用作测试的文件路径（和用作建模的相同文件名的noise或clean的文件路径）
         
         #生成保存的文件名路径
