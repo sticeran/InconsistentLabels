@@ -51,7 +51,7 @@ In our work, in addition to using existing publicly available multi-version-proj
 
 ### (5) [`/ProgramAndData/data_csv/TSILI/results/`](https://github.com/sticeran/InconsistentLabels/tree/master/ProgramAndData/data_csv/TSILI/results) This folder stores all the experimental results (csv files) corresponding to the figures and tables in our paper.
 
-### (6) The raw experimental results (RQ2~4) are stored in Zenodo warehouse (https://zenodo.org/record/4659851#.YGbweGgzaUk).
+### (6) The more raw experimental results (RQ2~4) are stored in Zenodo warehouse (https://zenodo.org/record/4659851#.YGbweGgzaUk).
 
 
 If you use the MA-SZZ-2020 defect data set or the method code that this work implements, please cite our paper "An extensive empirical study of inconsistent labels in multi-version-project defect data sets", thanks.
