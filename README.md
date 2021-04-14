@@ -41,17 +41,17 @@ IND-JLMIV+R-2020	| 38 projects	| 395 versions	| 3-1708 (0-45)	| 0~36% | 4198
 # Quick Start
 In our work, in addition to using existing publicly available multi-version-project defect data sets, we collected a file-level multi-version-project defect data set (MA-SZZ-2020) using our replicated MA-SZZ [1] defect collection approach.
 
-### (1) [`/ProgramAndData/data_csv/TSILI/original/MA-SZZ-2020/`](https://github.com/sticeran/InconsistentLabels/tree/master/ProgramAndData/data_csv/TSILI/original/MA-SZZ-2020) This folder stores the MA-SZZ-2020 defect data set we collected.
+### (1) [`/ProgramAndData/data_csv/TSILI/results/`](https://github.com/sticeran/InconsistentLabels/tree/master/ProgramAndData/data_csv/TSILI/results) This folder stores all the experimental results (csv files) corresponding to the figures and tables in our paper.
 
-### (2) [`/ProgramAndData/code/MA-SZZ codes and steps description/`](https://github.com/sticeran/InconsistentLabels/tree/master/ProgramAndData/code/MA-SZZ%20codes%20and%20steps%20description) This folder stores the code of the MA-SZZ defect collection approach we implemented based on JIRA and GitHub.
+### (2) The more raw experimental results (RQ2~4) are stored in Zenodo warehouse (https://zenodo.org/record/4673450#.YG92W2gzaUk).
 
 ### (3) [`/ProgramAndData/code/TSILI code/`](https://github.com/sticeran/InconsistentLabels/tree/master/ProgramAndData/code/TSILI%20code) This folder stores the code of our TSILI algorithm.
 
 ### (4) [`/ProgramAndData/code/Metric extractor/`](https://github.com/sticeran/InconsistentLabels/tree/master/ProgramAndData/code/Metric%20extractor) This folder stores the code of our metric extractor program.
 
-### (5) [`/ProgramAndData/data_csv/TSILI/results/`](https://github.com/sticeran/InconsistentLabels/tree/master/ProgramAndData/data_csv/TSILI/results) This folder stores all the experimental results (csv files) corresponding to the figures and tables in our paper.
+### (5) [`/ProgramAndData/data_csv/TSILI/original/MA-SZZ-2020/`](https://github.com/sticeran/InconsistentLabels/tree/master/ProgramAndData/data_csv/TSILI/original/MA-SZZ-2020) This folder stores the MA-SZZ-2020 defect data set we collected.
 
-### (6) The more raw experimental results (RQ2~4) are stored in Zenodo warehouse (https://zenodo.org/record/4673450#.YG92W2gzaUk).
+### (6) [`/ProgramAndData/code/MA-SZZ codes and steps description/`](https://github.com/sticeran/InconsistentLabels/tree/master/ProgramAndData/code/MA-SZZ%20codes%20and%20steps%20description) This folder stores the code of the MA-SZZ defect collection approach we implemented based on JIRA and GitHub.
 
 
 If you use the MA-SZZ-2020 defect data set or the method code that this work implements, please cite our paper "An extensive empirical study of inconsistent labels in multi-version-project defect data sets", thanks.
