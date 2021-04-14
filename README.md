@@ -45,14 +45,14 @@ In our work, in addition to using existing publicly available multi-version-proj
 
 The four folders **“question1/”**, **“question2/”**, **“question3/”** and **“question4/”** in the folder **“results/”** respectively correspond to the experimental results of RQ1-RQ3 (Section 7.1-7.3) in the paper and the experimental results of RQ4 in Appendix E.
 
-In “question2”, the folders **“NC vs CC/(data)table/”** and **“NN vs NC/(data)table/”** respectively store the diff / pgr values of all evaluation indicators (9) of all combinations (18) of modeling techniques under **“NC vs CC”** and **“NN vs NC”** model comparison schemes.
-In “question2”, the folders “NC vs CC/(count)allTechniques/” and “NN vs NC/(count)allTechniques/” respectively store the experimental results of Table 8 (a) and (b) in Section 8.1.
+In **“question2/”**, the folders **“NC vs CC/(data)table/”** and **“NN vs NC/(data)table/”** respectively store the diff / pgr values of all evaluation indicators (9) of all combinations (18) of modeling techniques under **“NC vs CC”** and **“NN vs NC”** model comparison schemes.
+In **“question2/”**, the folders **“NC vs CC/(count)allTechniques/”** and **“NN vs NC/(count)allTechniques/”** respectively store the experimental results of Table 8 (a) and (b) in Section 8.1.
 
-In “question3”, the folders “(data)table/RF_CFS_SMOTE”, “(data)table/NB_CFS_SMOTE”, and “(data)table/LR_CFS_SMOTE” respectively correspond to the results of figures of the three classifiers (random forest, naive Bayes, and logistic regression) in RQ3.
-In “question3”, the folder ”(count)allTechniques/” store the results of Fig. 28 in Section 8.1.
+In **“question3/”**, the folders **“(data)table/RF_CFS_SMOTE”**, **“(data)table/NB_CFS_SMOTE”**, and **“(data)table/LR_CFS_SMOTE”** respectively correspond to the results of figures of the three classifiers (random forest, naive Bayes, and logistic regression) in RQ3.
+In **“question3/”**, the folder **“(count)allTechniques/”** store the results of Fig. 28 in Section 8.1.
 
-In “question4”, the folders “NC vs CC/(data)table/” and “NN vs NC/(data)table/” respectively store the experimental results of DTP values under “NC vs CC” and “NN vs NC” model comparison schemes in Appendix E.
-In “question4”, the folders “NC vs CC/(count)allTechniques/” and “NN vs NC/(count)allTechniques/” respectively store the experimental results of Fig. 3 and Fig. 4 in Appendix E.
+In **“question4/”**, the folders **“NC vs CC/(data)table/”** and **“NN vs NC/(data)table/”** respectively store the experimental results of DTP values under “NC vs CC” and “NN vs NC” model comparison schemes in Appendix E.
+In **“question4/”**, the folders **“NC vs CC/(count)allTechniques/”** and **“NN vs NC/(count)allTechniques/”** respectively store the experimental results of Fig. 3 and Fig. 4 in Appendix E.
 
 ### (2) The more raw experimental results (RQ2~4) are stored in Zenodo warehouse (https://zenodo.org/record/4673450#.YG92W2gzaUk).
 
