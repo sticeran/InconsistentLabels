@@ -47,6 +47,7 @@ The four folders **“question1/”**, **“question2/”**, and **“question3/
 
 In **“question2/”**, the folders **“NC vs CC/(data)table/”** and **“NN vs NC/(data)table/”** respectively store the diff / pgr values of all evaluation indicators (9) of all combinations (18) of modeling techniques under **“NC vs CC”** and **“NN vs NC”** model comparison schemes.
 The folders **“NC vs CC/(count)allTechniques/”** and **“NN vs NC/(count)allTechniques/”** respectively store the experimental results of Table 8 (a) and (b) in Section 8.1.
+
 In the folder **NC vs CC/(all)techniques/"ClassifierName"/CVDP/"DatasetName"/NC vs CC/IL_Ins/** (e.g. NC vs CC/(all)techniques/LR_CFS_SMOTE/CVDP/MA-SZZ-2020/NC vs CC/IL_Ins/), (comparison)datapoints_filtered.csv, (benchmark)datapoints_filtered.csv and (random)datapoints_filtered.csv report the raw performance values of NC, CC and random models respectively.
 
 In **“question3/”**, the folders **“(data)table/RF_CFS_SMOTE”**, **“(data)table/NB_CFS_SMOTE”**, and **“(data)table/LR_CFS_SMOTE”** respectively correspond to the results of figures of the three classifiers (random forest, naive Bayes, and logistic regression) in RQ3.
