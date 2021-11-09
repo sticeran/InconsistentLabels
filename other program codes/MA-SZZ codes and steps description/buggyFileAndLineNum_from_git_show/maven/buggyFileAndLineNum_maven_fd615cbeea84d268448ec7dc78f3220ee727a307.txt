@@ -1,0 +1,13 @@
+158,158 fd615cbeea84d268448ec7dc78f3220ee727a307^ maven-plugins/maven-war-plugin/src/main/java/org/apache/maven/plugin/war/WarMojo.java
+161,161 fd615cbeea84d268448ec7dc78f3220ee727a307^ maven-plugins/maven-war-plugin/src/main/java/org/apache/maven/plugin/war/WarMojo.java
+170,170 fd615cbeea84d268448ec7dc78f3220ee727a307^ maven-plugins/maven-war-plugin/src/main/java/org/apache/maven/plugin/war/WarMojo.java
+174,174 fd615cbeea84d268448ec7dc78f3220ee727a307^ maven-plugins/maven-war-plugin/src/main/java/org/apache/maven/plugin/war/WarMojo.java
+175,175 fd615cbeea84d268448ec7dc78f3220ee727a307^ maven-plugins/maven-war-plugin/src/main/java/org/apache/maven/plugin/war/WarMojo.java
+178,178 fd615cbeea84d268448ec7dc78f3220ee727a307^ maven-plugins/maven-war-plugin/src/main/java/org/apache/maven/plugin/war/WarMojo.java
+179,179 fd615cbeea84d268448ec7dc78f3220ee727a307^ maven-plugins/maven-war-plugin/src/main/java/org/apache/maven/plugin/war/WarMojo.java
+180,180 fd615cbeea84d268448ec7dc78f3220ee727a307^ maven-plugins/maven-war-plugin/src/main/java/org/apache/maven/plugin/war/WarMojo.java
+546,546 fd615cbeea84d268448ec7dc78f3220ee727a307^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+547,547 fd615cbeea84d268448ec7dc78f3220ee727a307^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+548,548 fd615cbeea84d268448ec7dc78f3220ee727a307^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+549,549 fd615cbeea84d268448ec7dc78f3220ee727a307^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+551,551 fd615cbeea84d268448ec7dc78f3220ee727a307^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java

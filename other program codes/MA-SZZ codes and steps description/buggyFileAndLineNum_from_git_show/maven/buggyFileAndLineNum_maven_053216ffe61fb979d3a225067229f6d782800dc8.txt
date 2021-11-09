@@ -1,0 +1,1 @@
+89,89 053216ffe61fb979d3a225067229f6d782800dc8^ maven-embedder/src/main/java/org/apache/maven/embedder/PlexusLoggerAdapter.java

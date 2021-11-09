@@ -1,0 +1,3 @@
+75,75 b799580e6ed7b29f40bd98c1b8cef3e8ed5e0013^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/BucketWriter.java
+77,77 b799580e6ed7b29f40bd98c1b8cef3e8ed5e0013^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/BucketWriter.java
+81,81 b799580e6ed7b29f40bd98c1b8cef3e8ed5e0013^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/BucketWriter.java

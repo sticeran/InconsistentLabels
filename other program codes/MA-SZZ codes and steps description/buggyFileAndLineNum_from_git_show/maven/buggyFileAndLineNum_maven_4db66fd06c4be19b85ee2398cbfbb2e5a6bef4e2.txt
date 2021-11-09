@@ -1,0 +1,7 @@
+67,67 4db66fd06c4be19b85ee2398cbfbb2e5a6bef4e2^ maven-model-builder/src/test/java/org/apache/maven/model/validation/DefaultModelValidatorTest.java
+75,75 4db66fd06c4be19b85ee2398cbfbb2e5a6bef4e2^ maven-model-builder/src/test/java/org/apache/maven/model/validation/DefaultModelValidatorTest.java
+79,79 4db66fd06c4be19b85ee2398cbfbb2e5a6bef4e2^ maven-model-builder/src/test/java/org/apache/maven/model/validation/DefaultModelValidatorTest.java
+82,82 4db66fd06c4be19b85ee2398cbfbb2e5a6bef4e2^ maven-model-builder/src/test/java/org/apache/maven/model/validation/DefaultModelValidatorTest.java
+623,623 4db66fd06c4be19b85ee2398cbfbb2e5a6bef4e2^ maven-model-builder/src/test/java/org/apache/maven/model/validation/DefaultModelValidatorTest.java
+624,624 4db66fd06c4be19b85ee2398cbfbb2e5a6bef4e2^ maven-model-builder/src/test/java/org/apache/maven/model/validation/DefaultModelValidatorTest.java
+625,625 4db66fd06c4be19b85ee2398cbfbb2e5a6bef4e2^ maven-model-builder/src/test/java/org/apache/maven/model/validation/DefaultModelValidatorTest.java

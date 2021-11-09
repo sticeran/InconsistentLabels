@@ -1,0 +1,6 @@
+80,80 e03a68f136b489ff25b8c3f4df1fa484821f2e7d^ support/spring/src/main/java/org/apache/shiro/spring/remoting/SecureRemoteInvocationFactory.java
+81,81 e03a68f136b489ff25b8c3f4df1fa484821f2e7d^ support/spring/src/main/java/org/apache/shiro/spring/remoting/SecureRemoteInvocationFactory.java
+82,82 e03a68f136b489ff25b8c3f4df1fa484821f2e7d^ support/spring/src/main/java/org/apache/shiro/spring/remoting/SecureRemoteInvocationFactory.java
+83,83 e03a68f136b489ff25b8c3f4df1fa484821f2e7d^ support/spring/src/main/java/org/apache/shiro/spring/remoting/SecureRemoteInvocationFactory.java
+84,84 e03a68f136b489ff25b8c3f4df1fa484821f2e7d^ support/spring/src/main/java/org/apache/shiro/spring/remoting/SecureRemoteInvocationFactory.java
+85,85 e03a68f136b489ff25b8c3f4df1fa484821f2e7d^ support/spring/src/main/java/org/apache/shiro/spring/remoting/SecureRemoteInvocationFactory.java

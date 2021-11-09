@@ -1,0 +1,13 @@
+431,431 19ebd621e777faff9264c3ff9dd341f33d4495e8^ maven-artifact/src/main/java/org/apache/maven/artifact/versioning/VersionRange.java
+446,446 19ebd621e777faff9264c3ff9dd341f33d4495e8^ maven-artifact/src/main/java/org/apache/maven/artifact/versioning/VersionRange.java
+447,447 19ebd621e777faff9264c3ff9dd341f33d4495e8^ maven-artifact/src/main/java/org/apache/maven/artifact/versioning/VersionRange.java
+449,449 19ebd621e777faff9264c3ff9dd341f33d4495e8^ maven-artifact/src/main/java/org/apache/maven/artifact/versioning/VersionRange.java
+450,450 19ebd621e777faff9264c3ff9dd341f33d4495e8^ maven-artifact/src/main/java/org/apache/maven/artifact/versioning/VersionRange.java
+451,451 19ebd621e777faff9264c3ff9dd341f33d4495e8^ maven-artifact/src/main/java/org/apache/maven/artifact/versioning/VersionRange.java
+290,290 19ebd621e777faff9264c3ff9dd341f33d4495e8^ maven-artifact/src/test/java/org/apache/maven/artifact/resolver/DefaultArtifactCollectorTest.java
+320,320 19ebd621e777faff9264c3ff9dd341f33d4495e8^ maven-artifact/src/test/java/org/apache/maven/artifact/resolver/DefaultArtifactCollectorTest.java
+321,321 19ebd621e777faff9264c3ff9dd341f33d4495e8^ maven-artifact/src/test/java/org/apache/maven/artifact/resolver/DefaultArtifactCollectorTest.java
+322,322 19ebd621e777faff9264c3ff9dd341f33d4495e8^ maven-artifact/src/test/java/org/apache/maven/artifact/resolver/DefaultArtifactCollectorTest.java
+323,323 19ebd621e777faff9264c3ff9dd341f33d4495e8^ maven-artifact/src/test/java/org/apache/maven/artifact/resolver/DefaultArtifactCollectorTest.java
+536,536 19ebd621e777faff9264c3ff9dd341f33d4495e8^ maven-artifact/src/test/java/org/apache/maven/artifact/resolver/DefaultArtifactCollectorTest.java
+651,651 19ebd621e777faff9264c3ff9dd341f33d4495e8^ maven-artifact/src/test/java/org/apache/maven/artifact/resolver/DefaultArtifactCollectorTest.java

@@ -1,0 +1,8 @@
+270,270 93095b4cbc1bbeb6757f1542b3ac2886fa36d671^ flume-core/src/main/java/com/cloudera/flume/agent/FlumeNode.java
+1003,1003 93095b4cbc1bbeb6757f1542b3ac2886fa36d671^ flume-core/src/main/java/com/cloudera/flume/conf/FlumeConfiguration.java
+1015,1015 93095b4cbc1bbeb6757f1542b3ac2886fa36d671^ flume-core/src/main/java/com/cloudera/flume/conf/FlumeConfiguration.java
+251,251 93095b4cbc1bbeb6757f1542b3ac2886fa36d671^ flume-core/src/main/java/com/cloudera/flume/master/FlumeMaster.java
+266,266 93095b4cbc1bbeb6757f1542b3ac2886fa36d671^ flume-core/src/main/java/com/cloudera/flume/master/FlumeMaster.java
+285,285 93095b4cbc1bbeb6757f1542b3ac2886fa36d671^ flume-core/src/main/java/com/cloudera/flume/master/FlumeMaster.java
+347,347 93095b4cbc1bbeb6757f1542b3ac2886fa36d671^ flume-core/src/main/java/com/cloudera/flume/master/FlumeMaster.java
+148,148 93095b4cbc1bbeb6757f1542b3ac2886fa36d671^ flume-core/src/main/java/com/cloudera/util/InternalHttpServer.java

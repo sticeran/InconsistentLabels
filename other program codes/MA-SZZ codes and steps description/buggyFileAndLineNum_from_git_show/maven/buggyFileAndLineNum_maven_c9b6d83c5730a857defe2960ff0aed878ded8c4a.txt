@@ -1,0 +1,5 @@
+43,43 c9b6d83c5730a857defe2960ff0aed878ded8c4a^ maven-project/src/main/java/org/apache/maven/profiles/activation/JdkPrefixProfileActivator.java
+40,40 c9b6d83c5730a857defe2960ff0aed878ded8c4a^ maven-project/src/main/java/org/apache/maven/profiles/activation/SystemPropertyProfileActivator.java
+63,63 c9b6d83c5730a857defe2960ff0aed878ded8c4a^ maven-project/src/main/java/org/apache/maven/profiles/activation/SystemPropertyProfileActivator.java
+77,77 c9b6d83c5730a857defe2960ff0aed878ded8c4a^ maven-project/src/main/java/org/apache/maven/profiles/activation/SystemPropertyProfileActivator.java
+875,875 c9b6d83c5730a857defe2960ff0aed878ded8c4a^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java

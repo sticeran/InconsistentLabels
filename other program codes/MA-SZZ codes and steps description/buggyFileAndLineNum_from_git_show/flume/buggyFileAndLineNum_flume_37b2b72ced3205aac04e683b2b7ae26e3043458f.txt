@@ -1,0 +1,11 @@
+176,176 37b2b72ced3205aac04e683b2b7ae26e3043458f^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogFileV3.java
+200,200 37b2b72ced3205aac04e683b2b7ae26e3043458f^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogFileV3.java
+201,201 37b2b72ced3205aac04e683b2b7ae26e3043458f^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogFileV3.java
+202,202 37b2b72ced3205aac04e683b2b7ae26e3043458f^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogFileV3.java
+203,203 37b2b72ced3205aac04e683b2b7ae26e3043458f^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogFileV3.java
+222,222 37b2b72ced3205aac04e683b2b7ae26e3043458f^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogFileV3.java
+223,223 37b2b72ced3205aac04e683b2b7ae26e3043458f^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogFileV3.java
+224,224 37b2b72ced3205aac04e683b2b7ae26e3043458f^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogFileV3.java
+232,232 37b2b72ced3205aac04e683b2b7ae26e3043458f^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogFileV3.java
+233,233 37b2b72ced3205aac04e683b2b7ae26e3043458f^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogFileV3.java
+250,250 37b2b72ced3205aac04e683b2b7ae26e3043458f^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogFileV3.java

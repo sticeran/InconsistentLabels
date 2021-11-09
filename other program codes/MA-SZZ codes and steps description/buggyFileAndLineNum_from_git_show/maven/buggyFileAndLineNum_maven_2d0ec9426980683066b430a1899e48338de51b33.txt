@@ -1,0 +1,7 @@
+77,77 2d0ec9426980683066b430a1899e48338de51b33^ maven-core/src/main/java/org/apache/maven/toolchain/DefaultToolchainManagerPrivate.java
+87,87 2d0ec9426980683066b430a1899e48338de51b33^ maven-core/src/main/java/org/apache/maven/toolchain/DefaultToolchainManagerPrivate.java
+90,90 2d0ec9426980683066b430a1899e48338de51b33^ maven-core/src/main/java/org/apache/maven/toolchain/DefaultToolchainManagerPrivate.java
+100,100 2d0ec9426980683066b430a1899e48338de51b33^ maven-core/src/main/java/org/apache/maven/toolchain/DefaultToolchainManagerPrivate.java
+102,102 2d0ec9426980683066b430a1899e48338de51b33^ maven-core/src/main/java/org/apache/maven/toolchain/DefaultToolchainManagerPrivate.java
+103,103 2d0ec9426980683066b430a1899e48338de51b33^ maven-core/src/main/java/org/apache/maven/toolchain/DefaultToolchainManagerPrivate.java
+104,104 2d0ec9426980683066b430a1899e48338de51b33^ maven-core/src/main/java/org/apache/maven/toolchain/DefaultToolchainManagerPrivate.java

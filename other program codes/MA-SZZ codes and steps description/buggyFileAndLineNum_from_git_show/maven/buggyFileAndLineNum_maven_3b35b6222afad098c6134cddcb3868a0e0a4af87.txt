@@ -1,0 +1,5 @@
+586,586 3b35b6222afad098c6134cddcb3868a0e0a4af87^ maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/DefaultLegacyArtifactCollector.java
+587,587 3b35b6222afad098c6134cddcb3868a0e0a4af87^ maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/DefaultLegacyArtifactCollector.java
+588,588 3b35b6222afad098c6134cddcb3868a0e0a4af87^ maven-core/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java
+591,591 3b35b6222afad098c6134cddcb3868a0e0a4af87^ maven-core/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java
+597,597 3b35b6222afad098c6134cddcb3868a0e0a4af87^ maven-core/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java

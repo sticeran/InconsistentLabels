@@ -1,0 +1,4 @@
+42,42 b7b224778906406e42adc693ffb3a5edeff0841f^ support/guice/src/main/java/org/apache/shiro/guice/web/ShiroWebModule.java
+198,198 b7b224778906406e42adc693ffb3a5edeff0841f^ support/guice/src/main/java/org/apache/shiro/guice/web/ShiroWebModule.java
+74,74 b7b224778906406e42adc693ffb3a5edeff0841f^ support/guice/src/test/java/org/apache/shiro/guice/web/ShiroWebModuleTest.java
+75,75 b7b224778906406e42adc693ffb3a5edeff0841f^ support/guice/src/test/java/org/apache/shiro/guice/web/ShiroWebModuleTest.java

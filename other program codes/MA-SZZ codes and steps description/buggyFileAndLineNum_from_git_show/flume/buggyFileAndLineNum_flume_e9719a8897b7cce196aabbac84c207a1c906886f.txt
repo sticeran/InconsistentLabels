@@ -1,0 +1,10 @@
+124,124 e9719a8897b7cce196aabbac84c207a1c906886f^ flume-ng-clients/flume-ng-log4jappender/src/main/java/org/apache/flume/clients/log4jappender/LoadBalancingLog4jAppender.java
+142,142 e9719a8897b7cce196aabbac84c207a1c906886f^ flume-ng-clients/flume-ng-log4jappender/src/main/java/org/apache/flume/clients/log4jappender/LoadBalancingLog4jAppender.java
+238,238 e9719a8897b7cce196aabbac84c207a1c906886f^ flume-ng-clients/flume-ng-log4jappender/src/main/java/org/apache/flume/clients/log4jappender/Log4jAppender.java
+74,74 e9719a8897b7cce196aabbac84c207a1c906886f^ flume-ng-clients/flume-ng-log4jappender/src/test/java/org/apache/flume/clients/log4jappender/TestLog4jAppender.java
+75,75 e9719a8897b7cce196aabbac84c207a1c906886f^ flume-ng-clients/flume-ng-log4jappender/src/test/java/org/apache/flume/clients/log4jappender/TestLog4jAppender.java
+76,76 e9719a8897b7cce196aabbac84c207a1c906886f^ flume-ng-clients/flume-ng-log4jappender/src/test/java/org/apache/flume/clients/log4jappender/TestLog4jAppender.java
+77,77 e9719a8897b7cce196aabbac84c207a1c906886f^ flume-ng-clients/flume-ng-log4jappender/src/test/java/org/apache/flume/clients/log4jappender/TestLog4jAppender.java
+78,78 e9719a8897b7cce196aabbac84c207a1c906886f^ flume-ng-clients/flume-ng-log4jappender/src/test/java/org/apache/flume/clients/log4jappender/TestLog4jAppender.java
+79,79 e9719a8897b7cce196aabbac84c207a1c906886f^ flume-ng-clients/flume-ng-log4jappender/src/test/java/org/apache/flume/clients/log4jappender/TestLog4jAppender.java
+80,80 e9719a8897b7cce196aabbac84c207a1c906886f^ flume-ng-clients/flume-ng-log4jappender/src/test/java/org/apache/flume/clients/log4jappender/TestLog4jAppender.java

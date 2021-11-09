@@ -1,0 +1,5 @@
+244,244 8e0efaa107c5dab09a9dc0a0405a3bfbebecda3b^ maven-compat/src/main/java/org/apache/maven/project/interpolation/AbstractStringBasedModelInterpolator.java
+1085,1085 8e0efaa107c5dab09a9dc0a0405a3bfbebecda3b^ maven-core/src/test/java/org/apache/maven/project/PomConstructionTest.java
+1097,1097 8e0efaa107c5dab09a9dc0a0405a3bfbebecda3b^ maven-core/src/test/java/org/apache/maven/project/PomConstructionTest.java
+1098,1098 8e0efaa107c5dab09a9dc0a0405a3bfbebecda3b^ maven-core/src/test/java/org/apache/maven/project/PomConstructionTest.java
+161,161 8e0efaa107c5dab09a9dc0a0405a3bfbebecda3b^ maven-model-builder/src/main/java/org/apache/maven/model/interpolation/AbstractStringBasedModelInterpolator.java

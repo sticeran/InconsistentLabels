@@ -1,0 +1,3 @@
+1037,1037 35cf900017a797e5ff3aedb01f05c88bb3f86ca0^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Log.java
+1038,1038 35cf900017a797e5ff3aedb01f05c88bb3f86ca0^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Log.java
+1039,1039 35cf900017a797e5ff3aedb01f05c88bb3f86ca0^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Log.java

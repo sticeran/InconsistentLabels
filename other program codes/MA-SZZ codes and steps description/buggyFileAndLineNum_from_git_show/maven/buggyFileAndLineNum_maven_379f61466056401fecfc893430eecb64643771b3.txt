@@ -1,0 +1,2 @@
+70,70 379f61466056401fecfc893430eecb64643771b3^ maven-project-builder/src/main/java/org/apache/maven/project/builder/PomTransformer.java
+71,71 379f61466056401fecfc893430eecb64643771b3^ maven-project-builder/src/main/java/org/apache/maven/project/builder/PomTransformer.java

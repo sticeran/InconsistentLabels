@@ -1,0 +1,14 @@
+279,279 7fe46e2ac6ccfc55e977b64877e720e05246a918^ core/src/main/java/org/apache/shiro/session/mgt/AbstractNativeSessionManager.java
+280,280 7fe46e2ac6ccfc55e977b64877e720e05246a918^ core/src/main/java/org/apache/shiro/session/mgt/AbstractNativeSessionManager.java
+291,291 7fe46e2ac6ccfc55e977b64877e720e05246a918^ core/src/main/java/org/apache/shiro/session/mgt/AbstractNativeSessionManager.java
+292,292 7fe46e2ac6ccfc55e977b64877e720e05246a918^ core/src/main/java/org/apache/shiro/session/mgt/AbstractNativeSessionManager.java
+293,293 7fe46e2ac6ccfc55e977b64877e720e05246a918^ core/src/main/java/org/apache/shiro/session/mgt/AbstractNativeSessionManager.java
+294,294 7fe46e2ac6ccfc55e977b64877e720e05246a918^ core/src/main/java/org/apache/shiro/session/mgt/AbstractNativeSessionManager.java
+155,155 7fe46e2ac6ccfc55e977b64877e720e05246a918^ core/src/main/java/org/apache/shiro/session/mgt/AbstractValidatingSessionManager.java
+156,156 7fe46e2ac6ccfc55e977b64877e720e05246a918^ core/src/main/java/org/apache/shiro/session/mgt/AbstractValidatingSessionManager.java
+157,157 7fe46e2ac6ccfc55e977b64877e720e05246a918^ core/src/main/java/org/apache/shiro/session/mgt/AbstractValidatingSessionManager.java
+173,173 7fe46e2ac6ccfc55e977b64877e720e05246a918^ core/src/main/java/org/apache/shiro/session/mgt/AbstractValidatingSessionManager.java
+174,174 7fe46e2ac6ccfc55e977b64877e720e05246a918^ core/src/main/java/org/apache/shiro/session/mgt/AbstractValidatingSessionManager.java
+175,175 7fe46e2ac6ccfc55e977b64877e720e05246a918^ core/src/main/java/org/apache/shiro/session/mgt/AbstractValidatingSessionManager.java
+31,31 7fe46e2ac6ccfc55e977b64877e720e05246a918^ core/src/test/java/org/apache/shiro/session/mgt/AbstractValidatingSessionManagerTest.java
+33,33 7fe46e2ac6ccfc55e977b64877e720e05246a918^ core/src/test/java/org/apache/shiro/session/mgt/AbstractValidatingSessionManagerTest.java

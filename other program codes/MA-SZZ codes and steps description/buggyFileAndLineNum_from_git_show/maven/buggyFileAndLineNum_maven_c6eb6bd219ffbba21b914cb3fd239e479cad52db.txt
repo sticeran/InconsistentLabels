@@ -1,0 +1,2 @@
+30,30 c6eb6bd219ffbba21b914cb3fd239e479cad52db^ maven-core/src/main/java/org/apache/maven/lifecycle/mapping/DefaultLifecycleMapping.java
+27,27 c6eb6bd219ffbba21b914cb3fd239e479cad52db^ maven-core/src/main/java/org/apache/maven/lifecycle/mapping/LifecycleMapping.java

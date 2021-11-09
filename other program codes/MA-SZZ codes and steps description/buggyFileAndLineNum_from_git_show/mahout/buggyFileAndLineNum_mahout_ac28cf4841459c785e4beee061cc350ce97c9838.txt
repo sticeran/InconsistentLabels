@@ -1,0 +1,2 @@
+178,178 ac28cf4841459c785e4beee061cc350ce97c9838^ core/src/main/java/org/apache/mahout/math/VectorWritable.java
+39,39 ac28cf4841459c785e4beee061cc350ce97c9838^ math/src/main/java/org/apache/mahout/math/NamedVector.java

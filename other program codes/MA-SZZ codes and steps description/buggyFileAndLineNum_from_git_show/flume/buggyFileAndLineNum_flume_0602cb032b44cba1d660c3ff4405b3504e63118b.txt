@@ -1,0 +1,11 @@
+232,232 0602cb032b44cba1d660c3ff4405b3504e63118b^ flume-ng-sources/flume-taildir-source/src/main/java/org/apache/flume/source/taildir/TaildirSource.java
+240,240 0602cb032b44cba1d660c3ff4405b3504e63118b^ flume-ng-sources/flume-taildir-source/src/main/java/org/apache/flume/source/taildir/TaildirSource.java
+248,248 0602cb032b44cba1d660c3ff4405b3504e63118b^ flume-ng-sources/flume-taildir-source/src/main/java/org/apache/flume/source/taildir/TaildirSource.java
+249,249 0602cb032b44cba1d660c3ff4405b3504e63118b^ flume-ng-sources/flume-taildir-source/src/main/java/org/apache/flume/source/taildir/TaildirSource.java
+250,250 0602cb032b44cba1d660c3ff4405b3504e63118b^ flume-ng-sources/flume-taildir-source/src/main/java/org/apache/flume/source/taildir/TaildirSource.java
+251,251 0602cb032b44cba1d660c3ff4405b3504e63118b^ flume-ng-sources/flume-taildir-source/src/main/java/org/apache/flume/source/taildir/TaildirSource.java
+252,252 0602cb032b44cba1d660c3ff4405b3504e63118b^ flume-ng-sources/flume-taildir-source/src/main/java/org/apache/flume/source/taildir/TaildirSource.java
+266,266 0602cb032b44cba1d660c3ff4405b3504e63118b^ flume-ng-sources/flume-taildir-source/src/main/java/org/apache/flume/source/taildir/TaildirSource.java
+274,274 0602cb032b44cba1d660c3ff4405b3504e63118b^ flume-ng-sources/flume-taildir-source/src/main/java/org/apache/flume/source/taildir/TaildirSource.java
+294,294 0602cb032b44cba1d660c3ff4405b3504e63118b^ flume-ng-sources/flume-taildir-source/src/main/java/org/apache/flume/source/taildir/TaildirSource.java
+299,299 0602cb032b44cba1d660c3ff4405b3504e63118b^ flume-ng-sources/flume-taildir-source/src/main/java/org/apache/flume/source/taildir/TaildirSource.java

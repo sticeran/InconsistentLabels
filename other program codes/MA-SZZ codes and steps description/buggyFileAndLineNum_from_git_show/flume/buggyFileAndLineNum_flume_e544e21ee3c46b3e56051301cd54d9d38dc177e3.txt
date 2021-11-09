@@ -1,0 +1,3 @@
+505,505 e544e21ee3c46b3e56051301cd54d9d38dc177e3^ src/java/com/cloudera/flume/agent/durability/NaiveFileWALManager.java
+67,67 e544e21ee3c46b3e56051301cd54d9d38dc177e3^ src/java/com/cloudera/flume/handlers/rolling/RollSink.java
+76,76 e544e21ee3c46b3e56051301cd54d9d38dc177e3^ src/java/com/cloudera/flume/handlers/rolling/RollSink.java

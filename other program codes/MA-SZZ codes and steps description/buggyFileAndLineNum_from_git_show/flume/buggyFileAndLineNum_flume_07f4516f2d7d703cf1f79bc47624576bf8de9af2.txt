@@ -1,0 +1,2 @@
+188,188 07f4516f2d7d703cf1f79bc47624576bf8de9af2^ flume-ng-configuration/src/main/java/org/apache/flume/conf/source/SourceConfiguration.java
+85,85 07f4516f2d7d703cf1f79bc47624576bf8de9af2^ flume-ng-configuration/src/main/java/org/apache/flume/conf/source/SourceType.java

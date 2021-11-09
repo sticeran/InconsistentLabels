@@ -1,0 +1,8 @@
+246,246 150cb81a660e6555c40d8935f6cff1dbb6186b99^ flume-core/src/main/java/com/cloudera/flume/handlers/text/TailDirSource.java
+267,267 150cb81a660e6555c40d8935f6cff1dbb6186b99^ flume-core/src/main/java/com/cloudera/flume/handlers/text/TailDirSource.java
+202,202 150cb81a660e6555c40d8935f6cff1dbb6186b99^ flume-core/src/main/java/com/cloudera/flume/handlers/text/TailSource.java
+247,247 150cb81a660e6555c40d8935f6cff1dbb6186b99^ flume-core/src/main/java/com/cloudera/flume/handlers/text/TailSource.java
+259,259 150cb81a660e6555c40d8935f6cff1dbb6186b99^ flume-core/src/main/java/com/cloudera/flume/handlers/text/TailSource.java
+272,272 150cb81a660e6555c40d8935f6cff1dbb6186b99^ flume-core/src/main/java/com/cloudera/flume/handlers/text/TailSource.java
+273,273 150cb81a660e6555c40d8935f6cff1dbb6186b99^ flume-core/src/main/java/com/cloudera/flume/handlers/text/TailSource.java
+62,62 150cb81a660e6555c40d8935f6cff1dbb6186b99^ flume-core/src/test/java/com/cloudera/flume/handlers/text/TestTailDirSource.java

@@ -1,0 +1,10 @@
+199,199 c2bcda202e24c426329425a11623946c9df0b102^ flume-ng-core/src/main/java/org/apache/flume/source/SyslogUtils.java
+95,95 c2bcda202e24c426329425a11623946c9df0b102^ flume-ng-core/src/test/java/org/apache/flume/source/TestSyslogUdpSource.java
+101,101 c2bcda202e24c426329425a11623946c9df0b102^ flume-ng-core/src/test/java/org/apache/flume/source/TestSyslogUdpSource.java
+27,27 c2bcda202e24c426329425a11623946c9df0b102^ flume-ng-core/src/test/java/org/apache/flume/source/TestSyslogUtils.java
+240,240 c2bcda202e24c426329425a11623946c9df0b102^ flume-ng-core/src/test/java/org/apache/flume/source/TestSyslogUtils.java
+276,276 c2bcda202e24c426329425a11623946c9df0b102^ flume-ng-core/src/test/java/org/apache/flume/source/TestSyslogUtils.java
+298,298 c2bcda202e24c426329425a11623946c9df0b102^ flume-ng-core/src/test/java/org/apache/flume/source/TestSyslogUtils.java
+367,367 c2bcda202e24c426329425a11623946c9df0b102^ flume-ng-core/src/test/java/org/apache/flume/source/TestSyslogUtils.java
+379,379 c2bcda202e24c426329425a11623946c9df0b102^ flume-ng-core/src/test/java/org/apache/flume/source/TestSyslogUtils.java
+398,398 c2bcda202e24c426329425a11623946c9df0b102^ flume-ng-core/src/test/java/org/apache/flume/source/TestSyslogUtils.java

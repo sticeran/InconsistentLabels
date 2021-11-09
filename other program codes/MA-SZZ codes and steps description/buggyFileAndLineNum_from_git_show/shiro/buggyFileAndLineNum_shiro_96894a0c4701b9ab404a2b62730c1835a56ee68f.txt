@@ -1,0 +1,2 @@
+31,31 96894a0c4701b9ab404a2b62730c1835a56ee68f^ core/src/main/java/org/apache/shiro/mgt/DefaultSecurityManager.java
+600,600 96894a0c4701b9ab404a2b62730c1835a56ee68f^ core/src/main/java/org/apache/shiro/mgt/DefaultSecurityManager.java

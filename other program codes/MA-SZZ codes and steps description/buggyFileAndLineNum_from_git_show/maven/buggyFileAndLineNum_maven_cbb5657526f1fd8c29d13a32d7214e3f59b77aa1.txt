@@ -1,0 +1,2 @@
+564,564 cbb5657526f1fd8c29d13a32d7214e3f59b77aa1^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java
+565,565 cbb5657526f1fd8c29d13a32d7214e3f59b77aa1^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java

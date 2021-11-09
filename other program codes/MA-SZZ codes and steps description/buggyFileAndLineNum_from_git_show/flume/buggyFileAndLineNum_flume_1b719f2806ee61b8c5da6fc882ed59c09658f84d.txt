@@ -1,0 +1,5 @@
+68,68 1b719f2806ee61b8c5da6fc882ed59c09658f84d^ src/java/com/cloudera/flume/agent/ThriftMasterRPC.java
+719,719 1b719f2806ee61b8c5da6fc882ed59c09658f84d^ src/java/com/cloudera/flume/conf/FlumeConfiguration.java
+720,720 1b719f2806ee61b8c5da6fc882ed59c09658f84d^ src/java/com/cloudera/flume/conf/FlumeConfiguration.java
+100,100 1b719f2806ee61b8c5da6fc882ed59c09658f84d^ src/java/com/cloudera/flume/handlers/thrift/ThriftEventSink.java
+105,105 1b719f2806ee61b8c5da6fc882ed59c09658f84d^ src/java/com/cloudera/flume/handlers/thrift/ThriftEventSink.java

@@ -1,0 +1,3 @@
+143,143 14094c260ba2658be5f70255b9785729ecb8fb69^ maven-compat/src/main/java/org/apache/maven/repository/legacy/DefaultWagonManager.java
+151,151 14094c260ba2658be5f70255b9785729ecb8fb69^ maven-compat/src/main/java/org/apache/maven/repository/legacy/DefaultWagonManager.java
+152,152 14094c260ba2658be5f70255b9785729ecb8fb69^ maven-compat/src/main/java/org/apache/maven/repository/legacy/DefaultWagonManager.java

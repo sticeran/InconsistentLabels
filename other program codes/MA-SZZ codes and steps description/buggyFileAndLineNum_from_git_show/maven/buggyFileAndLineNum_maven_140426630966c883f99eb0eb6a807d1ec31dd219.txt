@@ -1,0 +1,14 @@
+61,61 140426630966c883f99eb0eb6a807d1ec31dd219^ maven-reports/maven-javadoc-plugin/src/main/java/org/apache/maven/plugin/javadoc/JavadocReport.java
+68,68 140426630966c883f99eb0eb6a807d1ec31dd219^ maven-reports/maven-javadoc-plugin/src/main/java/org/apache/maven/plugin/javadoc/JavadocReport.java
+419,419 140426630966c883f99eb0eb6a807d1ec31dd219^ maven-reports/maven-javadoc-plugin/src/main/java/org/apache/maven/plugin/javadoc/JavadocReport.java
+431,431 140426630966c883f99eb0eb6a807d1ec31dd219^ maven-reports/maven-javadoc-plugin/src/main/java/org/apache/maven/plugin/javadoc/JavadocReport.java
+516,516 140426630966c883f99eb0eb6a807d1ec31dd219^ maven-reports/maven-javadoc-plugin/src/main/java/org/apache/maven/plugin/javadoc/JavadocReport.java
+517,517 140426630966c883f99eb0eb6a807d1ec31dd219^ maven-reports/maven-javadoc-plugin/src/main/java/org/apache/maven/plugin/javadoc/JavadocReport.java
+658,658 140426630966c883f99eb0eb6a807d1ec31dd219^ maven-reports/maven-javadoc-plugin/src/main/java/org/apache/maven/plugin/javadoc/JavadocReport.java
+672,672 140426630966c883f99eb0eb6a807d1ec31dd219^ maven-reports/maven-javadoc-plugin/src/main/java/org/apache/maven/plugin/javadoc/JavadocReport.java
+681,681 140426630966c883f99eb0eb6a807d1ec31dd219^ maven-reports/maven-javadoc-plugin/src/main/java/org/apache/maven/plugin/javadoc/JavadocReport.java
+684,684 140426630966c883f99eb0eb6a807d1ec31dd219^ maven-reports/maven-javadoc-plugin/src/main/java/org/apache/maven/plugin/javadoc/JavadocReport.java
+690,690 140426630966c883f99eb0eb6a807d1ec31dd219^ maven-reports/maven-javadoc-plugin/src/main/java/org/apache/maven/plugin/javadoc/JavadocReport.java
+904,904 140426630966c883f99eb0eb6a807d1ec31dd219^ maven-reports/maven-javadoc-plugin/src/main/java/org/apache/maven/plugin/javadoc/JavadocReport.java
+909,909 140426630966c883f99eb0eb6a807d1ec31dd219^ maven-reports/maven-javadoc-plugin/src/main/java/org/apache/maven/plugin/javadoc/JavadocReport.java
+913,913 140426630966c883f99eb0eb6a807d1ec31dd219^ maven-reports/maven-javadoc-plugin/src/main/java/org/apache/maven/plugin/javadoc/JavadocReport.java

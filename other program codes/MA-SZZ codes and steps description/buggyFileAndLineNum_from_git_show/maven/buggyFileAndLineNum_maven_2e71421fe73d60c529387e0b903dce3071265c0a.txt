@@ -1,0 +1,6 @@
+80,80 2e71421fe73d60c529387e0b903dce3071265c0a^ maven-core/src/main/java/org/apache/maven/DefaultProjectDependencyGraph.java
+82,82 2e71421fe73d60c529387e0b903dce3071265c0a^ maven-core/src/main/java/org/apache/maven/DefaultProjectDependencyGraph.java
+85,85 2e71421fe73d60c529387e0b903dce3071265c0a^ maven-core/src/main/java/org/apache/maven/DefaultProjectDependencyGraph.java
+107,107 2e71421fe73d60c529387e0b903dce3071265c0a^ maven-core/src/main/java/org/apache/maven/DefaultProjectDependencyGraph.java
+109,109 2e71421fe73d60c529387e0b903dce3071265c0a^ maven-core/src/main/java/org/apache/maven/DefaultProjectDependencyGraph.java
+112,112 2e71421fe73d60c529387e0b903dce3071265c0a^ maven-core/src/main/java/org/apache/maven/DefaultProjectDependencyGraph.java

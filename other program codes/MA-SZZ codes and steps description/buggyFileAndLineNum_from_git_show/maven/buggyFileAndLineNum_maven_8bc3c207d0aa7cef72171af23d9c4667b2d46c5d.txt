@@ -1,0 +1,10 @@
+116,116 8bc3c207d0aa7cef72171af23d9c4667b2d46c5d^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+124,124 8bc3c207d0aa7cef72171af23d9c4667b2d46c5d^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+294,294 8bc3c207d0aa7cef72171af23d9c4667b2d46c5d^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+356,356 8bc3c207d0aa7cef72171af23d9c4667b2d46c5d^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+358,358 8bc3c207d0aa7cef72171af23d9c4667b2d46c5d^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+946,946 8bc3c207d0aa7cef72171af23d9c4667b2d46c5d^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+951,951 8bc3c207d0aa7cef72171af23d9c4667b2d46c5d^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+22,22 8bc3c207d0aa7cef72171af23d9c4667b2d46c5d^ maven-core/src/main/java/org/apache/maven/project/ReactorModelCache.java
+23,23 8bc3c207d0aa7cef72171af23d9c4667b2d46c5d^ maven-core/src/main/java/org/apache/maven/project/ReactorModelCache.java
+36,36 8bc3c207d0aa7cef72171af23d9c4667b2d46c5d^ maven-core/src/main/java/org/apache/maven/project/ReactorModelCache.java

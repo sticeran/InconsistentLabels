@@ -1,0 +1,4 @@
+name,original_length,intersection_length,percent
+eclipse-2.0.csv,6729,6727,0.9997027790161985
+eclipse-2.1.csv,7888,7886,0.9997464503042597
+eclipse-3.0.csv,10593,10590,0.9997167941093175

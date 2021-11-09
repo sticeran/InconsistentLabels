@@ -1,0 +1,2 @@
+241,241 082cfb498e95ae95e88d49d357839eab8ab3bf33^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/CheckpointRebuilder.java
+242,242 082cfb498e95ae95e88d49d357839eab8ab3bf33^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/CheckpointRebuilder.java

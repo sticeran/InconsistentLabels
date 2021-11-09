@@ -1,0 +1,5 @@
+769,769 51cc76c32625be2f807dcf2ffbeb085984729b57^ maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelBuilder.java
+770,770 51cc76c32625be2f807dcf2ffbeb085984729b57^ maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelBuilder.java
+804,804 51cc76c32625be2f807dcf2ffbeb085984729b57^ maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelBuilder.java
+809,809 51cc76c32625be2f807dcf2ffbeb085984729b57^ maven-model-builder/src/main/java/org/apache/maven/model/validation/DefaultModelValidator.java
+810,810 51cc76c32625be2f807dcf2ffbeb085984729b57^ maven-model-builder/src/main/java/org/apache/maven/model/validation/DefaultModelValidator.java

@@ -1,0 +1,15 @@
+65,65 9040e49c0c95b66f3ff3a0c879d3a6ea0bf11443^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/CheckpointRebuilder.java
+58,58 9040e49c0c95b66f3ff3a0c879d3a6ea0bf11443^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Commit.java
+103,103 9040e49c0c95b66f3ff3a0c879d3a6ea0bf11443^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogFileV3.java
+104,104 9040e49c0c95b66f3ff3a0c879d3a6ea0bf11443^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogFileV3.java
+219,219 9040e49c0c95b66f3ff3a0c879d3a6ea0bf11443^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogFileV3.java
+298,298 9040e49c0c95b66f3ff3a0c879d3a6ea0bf11443^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogFileV3.java
+299,299 9040e49c0c95b66f3ff3a0c879d3a6ea0bf11443^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/LogFileV3.java
+85,85 9040e49c0c95b66f3ff3a0c879d3a6ea0bf11443^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Put.java
+54,54 9040e49c0c95b66f3ff3a0c879d3a6ea0bf11443^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Rollback.java
+55,55 9040e49c0c95b66f3ff3a0c879d3a6ea0bf11443^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Rollback.java
+73,73 9040e49c0c95b66f3ff3a0c879d3a6ea0bf11443^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/Take.java
+193,193 9040e49c0c95b66f3ff3a0c879d3a6ea0bf11443^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/TransactionEventRecord.java
+194,194 9040e49c0c95b66f3ff3a0c879d3a6ea0bf11443^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/TransactionEventRecord.java
+202,202 9040e49c0c95b66f3ff3a0c879d3a6ea0bf11443^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/TransactionEventRecord.java
+203,203 9040e49c0c95b66f3ff3a0c879d3a6ea0bf11443^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/TransactionEventRecord.java

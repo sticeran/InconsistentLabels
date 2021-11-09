@@ -1,0 +1,7 @@
+72,72 1abdf1e79367cde21a7ae974a17d95c4d1006114^ flume-ng-core/src/main/java/org/apache/flume/sink/LoggerSink.java
+74,74 1abdf1e79367cde21a7ae974a17d95c4d1006114^ flume-ng-core/src/main/java/org/apache/flume/sink/LoggerSink.java
+75,75 1abdf1e79367cde21a7ae974a17d95c4d1006114^ flume-ng-core/src/main/java/org/apache/flume/sink/LoggerSink.java
+178,178 1abdf1e79367cde21a7ae974a17d95c4d1006114^ flume-ng-core/src/main/java/org/apache/flume/sink/RollingFileSink.java
+180,180 1abdf1e79367cde21a7ae974a17d95c4d1006114^ flume-ng-core/src/main/java/org/apache/flume/sink/RollingFileSink.java
+182,182 1abdf1e79367cde21a7ae974a17d95c4d1006114^ flume-ng-core/src/main/java/org/apache/flume/sink/RollingFileSink.java
+184,184 1abdf1e79367cde21a7ae974a17d95c4d1006114^ flume-ng-core/src/main/java/org/apache/flume/sink/RollingFileSink.java

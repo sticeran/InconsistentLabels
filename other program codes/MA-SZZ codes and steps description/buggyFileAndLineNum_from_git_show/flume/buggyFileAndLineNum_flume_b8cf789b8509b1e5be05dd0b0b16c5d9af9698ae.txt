@@ -1,0 +1,14 @@
+167,167 b8cf789b8509b1e5be05dd0b0b16c5d9af9698ae^ flume-ng-core/src/main/java/org/apache/flume/source/AvroSource.java
+177,177 b8cf789b8509b1e5be05dd0b0b16c5d9af9698ae^ flume-ng-core/src/main/java/org/apache/flume/source/AvroSource.java
+179,179 b8cf789b8509b1e5be05dd0b0b16c5d9af9698ae^ flume-ng-core/src/main/java/org/apache/flume/source/AvroSource.java
+273,273 b8cf789b8509b1e5be05dd0b0b16c5d9af9698ae^ flume-ng-core/src/test/java/org/apache/flume/source/TestAvroSource.java
+72,72 b8cf789b8509b1e5be05dd0b0b16c5d9af9698ae^ flume-ng-sdk/src/main/java/org/apache/flume/api/NettyAvroRpcClient.java
+669,669 b8cf789b8509b1e5be05dd0b0b16c5d9af9698ae^ flume-ng-sdk/src/main/java/org/apache/flume/api/NettyAvroRpcClient.java
+670,670 b8cf789b8509b1e5be05dd0b0b16c5d9af9698ae^ flume-ng-sdk/src/main/java/org/apache/flume/api/NettyAvroRpcClient.java
+671,671 b8cf789b8509b1e5be05dd0b0b16c5d9af9698ae^ flume-ng-sdk/src/main/java/org/apache/flume/api/NettyAvroRpcClient.java
+672,672 b8cf789b8509b1e5be05dd0b0b16c5d9af9698ae^ flume-ng-sdk/src/main/java/org/apache/flume/api/NettyAvroRpcClient.java
+673,673 b8cf789b8509b1e5be05dd0b0b16c5d9af9698ae^ flume-ng-sdk/src/main/java/org/apache/flume/api/NettyAvroRpcClient.java
+674,674 b8cf789b8509b1e5be05dd0b0b16c5d9af9698ae^ flume-ng-sdk/src/main/java/org/apache/flume/api/NettyAvroRpcClient.java
+675,675 b8cf789b8509b1e5be05dd0b0b16c5d9af9698ae^ flume-ng-sdk/src/main/java/org/apache/flume/api/NettyAvroRpcClient.java
+686,686 b8cf789b8509b1e5be05dd0b0b16c5d9af9698ae^ flume-ng-sdk/src/main/java/org/apache/flume/api/NettyAvroRpcClient.java
+687,687 b8cf789b8509b1e5be05dd0b0b16c5d9af9698ae^ flume-ng-sdk/src/main/java/org/apache/flume/api/NettyAvroRpcClient.java

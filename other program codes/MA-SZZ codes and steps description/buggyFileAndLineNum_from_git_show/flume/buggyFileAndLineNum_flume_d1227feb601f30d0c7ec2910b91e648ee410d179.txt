@@ -1,0 +1,4 @@
+105,105 d1227feb601f30d0c7ec2910b91e648ee410d179^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/test/java/org/apache/flume/sink/elasticsearch/client/TestElasticSearchRestClient.java
+106,106 d1227feb601f30d0c7ec2910b91e648ee410d179^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/test/java/org/apache/flume/sink/elasticsearch/client/TestElasticSearchRestClient.java
+124,124 d1227feb601f30d0c7ec2910b91e648ee410d179^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/test/java/org/apache/flume/sink/elasticsearch/client/TestElasticSearchRestClient.java
+125,125 d1227feb601f30d0c7ec2910b91e648ee410d179^ flume-ng-sinks/flume-ng-elasticsearch-sink/src/test/java/org/apache/flume/sink/elasticsearch/client/TestElasticSearchRestClient.java

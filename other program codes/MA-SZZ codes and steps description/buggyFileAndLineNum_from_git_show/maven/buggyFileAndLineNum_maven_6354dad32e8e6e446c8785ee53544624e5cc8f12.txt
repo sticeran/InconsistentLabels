@@ -1,0 +1,16 @@
+191,191 6354dad32e8e6e446c8785ee53544624e5cc8f12^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactCollector.java
+197,197 6354dad32e8e6e446c8785ee53544624e5cc8f12^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactCollector.java
+202,202 6354dad32e8e6e446c8785ee53544624e5cc8f12^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactCollector.java
+203,203 6354dad32e8e6e446c8785ee53544624e5cc8f12^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactCollector.java
+205,205 6354dad32e8e6e446c8785ee53544624e5cc8f12^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactCollector.java
+206,206 6354dad32e8e6e446c8785ee53544624e5cc8f12^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactCollector.java
+207,207 6354dad32e8e6e446c8785ee53544624e5cc8f12^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactCollector.java
+208,208 6354dad32e8e6e446c8785ee53544624e5cc8f12^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactCollector.java
+212,212 6354dad32e8e6e446c8785ee53544624e5cc8f12^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactCollector.java
+213,213 6354dad32e8e6e446c8785ee53544624e5cc8f12^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactCollector.java
+326,326 6354dad32e8e6e446c8785ee53544624e5cc8f12^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactCollector.java
+352,352 6354dad32e8e6e446c8785ee53544624e5cc8f12^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactCollector.java
+353,353 6354dad32e8e6e446c8785ee53544624e5cc8f12^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactCollector.java
+354,354 6354dad32e8e6e446c8785ee53544624e5cc8f12^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactCollector.java
+359,359 6354dad32e8e6e446c8785ee53544624e5cc8f12^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactCollector.java
+360,360 6354dad32e8e6e446c8785ee53544624e5cc8f12^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactCollector.java

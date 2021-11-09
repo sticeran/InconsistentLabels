@@ -1,0 +1,4 @@
+85,85 1bdeecccadb9951fd48550a7aa3b9ee23ea111bc^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactCollector.java
+227,227 1bdeecccadb9951fd48550a7aa3b9ee23ea111bc^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactCollector.java
+500,500 1bdeecccadb9951fd48550a7aa3b9ee23ea111bc^ maven-artifact/src/test/java/org/apache/maven/artifact/resolver/DefaultArtifactCollectorTest.java
+502,502 1bdeecccadb9951fd48550a7aa3b9ee23ea111bc^ maven-artifact/src/test/java/org/apache/maven/artifact/resolver/DefaultArtifactCollectorTest.java

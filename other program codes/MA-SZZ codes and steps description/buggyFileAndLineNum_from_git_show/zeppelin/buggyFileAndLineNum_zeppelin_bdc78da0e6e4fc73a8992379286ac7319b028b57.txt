@@ -1,0 +1,14 @@
+86,86 bdc78da0e6e4fc73a8992379286ac7319b028b57^ zeppelin-server/src/main/java/org/apache/zeppelin/server/ZeppelinServer.java
+92,92 bdc78da0e6e4fc73a8992379286ac7319b028b57^ zeppelin-zengine/src/main/java/org/apache/zeppelin/notebook/Note.java
+100,100 bdc78da0e6e4fc73a8992379286ac7319b028b57^ zeppelin-zengine/src/main/java/org/apache/zeppelin/notebook/Notebook.java
+149,149 bdc78da0e6e4fc73a8992379286ac7319b028b57^ zeppelin-zengine/src/main/java/org/apache/zeppelin/notebook/Notebook.java
+52,52 bdc78da0e6e4fc73a8992379286ac7319b028b57^ zeppelin-zengine/src/main/java/org/apache/zeppelin/notebook/NotebookAuthorization.java
+53,53 bdc78da0e6e4fc73a8992379286ac7319b028b57^ zeppelin-zengine/src/main/java/org/apache/zeppelin/notebook/NotebookAuthorization.java
+54,54 bdc78da0e6e4fc73a8992379286ac7319b028b57^ zeppelin-zengine/src/main/java/org/apache/zeppelin/notebook/Paragraph.java
+93,93 bdc78da0e6e4fc73a8992379286ac7319b028b57^ zeppelin-zengine/src/test/java/org/apache/zeppelin/notebook/NotebookTest.java
+94,94 bdc78da0e6e4fc73a8992379286ac7319b028b57^ zeppelin-zengine/src/test/java/org/apache/zeppelin/notebook/NotebookTest.java
+178,178 bdc78da0e6e4fc73a8992379286ac7319b028b57^ zeppelin-zengine/src/test/java/org/apache/zeppelin/notebook/NotebookTest.java
+100,100 bdc78da0e6e4fc73a8992379286ac7319b028b57^ zeppelin-zengine/src/test/java/org/apache/zeppelin/notebook/repo/NotebookRepoSyncTest.java
+225,225 bdc78da0e6e4fc73a8992379286ac7319b028b57^ zeppelin-zengine/src/test/java/org/apache/zeppelin/notebook/repo/NotebookRepoSyncTest.java
+83,83 bdc78da0e6e4fc73a8992379286ac7319b028b57^ zeppelin-zengine/src/test/java/org/apache/zeppelin/notebook/repo/VFSNotebookRepoTest.java
+289,289 bdc78da0e6e4fc73a8992379286ac7319b028b57^ zeppelin-zengine/src/test/java/org/apache/zeppelin/search/LuceneSearchTest.java

@@ -1,0 +1,2 @@
+335,335 318da208844d02ed7554724ae526cefe94dd894c^ flume-ng-sinks/flume-hive-sink/src/main/java/org/apache/flume/sink/hive/HiveWriter.java
+336,336 318da208844d02ed7554724ae526cefe94dd894c^ flume-ng-sinks/flume-hive-sink/src/main/java/org/apache/flume/sink/hive/HiveWriter.java

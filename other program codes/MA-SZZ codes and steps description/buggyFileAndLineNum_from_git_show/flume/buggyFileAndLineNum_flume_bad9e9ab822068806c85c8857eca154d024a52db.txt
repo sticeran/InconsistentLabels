@@ -1,0 +1,16 @@
+20,20 bad9e9ab822068806c85c8857eca154d024a52db^ flume-ng-sdk/src/main/java/org/apache/flume/util/OrderSelector.java
+21,21 bad9e9ab822068806c85c8857eca154d024a52db^ flume-ng-sdk/src/main/java/org/apache/flume/util/OrderSelector.java
+44,44 bad9e9ab822068806c85c8857eca154d024a52db^ flume-ng-sdk/src/main/java/org/apache/flume/util/OrderSelector.java
+72,72 bad9e9ab822068806c85c8857eca154d024a52db^ flume-ng-sdk/src/main/java/org/apache/flume/util/OrderSelector.java
+123,123 bad9e9ab822068806c85c8857eca154d024a52db^ flume-ng-sdk/src/main/java/org/apache/flume/util/OrderSelector.java
+21,21 bad9e9ab822068806c85c8857eca154d024a52db^ flume-ng-sdk/src/test/java/org/apache/flume/api/TestLoadBalancingRpcClient.java
+22,22 bad9e9ab822068806c85c8857eca154d024a52db^ flume-ng-sdk/src/test/java/org/apache/flume/api/TestLoadBalancingRpcClient.java
+38,38 bad9e9ab822068806c85c8857eca154d024a52db^ flume-ng-sdk/src/test/java/org/apache/flume/api/TestLoadBalancingRpcClient.java
+392,392 bad9e9ab822068806c85c8857eca154d024a52db^ flume-ng-sdk/src/test/java/org/apache/flume/api/TestLoadBalancingRpcClient.java
+393,393 bad9e9ab822068806c85c8857eca154d024a52db^ flume-ng-sdk/src/test/java/org/apache/flume/api/TestLoadBalancingRpcClient.java
+446,446 bad9e9ab822068806c85c8857eca154d024a52db^ flume-ng-sdk/src/test/java/org/apache/flume/api/TestLoadBalancingRpcClient.java
+447,447 bad9e9ab822068806c85c8857eca154d024a52db^ flume-ng-sdk/src/test/java/org/apache/flume/api/TestLoadBalancingRpcClient.java
+488,488 bad9e9ab822068806c85c8857eca154d024a52db^ flume-ng-sdk/src/test/java/org/apache/flume/api/TestLoadBalancingRpcClient.java
+489,489 bad9e9ab822068806c85c8857eca154d024a52db^ flume-ng-sdk/src/test/java/org/apache/flume/api/TestLoadBalancingRpcClient.java
+544,544 bad9e9ab822068806c85c8857eca154d024a52db^ flume-ng-sdk/src/test/java/org/apache/flume/api/TestLoadBalancingRpcClient.java
+545,545 bad9e9ab822068806c85c8857eca154d024a52db^ flume-ng-sdk/src/test/java/org/apache/flume/api/TestLoadBalancingRpcClient.java

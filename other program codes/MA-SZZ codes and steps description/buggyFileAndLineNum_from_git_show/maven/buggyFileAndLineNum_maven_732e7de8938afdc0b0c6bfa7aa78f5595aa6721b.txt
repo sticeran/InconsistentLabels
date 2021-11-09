@@ -1,0 +1,4 @@
+374,374 732e7de8938afdc0b0c6bfa7aa78f5595aa6721b^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+575,575 732e7de8938afdc0b0c6bfa7aa78f5595aa6721b^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+590,590 732e7de8938afdc0b0c6bfa7aa78f5595aa6721b^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+605,605 732e7de8938afdc0b0c6bfa7aa78f5595aa6721b^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java

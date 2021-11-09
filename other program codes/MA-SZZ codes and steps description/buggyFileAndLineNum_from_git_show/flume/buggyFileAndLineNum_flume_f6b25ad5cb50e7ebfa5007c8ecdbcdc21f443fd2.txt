@@ -1,0 +1,5 @@
+49,49 f6b25ad5cb50e7ebfa5007c8ecdbcdc21f443fd2^ src/java/com/cloudera/flume/handlers/avro/AvroDataFileOutputFormat.java
+182,182 f6b25ad5cb50e7ebfa5007c8ecdbcdc21f443fd2^ src/java/com/cloudera/flume/handlers/text/FormatFactory.java
+184,184 f6b25ad5cb50e7ebfa5007c8ecdbcdc21f443fd2^ src/java/com/cloudera/flume/handlers/text/FormatFactory.java
+186,186 f6b25ad5cb50e7ebfa5007c8ecdbcdc21f443fd2^ src/java/com/cloudera/flume/handlers/text/FormatFactory.java
+348,348 f6b25ad5cb50e7ebfa5007c8ecdbcdc21f443fd2^ src/javatest/com/cloudera/flume/agent/TestFlumeNode.java

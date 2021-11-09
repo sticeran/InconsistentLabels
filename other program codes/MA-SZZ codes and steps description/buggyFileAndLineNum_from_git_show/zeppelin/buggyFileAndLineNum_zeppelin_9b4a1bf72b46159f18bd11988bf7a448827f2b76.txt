@@ -1,0 +1,12 @@
+23,23 9b4a1bf72b46159f18bd11988bf7a448827f2b76^ shell/src/main/java/org/apache/zeppelin/shell/ShellInterpreter.java
+25,25 9b4a1bf72b46159f18bd11988bf7a448827f2b76^ shell/src/main/java/org/apache/zeppelin/shell/ShellInterpreter.java
+89,89 9b4a1bf72b46159f18bd11988bf7a448827f2b76^ shell/src/main/java/org/apache/zeppelin/shell/ShellInterpreter.java
+103,103 9b4a1bf72b46159f18bd11988bf7a448827f2b76^ shell/src/main/java/org/apache/zeppelin/shell/ShellInterpreter.java
+49,49 9b4a1bf72b46159f18bd11988bf7a448827f2b76^ shell/src/test/java/org/apache/zeppelin/shell/ShellInterpreterTest.java
+50,50 9b4a1bf72b46159f18bd11988bf7a448827f2b76^ shell/src/test/java/org/apache/zeppelin/shell/ShellInterpreterTest.java
+51,51 9b4a1bf72b46159f18bd11988bf7a448827f2b76^ shell/src/test/java/org/apache/zeppelin/shell/ShellInterpreterTest.java
+66,66 9b4a1bf72b46159f18bd11988bf7a448827f2b76^ shell/src/test/java/org/apache/zeppelin/shell/ShellInterpreterTest.java
+67,67 9b4a1bf72b46159f18bd11988bf7a448827f2b76^ shell/src/test/java/org/apache/zeppelin/shell/ShellInterpreterTest.java
+68,68 9b4a1bf72b46159f18bd11988bf7a448827f2b76^ shell/src/test/java/org/apache/zeppelin/shell/ShellInterpreterTest.java
+76,76 9b4a1bf72b46159f18bd11988bf7a448827f2b76^ shell/src/test/java/org/apache/zeppelin/shell/ShellInterpreterTest.java
+77,77 9b4a1bf72b46159f18bd11988bf7a448827f2b76^ shell/src/test/java/org/apache/zeppelin/shell/ShellInterpreterTest.java

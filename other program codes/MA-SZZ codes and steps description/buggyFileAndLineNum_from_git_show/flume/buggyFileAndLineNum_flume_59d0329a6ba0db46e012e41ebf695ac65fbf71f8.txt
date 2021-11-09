@@ -1,0 +1,16 @@
+80,80 59d0329a6ba0db46e012e41ebf695ac65fbf71f8^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSCompressedDataStream.java
+81,81 59d0329a6ba0db46e012e41ebf695ac65fbf71f8^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSCompressedDataStream.java
+101,101 59d0329a6ba0db46e012e41ebf695ac65fbf71f8^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSCompressedDataStream.java
+21,21 59d0329a6ba0db46e012e41ebf695ac65fbf71f8^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSCompressedDataStream.java
+41,41 59d0329a6ba0db46e012e41ebf695ac65fbf71f8^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSCompressedDataStream.java
+61,61 59d0329a6ba0db46e012e41ebf695ac65fbf71f8^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSCompressedDataStream.java
+62,62 59d0329a6ba0db46e012e41ebf695ac65fbf71f8^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSCompressedDataStream.java
+63,63 59d0329a6ba0db46e012e41ebf695ac65fbf71f8^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSCompressedDataStream.java
+79,79 59d0329a6ba0db46e012e41ebf695ac65fbf71f8^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSCompressedDataStream.java
+80,80 59d0329a6ba0db46e012e41ebf695ac65fbf71f8^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSCompressedDataStream.java
+92,92 59d0329a6ba0db46e012e41ebf695ac65fbf71f8^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSCompressedDataStream.java
+96,96 59d0329a6ba0db46e012e41ebf695ac65fbf71f8^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSCompressedDataStream.java
+97,97 59d0329a6ba0db46e012e41ebf695ac65fbf71f8^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSCompressedDataStream.java
+98,98 59d0329a6ba0db46e012e41ebf695ac65fbf71f8^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSCompressedDataStream.java
+99,99 59d0329a6ba0db46e012e41ebf695ac65fbf71f8^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSCompressedDataStream.java
+73,73 59d0329a6ba0db46e012e41ebf695ac65fbf71f8^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSCompressedDataStream.java

@@ -1,0 +1,2 @@
+463,463 27332cfab0a18bbbd7d7d1374f2a201577d9c567^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+610,610 27332cfab0a18bbbd7d7d1374f2a201577d9c567^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java

@@ -1,0 +1,8 @@
+220,220 c18b8872de1d1da37ec33186c92091d60edc34e1^ maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycleExecutor.java
+493,493 c18b8872de1d1da37ec33186c92091d60edc34e1^ maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycleExecutor.java
+824,824 c18b8872de1d1da37ec33186c92091d60edc34e1^ maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycleExecutor.java
+1138,1138 c18b8872de1d1da37ec33186c92091d60edc34e1^ maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycleExecutor.java
+648,648 c18b8872de1d1da37ec33186c92091d60edc34e1^ maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/MojoDescriptor.java
+649,649 c18b8872de1d1da37ec33186c92091d60edc34e1^ maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/MojoDescriptor.java
+650,650 c18b8872de1d1da37ec33186c92091d60edc34e1^ maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/MojoDescriptor.java
+651,651 c18b8872de1d1da37ec33186c92091d60edc34e1^ maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/MojoDescriptor.java

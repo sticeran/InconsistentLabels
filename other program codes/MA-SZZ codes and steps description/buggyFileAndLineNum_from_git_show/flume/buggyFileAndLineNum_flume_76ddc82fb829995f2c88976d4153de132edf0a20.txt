@@ -1,0 +1,2 @@
+267,267 76ddc82fb829995f2c88976d4153de132edf0a20^ flume-ng-core/src/test/java/org/apache/flume/client/avro/TestReliableSpoolingFileEventReader.java
+268,268 76ddc82fb829995f2c88976d4153de132edf0a20^ flume-ng-core/src/test/java/org/apache/flume/client/avro/TestReliableSpoolingFileEventReader.java

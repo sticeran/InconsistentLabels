@@ -1,0 +1,3 @@
+366,366 2eb419ed95ccfdd80c5755890e649a49274cceca^ maven-core/src/main/java/org/apache/maven/project/MavenProject.java
+381,381 2eb419ed95ccfdd80c5755890e649a49274cceca^ maven-core/src/main/java/org/apache/maven/project/MavenProject.java
+390,390 2eb419ed95ccfdd80c5755890e649a49274cceca^ maven-core/src/main/java/org/apache/maven/project/MavenProject.java

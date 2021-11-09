@@ -1,0 +1,1 @@
+1112,1112 9c7e0829060ef572fd6cb9209dc0b4e16d65c69d^ maven-compat/src/main/java/org/apache/maven/artifact/manager/DefaultWagonManager.java

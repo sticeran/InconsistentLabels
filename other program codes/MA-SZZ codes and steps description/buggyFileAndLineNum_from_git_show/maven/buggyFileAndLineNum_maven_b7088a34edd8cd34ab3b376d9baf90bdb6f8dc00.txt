@@ -1,0 +1,10 @@
+159,159 b7088a34edd8cd34ab3b376d9baf90bdb6f8dc00^ maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmManager.java
+160,160 b7088a34edd8cd34ab3b376d9baf90bdb6f8dc00^ maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmManager.java
+163,163 b7088a34edd8cd34ab3b376d9baf90bdb6f8dc00^ maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmManager.java
+26,26 b7088a34edd8cd34ab3b376d9baf90bdb6f8dc00^ maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultPluginDependenciesResolver.java
+57,57 b7088a34edd8cd34ab3b376d9baf90bdb6f8dc00^ maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultPluginDependenciesResolver.java
+82,82 b7088a34edd8cd34ab3b376d9baf90bdb6f8dc00^ maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultPluginDependenciesResolver.java
+154,154 b7088a34edd8cd34ab3b376d9baf90bdb6f8dc00^ maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultPluginDependenciesResolver.java
+155,155 b7088a34edd8cd34ab3b376d9baf90bdb6f8dc00^ maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultPluginDependenciesResolver.java
+156,156 b7088a34edd8cd34ab3b376d9baf90bdb6f8dc00^ maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultPluginDependenciesResolver.java
+157,157 b7088a34edd8cd34ab3b376d9baf90bdb6f8dc00^ maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultPluginDependenciesResolver.java

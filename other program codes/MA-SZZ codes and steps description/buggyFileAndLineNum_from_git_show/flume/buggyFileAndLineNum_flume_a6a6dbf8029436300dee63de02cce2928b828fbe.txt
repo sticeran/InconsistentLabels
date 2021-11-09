@@ -1,0 +1,11 @@
+34,34 a6a6dbf8029436300dee63de02cce2928b828fbe^ src/java/com/cloudera/flume/agent/LogicalNode.java
+175,175 a6a6dbf8029436300dee63de02cce2928b828fbe^ src/java/com/cloudera/flume/agent/LogicalNode.java
+346,346 a6a6dbf8029436300dee63de02cce2928b828fbe^ src/java/com/cloudera/flume/agent/LogicalNode.java
+358,358 a6a6dbf8029436300dee63de02cce2928b828fbe^ src/java/com/cloudera/flume/agent/LogicalNode.java
+127,127 a6a6dbf8029436300dee63de02cce2928b828fbe^ src/java/com/cloudera/flume/agent/LogicalNodeManager.java
+130,130 a6a6dbf8029436300dee63de02cce2928b828fbe^ src/java/com/cloudera/flume/agent/LogicalNodeManager.java
+113,113 a6a6dbf8029436300dee63de02cce2928b828fbe^ src/java/com/cloudera/flume/core/EventSink.java
+100,100 a6a6dbf8029436300dee63de02cce2928b828fbe^ src/java/com/cloudera/flume/core/connector/DirectDriver.java
+101,101 a6a6dbf8029436300dee63de02cce2928b828fbe^ src/java/com/cloudera/flume/handlers/debug/InsistentAppendDecorator.java
+108,108 a6a6dbf8029436300dee63de02cce2928b828fbe^ src/java/com/cloudera/flume/handlers/debug/InsistentOpenDecorator.java
+206,206 a6a6dbf8029436300dee63de02cce2928b828fbe^ src/java/com/cloudera/flume/handlers/debug/InsistentOpenDecorator.java

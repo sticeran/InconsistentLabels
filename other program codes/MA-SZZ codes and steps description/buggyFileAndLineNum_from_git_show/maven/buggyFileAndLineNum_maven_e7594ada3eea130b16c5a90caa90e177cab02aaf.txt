@@ -1,0 +1,14 @@
+20,20 e7594ada3eea130b16c5a90caa90e177cab02aaf^ bootstrap/bootstrap-installer/src/main/java/org/apache/maven/bootstrap/installer/BootstrapInstaller.java
+21,21 e7594ada3eea130b16c5a90caa90e177cab02aaf^ bootstrap/bootstrap-installer/src/main/java/org/apache/maven/bootstrap/installer/BootstrapInstaller.java
+50,50 e7594ada3eea130b16c5a90caa90e177cab02aaf^ bootstrap/bootstrap-installer/src/main/java/org/apache/maven/bootstrap/installer/BootstrapInstaller.java
+65,65 e7594ada3eea130b16c5a90caa90e177cab02aaf^ bootstrap/bootstrap-installer/src/main/java/org/apache/maven/bootstrap/installer/BootstrapInstaller.java
+81,81 e7594ada3eea130b16c5a90caa90e177cab02aaf^ bootstrap/bootstrap-installer/src/main/java/org/apache/maven/bootstrap/installer/BootstrapInstaller.java
+133,133 e7594ada3eea130b16c5a90caa90e177cab02aaf^ bootstrap/bootstrap-installer/src/main/java/org/apache/maven/bootstrap/installer/BootstrapInstaller.java
+136,136 e7594ada3eea130b16c5a90caa90e177cab02aaf^ bootstrap/bootstrap-installer/src/main/java/org/apache/maven/bootstrap/installer/BootstrapInstaller.java
+144,144 e7594ada3eea130b16c5a90caa90e177cab02aaf^ bootstrap/bootstrap-installer/src/main/java/org/apache/maven/bootstrap/installer/BootstrapInstaller.java
+141,141 e7594ada3eea130b16c5a90caa90e177cab02aaf^ bootstrap/bootstrap-mini/src/main/java/org/apache/maven/bootstrap/Bootstrap.java
+214,214 e7594ada3eea130b16c5a90caa90e177cab02aaf^ bootstrap/bootstrap-mini/src/main/java/org/apache/maven/bootstrap/Bootstrap.java
+237,237 e7594ada3eea130b16c5a90caa90e177cab02aaf^ bootstrap/bootstrap-mini/src/main/java/org/apache/maven/bootstrap/Bootstrap.java
+356,356 e7594ada3eea130b16c5a90caa90e177cab02aaf^ bootstrap/bootstrap-mini/src/main/java/org/apache/maven/bootstrap/Bootstrap.java
+412,412 e7594ada3eea130b16c5a90caa90e177cab02aaf^ bootstrap/bootstrap-mini/src/main/java/org/apache/maven/bootstrap/Bootstrap.java
+429,429 e7594ada3eea130b16c5a90caa90e177cab02aaf^ bootstrap/bootstrap-mini/src/main/java/org/apache/maven/bootstrap/Bootstrap.java

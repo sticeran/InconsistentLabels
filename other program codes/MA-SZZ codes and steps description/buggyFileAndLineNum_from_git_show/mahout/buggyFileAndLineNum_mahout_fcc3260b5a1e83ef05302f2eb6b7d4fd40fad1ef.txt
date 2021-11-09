@@ -1,0 +1,2 @@
+86,86 fcc3260b5a1e83ef05302f2eb6b7d4fd40fad1ef^ integration/src/main/java/org/apache/mahout/text/SequenceFilesFromMailArchives.java
+115,115 fcc3260b5a1e83ef05302f2eb6b7d4fd40fad1ef^ integration/src/main/java/org/apache/mahout/text/SequenceFilesFromMailArchives.java

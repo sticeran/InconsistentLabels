@@ -1,0 +1,2 @@
+53,53 9e99fe5e65cdcb488d1a22eb5c20a165bb4bc5f2^ maven-compat/src/main/java/org/apache/maven/artifact/manager/DefaultWagonManager.java
+172,172 9e99fe5e65cdcb488d1a22eb5c20a165bb4bc5f2^ maven-compat/src/main/java/org/apache/maven/artifact/manager/DefaultWagonManager.java

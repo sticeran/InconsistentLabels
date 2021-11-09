@@ -1,0 +1,11 @@
+155,155 60c1b6f7b6f2a4aca68fffb6c04356629b82f1e0^ maven-project-builder/src/main/java/org/apache/maven/project/processor/DistributionManagementProcessor.java
+161,161 60c1b6f7b6f2a4aca68fffb6c04356629b82f1e0^ maven-project-builder/src/main/java/org/apache/maven/project/processor/DistributionManagementProcessor.java
+135,135 60c1b6f7b6f2a4aca68fffb6c04356629b82f1e0^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+140,140 60c1b6f7b6f2a4aca68fffb6c04356629b82f1e0^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+144,144 60c1b6f7b6f2a4aca68fffb6c04356629b82f1e0^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+152,152 60c1b6f7b6f2a4aca68fffb6c04356629b82f1e0^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+157,157 60c1b6f7b6f2a4aca68fffb6c04356629b82f1e0^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+162,162 60c1b6f7b6f2a4aca68fffb6c04356629b82f1e0^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+185,185 60c1b6f7b6f2a4aca68fffb6c04356629b82f1e0^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+189,189 60c1b6f7b6f2a4aca68fffb6c04356629b82f1e0^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+195,195 60c1b6f7b6f2a4aca68fffb6c04356629b82f1e0^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java

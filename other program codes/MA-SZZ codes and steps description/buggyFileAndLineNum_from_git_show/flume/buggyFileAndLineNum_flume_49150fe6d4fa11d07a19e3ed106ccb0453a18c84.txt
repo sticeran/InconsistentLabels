@@ -1,0 +1,5 @@
+97,97 49150fe6d4fa11d07a19e3ed106ccb0453a18c84^ flume-ng-auth/src/main/java/org/apache/flume/api/SecureThriftRpcClient.java
+98,98 49150fe6d4fa11d07a19e3ed106ccb0453a18c84^ flume-ng-auth/src/main/java/org/apache/flume/api/SecureThriftRpcClient.java
+99,99 49150fe6d4fa11d07a19e3ed106ccb0453a18c84^ flume-ng-auth/src/main/java/org/apache/flume/api/SecureThriftRpcClient.java
+100,100 49150fe6d4fa11d07a19e3ed106ccb0453a18c84^ flume-ng-auth/src/main/java/org/apache/flume/api/SecureThriftRpcClient.java
+101,101 49150fe6d4fa11d07a19e3ed106ccb0453a18c84^ flume-ng-auth/src/main/java/org/apache/flume/api/SecureThriftRpcClient.java

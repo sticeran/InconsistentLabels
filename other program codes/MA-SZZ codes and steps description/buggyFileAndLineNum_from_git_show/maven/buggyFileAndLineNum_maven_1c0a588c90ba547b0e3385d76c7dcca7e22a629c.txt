@@ -1,0 +1,2 @@
+225,225 1c0a588c90ba547b0e3385d76c7dcca7e22a629c^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginCache.java
+483,483 1c0a588c90ba547b0e3385d76c7dcca7e22a629c^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java

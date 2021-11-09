@@ -1,0 +1,12 @@
+35,35 826f3e2a86262c620ecbb7380dd11320cf4f0711^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/transform/LatestArtifactTransformation.java
+38,38 826f3e2a86262c620ecbb7380dd11320cf4f0711^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/transform/LatestArtifactTransformation.java
+39,39 826f3e2a86262c620ecbb7380dd11320cf4f0711^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/transform/LatestArtifactTransformation.java
+37,37 826f3e2a86262c620ecbb7380dd11320cf4f0711^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/transform/ReleaseArtifactTransformation.java
+42,42 826f3e2a86262c620ecbb7380dd11320cf4f0711^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/transform/ReleaseArtifactTransformation.java
+47,47 826f3e2a86262c620ecbb7380dd11320cf4f0711^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/transform/ReleaseArtifactTransformation.java
+50,50 826f3e2a86262c620ecbb7380dd11320cf4f0711^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/transform/ReleaseArtifactTransformation.java
+51,51 826f3e2a86262c620ecbb7380dd11320cf4f0711^ maven-artifact-manager/src/main/java/org/apache/maven/artifact/transform/ReleaseArtifactTransformation.java
+25,25 826f3e2a86262c620ecbb7380dd11320cf4f0711^ maven-core/src/main/java/org/apache/maven/plugin/version/DefaultPluginVersionManager.java
+130,130 826f3e2a86262c620ecbb7380dd11320cf4f0711^ maven-core/src/main/java/org/apache/maven/plugin/version/DefaultPluginVersionManager.java
+131,131 826f3e2a86262c620ecbb7380dd11320cf4f0711^ maven-core/src/main/java/org/apache/maven/plugin/version/DefaultPluginVersionManager.java
+191,191 826f3e2a86262c620ecbb7380dd11320cf4f0711^ maven-core/src/main/java/org/apache/maven/plugin/version/DefaultPluginVersionManager.java

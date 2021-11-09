@@ -1,0 +1,11 @@
+373,373 24f81426cb138d8191f59df8d69dd28867142cd8^ zeppelin-zengine/src/main/java/org/apache/zeppelin/interpreter/InterpreterSetting.java
+656,656 24f81426cb138d8191f59df8d69dd28867142cd8^ zeppelin-zengine/src/main/java/org/apache/zeppelin/interpreter/InterpreterSetting.java
+786,786 24f81426cb138d8191f59df8d69dd28867142cd8^ zeppelin-zengine/src/main/java/org/apache/zeppelin/interpreter/InterpreterSettingManager.java
+787,787 24f81426cb138d8191f59df8d69dd28867142cd8^ zeppelin-zengine/src/main/java/org/apache/zeppelin/interpreter/InterpreterSettingManager.java
+788,788 24f81426cb138d8191f59df8d69dd28867142cd8^ zeppelin-zengine/src/main/java/org/apache/zeppelin/interpreter/InterpreterSettingManager.java
+789,789 24f81426cb138d8191f59df8d69dd28867142cd8^ zeppelin-zengine/src/main/java/org/apache/zeppelin/interpreter/InterpreterSettingManager.java
+790,790 24f81426cb138d8191f59df8d69dd28867142cd8^ zeppelin-zengine/src/main/java/org/apache/zeppelin/interpreter/InterpreterSettingManager.java
+88,88 24f81426cb138d8191f59df8d69dd28867142cd8^ zeppelin-zengine/src/main/java/org/apache/zeppelin/interpreter/ManagedInterpreterGroup.java
+136,136 24f81426cb138d8191f59df8d69dd28867142cd8^ zeppelin-zengine/src/main/java/org/apache/zeppelin/interpreter/ManagedInterpreterGroup.java
+185,185 24f81426cb138d8191f59df8d69dd28867142cd8^ zeppelin-zengine/src/test/java/org/apache/zeppelin/interpreter/InterpreterSettingManagerTest.java
+186,186 24f81426cb138d8191f59df8d69dd28867142cd8^ zeppelin-zengine/src/test/java/org/apache/zeppelin/interpreter/InterpreterSettingManagerTest.java

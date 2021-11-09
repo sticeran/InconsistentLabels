@@ -1,0 +1,4 @@
+755,755 8980f67b9b1d0dbc06b68f74a88b9f8589c40e23^ maven-core/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java
+74,74 8980f67b9b1d0dbc06b68f74a88b9f8589c40e23^ maven-core/src/main/java/org/apache/maven/settings/DefaultMavenSettingsBuilder.java
+1166,1166 8980f67b9b1d0dbc06b68f74a88b9f8589c40e23^ maven-embedder/src/main/java/org/apache/maven/cli/MavenCli.java
+109,109 8980f67b9b1d0dbc06b68f74a88b9f8589c40e23^ maven-settings-builder/src/main/java/org/apache/maven/settings/building/DefaultSettingsBuildingRequest.java

@@ -1,0 +1,9 @@
+102,102 e778ea67121f17232a7dced3fb4f0a205ffa64af^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+109,109 e778ea67121f17232a7dced3fb4f0a205ffa64af^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+259,259 e778ea67121f17232a7dced3fb4f0a205ffa64af^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+276,276 e778ea67121f17232a7dced3fb4f0a205ffa64af^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+337,337 e778ea67121f17232a7dced3fb4f0a205ffa64af^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+339,339 e778ea67121f17232a7dced3fb4f0a205ffa64af^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+676,676 e778ea67121f17232a7dced3fb4f0a205ffa64af^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+678,678 e778ea67121f17232a7dced3fb4f0a205ffa64af^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java
+683,683 e778ea67121f17232a7dced3fb4f0a205ffa64af^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java

@@ -1,0 +1,17 @@
+508,508 552ab6d2b3876d95bd7b33ea82ef1f0ff77079d8^ maven-core/src/main/java/org/apache/maven/DefaultMaven.java
+62,62 552ab6d2b3876d95bd7b33ea82ef1f0ff77079d8^ maven-core/src/main/java/org/apache/maven/execution/DefaultMavenExecutionRequest.java
+63,63 552ab6d2b3876d95bd7b33ea82ef1f0ff77079d8^ maven-core/src/main/java/org/apache/maven/execution/DefaultMavenExecutionRequest.java
+64,64 552ab6d2b3876d95bd7b33ea82ef1f0ff77079d8^ maven-core/src/main/java/org/apache/maven/execution/DefaultMavenExecutionRequest.java
+65,65 552ab6d2b3876d95bd7b33ea82ef1f0ff77079d8^ maven-core/src/main/java/org/apache/maven/execution/DefaultMavenExecutionRequest.java
+66,66 552ab6d2b3876d95bd7b33ea82ef1f0ff77079d8^ maven-core/src/main/java/org/apache/maven/execution/DefaultMavenExecutionRequest.java
+67,67 552ab6d2b3876d95bd7b33ea82ef1f0ff77079d8^ maven-core/src/main/java/org/apache/maven/execution/DefaultMavenExecutionRequest.java
+68,68 552ab6d2b3876d95bd7b33ea82ef1f0ff77079d8^ maven-core/src/main/java/org/apache/maven/execution/DefaultMavenExecutionRequest.java
+56,56 552ab6d2b3876d95bd7b33ea82ef1f0ff77079d8^ maven-core/src/main/java/org/apache/maven/execution/MavenSession.java
+57,57 552ab6d2b3876d95bd7b33ea82ef1f0ff77079d8^ maven-core/src/main/java/org/apache/maven/execution/MavenSession.java
+58,58 552ab6d2b3876d95bd7b33ea82ef1f0ff77079d8^ maven-core/src/main/java/org/apache/maven/execution/MavenSession.java
+59,59 552ab6d2b3876d95bd7b33ea82ef1f0ff77079d8^ maven-core/src/main/java/org/apache/maven/execution/MavenSession.java
+60,60 552ab6d2b3876d95bd7b33ea82ef1f0ff77079d8^ maven-core/src/main/java/org/apache/maven/execution/MavenSession.java
+61,61 552ab6d2b3876d95bd7b33ea82ef1f0ff77079d8^ maven-core/src/main/java/org/apache/maven/execution/MavenSession.java
+62,62 552ab6d2b3876d95bd7b33ea82ef1f0ff77079d8^ maven-core/src/main/java/org/apache/maven/execution/MavenSession.java
+63,63 552ab6d2b3876d95bd7b33ea82ef1f0ff77079d8^ maven-core/src/main/java/org/apache/maven/execution/MavenSession.java
+124,124 552ab6d2b3876d95bd7b33ea82ef1f0ff77079d8^ maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycleExecutor.java

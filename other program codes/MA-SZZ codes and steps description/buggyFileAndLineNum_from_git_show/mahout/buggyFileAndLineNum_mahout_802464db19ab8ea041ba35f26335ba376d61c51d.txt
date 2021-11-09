@@ -1,0 +1,8 @@
+34,34 802464db19ab8ea041ba35f26335ba376d61c51d^ math/src/main/java/org/apache/mahout/math/random/Multinomial.java
+35,35 802464db19ab8ea041ba35f26335ba376d61c51d^ math/src/main/java/org/apache/mahout/math/random/Multinomial.java
+36,36 802464db19ab8ea041ba35f26335ba376d61c51d^ math/src/main/java/org/apache/mahout/math/random/Multinomial.java
+37,37 802464db19ab8ea041ba35f26335ba376d61c51d^ math/src/main/java/org/apache/mahout/math/random/Multinomial.java
+185,185 802464db19ab8ea041ba35f26335ba376d61c51d^ math/src/main/java/org/apache/mahout/math/random/Multinomial.java
+29,29 802464db19ab8ea041ba35f26335ba376d61c51d^ math/src/test/java/org/apache/mahout/math/random/MultinomialTest.java
+30,30 802464db19ab8ea041ba35f26335ba376d61c51d^ math/src/test/java/org/apache/mahout/math/random/MultinomialTest.java
+31,31 802464db19ab8ea041ba35f26335ba376d61c51d^ math/src/test/java/org/apache/mahout/math/random/MultinomialTest.java

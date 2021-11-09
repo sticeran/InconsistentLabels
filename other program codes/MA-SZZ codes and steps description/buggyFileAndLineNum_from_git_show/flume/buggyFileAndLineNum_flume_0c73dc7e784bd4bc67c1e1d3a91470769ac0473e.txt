@@ -1,0 +1,3 @@
+794,794 0c73dc7e784bd4bc67c1e1d3a91470769ac0473e^ flume-ng-channels/flume-file-channel/src/test/java/org/apache/flume/channel/file/TestFileChannel.java
+825,825 0c73dc7e784bd4bc67c1e1d3a91470769ac0473e^ flume-ng-channels/flume-file-channel/src/test/java/org/apache/flume/channel/file/TestFileChannel.java
+919,919 0c73dc7e784bd4bc67c1e1d3a91470769ac0473e^ flume-ng-channels/flume-file-channel/src/test/java/org/apache/flume/channel/file/TestFileChannel.java

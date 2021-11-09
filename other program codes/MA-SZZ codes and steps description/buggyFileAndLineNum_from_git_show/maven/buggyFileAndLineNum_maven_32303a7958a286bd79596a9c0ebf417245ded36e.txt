@@ -1,0 +1,2 @@
+333,333 32303a7958a286bd79596a9c0ebf417245ded36e^ maven-plugins/maven-eclipse-plugin/src/main/java/org/apache/maven/plugin/eclipse/EclipseWriter.java
+131,131 32303a7958a286bd79596a9c0ebf417245ded36e^ maven-plugins/maven-eclipse-plugin/src/test/java/org/apache/maven/plugin/eclipse/EclipsePluginTest.java

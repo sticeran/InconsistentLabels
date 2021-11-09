@@ -1,0 +1,5 @@
+70,70 269c956ea6ed6cdfca26478b8f3743fe076894ce^ maven-compat/src/main/java/org/apache/maven/repository/legacy/DefaultWagonManager.java
+71,71 269c956ea6ed6cdfca26478b8f3743fe076894ce^ maven-compat/src/main/java/org/apache/maven/repository/legacy/DefaultWagonManager.java
+689,689 269c956ea6ed6cdfca26478b8f3743fe076894ce^ maven-compat/src/main/java/org/apache/maven/repository/legacy/DefaultWagonManager.java
+691,691 269c956ea6ed6cdfca26478b8f3743fe076894ce^ maven-compat/src/main/java/org/apache/maven/repository/legacy/DefaultWagonManager.java
+699,699 269c956ea6ed6cdfca26478b8f3743fe076894ce^ maven-compat/src/main/java/org/apache/maven/repository/legacy/DefaultWagonManager.java

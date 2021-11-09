@@ -1,0 +1,4 @@
+23,23 0f81b6d6132471ddf0e91cc3738da1ff365604f8^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/user/AuthenticationInfo.java
+25,25 0f81b6d6132471ddf0e91cc3738da1ff365604f8^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/user/AuthenticationInfo.java
+60,60 0f81b6d6132471ddf0e91cc3738da1ff365604f8^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/user/AuthenticationInfo.java
+61,61 0f81b6d6132471ddf0e91cc3738da1ff365604f8^ zeppelin-interpreter/src/main/java/org/apache/zeppelin/user/AuthenticationInfo.java

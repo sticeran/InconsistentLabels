@@ -1,0 +1,3 @@
+151,151 71cb5dc39938e4ca219729c8e0d1198cb6a79c39^ maven-core/src/main/java/org/apache/maven/DefaultMaven.java
+292,292 71cb5dc39938e4ca219729c8e0d1198cb6a79c39^ maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycleExecutor.java
+239,239 71cb5dc39938e4ca219729c8e0d1198cb6a79c39^ maven-plugin-tools/maven-plugin-tools-java/src/main/java/org/apache/maven/tools/plugin/extractor/java/JavaMojoDescriptorExtractor.java

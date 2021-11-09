@@ -1,0 +1,16 @@
+100,100 2a134d6eec8bb97c6b9c87ec34667b11c81b4679^ flume-core/src/main/java/com/cloudera/flume/agent/diskfailover/DiskFailoverManager.java
+44,44 2a134d6eec8bb97c6b9c87ec34667b11c81b4679^ flume-core/src/main/java/com/cloudera/flume/agent/diskfailover/DiskFailoverSource.java
+77,77 2a134d6eec8bb97c6b9c87ec34667b11c81b4679^ flume-core/src/main/java/com/cloudera/flume/agent/diskfailover/DiskFailoverSource.java
+102,102 2a134d6eec8bb97c6b9c87ec34667b11c81b4679^ flume-core/src/main/java/com/cloudera/flume/agent/diskfailover/DiskFailoverSource.java
+98,98 2a134d6eec8bb97c6b9c87ec34667b11c81b4679^ flume-core/src/main/java/com/cloudera/flume/agent/diskfailover/NaiveFileFailoverManager.java
+493,493 2a134d6eec8bb97c6b9c87ec34667b11c81b4679^ flume-core/src/main/java/com/cloudera/flume/agent/diskfailover/NaiveFileFailoverManager.java
+522,522 2a134d6eec8bb97c6b9c87ec34667b11c81b4679^ flume-core/src/main/java/com/cloudera/flume/agent/diskfailover/NaiveFileFailoverManager.java
+102,102 2a134d6eec8bb97c6b9c87ec34667b11c81b4679^ flume-core/src/main/java/com/cloudera/flume/agent/durability/NaiveFileWALManager.java
+175,175 2a134d6eec8bb97c6b9c87ec34667b11c81b4679^ flume-core/src/main/java/com/cloudera/flume/agent/durability/NaiveFileWALManager.java
+200,200 2a134d6eec8bb97c6b9c87ec34667b11c81b4679^ flume-core/src/main/java/com/cloudera/flume/agent/durability/NaiveFileWALManager.java
+716,716 2a134d6eec8bb97c6b9c87ec34667b11c81b4679^ flume-core/src/main/java/com/cloudera/flume/agent/durability/NaiveFileWALManager.java
+726,726 2a134d6eec8bb97c6b9c87ec34667b11c81b4679^ flume-core/src/main/java/com/cloudera/flume/agent/durability/NaiveFileWALManager.java
+734,734 2a134d6eec8bb97c6b9c87ec34667b11c81b4679^ flume-core/src/main/java/com/cloudera/flume/agent/durability/NaiveFileWALManager.java
+102,102 2a134d6eec8bb97c6b9c87ec34667b11c81b4679^ flume-core/src/main/java/com/cloudera/flume/agent/durability/WALManager.java
+49,49 2a134d6eec8bb97c6b9c87ec34667b11c81b4679^ flume-core/src/main/java/com/cloudera/flume/agent/durability/WALSource.java
+104,104 2a134d6eec8bb97c6b9c87ec34667b11c81b4679^ flume-core/src/main/java/com/cloudera/flume/agent/durability/WALSource.java

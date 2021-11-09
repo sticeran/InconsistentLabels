@@ -1,0 +1,8 @@
+460,460 02cbed3d5ab45caeda78352adf5db62ac413a694^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+503,503 02cbed3d5ab45caeda78352adf5db62ac413a694^ maven-compat/src/main/java/org/apache/maven/artifact/resolver/DefaultArtifactResolver.java
+81,81 02cbed3d5ab45caeda78352adf5db62ac413a694^ maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/DefaultLegacyArtifactCollector.java
+91,91 02cbed3d5ab45caeda78352adf5db62ac413a694^ maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/DefaultLegacyArtifactCollector.java
+229,229 02cbed3d5ab45caeda78352adf5db62ac413a694^ maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/DefaultLegacyArtifactCollector.java
+571,571 02cbed3d5ab45caeda78352adf5db62ac413a694^ maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/DefaultLegacyArtifactCollector.java
+49,49 02cbed3d5ab45caeda78352adf5db62ac413a694^ maven-compat/src/main/java/org/apache/maven/repository/legacy/resolver/LegacyArtifactCollector.java
+506,506 02cbed3d5ab45caeda78352adf5db62ac413a694^ maven-core/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java

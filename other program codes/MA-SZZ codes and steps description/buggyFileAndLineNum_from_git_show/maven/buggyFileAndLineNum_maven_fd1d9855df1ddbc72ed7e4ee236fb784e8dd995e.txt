@@ -1,0 +1,13 @@
+533,533 fd1d9855df1ddbc72ed7e4ee236fb784e8dd995e^ maven-project-builder/src/main/java/org/apache/maven/project/builder/PomTransformer.java
+534,534 fd1d9855df1ddbc72ed7e4ee236fb784e8dd995e^ maven-project-builder/src/main/java/org/apache/maven/project/builder/PomTransformer.java
+537,537 fd1d9855df1ddbc72ed7e4ee236fb784e8dd995e^ maven-project-builder/src/main/java/org/apache/maven/project/builder/PomTransformer.java
+538,538 fd1d9855df1ddbc72ed7e4ee236fb784e8dd995e^ maven-project-builder/src/main/java/org/apache/maven/project/builder/PomTransformer.java
+539,539 fd1d9855df1ddbc72ed7e4ee236fb784e8dd995e^ maven-project-builder/src/main/java/org/apache/maven/project/builder/PomTransformer.java
+540,540 fd1d9855df1ddbc72ed7e4ee236fb784e8dd995e^ maven-project-builder/src/main/java/org/apache/maven/project/builder/PomTransformer.java
+541,541 fd1d9855df1ddbc72ed7e4ee236fb784e8dd995e^ maven-project-builder/src/main/java/org/apache/maven/project/builder/PomTransformer.java
+542,542 fd1d9855df1ddbc72ed7e4ee236fb784e8dd995e^ maven-project-builder/src/main/java/org/apache/maven/project/builder/PomTransformer.java
+543,543 fd1d9855df1ddbc72ed7e4ee236fb784e8dd995e^ maven-project-builder/src/main/java/org/apache/maven/project/builder/PomTransformer.java
+544,544 fd1d9855df1ddbc72ed7e4ee236fb784e8dd995e^ maven-project-builder/src/main/java/org/apache/maven/project/builder/PomTransformer.java
+309,309 fd1d9855df1ddbc72ed7e4ee236fb784e8dd995e^ maven-project/src/main/java/org/apache/maven/project/builder/PomClassicDomainModel.java
+228,228 fd1d9855df1ddbc72ed7e4ee236fb784e8dd995e^ maven-project/src/main/java/org/apache/maven/project/builder/impl/DefaultProjectBuilder.java
+839,839 fd1d9855df1ddbc72ed7e4ee236fb784e8dd995e^ maven-project/src/test/java/org/apache/maven/project/builder/PomConstructionTest.java

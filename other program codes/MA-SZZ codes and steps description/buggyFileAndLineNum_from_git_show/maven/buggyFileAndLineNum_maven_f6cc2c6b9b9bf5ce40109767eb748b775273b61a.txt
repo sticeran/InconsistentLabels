@@ -1,0 +1,13 @@
+255,255 f6cc2c6b9b9bf5ce40109767eb748b775273b61a^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java
+256,256 f6cc2c6b9b9bf5ce40109767eb748b775273b61a^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java
+257,257 f6cc2c6b9b9bf5ce40109767eb748b775273b61a^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java
+258,258 f6cc2c6b9b9bf5ce40109767eb748b775273b61a^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java
+259,259 f6cc2c6b9b9bf5ce40109767eb748b775273b61a^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java
+260,260 f6cc2c6b9b9bf5ce40109767eb748b775273b61a^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java
+262,262 f6cc2c6b9b9bf5ce40109767eb748b775273b61a^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java
+264,264 f6cc2c6b9b9bf5ce40109767eb748b775273b61a^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java
+265,265 f6cc2c6b9b9bf5ce40109767eb748b775273b61a^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java
+266,266 f6cc2c6b9b9bf5ce40109767eb748b775273b61a^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java
+267,267 f6cc2c6b9b9bf5ce40109767eb748b775273b61a^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java
+269,269 f6cc2c6b9b9bf5ce40109767eb748b775273b61a^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java
+270,270 f6cc2c6b9b9bf5ce40109767eb748b775273b61a^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java

@@ -1,0 +1,3 @@
+63,63 6b82e83024800c0c0e55d1da7282f0558a7278a4^ maven-core/src/main/java/org/apache/maven/lifecycle/internal/LifecyclePluginResolver.java
+84,84 6b82e83024800c0c0e55d1da7282f0558a7278a4^ maven-core/src/main/java/org/apache/maven/lifecycle/internal/MojoDescriptorCreator.java
+76,76 6b82e83024800c0c0e55d1da7282f0558a7278a4^ maven-core/src/test/java/org/apache/maven/lifecycle/internal/LifecycleExecutionPlanCalculatorTest.java

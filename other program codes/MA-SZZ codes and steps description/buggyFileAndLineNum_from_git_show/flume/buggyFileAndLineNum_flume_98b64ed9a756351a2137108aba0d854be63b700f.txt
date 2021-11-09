@@ -1,0 +1,3 @@
+116,116 98b64ed9a756351a2137108aba0d854be63b700f^ flume-core/src/main/java/com/cloudera/flume/handlers/debug/InsistentAppendDecorator.java
+122,122 98b64ed9a756351a2137108aba0d854be63b700f^ flume-core/src/main/java/com/cloudera/flume/handlers/debug/InsistentOpenDecorator.java
+81,81 98b64ed9a756351a2137108aba0d854be63b700f^ flume-core/src/main/java/com/cloudera/flume/handlers/debug/StubbornAppendSink.java

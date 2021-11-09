@@ -1,0 +1,4 @@
+229,229 851235755de06bda588574d950d51b1a2e622be4^ flume-ng-core/src/main/java/org/apache/flume/lifecycle/LifecycleSupervisor.java
+261,261 851235755de06bda588574d950d51b1a2e622be4^ flume-ng-core/src/main/java/org/apache/flume/lifecycle/LifecycleSupervisor.java
+286,286 851235755de06bda588574d950d51b1a2e622be4^ flume-ng-core/src/main/java/org/apache/flume/lifecycle/LifecycleSupervisor.java
+111,111 851235755de06bda588574d950d51b1a2e622be4^ flume-ng-node/src/main/java/org/apache/flume/node/nodemanager/DefaultLogicalNodeManager.java

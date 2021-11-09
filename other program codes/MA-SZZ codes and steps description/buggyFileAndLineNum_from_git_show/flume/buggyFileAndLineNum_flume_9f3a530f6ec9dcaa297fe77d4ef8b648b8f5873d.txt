@@ -1,0 +1,13 @@
+39,39 9f3a530f6ec9dcaa297fe77d4ef8b648b8f5873d^ flume-ng-core/src/main/java/org/apache/flume/source/ThriftSource.java
+45,45 9f3a530f6ec9dcaa297fe77d4ef8b648b8f5873d^ flume-ng-core/src/main/java/org/apache/flume/source/ThriftSource.java
+113,113 9f3a530f6ec9dcaa297fe77d4ef8b648b8f5873d^ flume-ng-core/src/main/java/org/apache/flume/source/ThriftSource.java
+114,114 9f3a530f6ec9dcaa297fe77d4ef8b648b8f5873d^ flume-ng-core/src/main/java/org/apache/flume/source/ThriftSource.java
+115,115 9f3a530f6ec9dcaa297fe77d4ef8b648b8f5873d^ flume-ng-core/src/main/java/org/apache/flume/source/ThriftSource.java
+116,116 9f3a530f6ec9dcaa297fe77d4ef8b648b8f5873d^ flume-ng-core/src/main/java/org/apache/flume/source/ThriftSource.java
+170,170 9f3a530f6ec9dcaa297fe77d4ef8b648b8f5873d^ flume-ng-core/src/main/java/org/apache/flume/source/ThriftSource.java
+171,171 9f3a530f6ec9dcaa297fe77d4ef8b648b8f5873d^ flume-ng-core/src/main/java/org/apache/flume/source/ThriftSource.java
+172,172 9f3a530f6ec9dcaa297fe77d4ef8b648b8f5873d^ flume-ng-core/src/main/java/org/apache/flume/source/ThriftSource.java
+173,173 9f3a530f6ec9dcaa297fe77d4ef8b648b8f5873d^ flume-ng-core/src/main/java/org/apache/flume/source/ThriftSource.java
+174,174 9f3a530f6ec9dcaa297fe77d4ef8b648b8f5873d^ flume-ng-core/src/main/java/org/apache/flume/source/ThriftSource.java
+175,175 9f3a530f6ec9dcaa297fe77d4ef8b648b8f5873d^ flume-ng-core/src/main/java/org/apache/flume/source/ThriftSource.java
+197,197 9f3a530f6ec9dcaa297fe77d4ef8b648b8f5873d^ flume-ng-core/src/main/java/org/apache/flume/source/ThriftSource.java

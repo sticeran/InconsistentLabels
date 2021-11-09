@@ -1,0 +1,13 @@
+241,241 91c58804da51a551fcbbe290261810c7750ee749^ flume-ng-core/src/test/java/org/apache/flume/client/avro/TestReliableSpoolingFileEventReader.java
+242,242 91c58804da51a551fcbbe290261810c7750ee749^ flume-ng-core/src/test/java/org/apache/flume/client/avro/TestReliableSpoolingFileEventReader.java
+243,243 91c58804da51a551fcbbe290261810c7750ee749^ flume-ng-core/src/test/java/org/apache/flume/client/avro/TestReliableSpoolingFileEventReader.java
+245,245 91c58804da51a551fcbbe290261810c7750ee749^ flume-ng-core/src/test/java/org/apache/flume/client/avro/TestReliableSpoolingFileEventReader.java
+248,248 91c58804da51a551fcbbe290261810c7750ee749^ flume-ng-core/src/test/java/org/apache/flume/client/avro/TestReliableSpoolingFileEventReader.java
+255,255 91c58804da51a551fcbbe290261810c7750ee749^ flume-ng-core/src/test/java/org/apache/flume/client/avro/TestReliableSpoolingFileEventReader.java
+261,261 91c58804da51a551fcbbe290261810c7750ee749^ flume-ng-core/src/test/java/org/apache/flume/client/avro/TestReliableSpoolingFileEventReader.java
+262,262 91c58804da51a551fcbbe290261810c7750ee749^ flume-ng-core/src/test/java/org/apache/flume/client/avro/TestReliableSpoolingFileEventReader.java
+271,271 91c58804da51a551fcbbe290261810c7750ee749^ flume-ng-core/src/test/java/org/apache/flume/client/avro/TestReliableSpoolingFileEventReader.java
+499,499 91c58804da51a551fcbbe290261810c7750ee749^ flume-ng-core/src/test/java/org/apache/flume/client/avro/TestReliableSpoolingFileEventReader.java
+505,505 91c58804da51a551fcbbe290261810c7750ee749^ flume-ng-core/src/test/java/org/apache/flume/client/avro/TestReliableSpoolingFileEventReader.java
+513,513 91c58804da51a551fcbbe290261810c7750ee749^ flume-ng-core/src/test/java/org/apache/flume/client/avro/TestReliableSpoolingFileEventReader.java
+514,514 91c58804da51a551fcbbe290261810c7750ee749^ flume-ng-core/src/test/java/org/apache/flume/client/avro/TestReliableSpoolingFileEventReader.java

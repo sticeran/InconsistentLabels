@@ -1,0 +1,9 @@
+122,122 adfb3ddeb93477292017cf9cdec9b30dbcfd0884^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+401,401 adfb3ddeb93477292017cf9cdec9b30dbcfd0884^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+333,333 adfb3ddeb93477292017cf9cdec9b30dbcfd0884^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+57,57 adfb3ddeb93477292017cf9cdec9b30dbcfd0884^ maven-project/src/main/java/org/apache/maven/project/builder/ProjectBuilder.java
+173,173 adfb3ddeb93477292017cf9cdec9b30dbcfd0884^ maven-project/src/main/java/org/apache/maven/project/builder/impl/DefaultProjectBuilder.java
+186,186 adfb3ddeb93477292017cf9cdec9b30dbcfd0884^ maven-project/src/main/java/org/apache/maven/project/builder/impl/DefaultProjectBuilder.java
+423,423 adfb3ddeb93477292017cf9cdec9b30dbcfd0884^ maven-project/src/main/java/org/apache/maven/project/builder/impl/DefaultProjectBuilder.java
+428,428 adfb3ddeb93477292017cf9cdec9b30dbcfd0884^ maven-project/src/main/java/org/apache/maven/project/builder/impl/DefaultProjectBuilder.java
+429,429 adfb3ddeb93477292017cf9cdec9b30dbcfd0884^ maven-project/src/main/java/org/apache/maven/project/builder/impl/DefaultProjectBuilder.java

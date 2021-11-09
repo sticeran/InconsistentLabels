@@ -1,0 +1,3 @@
+267,267 be5938801f60bac900ffe75554fa9f586f3d7095^ src/java/com/cloudera/flume/master/ConfigManager.java
+268,268 be5938801f60bac900ffe75554fa9f586f3d7095^ src/java/com/cloudera/flume/master/ConfigManager.java
+425,425 be5938801f60bac900ffe75554fa9f586f3d7095^ src/java/com/cloudera/flume/master/TranslatingConfigurationManager.java

@@ -1,0 +1,3 @@
+47,47 bb3ec5da71d26d105972392f0a20bc61bc5d8c53^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuildingHelper.java
+81,81 bb3ec5da71d26d105972392f0a20bc61bc5d8c53^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuildingHelper.java
+95,95 bb3ec5da71d26d105972392f0a20bc61bc5d8c53^ maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuildingHelper.java

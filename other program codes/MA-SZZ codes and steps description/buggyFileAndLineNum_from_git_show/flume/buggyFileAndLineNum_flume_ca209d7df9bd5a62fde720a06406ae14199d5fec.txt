@@ -1,0 +1,9 @@
+208,208 ca209d7df9bd5a62fde720a06406ae14199d5fec^ flume-core/src/main/java/com/cloudera/flume/handlers/rolling/RollSink.java
+209,209 ca209d7df9bd5a62fde720a06406ae14199d5fec^ flume-core/src/main/java/com/cloudera/flume/handlers/rolling/RollSink.java
+214,214 ca209d7df9bd5a62fde720a06406ae14199d5fec^ flume-core/src/main/java/com/cloudera/flume/handlers/rolling/RollSink.java
+231,231 ca209d7df9bd5a62fde720a06406ae14199d5fec^ flume-core/src/main/java/com/cloudera/flume/handlers/rolling/RollSink.java
+267,267 ca209d7df9bd5a62fde720a06406ae14199d5fec^ flume-core/src/main/java/com/cloudera/flume/handlers/rolling/RollSink.java
+296,296 ca209d7df9bd5a62fde720a06406ae14199d5fec^ flume-core/src/main/java/com/cloudera/flume/handlers/rolling/RollSink.java
+70,70 ca209d7df9bd5a62fde720a06406ae14199d5fec^ flume-core/src/test/java/com/cloudera/flume/handlers/rolling/TestRollRollTags.java
+82,82 ca209d7df9bd5a62fde720a06406ae14199d5fec^ flume-core/src/test/java/com/cloudera/flume/handlers/rolling/TestRollRollTags.java
+310,310 ca209d7df9bd5a62fde720a06406ae14199d5fec^ flume-core/src/test/java/com/cloudera/flume/handlers/rolling/TestRollSink.java

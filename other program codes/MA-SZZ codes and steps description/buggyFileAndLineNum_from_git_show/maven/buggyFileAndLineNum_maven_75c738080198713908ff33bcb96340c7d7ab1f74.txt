@@ -1,0 +1,12 @@
+37,37 75c738080198713908ff33bcb96340c7d7ab1f74^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+54,54 75c738080198713908ff33bcb96340c7d7ab1f74^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+55,55 75c738080198713908ff33bcb96340c7d7ab1f74^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+56,56 75c738080198713908ff33bcb96340c7d7ab1f74^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+57,57 75c738080198713908ff33bcb96340c7d7ab1f74^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+58,58 75c738080198713908ff33bcb96340c7d7ab1f74^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+59,59 75c738080198713908ff33bcb96340c7d7ab1f74^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+60,60 75c738080198713908ff33bcb96340c7d7ab1f74^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+61,61 75c738080198713908ff33bcb96340c7d7ab1f74^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+62,62 75c738080198713908ff33bcb96340c7d7ab1f74^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+63,63 75c738080198713908ff33bcb96340c7d7ab1f74^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java
+64,64 75c738080198713908ff33bcb96340c7d7ab1f74^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java

@@ -1,0 +1,4 @@
+1004,1004 d69fe06e8df14ceb0b2fbf72d3221bdec3831f24^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+1111,1111 d69fe06e8df14ceb0b2fbf72d3221bdec3831f24^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+1116,1116 d69fe06e8df14ceb0b2fbf72d3221bdec3831f24^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+1119,1119 d69fe06e8df14ceb0b2fbf72d3221bdec3831f24^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java

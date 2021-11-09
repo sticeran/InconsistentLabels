@@ -1,0 +1,1 @@
+29,29 10dc2036988cd84d78e1739604168cb13ae189cb^ samples/aspectj/src/test/java/org/apache/shiro/samples/aspectj/bank/SecureBankServiceTest.java

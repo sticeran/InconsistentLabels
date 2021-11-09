@@ -1,0 +1,15 @@
+25,25 d40d830ecdb137425072cf349e58f726f2d0ce73^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+53,53 d40d830ecdb137425072cf349e58f726f2d0ce73^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+145,145 d40d830ecdb137425072cf349e58f726f2d0ce73^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+146,146 d40d830ecdb137425072cf349e58f726f2d0ce73^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+147,147 d40d830ecdb137425072cf349e58f726f2d0ce73^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+148,148 d40d830ecdb137425072cf349e58f726f2d0ce73^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+149,149 d40d830ecdb137425072cf349e58f726f2d0ce73^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+150,150 d40d830ecdb137425072cf349e58f726f2d0ce73^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+151,151 d40d830ecdb137425072cf349e58f726f2d0ce73^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+152,152 d40d830ecdb137425072cf349e58f726f2d0ce73^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+153,153 d40d830ecdb137425072cf349e58f726f2d0ce73^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+155,155 d40d830ecdb137425072cf349e58f726f2d0ce73^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+210,210 d40d830ecdb137425072cf349e58f726f2d0ce73^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+46,46 d40d830ecdb137425072cf349e58f726f2d0ce73^ maven-project/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+243,243 d40d830ecdb137425072cf349e58f726f2d0ce73^ maven-project/src/main/java/org/apache/maven/project/MavenProject.java

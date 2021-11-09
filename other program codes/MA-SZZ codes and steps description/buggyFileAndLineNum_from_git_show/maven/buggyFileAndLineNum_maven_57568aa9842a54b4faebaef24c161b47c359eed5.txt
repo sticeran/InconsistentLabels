@@ -1,0 +1,2 @@
+53,53 57568aa9842a54b4faebaef24c161b47c359eed5^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+1300,1300 57568aa9842a54b4faebaef24c161b47c359eed5^ maven-project/src/test/java/org/apache/maven/project/PomConstructionTest.java

@@ -1,0 +1,3 @@
+465,465 bd80c5e67deda4ec146f19fc92ff0c3bff61a982^ flume-ng-sinks/flume-hive-sink/src/main/java/org/apache/flume/sink/hive/HiveSink.java
+466,466 bd80c5e67deda4ec146f19fc92ff0c3bff61a982^ flume-ng-sinks/flume-hive-sink/src/main/java/org/apache/flume/sink/hive/HiveSink.java
+349,349 bd80c5e67deda4ec146f19fc92ff0c3bff61a982^ flume-ng-sinks/flume-hive-sink/src/main/java/org/apache/flume/sink/hive/HiveWriter.java

@@ -1,0 +1,2 @@
+253,253 f3c978e962a3de435575690d521bf1c4448a6065^ maven-project-builder/src/main/java/org/apache/maven/project/builder/PomTransformer.java
+256,256 f3c978e962a3de435575690d521bf1c4448a6065^ maven-project-builder/src/main/java/org/apache/maven/project/builder/PomTransformer.java

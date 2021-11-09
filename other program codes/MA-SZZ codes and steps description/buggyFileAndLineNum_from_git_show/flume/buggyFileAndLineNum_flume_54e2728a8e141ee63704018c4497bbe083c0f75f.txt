@@ -1,0 +1,11 @@
+70,70 54e2728a8e141ee63704018c4497bbe083c0f75f^ flume-ng-sinks/flume-ng-kafka-sink/src/main/java/org/apache/flume/sink/kafka/KafkaSink.java
+175,175 54e2728a8e141ee63704018c4497bbe083c0f75f^ flume-ng-sinks/flume-ng-kafka-sink/src/main/java/org/apache/flume/sink/kafka/KafkaSink.java
+176,176 54e2728a8e141ee63704018c4497bbe083c0f75f^ flume-ng-sinks/flume-ng-kafka-sink/src/main/java/org/apache/flume/sink/kafka/KafkaSink.java
+177,177 54e2728a8e141ee63704018c4497bbe083c0f75f^ flume-ng-sinks/flume-ng-kafka-sink/src/main/java/org/apache/flume/sink/kafka/KafkaSink.java
+36,36 54e2728a8e141ee63704018c4497bbe083c0f75f^ flume-ng-sinks/flume-ng-kafka-sink/src/main/java/org/apache/flume/sink/kafka/KafkaSinkConstants.java
+253,253 54e2728a8e141ee63704018c4497bbe083c0f75f^ flume-ng-sources/flume-kafka-source/src/main/java/org/apache/flume/source/kafka/KafkaSource.java
+254,254 54e2728a8e141ee63704018c4497bbe083c0f75f^ flume-ng-sources/flume-kafka-source/src/main/java/org/apache/flume/source/kafka/KafkaSource.java
+52,52 54e2728a8e141ee63704018c4497bbe083c0f75f^ flume-ng-sources/flume-kafka-source/src/main/java/org/apache/flume/source/kafka/KafkaSourceConstants.java
+79,79 54e2728a8e141ee63704018c4497bbe083c0f75f^ flume-ng-sources/flume-kafka-source/src/test/java/org/apache/flume/source/kafka/TestKafkaSource.java
+559,559 54e2728a8e141ee63704018c4497bbe083c0f75f^ flume-ng-sources/flume-kafka-source/src/test/java/org/apache/flume/source/kafka/TestKafkaSource.java
+593,593 54e2728a8e141ee63704018c4497bbe083c0f75f^ flume-ng-sources/flume-kafka-source/src/test/java/org/apache/flume/source/kafka/TestKafkaSource.java

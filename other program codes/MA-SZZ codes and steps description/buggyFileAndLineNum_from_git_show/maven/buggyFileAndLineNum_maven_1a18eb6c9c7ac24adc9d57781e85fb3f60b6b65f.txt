@@ -1,0 +1,7 @@
+212,212 1a18eb6c9c7ac24adc9d57781e85fb3f60b6b65f^ maven-core/src/main/java/org/apache/maven/exception/DefaultExceptionHandler.java
+213,213 1a18eb6c9c7ac24adc9d57781e85fb3f60b6b65f^ maven-core/src/main/java/org/apache/maven/exception/DefaultExceptionHandler.java
+216,216 1a18eb6c9c7ac24adc9d57781e85fb3f60b6b65f^ maven-core/src/main/java/org/apache/maven/exception/DefaultExceptionHandler.java
+29,29 1a18eb6c9c7ac24adc9d57781e85fb3f60b6b65f^ maven-core/src/test/java/org/apache/maven/exception/DefaultExceptionHandlerTest.java
+42,42 1a18eb6c9c7ac24adc9d57781e85fb3f60b6b65f^ maven-core/src/test/java/org/apache/maven/exception/DefaultExceptionHandlerTest.java
+49,49 1a18eb6c9c7ac24adc9d57781e85fb3f60b6b65f^ maven-core/src/test/java/org/apache/maven/exception/DefaultExceptionHandlerTest.java
+50,50 1a18eb6c9c7ac24adc9d57781e85fb3f60b6b65f^ maven-core/src/test/java/org/apache/maven/exception/DefaultExceptionHandlerTest.java

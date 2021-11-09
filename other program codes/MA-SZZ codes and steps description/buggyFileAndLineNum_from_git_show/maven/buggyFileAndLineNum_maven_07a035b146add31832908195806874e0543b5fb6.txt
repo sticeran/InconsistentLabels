@@ -1,0 +1,3 @@
+296,296 07a035b146add31832908195806874e0543b5fb6^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+298,298 07a035b146add31832908195806874e0543b5fb6^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java
+305,305 07a035b146add31832908195806874e0543b5fb6^ maven-project/src/main/java/org/apache/maven/profiles/DefaultProfileManager.java

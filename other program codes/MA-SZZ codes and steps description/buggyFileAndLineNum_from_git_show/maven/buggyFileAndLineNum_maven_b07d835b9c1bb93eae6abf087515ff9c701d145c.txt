@@ -1,0 +1,13 @@
+197,197 b07d835b9c1bb93eae6abf087515ff9c701d145c^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/AbstractArtifactResolutionException.java
+19,19 b07d835b9c1bb93eae6abf087515ff9c701d145c^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/MultipleArtifactsNotFoundException.java
+21,21 b07d835b9c1bb93eae6abf087515ff9c701d145c^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/MultipleArtifactsNotFoundException.java
+23,23 b07d835b9c1bb93eae6abf087515ff9c701d145c^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/MultipleArtifactsNotFoundException.java
+25,25 b07d835b9c1bb93eae6abf087515ff9c701d145c^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/MultipleArtifactsNotFoundException.java
+26,26 b07d835b9c1bb93eae6abf087515ff9c701d145c^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/MultipleArtifactsNotFoundException.java
+27,27 b07d835b9c1bb93eae6abf087515ff9c701d145c^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/MultipleArtifactsNotFoundException.java
+28,28 b07d835b9c1bb93eae6abf087515ff9c701d145c^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/MultipleArtifactsNotFoundException.java
+30,30 b07d835b9c1bb93eae6abf087515ff9c701d145c^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/MultipleArtifactsNotFoundException.java
+40,40 b07d835b9c1bb93eae6abf087515ff9c701d145c^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/MultipleArtifactsNotFoundException.java
+54,54 b07d835b9c1bb93eae6abf087515ff9c701d145c^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/MultipleArtifactsNotFoundException.java
+64,64 b07d835b9c1bb93eae6abf087515ff9c701d145c^ maven-artifact/src/main/java/org/apache/maven/artifact/resolver/MultipleArtifactsNotFoundException.java
+199,199 b07d835b9c1bb93eae6abf087515ff9c701d145c^ maven-project/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java

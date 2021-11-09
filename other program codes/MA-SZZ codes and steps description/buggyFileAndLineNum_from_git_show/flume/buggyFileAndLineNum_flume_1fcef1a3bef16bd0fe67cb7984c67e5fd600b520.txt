@@ -1,0 +1,2 @@
+61,61 1fcef1a3bef16bd0fe67cb7984c67e5fd600b520^ flume-ng-sinks/flume-ng-hbase-sink/src/main/java/org/apache/flume/sink/hbase/RegexHbaseEventSerializer.java
+100,100 1fcef1a3bef16bd0fe67cb7984c67e5fd600b520^ flume-ng-sinks/flume-ng-hbase-sink/src/main/java/org/apache/flume/sink/hbase/RegexHbaseEventSerializer.java

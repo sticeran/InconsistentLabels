@@ -1,0 +1,12 @@
+336,336 336df5617b3a2ca43a8fe7b600508d8e8b0b9a25^ zeppelin-server/src/test/java/org/apache/zeppelin/rest/AbstractTestRestApi.java
+430,430 336df5617b3a2ca43a8fe7b600508d8e8b0b9a25^ zeppelin-server/src/test/java/org/apache/zeppelin/rest/AbstractTestRestApi.java
+431,431 336df5617b3a2ca43a8fe7b600508d8e8b0b9a25^ zeppelin-server/src/test/java/org/apache/zeppelin/rest/AbstractTestRestApi.java
+43,43 336df5617b3a2ca43a8fe7b600508d8e8b0b9a25^ zeppelin-server/src/test/java/org/apache/zeppelin/rest/SecurityRestApiTest.java
+53,53 336df5617b3a2ca43a8fe7b600508d8e8b0b9a25^ zeppelin-server/src/test/java/org/apache/zeppelin/rest/SecurityRestApiTest.java
+60,60 336df5617b3a2ca43a8fe7b600508d8e8b0b9a25^ zeppelin-server/src/test/java/org/apache/zeppelin/rest/SecurityRestApiTest.java
+63,63 336df5617b3a2ca43a8fe7b600508d8e8b0b9a25^ zeppelin-server/src/test/java/org/apache/zeppelin/rest/SecurityRestApiTest.java
+70,70 336df5617b3a2ca43a8fe7b600508d8e8b0b9a25^ zeppelin-server/src/test/java/org/apache/zeppelin/rest/SecurityRestApiTest.java
+78,78 336df5617b3a2ca43a8fe7b600508d8e8b0b9a25^ zeppelin-server/src/test/java/org/apache/zeppelin/rest/SecurityRestApiTest.java
+33,33 336df5617b3a2ca43a8fe7b600508d8e8b0b9a25^ zeppelin-server/src/test/java/org/apache/zeppelin/security/DirAccessTest.java
+46,46 336df5617b3a2ca43a8fe7b600508d8e8b0b9a25^ zeppelin-server/src/test/java/org/apache/zeppelin/security/DirAccessTest.java
+1184,1184 336df5617b3a2ca43a8fe7b600508d8e8b0b9a25^ zeppelin-zengine/src/test/java/org/apache/zeppelin/notebook/NotebookTest.java

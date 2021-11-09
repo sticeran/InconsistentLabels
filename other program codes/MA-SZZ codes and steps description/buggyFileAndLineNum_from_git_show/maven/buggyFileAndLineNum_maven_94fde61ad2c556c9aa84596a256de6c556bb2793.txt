@@ -1,0 +1,6 @@
+232,232 94fde61ad2c556c9aa84596a256de6c556bb2793^ maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelBuilder.java
+233,233 94fde61ad2c556c9aa84596a256de6c556bb2793^ maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelBuilder.java
+234,234 94fde61ad2c556c9aa84596a256de6c556bb2793^ maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelBuilder.java
+236,236 94fde61ad2c556c9aa84596a256de6c556bb2793^ maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelBuilder.java
+237,237 94fde61ad2c556c9aa84596a256de6c556bb2793^ maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelBuilder.java
+1006,1006 94fde61ad2c556c9aa84596a256de6c556bb2793^ maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelBuilder.java

@@ -1,0 +1,4 @@
+231,231 f86ee59771fa79abb2b2e660da8f7f1523515408^ maven-artifact/src/main/java/org/apache/maven/artifact/transform/SnapshotTransformation.java
+34,34 f86ee59771fa79abb2b2e660da8f7f1523515408^ maven-core/src/main/java/org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler.java
+35,35 f86ee59771fa79abb2b2e660da8f7f1523515408^ maven-core/src/main/java/org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler.java
+63,63 f86ee59771fa79abb2b2e660da8f7f1523515408^ maven-core/src/main/java/org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler.java

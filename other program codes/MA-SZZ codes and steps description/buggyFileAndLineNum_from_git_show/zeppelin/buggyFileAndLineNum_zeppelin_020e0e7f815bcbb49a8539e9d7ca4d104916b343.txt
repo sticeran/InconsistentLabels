@@ -1,0 +1,8 @@
+20,20 020e0e7f815bcbb49a8539e9d7ca4d104916b343^ zeppelin-zengine/src/test/java/org/apache/zeppelin/interpreter/InterpreterFactoryTest.java
+21,21 020e0e7f815bcbb49a8539e9d7ca4d104916b343^ zeppelin-zengine/src/test/java/org/apache/zeppelin/interpreter/InterpreterFactoryTest.java
+22,22 020e0e7f815bcbb49a8539e9d7ca4d104916b343^ zeppelin-zengine/src/test/java/org/apache/zeppelin/interpreter/InterpreterFactoryTest.java
+23,23 020e0e7f815bcbb49a8539e9d7ca4d104916b343^ zeppelin-zengine/src/test/java/org/apache/zeppelin/interpreter/InterpreterFactoryTest.java
+94,94 020e0e7f815bcbb49a8539e9d7ca4d104916b343^ zeppelin-zengine/src/test/java/org/apache/zeppelin/interpreter/InterpreterFactoryTest.java
+95,95 020e0e7f815bcbb49a8539e9d7ca4d104916b343^ zeppelin-zengine/src/test/java/org/apache/zeppelin/interpreter/InterpreterFactoryTest.java
+96,96 020e0e7f815bcbb49a8539e9d7ca4d104916b343^ zeppelin-zengine/src/test/java/org/apache/zeppelin/interpreter/InterpreterFactoryTest.java
+97,97 020e0e7f815bcbb49a8539e9d7ca4d104916b343^ zeppelin-zengine/src/test/java/org/apache/zeppelin/interpreter/InterpreterFactoryTest.java

@@ -1,0 +1,4 @@
+339,339 8ea3f0fb3d211b7bf18e061bfc3b2dc825285f90^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/FlumeEventQueue.java
+405,405 8ea3f0fb3d211b7bf18e061bfc3b2dc825285f90^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/FlumeEventQueue.java
+406,406 8ea3f0fb3d211b7bf18e061bfc3b2dc825285f90^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/FlumeEventQueue.java
+407,407 8ea3f0fb3d211b7bf18e061bfc3b2dc825285f90^ flume-ng-channels/flume-file-channel/src/main/java/org/apache/flume/channel/file/FlumeEventQueue.java

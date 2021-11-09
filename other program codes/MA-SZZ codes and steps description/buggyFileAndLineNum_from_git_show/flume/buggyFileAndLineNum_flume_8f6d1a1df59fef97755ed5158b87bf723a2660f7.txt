@@ -1,0 +1,5 @@
+116,116 8f6d1a1df59fef97755ed5158b87bf723a2660f7^ flume-ng-core/src/test/java/org/apache/flume/source/http/TestJSONHandler.java
+130,130 8f6d1a1df59fef97755ed5158b87bf723a2660f7^ flume-ng-core/src/test/java/org/apache/flume/source/http/TestJSONHandler.java
+53,53 8f6d1a1df59fef97755ed5158b87bf723a2660f7^ flume-ng-sdk/src/main/java/org/apache/flume/event/JSONEvent.java
+61,61 8f6d1a1df59fef97755ed5158b87bf723a2660f7^ flume-ng-sdk/src/main/java/org/apache/flume/event/JSONEvent.java
+34,34 8f6d1a1df59fef97755ed5158b87bf723a2660f7^ flume-ng-sdk/src/main/java/org/apache/flume/event/SimpleEvent.java

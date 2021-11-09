@@ -1,0 +1,4 @@
+183,183 089a9f8d5f99a8860ad443f723c33495c60531ce^ maven-compat/src/main/java/org/apache/maven/artifact/repository/DefaultArtifactRepository.java
+146,146 089a9f8d5f99a8860ad443f723c33495c60531ce^ maven-compat/src/main/java/org/apache/maven/repository/DefaultMirrorSelector.java
+200,200 089a9f8d5f99a8860ad443f723c33495c60531ce^ maven-core/src/main/java/org/apache/maven/RepositoryUtils.java
+139,139 089a9f8d5f99a8860ad443f723c33495c60531ce^ maven-core/src/main/java/org/apache/maven/artifact/repository/MavenArtifactRepository.java

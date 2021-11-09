@@ -1,0 +1,13 @@
+61,61 586709aadd290ed67e5f80e00a8dc555afb7f912^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginRealmCache.java
+68,68 586709aadd290ed67e5f80e00a8dc555afb7f912^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginRealmCache.java
+87,87 586709aadd290ed67e5f80e00a8dc555afb7f912^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginRealmCache.java
+96,96 586709aadd290ed67e5f80e00a8dc555afb7f912^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginRealmCache.java
+136,136 586709aadd290ed67e5f80e00a8dc555afb7f912^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginRealmCache.java
+148,148 586709aadd290ed67e5f80e00a8dc555afb7f912^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginRealmCache.java
+153,153 586709aadd290ed67e5f80e00a8dc555afb7f912^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginRealmCache.java
+64,64 586709aadd290ed67e5f80e00a8dc555afb7f912^ maven-core/src/main/java/org/apache/maven/plugin/PluginRealmCache.java
+65,65 586709aadd290ed67e5f80e00a8dc555afb7f912^ maven-core/src/main/java/org/apache/maven/plugin/PluginRealmCache.java
+305,305 586709aadd290ed67e5f80e00a8dc555afb7f912^ maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultMavenPluginManager.java
+315,315 586709aadd290ed67e5f80e00a8dc555afb7f912^ maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultMavenPluginManager.java
+325,325 586709aadd290ed67e5f80e00a8dc555afb7f912^ maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultMavenPluginManager.java
+368,368 586709aadd290ed67e5f80e00a8dc555afb7f912^ maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultMavenPluginManager.java

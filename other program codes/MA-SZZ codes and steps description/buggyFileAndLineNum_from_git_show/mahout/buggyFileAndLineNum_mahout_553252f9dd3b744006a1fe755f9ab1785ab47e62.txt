@@ -1,0 +1,5 @@
+310,310 553252f9dd3b744006a1fe755f9ab1785ab47e62^ core/src/main/java/org/apache/mahout/clustering/lda/cvb/InMemoryCollapsedVariationalBayes0.java
+316,316 553252f9dd3b744006a1fe755f9ab1785ab47e62^ core/src/main/java/org/apache/mahout/clustering/lda/cvb/InMemoryCollapsedVariationalBayes0.java
+321,321 553252f9dd3b744006a1fe755f9ab1785ab47e62^ core/src/main/java/org/apache/mahout/clustering/lda/cvb/InMemoryCollapsedVariationalBayes0.java
+375,375 553252f9dd3b744006a1fe755f9ab1785ab47e62^ core/src/main/java/org/apache/mahout/clustering/lda/cvb/InMemoryCollapsedVariationalBayes0.java
+383,383 553252f9dd3b744006a1fe755f9ab1785ab47e62^ core/src/main/java/org/apache/mahout/clustering/lda/cvb/InMemoryCollapsedVariationalBayes0.java

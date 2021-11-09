@@ -1,0 +1,6 @@
+106,106 8cb042536eb0cd8713a89a921c574e3d1e907ef1^ maven-model-builder/src/main/java/org/apache/maven/model/profile/activation/JdkVersionProfileActivator.java
+122,122 8cb042536eb0cd8713a89a921c574e3d1e907ef1^ maven-model-builder/src/main/java/org/apache/maven/model/profile/activation/JdkVersionProfileActivator.java
+101,101 8cb042536eb0cd8713a89a921c574e3d1e907ef1^ maven-model-builder/src/test/java/org/apache/maven/model/profile/activation/JdkVersionProfileActivatorTest.java
+105,105 8cb042536eb0cd8713a89a921c574e3d1e907ef1^ maven-model-builder/src/test/java/org/apache/maven/model/profile/activation/JdkVersionProfileActivatorTest.java
+126,126 8cb042536eb0cd8713a89a921c574e3d1e907ef1^ maven-model-builder/src/test/java/org/apache/maven/model/profile/activation/JdkVersionProfileActivatorTest.java
+134,134 8cb042536eb0cd8713a89a921c574e3d1e907ef1^ maven-model-builder/src/test/java/org/apache/maven/model/profile/activation/JdkVersionProfileActivatorTest.java

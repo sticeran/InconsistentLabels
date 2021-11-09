@@ -1,0 +1,7 @@
+163,163 63e0704a803f646d050ea4af0c7e3fea2efcc0e6^ flume-ng-core/src/main/java/org/apache/flume/formatter/output/BucketPath.java
+185,185 63e0704a803f646d050ea4af0c7e3fea2efcc0e6^ flume-ng-core/src/main/java/org/apache/flume/formatter/output/BucketPath.java
+198,198 63e0704a803f646d050ea4af0c7e3fea2efcc0e6^ flume-ng-core/src/main/java/org/apache/flume/formatter/output/BucketPath.java
+219,219 63e0704a803f646d050ea4af0c7e3fea2efcc0e6^ flume-ng-core/src/main/java/org/apache/flume/formatter/output/BucketPath.java
+246,246 63e0704a803f646d050ea4af0c7e3fea2efcc0e6^ flume-ng-core/src/main/java/org/apache/flume/formatter/output/BucketPath.java
+269,269 63e0704a803f646d050ea4af0c7e3fea2efcc0e6^ flume-ng-core/src/main/java/org/apache/flume/formatter/output/BucketPath.java
+379,379 63e0704a803f646d050ea4af0c7e3fea2efcc0e6^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/HDFSEventSink.java

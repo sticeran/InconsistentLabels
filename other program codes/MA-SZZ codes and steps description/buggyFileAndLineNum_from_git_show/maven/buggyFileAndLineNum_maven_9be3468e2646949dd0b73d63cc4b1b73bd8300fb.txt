@@ -1,0 +1,4 @@
+62,62 9be3468e2646949dd0b73d63cc4b1b73bd8300fb^ maven-core/src/main/java/org/apache/maven/plugin/DefaultExtensionRealmCache.java
+81,81 9be3468e2646949dd0b73d63cc4b1b73bd8300fb^ maven-core/src/main/java/org/apache/maven/plugin/DefaultExtensionRealmCache.java
+147,147 9be3468e2646949dd0b73d63cc4b1b73bd8300fb^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginDescriptorCache.java
+173,173 9be3468e2646949dd0b73d63cc4b1b73bd8300fb^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginDescriptorCache.java

@@ -1,6 +1,6 @@
 # The replication package of inconsistent labels
 
-## Titile: An extensive study on inconsistent labels in multi-version-project defect data sets
+## Titile: Inconsistent defect labels: essential, causes, and influence
 
 Our work is to study the existence and influence of inconsistent labels in multi-version-project defect data sets.	The “inconsistent label” phenomenon denotes that a module in multiple versions has the same source code (non-blank, non-comment) but the corresponding instances in these versions have different labels.
 
@@ -41,30 +41,21 @@ IND-JLMIV+R-2020	| 38 projects	| 395 versions	| 3-1708 (0-35)	| 0~36% | 4198
 # Quick Start
 In our work, in addition to using existing publicly available multi-version-project defect data sets, we collected a file-level multi-version-project defect data set (MA-SZZ-2020) using our replicated MA-SZZ [1] defect collection approach.
 
-### (1) [`/ProgramAndData/data_csv/TSILI/results/`](https://github.com/sticeran/InconsistentLabels/tree/master/ProgramAndData/data_csv/TSILI/results) This folder stores all the experimental results (csv files) corresponding to the figures and tables in our paper.
+### (1) [`/RQ1 experimental data/`](https://github.com/sticeran/InconsistentLabels/tree/master/RQ1%20experimental%20data/) The result folder of RQ1 contains the original data set (in the "original" folder) and the detection results of inconsistent labels (in the "(type)original" folder) for the six multi-version-project defect data sets we investigated: ECLIPSE-2007 [2], Metrics-Repo-2010 [3-5], JIRA-HA-2019 [6], JIRA-RA-2019 [6], MA-SZZ-2020, and IND-JLMIV+R-2020 data set [7]. Of these data sets, the former two data sets are widely used benchmark data sets in the literature, the next two are two recently pub-lished data sets in ICSE 2019, the fifth is a data set col-lected by ourselves using the state-of-the-art SZZ algo-rithm, and the last one is a recently published data set collected by a semi-automatic approach. With the ex-ception of our own newly collected MA-SZZ-2020 data sets, each data set has been cited extensively (9-817 cita-tions).
 
-The four folders **“question1/”**, **“question2/”**, and **“question3/”** in the folder **“results/”** respectively correspond to the experimental results of RQ1-RQ3 (Section 7.1-7.3) in the paper.
+### (2) [`/RQ2 and RQ3 experimental data and program/`](https://github.com/sticeran/InconsistentLabels/tree/master/RQ2%20and%20RQ3%20experimental%20data%20and%20program/) The results folder of RQ2 and RQ3 contains clean and noise training data and test data (arff files) needed to build defect prediction models (CC vs. NC and NC vs. NN), as well as the executable JAR program. The raw results of RQ2 and RQ3 can be obtained by executing the JAR program. Please refer to the [`/RQ2 and RQ3 experimental data and program/README.md`](https://github.com/sticeran/InconsistentLabels/tree/master/RQ2%20and%20RQ3%20experimental%20data%20and%20program/README.md) file to learn how to run the JAR program.
 
-In **“question2/”**, the folders **“NC vs CC/(data)table/”** and **“NN vs NC/(data)table/”** respectively store the diff / pgr values of all evaluation indicators (9) of all combinations (18) of modeling techniques under **“NC vs CC”** and **“NN vs NC”** model comparison schemes.
-The folders **“NC vs CC/(count)allTechniques/”** and **“NN vs NC/(count)allTechniques/”** respectively store the experimental results of Table 8 (a) and (b) in Section 8.1.
-
-In the folder **NC vs CC/(all)techniques/"ClassifierName"/CVDP/"DatasetName"/NC vs CC/IL_Ins/** (e.g. NC vs CC/(all)techniques/LR_CFS_SMOTE/CVDP/MA-SZZ-2020/NC vs CC/IL_Ins/), (comparison)datapoints_filtered.csv, (benchmark)datapoints_filtered.csv and (random)datapoints_filtered.csv report the raw performance values of NC, CC and random models respectively.
-
-In **“question3/”**, the folders **“(data)table/RF_CFS_SMOTE”**, **“(data)table/NB_CFS_SMOTE”**, and **“(data)table/LR_CFS_SMOTE”** respectively correspond to the results of figures of the three classifiers (random forest, naive Bayes, and logistic regression) in RQ3.
-The folder **“(count)allTechniques/”** store the results of Fig. 28 in Section 8.1.
-
-### (2) The more raw experimental results (RQ2~4) are stored in Zenodo warehouse (https://zenodo.org/record/4673450#.YG92W2gzaUk).
-
-### (3) [`/ProgramAndData/code/TSILI code/`](https://github.com/sticeran/InconsistentLabels/tree/master/ProgramAndData/code/TSILI%20code) This folder stores the code of our TSILI algorithm.
-
-### (4) [`/ProgramAndData/code/Metric extractor/`](https://github.com/sticeran/InconsistentLabels/tree/master/ProgramAndData/code/Metric%20extractor) This folder stores the code of our metric extractor program.
-
-### (5) [`/ProgramAndData/data_csv/TSILI/original/MA-SZZ-2020/`](https://github.com/sticeran/InconsistentLabels/tree/master/ProgramAndData/data_csv/TSILI/original/MA-SZZ-2020) This folder stores the MA-SZZ-2020 defect data set we collected.
-
-### (6) [`/ProgramAndData/code/MA-SZZ codes and steps description/`](https://github.com/sticeran/InconsistentLabels/tree/master/ProgramAndData/code/MA-SZZ%20codes%20and%20steps%20description) This folder stores the code of the MA-SZZ defect collection approach we implemented based on JIRA and GitHub.
+### (3) [`/other program codes/`](https://github.com/sticeran/InconsistentLabels/tree/master/other%20program%20codes/) This folder contains the other code programs we developed that were used, including the metric extractor, TSILI (detecting inconsistent labels), and the replicated MA-SZZ algorithm. Each sub-folder in this folder contains README document. Please refer to these README documents to see how to run the corresponding programs.
 
 
-If you use the MA-SZZ-2020 defect data set or the method code that this work implements, please cite our paper "An extensive empirical study of inconsistent labels in multi-version-project defect data sets", thanks.
+If you use the MA-SZZ-2020 defect data set or the method code that this work implements, please cite our paper "Inconsistent defect labels: essential, causes, and influence", thanks.
 
 # References
 [1]	D.A. Costa, S. McIntosh, W. Shang, U. Kulesza, R. Coelho, A.E. Hassan. A framework for evaluating the results of the SZZ approach for identifying bug-introducing changes. IEEE Transactions on Software Engineering, 43(7), 2017: 641-657.
+[2] T. Zimmermann, R. Premraj, A. Zeller. Predicting defects for Eclipse. In Proceedings of the Third International Workshop on Predictor Models in Software Engineering, ser. PROM-ISE ’07. IEEE Computer Society, 2007: 9–.
+[3] M. Jureczko, D. Spinellis. Using object-oriented design met-rics to predict software defects. In Models and Methods of System Dependability. Oficyna Wydawnicza Politechniki Wrocławskiej, 2010: 69-81.
+[4] M. Jureczko, L. Madeyski. Towards identifying software project clusters with regard to defect prediction. In: Proceed-ings of the 6th International Conference on Predictive Models in Software Engineering, 2010: 1–10.
+[5] T. Menzies, B. Caglayan, E. Kocaguneli, J. Krall, F. Peters, B. Turhan. The promise repository of empirical software engi-neering data, June 2012.
+[6] S. Yatish, J. Jiarpakdee, P. Thongtanunam, C. Tan-tithamthavorn. Mining software defects: should we consider affected releases? ICSE 2019: 654-665.
+[7] S. Herbold, A. Trautsch, F. Trautsch. Issues with SZZ: An empirical assessment of the state of practice of defect predic-tion data collection. arXiv preprint arXiv:1911.08938v2, 2020.
+

@@ -1,0 +1,1 @@
+58,58 604933f08ef6d92dddee422c13eaa175214e858f^ core/src/main/java/org/apache/shiro/authz/permission/DomainPermission.java

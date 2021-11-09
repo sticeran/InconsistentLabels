@@ -1,0 +1,5 @@
+49,49 9cb7e9af8c5defadec75bb87abbe888f9ed9401b^ maven-core/src/main/java/org/apache/maven/extension/DefaultExtensionManager.java
+103,103 9cb7e9af8c5defadec75bb87abbe888f9ed9401b^ maven-core/src/main/java/org/apache/maven/extension/DefaultExtensionManager.java
+117,117 9cb7e9af8c5defadec75bb87abbe888f9ed9401b^ maven-core/src/main/java/org/apache/maven/extension/DefaultExtensionManager.java
+124,124 9cb7e9af8c5defadec75bb87abbe888f9ed9401b^ maven-core/src/main/java/org/apache/maven/extension/DefaultExtensionManager.java
+137,137 9cb7e9af8c5defadec75bb87abbe888f9ed9401b^ maven-core/src/main/java/org/apache/maven/extension/DefaultExtensionManager.java

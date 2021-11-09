@@ -1,0 +1,3 @@
+375,375 e5c3e6aa76cf2b0bb0838ff6dcd3853656bff704^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/BucketWriter.java
+386,386 e5c3e6aa76cf2b0bb0838ff6dcd3853656bff704^ flume-ng-sinks/flume-hdfs-sink/src/main/java/org/apache/flume/sink/hdfs/BucketWriter.java
+38,38 e5c3e6aa76cf2b0bb0838ff6dcd3853656bff704^ flume-ng-sinks/flume-hdfs-sink/src/test/java/org/apache/flume/sink/hdfs/TestHDFSEventSinkOnMiniCluster.java

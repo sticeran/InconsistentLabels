@@ -1,0 +1,3 @@
+267,267 08da2ff2484d8ba053883e98273af8c25d37d7d1^ maven-plugins/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/ScmReport.java
+291,291 08da2ff2484d8ba053883e98273af8c25d37d7d1^ maven-plugins/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/ScmReport.java
+625,625 08da2ff2484d8ba053883e98273af8c25d37d7d1^ maven-plugins/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/ScmReport.java

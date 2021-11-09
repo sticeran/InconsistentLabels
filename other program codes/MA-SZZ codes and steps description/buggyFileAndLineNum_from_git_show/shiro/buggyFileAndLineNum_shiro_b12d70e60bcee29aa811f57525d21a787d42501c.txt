@@ -1,0 +1,4 @@
+32,32 b12d70e60bcee29aa811f57525d21a787d42501c^ support/guice/src/main/java/org/apache/shiro/guice/ShiroModule.java
+82,82 b12d70e60bcee29aa811f57525d21a787d42501c^ support/guice/src/main/java/org/apache/shiro/guice/ShiroModule.java
+187,187 b12d70e60bcee29aa811f57525d21a787d42501c^ support/guice/src/main/java/org/apache/shiro/guice/ShiroModule.java
+190,190 b12d70e60bcee29aa811f57525d21a787d42501c^ support/guice/src/main/java/org/apache/shiro/guice/ShiroModule.java

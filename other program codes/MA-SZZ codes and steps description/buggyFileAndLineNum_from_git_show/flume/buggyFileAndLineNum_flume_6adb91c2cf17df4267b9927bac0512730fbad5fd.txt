@@ -1,0 +1,6 @@
+88,88 6adb91c2cf17df4267b9927bac0512730fbad5fd^ src/java/com/cloudera/flume/master/ConfigManager.java
+89,89 6adb91c2cf17df4267b9927bac0512730fbad5fd^ src/java/com/cloudera/flume/master/ConfigManager.java
+254,254 6adb91c2cf17df4267b9927bac0512730fbad5fd^ src/java/com/cloudera/flume/master/ZooKeeperConfigStore.java
+28,28 6adb91c2cf17df4267b9927bac0512730fbad5fd^ src/javatest/com/cloudera/flume/master/TestMemoryBackedConfigStore.java
+31,31 6adb91c2cf17df4267b9927bac0512730fbad5fd^ src/javatest/com/cloudera/flume/master/TestMemoryBackedConfigStore.java
+34,34 6adb91c2cf17df4267b9927bac0512730fbad5fd^ src/javatest/com/cloudera/flume/master/TestMemoryBackedConfigStore.java

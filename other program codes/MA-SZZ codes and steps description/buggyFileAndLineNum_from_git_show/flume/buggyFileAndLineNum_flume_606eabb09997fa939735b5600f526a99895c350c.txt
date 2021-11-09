@@ -1,0 +1,15 @@
+341,341 606eabb09997fa939735b5600f526a99895c350c^ flume-ng-channels/flume-kafka-channel/src/main/java/org/apache/flume/channel/kafka/KafkaChannel.java
+350,350 606eabb09997fa939735b5600f526a99895c350c^ flume-ng-channels/flume-kafka-channel/src/main/java/org/apache/flume/channel/kafka/KafkaChannel.java
+353,353 606eabb09997fa939735b5600f526a99895c350c^ flume-ng-channels/flume-kafka-channel/src/main/java/org/apache/flume/channel/kafka/KafkaChannel.java
+354,354 606eabb09997fa939735b5600f526a99895c350c^ flume-ng-channels/flume-kafka-channel/src/main/java/org/apache/flume/channel/kafka/KafkaChannel.java
+355,355 606eabb09997fa939735b5600f526a99895c350c^ flume-ng-channels/flume-kafka-channel/src/main/java/org/apache/flume/channel/kafka/KafkaChannel.java
+356,356 606eabb09997fa939735b5600f526a99895c350c^ flume-ng-channels/flume-kafka-channel/src/main/java/org/apache/flume/channel/kafka/KafkaChannel.java
+357,357 606eabb09997fa939735b5600f526a99895c350c^ flume-ng-channels/flume-kafka-channel/src/main/java/org/apache/flume/channel/kafka/KafkaChannel.java
+592,592 606eabb09997fa939735b5600f526a99895c350c^ flume-ng-sources/flume-kafka-source/src/main/java/org/apache/flume/source/kafka/KafkaSource.java
+600,600 606eabb09997fa939735b5600f526a99895c350c^ flume-ng-sources/flume-kafka-source/src/main/java/org/apache/flume/source/kafka/KafkaSource.java
+603,603 606eabb09997fa939735b5600f526a99895c350c^ flume-ng-sources/flume-kafka-source/src/main/java/org/apache/flume/source/kafka/KafkaSource.java
+604,604 606eabb09997fa939735b5600f526a99895c350c^ flume-ng-sources/flume-kafka-source/src/main/java/org/apache/flume/source/kafka/KafkaSource.java
+605,605 606eabb09997fa939735b5600f526a99895c350c^ flume-ng-sources/flume-kafka-source/src/main/java/org/apache/flume/source/kafka/KafkaSource.java
+606,606 606eabb09997fa939735b5600f526a99895c350c^ flume-ng-sources/flume-kafka-source/src/main/java/org/apache/flume/source/kafka/KafkaSource.java
+607,607 606eabb09997fa939735b5600f526a99895c350c^ flume-ng-sources/flume-kafka-source/src/main/java/org/apache/flume/source/kafka/KafkaSource.java
+848,848 606eabb09997fa939735b5600f526a99895c350c^ flume-ng-sources/flume-kafka-source/src/test/java/org/apache/flume/source/kafka/TestKafkaSource.java

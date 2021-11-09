@@ -1,0 +1,12 @@
+289,289 ed7ccf707a1ff3b8569f4101d4b1615f54fa80a5^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+378,378 ed7ccf707a1ff3b8569f4101d4b1615f54fa80a5^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+404,404 ed7ccf707a1ff3b8569f4101d4b1615f54fa80a5^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+408,408 ed7ccf707a1ff3b8569f4101d4b1615f54fa80a5^ maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginManager.java
+946,946 ed7ccf707a1ff3b8569f4101d4b1615f54fa80a5^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java
+947,947 ed7ccf707a1ff3b8569f4101d4b1615f54fa80a5^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java
+948,948 ed7ccf707a1ff3b8569f4101d4b1615f54fa80a5^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java
+951,951 ed7ccf707a1ff3b8569f4101d4b1615f54fa80a5^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java
+952,952 ed7ccf707a1ff3b8569f4101d4b1615f54fa80a5^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java
+953,953 ed7ccf707a1ff3b8569f4101d4b1615f54fa80a5^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java
+954,954 ed7ccf707a1ff3b8569f4101d4b1615f54fa80a5^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java
+955,955 ed7ccf707a1ff3b8569f4101d4b1615f54fa80a5^ maven-plugins/maven-site-plugin/src/main/java/org/apache/maven/doxia/DoxiaMojo.java
