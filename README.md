@@ -51,11 +51,11 @@ In our work, in addition to using existing publicly available multi-version-proj
 If you use the MA-SZZ-2020 defect data set or the method code that this work implements, please cite our paper "Inconsistent defect labels: essential, causes, and influence", thanks.
 
 # References
-[1]	D.A. Costa, S. McIntosh, W. Shang, U. Kulesza, R. Coelho, A.E. Hassan. A framework for evaluating the results of the SZZ approach for identifying bug-introducing changes. IEEE Transactions on Software Engineering, 43(7), 2017: 641-657.
-[2] T. Zimmermann, R. Premraj, A. Zeller. Predicting defects for Eclipse. In Proceedings of the Third International Workshop on Predictor Models in Software Engineering, ser. PROM-ISE ’07. IEEE Computer Society, 2007: 9–.
-[3] M. Jureczko, D. Spinellis. Using object-oriented design met-rics to predict software defects. In Models and Methods of System Dependability. Oficyna Wydawnicza Politechniki Wrocławskiej, 2010: 69-81.
-[4] M. Jureczko, L. Madeyski. Towards identifying software project clusters with regard to defect prediction. In: Proceed-ings of the 6th International Conference on Predictive Models in Software Engineering, 2010: 1–10.
-[5] T. Menzies, B. Caglayan, E. Kocaguneli, J. Krall, F. Peters, B. Turhan. The promise repository of empirical software engi-neering data, June 2012.
-[6] S. Yatish, J. Jiarpakdee, P. Thongtanunam, C. Tan-tithamthavorn. Mining software defects: should we consider affected releases? ICSE 2019: 654-665.
+[1]	D.A. Costa, S. McIntosh, W. Shang, U. Kulesza, R. Coelho, A.E. Hassan. A framework for evaluating the results of the SZZ approach for identifying bug-introducing changes. IEEE Transactions on Software Engineering, 43(7), 2017: 641-657.  
+[2] T. Zimmermann, R. Premraj, A. Zeller. Predicting defects for Eclipse. In Proceedings of the Third International Workshop on Predictor Models in Software Engineering, ser. PROM-ISE ’07. IEEE Computer Society, 2007: 9–.  
+[3] M. Jureczko, D. Spinellis. Using object-oriented design met-rics to predict software defects. In Models and Methods of System Dependability. Oficyna Wydawnicza Politechniki Wrocławskiej, 2010: 69-81.  
+[4] M. Jureczko, L. Madeyski. Towards identifying software project clusters with regard to defect prediction. In: Proceed-ings of the 6th International Conference on Predictive Models in Software Engineering, 2010: 1–10.  
+[5] T. Menzies, B. Caglayan, E. Kocaguneli, J. Krall, F. Peters, B. Turhan. The promise repository of empirical software engi-neering data, June 2012.  
+[6] S. Yatish, J. Jiarpakdee, P. Thongtanunam, C. Tan-tithamthavorn. Mining software defects: should we consider affected releases? ICSE 2019: 654-665.  
 [7] S. Herbold, A. Trautsch, F. Trautsch. Issues with SZZ: An empirical assessment of the state of practice of defect predic-tion data collection. arXiv preprint arXiv:1911.08938v2, 2020.
 

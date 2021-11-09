@@ -6,8 +6,8 @@ java -jar InconsistentLabelInfluence.jar path1:experimentDataset_arff path2:resu
 Note that two parameters are required when running inconsistentlabelinfluence.jar.
 The first parameter is the folder path of the experimental data, and the second parameter is the storage path of the output results.
 
-Directory form of program and required libraries:
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+Directory form of program and required libraries:  
+![Image text](https://github.com/sticeran/InconsistentLabels/tree/master/RQ2%20and%20RQ3%20experimental%20data%20and%20program/img/File%20directory%20form.png)
 
-Example of program operation:
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+Example of program operation:  
+![Image text](https://github.com/sticeran/InconsistentLabels/tree/master/RQ2%20and%20RQ3%20experimental%20data%20and%20program/img/Run%20command.png)
