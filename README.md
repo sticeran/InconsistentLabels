@@ -1,4 +1,4 @@
-# The replication package of inconsistent labels
+# The replication toolkit for the paper "Inconsistent defect labels: essential, causes, and influence"
 
 ## Titile: Inconsistent defect labels: essential, causes, and influence
 
